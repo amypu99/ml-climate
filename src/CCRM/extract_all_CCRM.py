@@ -101,7 +101,7 @@ bounding_boxes = {
             (465, 1100, 1100, 1170, "Longer-term targets - grey"),
             (565, 1170, 1100, 1300, "Longer-term targets - white"),
             (450, 1380, 1100, 1490, "Emission Reduction Measures"),
-            (450, 1490, 1100, 1600, "Renewable Electricity"),
+            (450, 1490, 1100, 1600, "Renewable electricity (scope 2) verbiage"),
             (450, 1750, 1100, 1790, "Climate contributions today"),
             (450, 1790, 1100, 1860, "Misleading offsetting claims today"),
         ]
