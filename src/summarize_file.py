@@ -40,7 +40,12 @@ pipe.model = pipe.model.to('cuda')
 # f = open("./climate_reports/extracted_text/amazon-2021-sustainability-report_cleaned.txt")
 
 path = 'climate_reports/extracted_text/'
-files = list(glob(os.path.join(path, "*cleaned.txt")))
+files = list(glob(os.path.join(path, "*2022.txt")))
+
+
+questions_csv = pd.read_csv('ccrm_2024_questions.csv')  
+questions = questions_csv.Question.to_list()
+
 
 for file_path in files:
     with open(file_path, "r") as f:
@@ -53,9 +58,12 @@ for file_path in files:
         for i in range(num_chunks):
             tokenized_chunk = tokenized_document['input_ids'][0][i*CHUNK_LEN:(i+1)*CHUNK_LEN]
             decoded_chunk = tokenizer.decode(tokenized_chunk)
-            messages = [{"role": "user", "content": f"Read the following corporate climate report, summarize the document, and include all important information and statistics related to sustainability and climate. \n\n{decoded_chunk}"},
-            ]
-            print(pipe(messages, max_new_tokens=summary_len))
-            print("\n\n\n\n\n")
+            for question in questions:
+                messages = [{"role": "user", "content": 
+                            f"Read the following corporate climate report and answer the question. {question}\n\n{decoded_chunk}"},
+                ]
+                print(pipe(messages, max_new_tokens=summary_len))
+                print("\n\n\n\n\n")
+                break
 
         break

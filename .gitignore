@@ -3,4 +3,13 @@ src/climate_reports/ccrm_2024.zip
 src/climate_reports/ccrm_2024
 src/climate_reports/ccrm_2024/*
 
+src/climate_reports/ccrm_2023.zip
+src/climate_reports/ccrm_2023
+src/climate_reports/ccrm_2023/*
+
+
+src/climate_reports/ccrm_2022.zip
+src/climate_reports/ccrm_2022
+src/climate_reports/ccrm_2022/*
+
 src/test.py

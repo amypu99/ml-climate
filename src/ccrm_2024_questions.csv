@@ -1,0 +1,25 @@
+Question
+"What is the company’s revenue for the year? If this information is not found in the report, please output 'none.'"
+"Extract the company’s total emissions for the year, expressed in megatons of carbon dioxide equivalent (CO₂e). If the data is unavailable, output 'none.'"
+"What is the company’s pledge as mentioned in the sustainability report? If no pledge is provided, output 'none.'"
+"List the company’s major emission sources as described in the sustainability report. For each source, include a brief explanation of its significance. If no sources are provided, output 'none.'"
+"Identify and list the major emission sources the company disclosed in the sustainability report. If no sources are provided, output 'none.'"
+"What is the company’s headline target or pledge as stated in the sustainability report? If absent, output 'none.'"
+"What specific short-term targets (for the next 10 years) does the company set in the sustainability report? Present these targets in a bullet list.  If no targets are provided, output 'none.'"
+"Summarize the overall short-term targets (for the next 10 years) as described in the sustainability report.  If no targets are provided, output 'none.'"
+"Identify the company’s specific medium-term targets from the sustainability report. Present them clearly in your response. If no targets are provided, output 'none.'"
+"What overall medium-term targets are outlined in the sustainability report? Please provide a concise summary. If no targets are provided, output 'none.'"
+"Extract the company’s specific long-term targets from the sustainability report and present them in a clear list. If no targets are provided, output 'none.'"
+"Summarize the overall long-term targets for the company as described in the sustainability report. If no targets are provided, output 'none.'"
+"What are the company’s goals for operational emissions in the coming years as stated in the report? List these targets and include any brief explanations provided. If no goals are provided, output 'none.'"
+"Extract the company's renewable energy percentage related to Scope 2 emissions from the sustainability report. Give a clear percentage. If no renewable energy percentage related to Scope 2 emissions are provided, output 'none.'"
+"What renewable energy statistics and procurement details does the sustainability report provide? Additionally, assess whether the company is meeting its renewable energy targets based on this information. If no energy statistics and procurement details are provided, output 'none.'"
+"What is the company’s upstream (Scope 3) emissions number for the year, as reported in the sustainability report? Express the value in the appropriate units (e.g., megatons CO₂e). If unavailable, output 'none.'"
+"List any targets and additional details related to the company’s upstream (Scope 3) emissions as mentioned in the sustainability report. If unavailable, output 'none.'"
+"Extract the company’s downstream (Scope 3) emissions number for the year from the sustainability report. If the data is missing, output 'none.'"
+What are the targets and key details regarding the company’s downstream (Scope 3) emissions according to the sustainability report? Present them clearly.
+"According to the sustainability report, what are the company’s current climate contributions? Provide a detailed list along with any contextual explanations offered in the document."
+What offsetting claims does the sustainability report make? List each claim and include a brief explanation of how they are justified in the report.
+"Extract any detailed information regarding the company’s short- and medium-term targets from the sustainability report. Provide a clear, bullet-point list of these targets along with any available specifics."
+Provide a concise summary of the company’s short- and medium-term targets as described in the sustainability report.
+What emission reduction measures does the company outline in the sustainability report? List each measure and briefly describe its intended impact.
