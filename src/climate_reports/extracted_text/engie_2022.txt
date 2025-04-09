@@ -1,0 +1,3171 @@
+INTEGRATED
+REPORT
+2022
+ABOUT THIS REPORT
+ENGIE’s Integrated Report provides a comprehensive, The report was drafted by the Corporate Social
+forward-looking vision of the Group, its purpose, ambition, Responsibility Department and produced with the active
+strategy, objectives, governance and value creation. involvement of the functional departments and GBUs that
+Modeled on the reference framework of the Value Reporting worked throughout the process. The 2022 edition outlines
+Foundation (ex-IIRC), the Integrated Report forms part the implementation of the Group’s strategy and its transition
+of an approach that aims to explain how the company to Net Zero Carbon by 2045. It has been validated by the
+creates value by reconciling financial and CSR performance Executive Committee and the Board of Directors' Committee
+indicators. on Ethics, the Environment and Sustainable Development
+(EESDC). The Statutory Auditors have also validated1 the
+compliance of certain indicators.
+Recognition of ENGIE by international indices and rating agencies
+Main indices Credit rating at February 21, 2022
+The Group is listed in the main financial indices: CAC 40, Euronext
+100, FTSE Eurotop 100, MSCI Europe.
+ENGIE is listed in the principal non-financial indices: Aaa AAA AAA
+DJSI World, DJSI Europe, Euronext Vigeo World 120, Euronext
+BBB+
+Vigeo Europe 120, Euronext Vigeo Eurozone 120, Euronext Vigeo A
+France 20, STOXX® Europe 600 ESG-X, STOXX® Europe 600 ESG Baa1 BBB BBB
+Broad Market, STOXX® Global 1800 ESG Broad Market, STOXX® Baa2
+Global 1800 ESG-X, MSCI EUROPE ESG Universal Select, MSCI
+EUROPE ClimateChange CTB, MSCI EMU ESG, MSCI World ESG
+Universal Select, MSCI World Climate Change CTB, CAC 40 ESG,
+Bloomberg Gender-Equality Index.
+CSR rating Moody’s S&P Fitch
+ENGIE favors rating agencies with which the Group can maintain and
+develop constructive relationships to improve its CSR performance. The EDF, ENEL, Iberdrola, Orsted, SSE, EON, Fortum, Naturgy, EDP (+ Vattenfall + Verbund +
+EnBW for S&P), (+ Vattenfall + Verbund + EnBw + RWE for Moody’s), (+ RWE for Fitch)
+ratings from five agencies – SAM, VE, CDP Climat, MSCI and Sustainalytics
+– are included in the compensation criteria for the Chief Executive
+Officer’s 2021 variable component.
+ENGIE Sector average XX Maximum Score
+100 100 AAA Negligible Risk A A A 100
+81 A Medium A- A-
+BBB Risk B B B 77
+68
+B-
+52
+High 45
+39 Risk
+Moody’s ESG Climate Water Forests
+1st participation
+Some power levels at facilities on a (logarithmic) scale
+NTPC Kadapa EDF nuclear Tihange
+solar power reactor nuclear
+Solar panel Gas Tramway Wind turbine TGV plant (India) 900 MW power plant
+300 W furnace 400 kW 1 to 3 MW Atlantique 250 MW (Belgium)
+30 kW 8.8 MW 3 GW
+10 kW 100 kW 10 MW 100 MW 10 GW
+1 kW 1 MW 1 GW
+Campo Largo Marafiq gas Jirau
+wind power power hydroelectric
+plant (Brazil) plant (Saudi dam (Brazil)
+688 MW Arabia) 3.75 GW
+Some orders of magnitude 2.75 GW
+• 1 metric ton of CO equals a Paris-New York round trip flight per passenger, or four
+2
+Paris-Berlin (8,000 km) round trips in a car, or one year of heating a 40 m2 home
+with average insulation
+• A French person emits on average 12 metric tons of CO per year
+2
+CONTENTS
+04 ENGIE, GLOBAL LEADER
+IN ENERGY TRANSITION
+Streamlined and refocused, ENGIE is fully committed
+to implement its sustainable growth strategy and achieve
+its Net Zero Carbon goal by 2045.
+24 A PURPOSE IN ACTION
+ENGIE’s day-to-day actions bring its purpose to life:
+accelerating the transition to a carbon-neutral economy.
+40 A LONG-TERM VISION
+In accordance with the AFEP-MEDEF code and the best
+governance standards, ENGIE relies on experienced governance
+that supports its sustainable and responsible value creation.
+50 INDICATORS AND ANNEXES
+The information relating to the Task-Force for climate-related financial
+disclosure, the United Nations Sustainable Development Goals and
+the European Union’s Green Taxonomy can be found in the integrated
+report on the following pages:
+Governance p. 48
+Strategy p. 17-19
+Risk management p. 16
+Indicators and targets p. 20-21, 26-27, 28-29
+TCFD Report - 2022 Climate Report
+Business model p. 8-9
+ENGIE’s contribution to the SDGs p. 12-13
+EUROPEAN GREEN Business model p. 8-9, 36
+TAXONOMY
+ENGIE’s climate and biodiversity strategies are detailed in the Climate
+and Biodiversity notebooks, respectively.
+JOINT EDITORIAL
+2021, a year of decisive acceleration
+An accelerated energy transition is central to ENGIE’s
+strategy. In 2021, the Group reaffirmed its industrial
+strategy and committed to the transformation of its
+organization. The foundations have been laid for long-
+term sustainable growth aligned with its purpose.
+This 8th edition of the integrated report is designed to
+share, with all our internal and external stakeholders,
+our vision of the energy world, business model, strategy,
+and creation of financial and non-financial value in a
+simple and educational way.
+What happened within the Group during 2021 that
+should be remembered?
+Catherine MacGregor: 2021 was a good year for ENGIE! I
+am proud of everything we accomplished in such a short
+time. In agreement with the Board of Directors, we
+repositioned ENGIE and refocused our activities around
+our four core businesses: renewables, of course; energy
+solutions; networks; and thermal generation with energy
+supply. We reaffirmed the Group’s industrial approach
+and the priority we place on operational excellence. We
+accelerated our growth investments in Renewables and
+Energy Solutions. As we were engaged in an extremely
+ambitious transformation, our teams demonstrated
+exemplary mobilization in the challenging context of the
+pandemic. I would like to express my deepest gratitude
+to them. However, I regret our poor results in health and
+safety. We are fully mobilized and currently
+strengthening our actions everywhere we operate, both
+with our teams and with our contractors.
+In concrete terms, what do you consider the highlights
+of 2021?
+Catherine
+Jean-Pierre Clamadieu: This year was marked by a
+MACGREGOR historic rise in energy prices that impacted consumers
+and manufacturers. This price surge adds further
+Chief Executive Officer
+meaning to our commitments in terms of social and
+societal responsibility, in line with our goal to lead a just
+transition wherever we operate. Guided by our purpose,
+our strategy – which places our performance within a
+comprehensive CSR approach – contributes to the
+Sustainable Development Goals of the United Nations.
+Therefore, we are fully reaffirming our historic adherence
+to the 10 Principles of the United Nations Global Pact.
+Catherine MacGregor: There were so many highlights
+during my first year at ENGIE! We commissioned an
+additional 3 GW of renewable assets and won major
+contracts in energy solutions, such as the contract with
+Georgetown University in the United States or the
+contract with the City of Paris, which entrusted its
+cooling network to us for twenty years. We entered into
+several strategic partnerships in the renewable gas
+segment, such as with CMA-CGM to decarbonize maritime
+transport, or with Masdar in the United Arab Emirates to
+develop green hydrogen. All while we continued to assist
+our individual customers in moving toward a
+decarbonized economy. We also completed the disposal
+of EQUANS under good terms and conditions. This will
+offer amazing development opportunities to the teams.
+2021 was marked by renewed mobilization on climate
+change. How is ENGIE positioning itself in this context?
+Jean-Pierre Clamadieu: 2021 indeed marked a turning
+point in this area: in the United States, President Biden
+took the initiative to rejoin the Paris Agreement soon
+after his inauguration. At COP26, for the first time,
+governments paved the way for a gradual phase-out of
+fossil fuels. The framework set up in Paris in 2015 is now
+complete and functional. For their part, the mobilization
+of economic players around voluntary coalitions was a
+remarkable accelerator.
+Mobilization is also on track in Europe: it has increased
+its 2030 emissions reduction goal to 55% compared to
+1990, and established a “Fit for 55” road map. A major
+transformation of our economy is underway and ENGIE is
+determined to be a major player.
+Catherine MacGregor: In the first half of the year, the
+Group presented a stronger climate goal to be “Net Zero
+Carbon” on its three scopes by 2045 by following a “well
+below 2°C” trajectory, currently being certified by SBTi*.
+All our teams are enthusiastically mobilized around this
+goal. This is a major commitment in which we have
+already made progress. I salute their determination to
+meet the exciting challenges of the energy transition and
+to build tomorrow’s low-carbon energy system today.
+At a time when the world is experiencing a historic crisis
+in Ukraine, how is the Group being impacted?
+Jean-Pierre Clamadieu: ENGIE has strongly condemned
+the invasion of Ukraine and we have of course
+committed to comply in every respect with the
+applicable sanctions. We have expressed our solidarity
+Jean-Pierre
+with the affected populations and our employees
+affected by these events. Our teams are mobilized and CLAMADIEU
+on the ground with the support of the ENGIE Foundation.
+Chairman of the Board of Directors
+The Group is solid and we can approach this new crisis
+with confidence and in a spirit of solidarity.
+Catherine MacGregor: As a world player, we assume our
+responsibilities. ENGIE immediately mobilized all its
+resources to ensure the safety of its employees affected
+by the conflict. Our priority is also to ensure the security
+of supply of our customers. We are currently working to
+this end by accelerating the filling of our storage facilities
+and diversifying our gas purchases. In the longer term,
+this conflict reinforces our ambition to be carbon neutral:
+to accelerate the decarbonization of our activities,
+particularly in renewable gases.
+ENGIE, GLOBAL
+LEADER IN
+ENERGY
+TRANSITION
+Simplified and refocused, ENGIE is fully committed
+to implement its sustainable growth strategy
+and achieve its Net Zero Carbon goal by 2045
+P.06 ENGIE, global leader in energy transition
+P.08 A business model aligned with our purpose to accelerate the energy transition
+P.10 A core activity for a low-carbon world
+P.12 A model that contributes to the United Nations Sustainable Development Goals
+P.14 Energy market trends in 2021
+P.15 Priorities shared with stakeholders
+P.16 Anticipating and managing risks
+P.17 Building the low-carbon energy system of tomorrow
+P.20 Creating global value
+P.23 Commitments for collective progress
+ENGIE, GLOBAL LEADER
+IN ENERGY TRANSITION
+ENGIE is a global industry leader in low-carbon energy supply and related services. Along with its employees, customers,
+partners and stakeholders, the Group is committed each day to accelerating the transition to a carbon-neutral world through
+more energy-efficient and environmentally friendly solutions. Driven by its purpose enshrined in its bylaws, ENGIE now
+relies on a streamlined business model, which aims to develop the renewable energy sector and local energy networks, as
+well as adapt its centralized networks and thermal production activities to renewable gases.
+0.3 GW
+6.2 GW
+0.2 GW
+2.9 GW
+11.8 GW
+0.7 GW
+4.2 GW
+GROUP
+€6.1 bn 50 GW E D S TATES & C A
+EBIT NIT N A
+21.2 GW 101,504 U €0.1 bn D A
+EMPLOYEES 3.2 GW EBIT 0.7 GW
+18.8 GW 4,364
+OF UHCN* CAPACITY EMPLOYEES
+1.7 GW
+OF UHCN* CAPACITY
+3.5 GW
+Renewables
+Total electricity production capacities:
+100.3 GW (at 100%) incl. 34.4 GW of renewables Total capacities: 4.5 GW (at 100%)
+(excl. pumped storage) incl. 3.8 GW renewables
+267,600 km gas distribution network
+40,600 km gas transmission network
+1.6 GW
+3,300 km electricity transmission network
+1.7 GW
+and 4,000 km in development
+1.1 GW
+1.8 GW
+Breakdown of electricity production capacity by technology
+Nuclear Coal Natural gas Hydropower Solar L
+A T IN AMERIC
+A
+Other resources Biomass and biogas Wind Other 1.2 GW
+non-renewables offshore renewables
+& onshore €1.5 bn
+* UHCN: Urban heating and cooling networks 12.1 GW EBIT
+5,852
+EMPLOYEES
+Total capacities: 19.7 GW (at 100%)
+incl. 15 GW renewables
+Data excluding EQUANS
+65 Mt 34% 28.9% No. 1 No. 1 No. 1
+of greenhouse renewable energy of managers in wind and solar in distribution worldwide in urban
+gas emissions in electricity were women in France in Europe and cooling networks and
+(scopes 1 & 3) production at end-2021 No. 2 No. 3
+from energy capacity
+in natural gas worldwide in urban
+production at at end-2021
+transmission heating networks
+end-2021
+in Europe
+5.9 GW 0.2 GW 6.2 GW
+EUROPE
+1.3 GW
+€4.1 bn
+EBIT 0.2 GW
+9.1 GW 79,532
+EMPLOYEES 1.1 GW 1.3 GW
+12.7 GW 1.1 GW
+OF UHCN* CAPACITY
+14.6 GW 1 GW
+MID D L E
+EAST / AFRIC
+A /
+O
+32.9 GW
+1.3 GW A / €0 E. B5 I Tbn C E A
+ASI
+11,756
+N
+IA
+Total capacities: 38.6 GW (at 100%) EMPLOYEES
+incl. 13.2 GW renewables 4.4 GW
+(excl. pumped storage) OF UHCN* CAPACITY
+Total capacities: 37.5 GW (at 100 %)
+incl. 2.4 GW renewables
+* Urban heating and cooling networks
+Breakdown
+of electricity Nuclear Coal Natural gas Hydropower Solar
+production
+A BUSINESS MODEL ALIGNED WITH OUR PURPOSE
+IN ORDER TO ACCELERATE THE ENERGY TRANSITION
+OUR OUR
+RESOURCES1 PURPOSE
+Financial capital To act to accelerate the transition towards a carbon-neutral economy,
+through reduced energy consumption and more environmentally
+• €42 billion in shareholders’ equity
+friendly solutions. This purpose brings together the company, its
+• €21.0 billion in cash and cash
+employees, its customers and its shareholders, and reconciles economic
+equivalents
+performance with a positive impact on people and the planet. ENGIE’s
+• €25.3 billion in financial net debt
+actions are assessed in their entirety and over time.
+• 3.6x economic net debt/EBITDA
+• €5.5 billion in financing of nuclear
+provisions
+OUR
+Industrial capital 4 CORE BUSINESSES*
+• €4.3 billion growth Capex
+• €2.4 billion maintenance Capex
+•
+•
+•
+g
+o€
+2
+1
+n
+e
+fe2
+6
+0
+nt
+r2
+7 0w
+ee.
+,
+.
+nro3
+6
+3
+a
+er
+t
+0 k
+wm
+G
+ios0
+aW
+ni
+b
+l
+k
+ll
+c
+ei
+m
+o
+ao
+pf
+en
+a
+nio
+n
+c
+efi
+s
+i
+n
+rtg
+t
+gy
+aaB
+y,ls
+l2
+ie
+ndC
+d
+ci
+c
+s
+lp
+uo
+t or
+dn
+i
+w
+ibt nr
+u
+e
+ga
+t
+r
+c
+i
+3ots
+4n
+. 4 GW
+EX
+IN
+2021
+EL
+EIGI
+WBL AE BF O LR ET H
+S
+E
+TAXONOMY
+6%**
+OF CA NPE EX TI N
+W
+20
+O2 1
+ELI
+GI
+B
+L E
+F
+O
+•I
+•
+•
+n
+€
+€
+5t
+1
+25e
+3
+84l
+8
+ml
+r
+e
+e ms
+ic
+le
+lit
+a il
+olu
+r ic
+noa
+h ne
+il
+nr
+ac
+s
+vla
+elo
+sp
+c
+teai dtt
+e
+a
+id
+n
+l
+t so
+t
+aR r& t-D
+ups in
+100% OF
+CAP REN
+p pe e+ +r
+rC
+4 6y
+ya p
+e eG Ga
+aa
+W Wr
+rc i
+i
+it
+oo n
+nie
+nn 2
+2s
+aa 0
+0a
+vv 2
+2d
+ee 2
+6d
+rr -
+-aae
+2
+2ggd
+0
+0ee:
+2
+3
+5
+0
+ao
+nfP
+D dB
+ir
+en
+o
+i evo
+d
+lF e
+emu
+r l
+cac
+oe
+tnt rpti icho
+m
+cean
+i
+ten b
+yo
+ne y
+f
+t
+n
+p
+24
+o ee 0 f
+tT
+r w3 g
+W
+y 0 oae s
+rh
+a
+k
+r
+s
+R
+K S
+R
+T H E T A X O
+N O
+outside France M
+2021 Y
+• € 180 million invested in ENGIE New
+TOWARDS THE
+Ventures TARGET
+NET ZERO
+Human and societal capital CARBON
+BY 2045
+• 101,504 employees
+Coal phase-out Y
+• 15,522 hires Adding by 2027 N M
+O
+•
+•
+4
+€
+Ra3.9
+s8
+s%
+e m
+map bilp
+ll
+eir uoe rn
+n
+st i
+i
+dc ne ’Evs
+ne
+i
+s
+en
+t r e
+gE
+d
+iu
+e
+r
+b
+so yp e 8
+1
+% O F
+C A
+E N
+E
+locc8
+aa
+lpG
+la
+oW
+c
+w
+ni
+to
+e-y
+cf
+t w
+aba ryd
+ob r
+d
+o2
+ki n0t si 2o
+e5
+nn ea
+i
+rnl
+g y
+oD
+f p
+e
+r
+rv
+e
+oe
+n
+dl eo
+uw
+bp
+ct
+yam
+i b o
+2e
+nl
+0n
+e
+ct
+3h a
+0o
+y
+pf
+d a
+4
+r co
+iG
+tg
+yW
+e n
+ERATI
+PO
+PLY THE
+TAXON
+•• N •
+•
+3
+€
+c
+c
+€ f 9ao
+o
+o
+517 6r
+n
+nt 24 .
+s
+sut8
+mu
+uh
+9
+T r
+m
+mem iW ma lE
+p
+p
+li ilN
+t
+t
+il oh
+i
+i
+ll
+o
+ocG li
+n
+ioo
+n
+naI
+o
+E f )n m(p nepF a
+x
+3i ro
+i
+in t
+c
+nu om lan n
+u
+f
+eau d dl
+w
+nra a
+i
+vy
+n
+al t
+i
+tgie reo
+e
+o
+n n
+o
+rn nd e
+w
+c
+mo r ongw
+en
+y nm
+s u
+te mn et
+d
+P E X I N 2 0 2 1R EG LY I G I BS LO
+E
+L FOU
+R
+T THI EO
+TN AXS
+ONOMY
+T H E 17&R
+%
+M OE
+F
+A N
+C
+AL E
+P
+EG R XE G IN
+N
+Y 20S 2U 1 ELIGIBLE FOR
+expenditure (investments and recurring
+expenses related to environmental
+* excluding EQUANS, the disposal of which will be finalized in 2022
+protection)
+OUR
+WAYS OF WORKING
+Focus on business
+Collaborate OUR OUR
+Commit to deliver
+VALUE CREATION1 AMBITIONS2
+Engage
+Prioritize
+People People
+>>> 2021 Results >>> Targets for 2030
+OUR
+• 28.9% women in management positions • A balance of men and
+STRATEGY women in management
+• 89: France equity index • Professional and salary equity
+• 83: international equity index
+• 2 .5: frequency rate of occupational • frequency rate of occupational
+Simplifying accidents for employees and accidents for employees and
+subcontractors subcontractors on sites with controlled
+and refocusing the Group on sites with controlled access access ≤ 2.3
+on its core activities to • 45% of suppliers in France are SMEs
+seize opportunities in a
+Planet
+buoyant energy market Planet
+>>> Targets for 2030
+>>> 2021 Results
+• 65 Mt CO eq. of GHG emissions • 4 3 Mt CO eq. of GHG emissions
+Adapting (scopes 1 a2 n d 3) for energy production (scopes 1 a2 nd 3) for energy production
+our organization • 66 Mt CO eq. of GHG emissions • 52 Mt CO eq. of GHG emissions
+2 2
+with a consolidated related to gas sales related to gas sales
+industrial approach • 34% of renewable electricity production • 58% of renewable electricity production
+capacities capacities
+Customer decarbonization: • Customer decarbonization:
+Strengthening • 26 Mt CO eq. of emissions avoided 45 Mt CO 2 eq. of emissions avoided
+2 through the use of ENGIE products and
+by our customers through the use of
+our commitment services
+ENGIE products and services
+to the energy transition
+Supplier decarbonization:
+with an ambitious Net • 20% of suppliers (excluding energy) • Supplier decarbonization 100% of
+Zero Carbon target by SBT certified or aligned suppliers (excluding energy) SBT
+certified or aligned
+2045 in all areas
+Economic performance Economic performance
+Accelerating >>> 2021 Results >>> Targets for 2021-2023
+our growth • € 2.9 billion in Net recurring income/ • €3.2-3.4 billion in net recurring
+income/(loss) Group share (NRIgs)
+in Renewables and Local (loss), Group share (NRIgs)
+Energy Networks • € 0.85 dividend per share for fiscal year • Floor dividend of €0.65 per share
+2021
+• € 4.3 billion in growth investments • € 15-16 billion in growth investments
+• € 2.0 billion in asset rotation • At least €11 billion in asset rotation
+>>> Targets for 2022-2024
+• 3 .6x: economic net debt/EBITDA ratio • Net debt/EBITDA ratio ≤ 4x
+• Credit rating: strong investment grade
+• Credit rating: strong investment grade
+A CORE ACTIVITY FOR A LOW-CARBON WORLD
+ENGIE’s business model is based on four core businesses to build tomorrow’s low-carbon energy
+system and achieve the Net Zero Carbon target for the Group and its customers.
+RENEWABLES ENERGY SOLUTIONS
+Producing low-carbon electricity Develop local and decarbonized
+energy networks
+4,900 No. 2
+employees worldwide in the world for 47,500 No. 1
+34 GW electricity purchases (PPA) employees worldwide cooling network
+of installed capacity @100% No.1 operator in the world
+in wind and solar 23 GW No. 3
+€1.2 billion
+in France of decentralized energy heating network
+EBIT 2021 installed capacity operator in the world
+No. 1
+€0.4 billion
+Development and operation of centralized EBIT 2021 supplier of energy efficiency
+renewable electricity production projects services
+in Europe
+EXPERTISE KEY OBJECTIVES
+• Development and operation • Achieve a portfolio of
+of centralized renewable 50 GW by 2025 and 80 GW
+electricity projects by 2030 Decentralized networks
+- Solar • Reduce the cost by 2% to 4%
+- Onshore wind per MWh produced EXPERTISE KEY OBJECTIVES
+- Offshore wind • Urban heating and cooling • +8 GW from decentralized
+- Hydroelectricity networks networks in 2025 @100%
+- Geothermal energy
+• Decentralized production:
+• Power Purchase Agreements
+solar and utilities (electricity
+(PPAs)
+and heating)
+• Low-carbon mobility: electric,
+biogas, hydrogen
+BUSINESS CASE
+• Low-carbon cities & public
+More than 1 GW of wind capacity in Brazil lighting
+ENGIE achieved 1.26 GW of installed wind capacity in Brazil • Consulting on greening the
+through the Campo Largo 2 plant located in the state of Bahia. energy mix
+Work on the project began in 2019 and was completed in August
+2021, with 86 wind turbines going into commercial operation. +
+The new plant generated approximately 2,200 jobs in total and
+contributed to improving the quality of life for local communities, Associated energy services
+particularly in terms of digital skills acquisition through setting up
+a digital empowerment center. ENGIE continues to invest heavily in
+wind power with the Santo Agostinho wind farm in the state of Rio EXPERTISE KEY OBJECTIVES
+Grande do Norte, which is expected to operate 70 wind turbines • Decarbonization road map • Reduction of CO2 emissions:
+in the spring of 2023, providing an installed capacity of 434 MW. 6 Mt of emissions avoided
+• Energy transition dashboard per year by 2030
+• Energy efficiency
+OTHER ACTIVITIES
+Nuclear and asset portfolio management BUSINESS CASE
+& raw material procurement A low-carbon district in Berlin
+ENGIE and its German partner GASAG have won a major contract
+9,500 €0.9 billion involving the transformation of a former cable factory site into
+employees worldwide EBIT 2021 a low-carbon district and they are investing a high double-
+digit million amount in sustainable solutions. The offer includes
+6.2 GW
+cooling as well as the design, construction and operation of
+of installed nuclear capacity decentralized heat, via an innovative co-generation plant and
+@100% the related distribution network in the district (while preparing
+the facilities for the arrival of hydrogen) and the installation of
+photovoltaic systems on the roofs of residential buildings, used to
+supply electricity to tenants. In addition to highly efficient energy
+EXPERTISE • Management of the physical solutions, ENGIE and GASAG will provide mobility and digitization
+• Operation of nuclear plants and financial risks of the solutions and services to the residents. This long-term partnership
+in Belgium energy portfolio – spanning more than 20 years – will help prevent the emission
+• P enro ec ru gyre am ne dn rt a o wf materials • A opss tie mt im zaa tn ioa nge om f e fln et x: it br ia lid ti yng, to af r 1 ge,1 t0 s 0 s em t e bt yr i tc h t eo n Gs e ro mf aC nO 2 f ep de er r y ale a gr o, v t eh re nr meb ey n tm foe re t ci in tg ie t sh te e ncl i ym ea at re s
+early.
+NETWORKS THERMAL GENERATION
+AND ENERGY SUPPLY
+Investing in high-performance networks,
+designed to achieve a balanced, Providing flexible and affordable power
+carbon-neutral energy mix generation to support the development
+of renewable energies
+22,500 No.1
+employees worldwide gas transmission operator in
+17,100 €1.4 billion
+France and Brazil
+employees worldwide EBIT 2021
+€2.3 billion No.1
+EBIT in 2021 storage operator
+in Europe 60 GW
+Over 250,000 km No.1 generation capacity @100%
+of gas distribution gas distributor in Europe
+networks worldwide
+22.3 million
+in BtoC contracts
+~ 5,600 km No.2 around the world
+of electricity transmission regasification terminal
+networks operator in Europe
+Thermal generation
+Energy transmission, distribution and storage
+EXPERTISE KEY OBJECTIVES
+• Gas-powered electricity • Availability rate greater than
+EXPERTISE KEY TARGETS FOR 2030
+production or equal to 90%.
+• Gas distribution and • 700 km hydrogen • Electricity storage • Coal phase-out by 2025
+transmission transmission networks • Seawater desalination in Europe and by 2027
+worldwide
+• Gas storage • 4 TWh of biomethane in
+France = 10% market share +
+• Regasification of LNG
+• 1 TWh of hydrogen stored
+• Electricity transmission in salt caverns Hydrogen
+• Biomethane production EXPERTISE KEY TARGET
+• Large-scale renewable • Renewable hydrogen
+hydrogen production production capacity of 0.6
+• Coordination of hydrogen GW in 2025 and 4 GW in
+activities within ENGIE 2030
++
++
+Development of renewable gases
+Energy supply to individuals
+EXPERTISE
+• Development of biomethane and connection to networks EXPERTISE KEY OBJECTIVES
+• Gas and electricity sales • Portfolio growth, mainly in
+• Acceleration of the development of low-carbon hydrogen and • Energy services electricity
+e-methane
+• Energy access • Reduction of CO emissions:
+2
+• Reduction of methane emissions -34% between 2017 and
+2030 (incl. BtoB)
+BUSINESS CASE
+Sharp increase in biogas production BUSINESS CASE
+In 2021, 147 biomethane production sites were connected to ENGIE’s largest battery storage
+ENGIE networks in France. This brings the number of connected
+The Hazelwood BESS project aims to provide the flexibility needed
+sites to 351 by the end of 2021, representing an increase of
+for the development of intermittent renewables in the state of
+72% compared to end-2020 and corresponding to a maximum
+Victoria in Australia as of autumn 2022, with the capacity to store
+production and network injection capacity of 6 TWh per year.
+or retrieve up to 150 MW of electricity over one hour. The project,
+With such a significant increase in connected sites, the ENGIE
+which is under construction on the site of a former coal-fired
+networks contribute significantly to achieving the objectives of the
+power plant, also symbolizes the transition of ENGIE’s thermal
+French multiannual energy plan (PPE), which has set a target for
+portfolio toward clean, flexible solutions.
+the production of grid-injected biomethane of 6 TWh in 2023 and
+between 14 TWh and 22 TWh in 2028.
+A BUSINESS MODEL THAT CONTRIBUTES TO THE
+UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS
+ENGIE makes a key contribution to six Sustainable Development Goals and a significant contribution
+to seven others. The Group’s commitment to tackling the issues highlighted by its stakeholders
+(see the materiality matrix on p.15), to its CSR commitments and, more generally, to its sustainable
+growth strategy contribute to strengthening this impact.
+nt
+c o n
+trib
+utions WE SUPPORT
+fica
+ni
+ns sig
+utio ven
+b e
+tri
+>
+S
+n >
+o >
+c Methodology
+y
+e
+k • Study of the contribution
+x of the ENGIE materiality
+>
+Si
+challenges to the SDGs
+> and their related targets
+>
+• The Group’s contribution
+to an SDG is key when at
+least one fundamental,
+decisive, or major issue
+of the Group contributes
+to the SDG and its
+related targets and this
+contribution is monitored
+through a Group
+indicator and target.
+• The Group’s contribution
+to an SDG is significant
+when at least one
+material issue of the
+Group contributes
+to the SDG and this
+contribution is driven by
+a Group commitment.
+Clean, affordable energy • Goal 7.1 “Access to energy”
+In the current context of rising prices, ENGIE has taken action to maintain affordable access to energy. Thus, in France where
+ENGIE supplies 8.5 million individual contracts at market prices, more than two-thirds at fixed prices are not affected by
+the recent increases. Customers with regulated rates benefit from the government price shield. The Group proposes offers
+to consume less and better, with the possibility in France, for example, of controlling one’s gas heating or delaying one’s
+consumption of electric heating and thus getting off the electricity grid during peaks in consumption. Finally, for all our
+customers with financial difficulties, customer representatives are working on payment installments.
+6 SDGS FOR WHICH ENGIE’S CONTRIBUTION IS KEY
+ENGIE has stepped up its actions to promote gender equality through its commitments to the full participation
+5.1 - Fight against discrimination
+of women in decision-making and by strengthening access without discrimination to executive and managerial
+5.5 - Participation and access to leadership positions
+positions. This helps to enhance its image and its attractiveness as an employer.
+7.1 - Energy access Through its activities, ENGIE actively contributes to universal access to clean energy, the development of
+7.2 - Renewable energy renewable energy and improved energy efficiency. Through green financing, it is working to accelerate the
+7.3 - Energy efficiency transition to a low-carbon economy.
+8.2 - Economic productivity ENGIE maintains a close relationship with the regions and contributes to their social and economic development
+8.5 - Full employment and decent work by practicing responsible taxation. Due to its industrial activity, ENGIE has prioritized the safety and protection of
+8.8 - Rights & safety at work its employees and subcontractors all over the world.
+9.2 - Socio-economically sustainable industrialization
+ENGIE has mobilized a significant part of its R&D and innovation efforts to modernizing and greening its
+9.4 - Modernization and sustainability of industrial
+networks. The Group is positioned as a fair and innovative player in the low-carbon transition, which works to
+sectors
+truly share value with its stakeholders.
+9.5 - Innovation, research and development
+As a privileged player in the regions, ENGIE contributes to the future city by setting up urban planning systems
+11.3 - Sustainable urbanization
+such as energy networks and low-carbon mobility, and through its clean energy offers and services such as flow
+11.6 - Environmental impact
+management, heating networks and connected networks, not forgetting air quality.
+Due to its purpose and its aim of accelerating the low-carbon transition, ENGIE makes a major contribution to
+13.1 - Resilience and adaptation
+this SDG on its value chain. Its actions target its entire value chain by promoting technologies for controlling
+13.3 - Education and empowerment
+demand, energy efficiency and renewable power, heat and cold production, including renewable gases.
+7 SDGS FOR WHICH ENGIE’S CONTRIBUTION IS SIGNIFICANT
+ENGIE’s aim of increasing its clean energy production contributes to improvements in local living conditions and
+3.8 - Universal health coverage
+the environment as a whole. ENGIE guarantees full access to a global program of social protection that includes
+3.9 - Health and environment
+health coverage.
+Access to, and preservation and rationalized use of this shared asset are incorporated into the Group’s water
+6.4 - Sustainable water resource management management strategy. They concern local populations affected by water stress and enable the continuation of
+the activities of sites dependent on access to fresh water.
+ENGIE contributes to local economic development by participating in a just transition and providing access to
+10.3 - Equal opportunity decent jobs without discrimination (Alliance For Youth, Global Compact). This inclusive contribution allows it to
+develop talented individuals while making equal opportunities a reality.
+The optimized use of its resources and waste, as well as the promotion of sustainable and viable practices in its
+12.5 - Waste reduction
+value chain, enables ENGIE to demonstrate its purpose and to involve its sphere of influence while working for
+12.6 - Corporate Social Responsibility
+responsible consumption and production worldwide.
+ENGIE is committed to mitigating its impact on life on earth by working to preserve ecosystems through strong
+15.1 - Conservation of terrestrial ecosystems
+partnerships (Act4nature) and through the development of new organic matter (biomass) recovery activities.
+By working for exemplary governance that excludes all forms of corruption and by deploying forums for dialogue
+16.5 - Fight against corruption
+in order to improve transparency through its communication, ENGIE makes a positive contribution to this SDG. It
+16.10 - Information and protection of freedoms
+is also committed to conducting its activities while respecting internationally recognized human rights.
+Thanks to its activity, ENGIE has forged solid relationships with a broad panel of different partners and is now
+17.17 - Multi-stakeholders partnerships a recognized player in the regions. By capitalizing and strengthening its relationships, ENGIE can increase its
+business and its social utility.
+For more information: https://www.engie.com/en/group/social-responsibility
+2021 ENERGY MARKET TRENDS
+Strong global economic recovery On the path to carbon neutrality, we need to
+accelerate progress now in available electricity and
+After a widespread economic slowdown in 2020, the global
+gas technologies in order to prepare the resilient and
+economy recovered strongly in 2021, which is expected to
+affordable energy mix of tomorrow
+continue in 2022, buoyed by large-scale stimulus packages
+and additional support measures. This situation has led In May 2021, the IEA (International Energy Agency)
+to disruptions in supply chains and a sharp rise in raw published a road map for the global energy sector to
+materials prices. Indeed, gas prices in Europe and Asia become carbon neutral by 2050 and limit global warming to
+soared dramatically in 2021, partly as a result of the strong 1.5°C. The scenario draws on all the different levers required
+economic recovery, but also due to growing geopolitical to decarbonize the energy system. The coming decade
+tensions related to the Ukrainian crisis. will be marked by a strong increase in the development of
+The price of CO on the European carbon market also rose renewable energy sources1 and efforts in energy efficiency,
+sharply in 20212 , from approximately €33 at the beginning and accelerated steps in these technologies are relevant
+of January to over €80 at the end of December. While this now, whatever the technological uncertainties in the longer
+is a positive development in that it will help accelerate term.
+the transition to cleaner energies, in the short term the Decarbonized gases will also be needed in order to
+price increase represents a significant additional cost for drastically reduce greenhouse gas emissions, while
+consumers, on the back of a sharp rise in gas prices and, maintaining a resilient and affordable energy system. Thus,
+as a result, in electricity prices. For this reason, public biomethane will play a major role in the energy transition,
+authorities in many countries, particularly in Europe, were particularly at the European level. Green hydrogen is
+compelled to take exceptional and swift measures, ranging set to become the key energy vector in this transition,
+from suspending VAT to freezing tariffs and distributing with numerous recovery plans providing specific funding
+“energy vouchers” to the most vulnerable households in (€7 billion in France, €9 billion in Germany) for the
+order to mitigate the impact of this increase. development of its value chain. Hydrogen is enabling the
+The economic recovery was accompanied by a rebound in decarbonization of many sectors, in particular in industry
+CO emissions, estimated at +5% in 2021, a level slightly and the heavy mobility sector, and, as a result, a strong
+bel2 ow the 2019 level, due in particular to the persistent entrepreneurial ecosystem is developing around it, bringing
+effects of the crisis, especially in the transportation sector. together research organizations, start-ups, SMEs and major
+groups. In addition, e-fuels synthesized from hydrogen
+The European Union, and to a lesser extent the United
+will be an essential element in the decarbonization of the
+States, made commitments to support the energy
+transportation sector.
+transition
+CCUS (Carbon Capture Utilization and Storage) is also gaining
+In July 2021, the European Commission overhauled the momentum, with the launch of 76 projects in 16 European
+energy and climate legislation to bring it in line with its countries, 13 of which involve the production of low-carbon
+new target of cutting GHG emissions by 55% by 2030 hydrogen2.
+(compared to 40% previously) and achieving climate
+Finally, the appropriation of renewable projects by all
+neutrality by 2050. The main changes envisaged involve
+stakeholders and citizens in particular is key to their
+the strengthening and expansion of the carbon market, the
+acceleration.
+Carbon Border Adjustment Mechanism and the development
+of carbon sinks. It also includes an upward revision of
+renewable-energy and energy-efficiency objectives.
+In the United States, the major infrastructure investment
+plan provides for an $86 billion “climate” package to fund
+measures to reduce emissions and mitigate the impact of
+climate change, as well as grant subsidies for green mobility.
+In addition, the plan earmarks $65 billion to build new
+power lines and invest in new technologies such as CO
+2
+capture and green hydrogen.
+Claire Waysand
+Executive Vice President in charge of the General Secretariat, Strategy, Research & Innovation, Communication
+The fight against climate change is one of the greatest collective challenges and requires the
+participation of populations. The question of the cost and safety of the energy transition and of the
+co-construction practices with the regions will be key for its appropriation. As industrialists, we are
+convinced that energy efficiency will be indispensable and that an energy mix based on a range of
+energies will ensure a more secure transition and best protect the purchasing power of households and
+business competitiveness. This is why we are accelerating our development in renewable energies and
+in renewable gases, biomethane and green hydrogen, which will be key for sectors that are difficult to
+decarbonize otherwise, such as heavy mobility and certain industrial uses.
+PRIORITIES SHARED WITH STAKEHOLDERS
+ENGIE continuously integrates the views of its internal and external stakeholders into its value
+creation process through active dialogue. The Group reviewed its materiality matrix in 2020, which
+has enabled it to identify the 20 priority issues in line with its vision and ecosystem.
+3
+FUNDAMENTAL CHALLENGES
+2
+1 Diversity & inclusion Business ethics
+in the workplace & conformity
+1 2 3 Occupational Security and resilience
+health & safety of installations
+Material Major Decisive
+issues issues issues
+Low carbon
+transformation
+Energy efficiency and Sustainable growth
+sufficiency
+Responsible Leadership &
+Governance Renewable electricity
+production
+Sustainable finance
+Green gases
+Centralized and decentral-
+ized energy infrastructures
+Impact and development
+of communities
+Dialogue with Agility & and stakeholders
+our customers Innovation
+Digital
+Skill & Employee
+engagement
+Sustainable supply chain (goods, Preservation of biodiversity,
+services, energy) water and the environment
+Circular economy
+Value creation for ENGIE
+Methodology Main findings
+The materiality analysis was conducted in three stages: • Four fundamental issues: occupational health and safety,
+safety and resilience of facilities, ethics and compliance,
+• Identification of the issues related to ENGIE’s activity and
+and diversity and inclusion in the workplace, were
+the interests of its stakeholders.
+identified as permanent and overarching elements of the
+• Evaluation of the issues by Top Management and Group’s activities.
+stakeholders: consultation of Top Management and a
+• Achieving its low-carbon transformation while ensuring
+number of internal and external stakeholders (customers,
+the sustainable growth of its results seems to be the most
+employees, employee representatives, suppliers, civil
+important factor for the Group and its stakeholders.
+society including experts and NGOs, public authorities and
+the financial community) through some 30 interviews, two • The commitment of employees, responsible leadership and
+panels and 50 questionnaires. governance, as well as the increased use of sustainable
+finance tools, appear to be essential levers for successfully
+• Prioritization of issues: aggregation and weighting of
+achieving this transformation and ensuring that ENGIE’s
+Group and stakeholder ratings; final positioning of each
+actions are consistent with its purpose.
+issue based on four categories: material, major, decisive
+and fundamental. The results of the materiality matrix confirm the coherence
+between the expectations of stakeholders and the strategic
+orientations of ENGIE.
+sredlohekats
+rof
+ecnatropmI
+Levers of
+value creation
+Strategic
+Priorities
+Fundamental
+challenges
+To learn more: https://www.engie.com/en/group/social-responsibility
+ANTICIPATING AND MANAGING RISKS
+The business environment in which the Group operates may result in financial and
+non-financial risks, but it may also provide a host of opportunities. ENGIE constantly
+analyzes the evolution of these risks and opportunities in order to adapt to changes in its
+environment in an agile manner.
+Significant and priority risks Climate change also represents a source of strategic
+opportunities. These opportunities translate into the
+The significant and specific risks to which the Group believes
+possibility for the Group to accelerate its development in
+it is exposed are presented in the Universal Registration
+renewables and to increase the supply of renewable energy
+Document1. They have been assessed and prioritized on the
+to local authority or business customers by providing them
+basis of “net risk” after the control resources put in place are
+with certificates of guarantee of origin. The Group will also
+taken into account.
+be able to rely on its expertise to advise its customers and
+Four risks with high criticality were identified in 2021. support them in their energy transition by helping them to
+They are: reduce their energy consumption and make their energy
+mix green. The transition to a low-carbon economy also
+• the risk of changes in the regulatory framework and in the
+presupposes the development of numerous renewable
+amount of provisions set aside for the decommissioning of
+gas production units throughout the region; in the gas
+Belgian nuclear power plants and the management of spent
+infrastructures, through injection into the networks,they
+fuel;
+will find an available, competitive, safe and accessible
+• the risk of a downward trend in compensation on gas
+transmission and storage offer. Existing networks will
+distribution, transmission, storage and regasification assets
+also be able to benefit from the industrial development of
+in France;
+hydrogen production.
+• the market risk associated with raw materials;
+• the currency risk.
+Anticipating risks across the entire supply chain
+The management of these risks is based on regular, detailed
+Climate impacts on the supply chain are factored into
+dialog with the competent institutional authorities.
+supplier default risk and may lead to business continuity
+For raw materials market risk and currency risk, the Group plans being put in place. Climate impact and carbon
+has specific governance and control policies in place. emissions reduction measures have also been added to the
+supplier selection criteria. In 2021, the strong increase in
+Each year, the Board of Directors identifies a number of
+global demand led to major price hikes in commodities and
+priority risks, each of which is overseen by a member of the
+transportation costs. These strong tensions affected delivery
+Executive Committee and monitored by one of the Board’s
+times and constituted a new risk for ENGIE. In response, the
+standing committees2. The majority of these risks are
+Procurement Department established a specific trend chart
+reviewed by the Audit Committee.
+to anticipate price trends and implemented an action plan.
+Climate change risk, which the Group has long taken into This plan includes the introduction of new price revision
+account, is a multifaceted risk that highlights the multiple clauses in contracts (to avoid overestimating the change
+vulnerabilities of companies, particularly those in the energy in supplier prices), a monthly discussion with the main
+sector. This risk is identified as a priority by the Group, suppliers to secure prices and availability, and increased
+which is reviewed annually by the EESDC. The EESDC’s vigilance regarding dependence on a single or small number
+analysis led ENGIE to strengthen its ambition to combat of suppliers.
+climate change, in particular by setting a Net Zero Carbon
+target for 2045.
+For more information: Universal Registration Document Chapter 2 “Risk factors and control”
+1 - Chapter 2 Risk factors and control
+2 - Section 4.1.2.4 “Standing Committees” of Chapter 2.
+BUILDING THE LOW-CARBON
+ENERGY SYSTEM OF TOMORROW
+ENGIE’s strategy has been developed taking into account the changes in its environment as
+well as the expectations of its stakeholders. It aims to strengthen the company’s position
+as a leader when it comes to achieving an economically viable, resilient and sustainable
+transition. It is based on four main pillars.
+1 2
+Simplifying and refocusing Adapting
+the Group on its core activities our organization
+to seize opportunities with a consolidated
+in a buoyant energy market industrial approach
+3 4
+Accelerating Strengthening
+our growth in Renewables our commitment to
+and Local Energy Networks the energy transition with an
+ambitious “Net Zero Carbon”
+target by 2045 in all scopes
+Simplifying the Group and adapting its organization ENGIE is also focused on narrowing its geographic
+footprint by drawing on its strong relationships with local
+In 2021, ENGIE refocused on its core activities and on
+stakeholders. As a result, the Group will be present in fewer
+a smaller geographical footprint. A new organization,
+than 30 countries by 2023, compared to 70 in 2018.
+in place since July 1, 2021, in four Global Business
+Units (Renewables, Energy Solutions, Networks, Thermal The organization into four Global Business Units responsible
+Generation and Energy Supply) and four regional hubs for their results and the worldwide implementation of the
+(Europe, North America, South America, Asia-Middle East- strategy in their business segments will strengthen the
+Africa) will allow the Group to strengthen its industrial Group’s industrial integration and the competitiveness of its
+approach. businesses.
+As part of its refocus, in the second half of the year, the This reorganization was guided in particular by an internal
+Group entered into exclusive negotiations with Bouygues for performance target, a key component of the new strategic
+the disposal of EQUANS for €7.1 billion. It also completed road map. ENGIE has committed to a performance plan for
+the disposal of ENDEL, its subsidiary specialized in industrial the 2021-2023 period for an amount of €600 million. This
+maintenance and energy services, and sold a stake of 11.5% plan will be based on a variety of levers: reorganization of
+in GRTgaz. The partial sale of GTT and the sale of ENGIE EPS support functions, purchases, shared service centers, real
+were finalized in 2021. estate and digital. In 2021, this plan contributed €85 million
+to the 2021 EBIT.
+EUROPE
+(excl. France)
+FRANCE
+NORTHAM
+(North America)
+AMEA
+SOUTHAM (Asia, Middle-East, Africa)
+(South and Central
+America)
+Accelerating and strengthening our commitment
+RENEWABLES
+Our strategy: Developing green energy production resources in an integrated system.
+As a key player in the sector, ENGIE is stepping up investments in renewable energies, with a target to increase its capacities
+by 4 GW per year on average by 2025, and by 6 GW per year by 2026.
+Investments will be made in onshore wind power and ground-mounted solar power. Offshore wind power is also a key
+priority, with a target of 5 to 7 GW commissioned or in the pipeline by 2025.
+Where we stand:
+The acceleration in renewable energy was marked in 2021 with the acquisition, in partnership with Crédit Agricole
+Assurances, of Eolia, one of the largest renewable energy producers in Spain. Over the period of 2019-2021, the
+Group commissioned 9 GW of renewable capacity. It plans to again accelerate the development of its annual additional
+renewable energy capacities, which will then be 4 GW on average per year by 2025 and reach 50 GW at the end of 2025.
+To do so, it has identified a set of projects for a capacity of approximately 66 GW.
+Interview with Paulo Almirante,
+Executive Vice President in charge of Renewables, Energy Management and Nuclear Activities
+Where does ENGIE stand in terms of its objective to step up its renewable energy production to
+reach 50 GW by 2025 and 80 GW by 2030?
+In line with what was announced at the beginning of 2019, ENGIE commissioned an additional
+9 GW between 2019 and 2021, i.e. 3 GW per year, despite challenging circumstances related to
+Covid-19 in 2020 and supply chain tensions in 2021. By end-2021, the Group had a total installed
+renewables capacity of 34 GW. And ENGIE is ramping up the development of renewable energy
+in order to reach 50 GW of installed capacity by 2025. Most of this new capacity will be achieved
+through organic growth and will originate from wind and solar power projects. In the second half
+of the decade, between 2026 and 2030, an average of 6 GW of additional renewable capacities will
+be commissioned per year, with offshore wind power making a significant contribution. ENGIE can
+rely on a solid projects portfolio and highly experienced teams in achieving these ambitious but
+attainable goals.
+What is your road map for 2022?
+In 2022, our goal is to increase the Group’s installed renewables capacity by 4 GW. We will
+commission major wind and solar power projects, such as Moray East, a 1 GW offshore wind farm in
+Scotland. We will also continue to improve the operational performance of projects and assets, with
+workplace safety a top priority. The Group’s objective is both to respond to the sustained growth in
+energy demand and to actively contribute to decarbonization, in line with ENGIE’s commitment to
+achieving Net Zero Carbon by 2045.
+ENERGY SOLUTIONS
+Our strategy: Offering integrated decarbonization solutions to our customers through long-term contracts.
+The Group will focus on the development of decentralized energy networks (urban heating and cooling networks, on-site
+utility production, decentralized solar power, urban networks and low-carbon mobility), as well as on related services, with a
+target of 8 GW commissioned by 2025.
+Where we stand:
+After a period of uncertainty due to the pandemic, the year 2021 was marked by the resumption of the commercial
+development of Energy Solutions’ activities. Several major contracts were won, including the contract with the City of
+Paris in December 2021. ENGIE and its partner Groupe RATP were selected to manage the cooling network. They obtained
+the renewal of a 20-year concession that covers the production, storage, transmission and distribution of cooling for the
+city. ENGIE will also be responsible for extending the network by 158 km by 2042, in order to serve all the districts of
+Paris and to open it up to new customers (hospitals, day-care centers, schools and retirement homes).
+NETWORKS
+Our strategy: invest in high-performance networks, designed to achieve a balanced, carbon-neutral energy mix.
+The strategy has four main objectives: to maximize the value of existing assets; to rebalance the portfolio to include
+international markets and electrical grids; to promote the production of biomethane in France and a number of other target
+countries internationally; and to convert assets to hydrogen.
+Where we stand:
+The Networks activity continued its international development with the start of commercial operations of Gralha Azul
+and the first power tests on Novo Estado, two electricity transmission lines built by the Group in Brazil. The gas networks
+in France have maintained high reliability and recorded solid performance, both in operational efficiency and in the
+development of renewable gases, where 147 new biomethane production sites were connected to the ENGIE network. This
+brings the total number of connected sites to 351, a possible contribution to annual production that may reach 6.1 TWh.
+THERMAL GENERATION AND ENERGY SUPPLY
+Our strategy: Developing and operating low-carbon activities and supporting the transition of current electricity systems.
+In addition to investments in renewables, the Group is focusing on the development of its thermal capacity, in line with its
+carbon emissions reduction pathway. Depending on the specific needs of each country, ENGIE meets the flexibility needs of
+the electricity system and supports the decarbonization of its customers. The phase-out of coal capacities is underway, and
+the first initiatives to convert to green gas plants have been launched, primarily using biomethane and hydrogen.
+Where we stand:
+These activities offer significant flexibility in a context of intermittent renewable energies and contribute to the security
+of future supply. In 2021, they again demonstrated their reliability by recording an unplanned internal unavailability
+rate of less than 5%. On October 31, 2021, the combined cycle gas turbine (CCGT) projects at Vilvorde (Belgium) and at
+the Awirs site, each with a capacity of 875 MW, were selected for a 15-year contract in the first auctions of the Capacity
+Remuneration Mechanism in Belgium. These plants will be able to use green gases and will move over the long-term to
+carbon neutrality. The Group entered into a strategic alliance with MASDAR in the United Arab Emirates to develop green
+hydrogen throughout the Gulf countries. The plan to exit from coal continued with the disposal of Jorge Lacerda in Brazil
+and the end of operations at Tejo (Portugal), its last coal-fired power plant in Europe.
+Interview with Sébastien Arbola,
+Executive Vice President in charge of Thermal Generation and Energy Supply activities
+What is your road map for 2022?
+ENGIE is committed to being net zero by 2045. The challenge for the Thermal Generation & Energy
+Supply GBU is to continue to provide the flexibility that ENGIE and the electricity system require
+while reducing its CO emissions. This means growing our business selectively, greening our asset
+2
+portfolio and helping our industrial and individual customers to achieve carbon neutrality.
+We will also continue to strengthen our industrial expertise and our digital know-how with regard
+to managing operations. This means making our power plants more flexible and responsive, while
+guaranteeing the highest level of occupational health and safety for our teams and cybersecurity
+for our sites.
+What challenges are associated with hydrogen as regards ENGIE’s strategy?
+Renewable hydrogen is the link between the Group’s strategic pillars, namely renewables, networks
+and customer decarbonization. ENGIE has therefore set ambitious goals and is developing projects
+that position the Group among the world leaders in this field.
+As of today, ENGIE’s portfolio includes more than 70 projects worldwide, aimed in particular at
+developing hydrogen ecosystems for industry and mobility, export chains and hydrogen transport
+and storage demonstration facilities. The next step is to move to industrial scale through key
+partnerships, industry collaboration and strong public support.
+GLOBAL VALUE CREATION
+ENGIE aims to create value in the medium and long term for the benefit of all its stakeholders.
+The Group’s performance is guided by setting objectives in three categories: planet, people and
+economic prosperity.
+Planet
+2019 2020 2021 2030
+Results Results Results Target
+OUR DECARBONIZATION TARGETS
+Renewable electricity production capacities (GW) (@100%, excluding turbine 34
+27 31 80
+pumping and decentralized capacities) excluding EQUANS 34
+Share of renewable power generation capacity l 28% 31% 34% 58%
+excluding EQUANS 34%
+Carbon footprint of energy production (Mt CO eq.) - 67 43
+2 75 68
+Scopes 1 and 3 l l l l excluding EQUANS 65 (vs. 106 in 2017)
+66 52
+Carbon footprint related to gas sales (Mt CO eq.) - Scope 3 61 61
+2 excluding EQUANS 66 (vs. 79 in 2017)
+Customer decarbonization: emissions avoided through ENGIE products and 28
+N/A 21 45
+services (Mt CO eq.) l l excluding EQUANS 26
+2
+Supplier decarbonization (excluding energy): share certified or aligned with SBT 20%
+N/A 15% 100%
+l excluding EQUANS 20%
+Decarbonization of our work practices: 0.58
+0.68 0.49 0
+GHG emissions (Mt CO eq.) after offsetting – maximum of 200 kt CO excluding EQUANS 0.30
+2 2
+OUR OTHER ENVIRONMENTAL OBJECTIVES
+Share of activities (projects, sites, including sites being decommissioned) with a 37%
+0% 21% 100%
+coordinated environmental plan excluding EQUANS 38%
+28%
+Share of industrial sites having implemented ecological management * 0% 0% 100%
+excluding EQUANS 28%
+Rate of reduction of water consumption of industrial activities compared with +8% -35%
+0% -19%
+2019 excluding EQUANS +8% vs 2019
+l Incorporated in the Vigilance Plan l Incorporated in the Commitments Committee reviews (CSR matrix) l Incorporated in the compensation criteria for the CEO and
+top managers l Actions vis-a-vis suppliers
+Concerning green gases, see page 31
+* i.e. maintenance of green spaces that respect nature without chemical phytosanitary products
+Other Scope 1 items
+ENGIE, certified 2°C by SBT, is committed to reducing its GHG emissions, in particular those linked to the energy production of
+its controlled assets (scope 1) or equity-accounted assets (scope 3) and its indirect e36m% idsescrieoasnes, including gas sales (scope 3 item).
+Nevertheless, ENGIE has chosen to go beyond the current SBTi 2°C certifi3c,6ation obtained in 2020, by following a “well below 2
+degrees” path, which translates into a reduction in GHG emissions from electricity and heat generation to a maximum of 43 Mt
+COeq. in 2030 (against 106 Mt CO eq in 2017), but also by reducing the carbon intensity of this production by more than 52%
+2 2 2,9
+over this period to reach 230 gCO eq. /kWh in 2025, then 158 gCO eq/kWh in 2030 (compared to 348 gCO eq/kWh in 2017).
+2 2 2,5 2
+2,3
+GHG emissions from energy production (Mt CO eq.) Scope 3 GHG emissions
+2
+The SBT target covers the carbon intensity of the energy Scope 3 indirect emissions are down due to the exit of
+production, i.e. to reach 165 g CO eq. KWh corresponding to EQUANS, which impacts emissions related to purchases.
+2 0,0
+the commitment of a 52% reduction compared to the carbon
+intensity of energy production in 2017 (scopes 1 and 3). In
+2017 2018 2019 2020 2030 2045
+line with this SBT target, ENGIE has set a target of 43 Mt CO
+2 Electricity, steam, heating and
+eq. for energy production emissions in 2030 (scopes 1 and 3). cooling consumption
+2°C SBT target: 52% decrease
+348
+315
+268
+266 153 20% decrease
+244
+30 240 139 124 125 127 122
+44
+230
+31 46 32 32 30 25
+31
+31 31 165
+31
+158
+79 62 61 61 66 66
+76
+55 52
+44 36 35 34 Target
+43
+Net 30 31 31 31 31 31 Net
+Zéro Zero
+2017 2018 2019 2020 2021 2021 2025 2030 2045 2017 2018 2019 2020 2021 2021 2030 2045
+excl. EQUANS
+excl. EQUANS Electricity production (non-controlled assets)
+Scope 1 emissions (Mt CO eq.) Carbon intensity (g CO eq. / kWh)
+2 2 Use of products sold
+Scope 3 emissions (Mt CO eq.) Target related to the 52% SBT
+2 Other Scope 3 items (upstream part of chain, purchases, fixed assets)
+Change in renewables capacity (GW (@100%)) Change in coal capacity (GW (@100%))
+The renewable capacity of centralized electricity products ENGIE has made a commitment to phase out coal by 2025
+recognized at 100% rose +3 GW in 2021. in Europe and by 2027 in the rest of the world. In 2021, the
+Group closed the Tejo power plant in Portugal and sold the
+Jorge Lacerda power plant in Brazil. Its coal capacity at the
+end of 2021 was 2.9 GW.
+2.5x
+80
+22
+60% decrease
+50
+12
+40
+33% increase 31.5 34.4
+3.1 4.2
+26.9 20
+2 13 .8.7 2 24 .2.8 2.6 10.1 11.8 7.0 7.2
+4.8 5.4 7.4
+4.3 4.3
+16.4 16.5 16.3 17.9 17.9 18 18 2.9
+0.0
+2017 2018 2019 2020 2021 2025 2030 2017 2018 2019 2020 2021 2027
+People
+2019 2020 2021 2030
+Results Results Results Target
+OUR KEY OBJECTIVES
+Share of women managers l 23.5% 24% 24.6% 50%
+excluding EQUANS 28.9%
+France: 72 France: 87 France: 89,
+excluding EQUANS 89
+Gender equity index international: international: international: 82, 100/100
+72 80 excluding EQUANS 83
+Lost time injury frequency rate for Group employees and subcontractors 2.9
+3.3 2.7 ≤ 2.3
+on closed sites l l l l excluding EQUANS 2.5
+0.58
+Health and safety prevention rate 0.42 0.59 0.75
+excluding EQUANS 0.65
+4.6%
+Percentage of apprentices in Europe 3.3% 4.3% 10%
+excluding EQUANS 4.9%
+82%
+Percentage of trained staff 69% 70% 100%
+excluding EQUANS 82%
+Beneficiaries with access to sustainable energy since 2018
+4 6 7 30
+(excluding the Rassembleurs d’Énergies fund) (m)
+Share of activities (projects, sites, including sites being decommissioned) 37%
+N/A 10% 100%
+with a coordinated societal plan (%) excluding EQUANS 37%
+Responsible Purchasing Index (CSR assessment and inclusive purchasing, 40
+N/A 25 100
+excluding energy purchases) excluding EQUANS 40
+51%
+Training rate for employees most exposed to the risk of corruption (%) 25% 21% 100%
+49% excluding EQUANS
+l Incorporated in the Vigilance Plan l Incorporated in the Commitments Committee reviews (CSR matrix) l Incorporated in the compensation criteria for the CEO and
+top managers l Actions vis-a-vis suppliers
+Economic
+prosperity 2019 2020 2021
+Financial outlook for 2023 Deadlines
+Results Results Results
+INDICATOR (Published data)
+€15-€16 bn 2021-2023
+Growth investments (€ bn) 7.2 4.0 4.3
+approximately €5 bn 2024
+> €11 bn for an initial target of
+Asset rotation program (disposals) (€ bn) 2.8 4.2 2.0 2021-2023
+€9-10 bn
+€600 m
+2021-2023
+Performance program (€ m) 330 670 85 continuation in line
+2024
+with 2022-2023
+€6.1-6.5 bn 2022
+EBIT (€ bn) 5.8 4.6 6.1 €6.2-6.6 bn 2023
+€6.4-6.8 bn 2024
+Economic net debt/EBITDA ratio 4.0x 4.0x 3.6x Less than or equal to 4.0x 2022-2024
+€3.1-3.3 bn 2022
+Net recurring income, Group share (NRIgs) (€ bn) 2.7 1.7 2.9 €3.2-3.4 bn 2023
+€3.3-3.5 bn 2024
+Dividend payout rate/Net recurring income, 65-75% 2022-2024
+0% 75% 66%
+Group share with €0.65 floor dividend 2021-2023
+Credit rating Strong investment grade Strong investment grade 2022-2024
+COMMITMENTS FOR COLLECTIVE PROGRESS
+ENGIE draws on a set of global or specific networks and coalitions that support it in order to
+advance its practices and create sustainable value for all its stakeholders.
+Societal commitments
+Diversity
+Anti-discrimination
+and harassment
+Youth employability
+Taxation
+Consumption
+Environmental commitments
+General commitments
+Climate
+Greenhouse gas
+emissions
+Carbon pricing
+Biodiversity
+Water
+Strengthening our commitments at COP 26
+ENGIE was present at COP 26 in Glasgow and reaffirmed its • ENGIE has also signed pledges – commitments made by public or
+commitment to decarbonization through several initiatives, private partners on key themes to advance the energy transition.
+including: For example, the Group signed the “24/7 Carbon-Free Energy
+• As a founding member of the First Movers coalition – which seeks Compact” with Google, which brings together tech and energy
+to accelerate the development of a competitive, carbon-neutral companies for the purpose of developing solutions that provide
+supply chain – ENGIE is committed to ensuring that 10% of the carbon-free energy for all, in real time 24/7.
+steel in its wind turbines is near zero-carbon by 2030. The Group has also signed appeals for governments to promote
+• The Group reaffirmed its commitment to renewable hydrogen the development of impact finance through Finance for Tomorrow
+by supporting, as a key industrial partner, the signing of an or to reduce inequalities linked to the energy crisis and the future
+agreement between Chile and Belgium to produce and import transition policy.
+green hydrogen.
+A PURPOSE
+IN ACTION
+ENGIE pursues its purpose each and every day:
+accelerating the transition to a carbon-neutral economy.
+P.26 Reducing our impact on the climate and the environment
+P.28 Accelerating the transition to a carbon-neutral economy
+P.30 Renewable gas, an essential energy source for carbon neutrality
+P.34 A value shared with our stakeholders
+P.36 Promoting sustainable and responsible finance
+P.38 A collective commitment to the transition
+REDUCING OUR IMPACT ON
+THE CLIMATE AND THE ENVIRONMENT
+ENGIE recognizes that its ability to grow depends on the quality of the environment in which it
+operates. It is committed at all levels to adapting its activities in order to preserve the environment
+and accelerate its transition to zero carbon.
+Our approach to carbon neutrality
+Based on the work of the Net Zero Initiative, ENGIE will as little as possible. It is also committed to supporting its
+deem Net Zero to be achieved when the Group’s carbon customers on their path to decarbonization, while ensuring
+footprint is fully offset through greenhouse gas (GHG) that the emissions avoided as a result of this process do not
+sequestration (negative emissions). The Group is focused on count towards its own path to carbon neutrality.
+reducing its carbon footprint in order to use carbon offsets
+OFF-BALANCE-SHEET
+ENGIE’S CARBON NEUTRALITY
+(based on the work of the Net Zero Initiative) CUSTOMER DECARBONIZATION
+= Reducing customers’ GHG emissions
+through ENGIE’s products and services
+Emissions avoided or reduced
+GHG GHG EMISSIONS
+EMISSIONS SEQUESTRATION
+First, reduce the direct and Then, increase carbon sinks to BIOGENIC EMISSIONS
+indirect GHG emissions resulting offset emissions and achieve
+- Carbon contained in agricultural or
+from ENGIE’s activities carbon neutrality forestry biomass, emitted during its
+Sequestration of GHGs generated directly combustion or degradation.
+Scopes 1, 2 and 3 or indirectly by ENGIE’s value chain
+Julia Maris
+Vice-President CSR, Chief Executive Officer of Rassembleurs d’Energies
+2021 will be remembered as a key year in the operational implementation of the Group’s
+decarbonization strategy. Since 2021, ENGIE has had a carbon budget for each GBU and
+remuneration criteria for the Group’s managers that take GHG emissions into account. There
+is no question that CO has become a factor in corporate governance.
+2
+Prakash Morankar
+Construction & HSE Manager for India, Renewables GBU
+Solar power in India
+In August 2021, ENGIE commissioned a 200 MW solar farm
+in the Indian state of Gujarat – the second largest in the country
+for the Group. The complex environment, close to the largest salt
+plain in India, meant that the project required specialized
+engineering. The innovative technical solutions that were
+implemented enabled the project team to win the “Solar Project
+of the Year” award.
+Adapting to the consequences of climate change Preserving nature and biodiversity
+ENGIE’s adaptation plan aims to reduce the exposure of the In view of the fact that the preservation of biodiversity
+Group’s assets and activities to the risks associated with and the fight against climate change are intrinsically linked,
+climate change (physical risks and transition risks). It is and that the company’s activities constantly interact
+based on 3 pillars that meet the TCFD commitments: with natural ecosystems, ENGIE has adopted a proactive
+policy aimed at reducing and controlling its footprint on
+• Assessing the impact of climate change and adapting
+biodiversity. Since 2012, the Group’s strategy has been
+ENGIE’s facilities and operational activities (contracts,
+based on a cross-functional approach – avoiding, reducing
+insurance, health and safety, continuity plans, etc.).
+and offsetting – and four major areas: raising awareness of
+• Assessing the impact of climate change on ENGIE’s finances. biodiversity and improving the Group’s skills on the ground,
+• Assessing the impact of climate change on ENGIE’s strengthening its commitments to preserve biodiversity,
+strategy, both in terms of the Group’s exposure and new developing innovative solutions to preserve biodiversity
+opportunities. on sites and ensuring transparent practices for external
+stakeholders. This strategy can be broken down into six
+concrete objectives:
+Actions taken
+Group targets
+in 2021
+Avoid Reduce Offset 100% project files greater
+Implementation of the “Avoid - Reduce - Offset” workflow than €30 million submitted to the Group Project files reviewed
+in the Group’s development projects Investment Committee in 2022
+Nature-based solutions
+10 projects identified that Identification of solutions that com-
+Contribution to the implementation comply with the IUCN standard by 2022 ply with the IUCN standard
+of nature-based solutions (NbS) in the regions
+Ecological site management 28% of sites maintained without
+Implementation of ecological site management for all of the Group’s industrial 2025: 50% of sites having
+activities, with no phytosanitary products used and maintenance of green spaces in recourse to chemical phytosanitary
+harmony with nature products
+Priority sites for biodiversity*
+2025: 50% of sites with action plans
+Continued development of action plans for sites located in or near established with relevant 41% of action plans deployed
+a biodiversity hotspot anywhere in the world, using the new definition stakeholders
+of a priority site
+Supply chain
+Integration of biodiversity criteria in life cycle assessments Analysis of at least 2 activities per year Analysis of 2 activities
+in order to perform an in-depth analysis of the impacts and by 2025 via life-cycle assessment
+dependencies related to the Group’s activities throughout the value chain,
+with a view to identifying the issues and the appropriate solutions to tackle them
+Awareness – Sharing Training modules created
+At least 2 modules/year by 2025 and made available online. Around
+Provision of biodiversity awareness modules for all staff 2022-2023: 3,000 employees/year 300 employees trained in 3
+and creation of a platform for sharing best practices months.
+Combining agroforestry and wind power to preserve biological diversity
+In order to compensate for a loss of habitat for farmland fauna linked
+to the establishment of the Mont de la Grévière wind farm in France,
+ENGIE Green sponsored the planting of agroforestry trees on 18
+hectares of agricultural plots in 2016. In 2019, we began assessing the
+effectiveness of this initiative by undertaking environmental
+monitoring of these plots in partnership with the Association Française
+d’Agroforesterie (French Agroforestry Association) and the
+Mélanie Le Bris Regroupement des Naturalistes Ardennais (Ardennes naturalists group).
+Biodiversity Officer The findings in this first year of monitoring were promising: water
+at ENGIE Green percolated 11 times faster where there were trees than elsewhere; the
+number of insects per hectare was nearly four times higher than in the
+control plots; and species diversity was more than 10 times higher. To
+even out the effects of weather-related fluctuations, we will monitor
+the progress of this measure for at least five years.
+ACCELERATING THE TRANSITION
+TO A CARBON-NEUTRAL ECONOMY
+ENGIE has set itself objectives that extend beyond its main energy production and sales activities in
+order to support its main stakeholders – employees, suppliers and customers – on a decarbonization
+pathway.
+Reducing the carbon footprint of our activities
+Emissions related to the production and sale of energy as much as possible. To strengthen its impact, ENGIE also
+represent approximately 74% of ENGIE’s carbon footprint. supports its employees and suppliers in reducing their
+The Group aims to achieve its Net Zero objective by 2045 carbon footprint.
+by making a large-scale transition to decarbonized energy
+production and limiting the residual emissions to be offset
+A global platform of 34 GW of renewable capacity (GW@100%) Renewable energy production capacity
+2.6x higher by 2030 (GW@100%)
+15
+13.2
+3.8
+2.4
+Europe Latin America North America Asia - Middle East
+Africa
+Involving our employees in the decarbonization of
+their work processes
+ENGIE has set itself the goal of making its work processes
+– related to buildings, digital technology, travel, commuting
+and vehicle fleets – carbon neutral by 2030. Employees are
+involved in such processes so as to identify and share best
+practices. This approach is complemented by an ongoing
+training program.
+35% 100% 100%
+reduction in electricity green vehicles of preferred suppliers
+consumption of buildings in the vehicle (excluding energy
+by 2030 fleet by 2030 purchases) certified or
+aligned with SBT by 2030
+Supporting our suppliers
+in achieving carbon neutrality
+In line with its objective of decarbonizing its value chain,
+ENGIE has undertaken to support its 250 preferred suppliers
+in order for them to become certified or aligned with the Strengthening wind power generation
+Science Based Targets by 2030. To this end, ENGIE organized in North America
+a series of meetings aimed at establishing concrete action
+In May 2021, ENGIE commissioned Dakota Range III in
+plans for decarbonization. In 2021, more than 40 such
+North America. Established since 2018, the site
+meetings were organized. This approach will ultimately
+includes 32 wind turbines with a generation capacity
+be extended to all of the Group’s Class A suppliers (80% of
+of 151.2 MW. The Group entered into a power
+expenditure excluding energy), i.e. 1,500 suppliers in 2030
+purchase agreement (PPA) with Northern States Power
+and nearly 7,000 companies in the longer term.
+Company and now powers a Google data center in
+Minnesota.
+Supporting and measuring our customers’ decarbonization
+Customer decarbonization is effective when customers achieve decarbonization of 45 Mt CO eq. by 2030, based
+2
+avoid1 or reduce2 their carbon emissions through the on a dozen of the Group’s products and services, such as
+use of ENGIE products and services. Due to the lack of green energy production, decentralized energy networks and
+international and cross-sector standards, ENGIE developed associated services, or the resale of green electricity. This
+specific energy guidelines with a group of peers and NGOs decarbonization measure is implemented in new commercial
+for the purpose of measuring the contribution of products projects and integrated as a criterion in the investment
+and services to customer decarbonization. In this regard, decision process.
+ENGIE set itself the goal in 2021 of helping its customers
+Whether it’s manufacturers, cities, universities, etc., the Group is developing decarbonization pathways adapted to each
+specific case:
+MANUFACTURERS UNIVERSITIES CITIES
+FAURECIA decarbonization Promoting sustainable energy at A sustainable district cooling system
+partner Georgetown University in Singapore
+Faurecia, a global leader ENGIE and Georgetown University (in ENGIE was selected to build and
+in automotive technology, the United States) have entered into operate the underground district
+chose ENGIE to assist it in a long-term agreement to strengthen cooling system for Singapore's first
+its commitment to achieve Georgetown’s energy infrastructure smart business district, Punggol Digital
+CO neutrality for scopes 1 while improving its energy efficiency. District.
+2
+and 2 by 2025. As part of ENGIE will handle the upgrade, Scheduled for completion in 2024, the
+this partnership, ENGIE will operation and maintenance of the underground plant will be in operation
+provide energy solutions to be electrical, heating, cooling and water for a period of 30 years. The district
+implemented at over 100 sites distribution systems. The partnership cooling system will provide reliable,
+worldwide by mid-2022. ENGIE will enable the university to reduce its sustainable and cost-effective air
+will support Faurecia in rolling energy use by at least 35% by 2030 conditioning for the district. The plant is
+out an energy performance and ensure the sustainable energy expected to reduce emissions by 3,700
+program in Europe, China, management of one of the most tons of CO per year and achieve up to
+Brazil and Mexico, which will prestigious academic communities. a 30% redu2 ction in energy consumption
+result in a 15% reduction in compared to traditional commercial
+energy consumption at sites. buildings.
+Interview with Cécile Prévieu,
+Executive Vice President in charge of Energy Solutions activities
+How is ENGIE supporting its customers in their decarbonization strategies?
+Our support focuses on two main areas: the reduction of energy consumption and the greening
+of production methods. We work with our customers across the entire value chain, from the
+assessment of their specific situation, through engineering and construction, to the operation of the
+appropriate energy network. To do this, we use several levers: recognized technical expertise in
+our businesses coupled with a geographical footprint that guarantees a sound knowledge of local
+issues and close proximity to our customers; the ability to finance the solutions we implement;
+and commercial production through rolling out multi-site solutions based on a global geographical
+presence.
+What are the main challenges and priorities for 2022?
+As we saw during COP 26, many customers are committing to ambitious emission reduction targets
+in an increasingly short time frame. That is excellent news but also poses a challenge. Our role is to
+offer them the best strategies and solutions to achieve this, which means we have to step up our
+development of low-carbon networks and services for our customers in 2022 and to continuously
+innovate. Our recent commitment to the City of Paris to extend its cooling network by an additional
+158 km by 2042 as part of an effort to decarbonize and adapt to climate change is a perfect
+example.
+RENEWABLE GASES, AN ESSENTIAL ENERGY SOURCE
+FOR CARBON NEUTRALITY
+As a renewable resource, biomethane is a component of the circular economy. Though it remains
+marginal in the global energy mix, it is an energy source of the future that is needed, alongside low-
+carbon hydrogen and synthetic gases, to achieve carbon neutrality.
+What are renewable gases?
+Biogas Synthetic methane
+Renewable gas obtained from a natural process: the This name covers different types of renewable gases (CH ):
+4
+fermentation of organic matter. The production of
+• renewable gases produced from various organic waste
+biogas makes it possible to recover organic waste from
+according to different processes, such as pyrogasification
+agricultural (manure, residues) or urban (sludge, food waste)
+(a high-temperature thermochemical process that uses
+environments.
+waste to produce a gas that can be injected into existing
+Biomethane networks) and hydrothermal gasification (a high-pressure,
+A gas with a very high methane concentration derived from high-temperature thermochemical process for converting
+biogas purification and injected into the networks. BioNGV liquid biomass into a synthetic gas).
+or bioLNG (or liquefied biomethane) are used as clean fuels. • gases from methanation processes based on low-carbon
+hydrogen and carbon.
+Renewable hydrogen
+Hydrogen is a gas that is naturally present in the universe. Low-carbon hydrogen
+When produced from renewable resources, hydrogen can Hydrogen produced with natural gas using various CO
+2
+provide low-CO electricity and heat, both directly or capture technologies, which allow it to be stored or reused
+2
+through fuel cells. As a highly versatile fuel, hydrogen can
+be transported and stored in liquid or gaseous form.
+Hydrogen: an accelerator of decarbonization
+To achieve a carbon-neutral future, ENGIE relies on a
+diversified energy mix and, in particular, on an ambitious
+program to develop hydrogen production, transport,
+storage and distribution capacities. This gas can be stored
+in underground saline cavities over long periods. It can be
+injected as a mixture into the gas network, or used in pure
+form for a variety of purposes, in particular in industry and
+the mobility sector, or converted into low-carbon electricity.
+It contributes to solving the problem of the intermittence of
+renewable energies.
+Another fundamental advantage of hydrogen is the fact
+that it can be produced from locally established renewable
+energies, thereby promoting the short energy circuit and
+local jobs. Thanks to in-depth knowledge of the regions in
+which it operates and its ability to intervene in the entire
+value chain – from the development and financing of
+hydrogen projects to sales to end customers – ENGIE has
+major assets to bolster its development.
+Hydrogen is therefore the promise of a new technological,
+energy and industrial sector, both locally and globally,
+with new jobs at stake, essential as a contribution to the
+decarbonization of the energy mix. The governments
+have understood this: in Europe, more than 10 countries
+(including France) and the European Commission have
+published their “National Hydrogen Strategy” road map, with
+the related promises of funding.
+KOOBETON
+SESAG
+ELBAWENER
+KEY FIGURES:
+1 million
+jobs by 2050 in Europe
+thanks to renewable energies and
+low-carbon hydrogen
+27,000
+hydrogen charging stations
+needed by 2030
+ENGIE’S RENEWABLE GAS
+TARGETS FOR 2030
+4 GW
+of green hydrogen production
+Work was underway in 2021
+in the United Arab Emirates.
+Greening gas across the entire value chain 700 km
+of hydrogen dedicated networks
+ENGIE has set itself the objective in France of greening
+(of which 170 km as from 2025)
+gas to reach 100% renewable gas by 2050. In particular,
+the Group is present throughout the entire biomethane 1 TWh
+chain, from the development of industrialization projects
+of storage capacity
+to its distribution. In France, ENGIE BiOZ initiates, develops, dedicated to hydrogen
+finances, builds and operates units for injecting biomethane (of which 270 GWh as from 2025)
+into the gas network, with a long-term commitment to the See HyPSTER and HYGreen projects underway
+regions. In 2021, it inaugurated three methanization units in
+Sarthe, Ille-et-Vilaine and Haute-Marne in order to produce +100
+biomethane by collecting several types of organic matter hydrogen charging stations
+in the surrounding area. The energy produced can supply (of which 50 as from 2025)
+thousands of homes and therefore reduce CO emissions. At Project underway with CERTAS
+2
+the same time, the Group is working to adapt its networks
+4 TWh
+to inject biomethane, for instance, through the deployment
+of biomethane produced
+of a temporary storage solution for biomethane when
+by ENGIE in France
+demand falls or the construction of back-up stations on the
+2021 results: 0.33 TWh
+distribution and transmission networks that make it possible
+to transport local biomethane surpluses to other regions. At 40 TWh
+the end of the chain, efficient, low-carbon solutions (such as of biomethane production
+hybrid heat pumps for heating or high-performance engines injected into ENGIE’s networks in France
+for land and sea mobility) are helping customers green their 2021 results: 6 TWh
+consumption.
+A strategic partnership for the decarbonization
+of maritime transport
+The CMA CGM Group – a world leader in maritime
+transport and logistics – and ENGIE have entered into a
+long-term strategic and industrial cooperation on projects
+to produce low-carbon fuels. The goal is to ensure the
+development of a synthetic methane production and
+distribution chain that can benefit the maritime
+transportation sector. An initial project for the production
+of liquefied biomethane (bioLNG) dedicated to maritime
+transport has already been initiated at the Marseille
+Maritime Port Authority, and other industrial projects are
+in the pipeline. The partnership will facilitate the pooling
+of knowledge and R&D efforts, particularly in key
+technologies such as carbon capture and green hydrogen
+production. Today, liquefied natural gas (LNG) reduces
+sulfur oxide emissions by 99%, fine particle emissions by
+91% and nitrogen oxide emissions by 92%.
+KOOBETON
+SESAG
+ELBAWENER
+Adapting networks
+The development of methanization units in France is
+accompanied by the development of injection points on the
+network, leading gas distribution and transport networks to
+adapt their services and methods of operation: taking charge 2021 KEY FIGURES
+of the operation and maintenance of the injection stations,
+351
+creating backflows to the transport network in order to
+unload distribution zones that may be saturated, adapting biomethane injection stations
+operated by the Group’s networks
+daily balancing and storage management. Furthermore, the
+in France (147 commissioned in 2021) production of hydrogen on an industrial scale requires the
+development and planning of future transport and storage 95
+networks. ENGIE is committed to the European H2 Backbone
+new Natural Gas Vehicle (NGV)
+initiative and is supporting the deployment of a network
+refueling stations
+of nearly 40,000 km of hydrogen networks in 21 countries, connected in 2021 in France,
+two-thirds of which would be made up of existing networks 460 stations installed in total
+that have been repurposed. This vision is already taking
+shape through the MosaHYc pilot project developed in the
+Moselle region, which aims to convert two existing gas
+pipelines to transport pure hydrogen so as to guarantee a
+secure supply for mobility use (trains, buses, cars, trucks)
+and industrial purposes. Other R&D projects currently being
+deployed, such as HyPSTER and Hygreen, aim to experiment
+with hydrogen storage in salt cavities on sites previously
+used to store natural gas.
+Industrializing the renewable gas solutions of the future
+After producing the first cubic meters of green gas from ENGIE is also developing several initiatives aimed at using
+wood in 2020 thanks to the Gaya demonstrator, ENGIE is hydrogen to decarbonize industry and to develop new
+now aiming to scale up the pyrogasification process. With industrial sectors:
+the Salamandre project, the Group’s objective is to build an
+• The Yuri project in Australia involves converting a fertilizer
+industrial biomethane production unit in the port area of
+production plant into a green hydrogen production unit. It
+Le Havre as early as 2026 in order to gasify nearly 70,000
+is scheduled to be commissioned in 2024.
+metric tons of non-recyclable waste per year and produce
+up to 150 GWh of renewable gas, the equivalent of the • The HyNetherlands projectwill enable the deployment
+consumption of 670 city buses. of an electrolyzer to produce renewable hydrogen for
+industry and heavy mobility in the Netherlands from 2025.
+The Group is also developing the MéthyCentre, a
+demonstrator aimed at storing electrical energy in the • The Masshylia project aims to develop, build and operate
+form of renewable gas through hydrogen. Scheduled to be one of the largest renewable hydrogen production sites in
+operational by the end of 2022, it will produce 50 kg of France in the South-Provence-Alpes-Côte d’Azur region.
+green hydrogen per day from renewable electricity – the • The HyEx project in Chile aims to power an ammonia plant
+equivalent of 15 to 20 full tanks of light vehicles – as well as with green hydrogen by 2025.
+methane gas that will be injected into the local gas network.
+To further scale up low-carbon and renewable hydrogen
+Based on the same model, the HyPSTER demonstrator will projects, in 2021 ENGIE announced a partnership with
+be commissioned in 2023 in a region close to the Zero Equinor, Norway’s leading energy provider, to explore
+Emission Valley in the Auvergne-Rhône-Alpes region and the development of low-carbon hydrogen value chains in
+will be used to test hydrogen production and marketing (for Belgium, the Netherlands and France.
+mobility and industry) as well as the storage of hydrogen in
+saline cavities.
+Using new technologies to reduce methane leakage
+ENGIE is involved in a European scientific project whose objective is to improve knowledge and the use of new
+technologies in order to quantify methane emissions in networks and thereby bolster actions to reduce these
+emissions. 14 European gas network managers and gas associations are involved in the project coordinated by the
+European Gas Research Group (GERG) and ENGIE is present via GRTgaz’s Research and Innovation Centre (RICE), which
+has identified the most promising technologies to be tested. In addition to on-site measurements, as close as possible
+to the equipment, these new remote measurement technologies aim to quantify the overall emissions of a geographical
+area and give an overall assessment. Embedded in drones, moving vehicles on the ground or in the air, or installed on
+site, 12 different technologies are being tested to assess their accuracy and reliability. This collective project illustrates
+the efforts being made by gas operators to significantly reduce methane emissions in order to contribute to short-term
+climate change mitigation and reinforce the environmental value of gas and gas networks in the energy transition.
+KOOBETON
+SESAG
+ELBAWENER
+Drive and support the changes required for the development of renewable gas
+Europe and France have set ambitious carbon-neutrality biomass potential that can now be put to good use to
+targets for 2050. Considering that an all-electric energy mix produce biomethane. This will green a number of uses,
+would lead to significant additional costs and would not including industries that are difficult to electrify. In a circular
+guarantee security of supply, especially during peak periods, economy, this local resource will not only provide secure
+ENGIE is calling for a more balanced alternative in which the supply at competitive costs but also positive externalities
+decarbonized or low-carbon (CCS) gas vector will continue for employment and farming. In the medium term, synthetic
+to play an essential role. France, for example, has significant gases and hydrogen will complete this energy mix.
+Interview with Edouard Sauvage,
+Executive Vice President in charge of Networks activities
+What are the main objectives of the Networks GBU in 2022?
+Our priority in 2022 will be to ensure the safety of our employees and any third parties working
+for the Group, as well as the safety of our property, at all Group entities. Our other primary
+objective will be to guarantee the operational and financial performance of our electricity and
+gas networks. In France, we are actively preparing the future of our gas networks by developing
+renewable gas sectors and promoting the key role of gas and gas networks in achieving the energy
+transition. Lastly, in Brazil, ENGIE will continue the construction of its electric transmission lines.
+What were the key achievements of the Networks GBU in 2021?
+We should note, first of all, that despite the impacts of the health crisis, we maintained a high level
+of operational and financial performance in our gas networks, both in France and abroad.
+In addition, we continued to prepare the future of our gas networks in France. We took many
+actions to promote and scale up the biomethane sector. As such, we should applaud the fact that,
+at the end of December 2021, France had 351 units in production for a capacity of 6.2 TWh, two
+years ahead of the target set by the PPE. We also helped our customers with ambitious projects,
+as demonstrated by the signing of a partnership agreement with CMA-CGM to support the
+decarbonization of maritime transport through the development of synthetic methane and bio-
+LNG. We pursued our innovation efforts as well, with the inauguration of GRTgaz’s R&D platform
+(FenHYx) and demonstration projects for the conversion of our gas networks to hydrogen (MosaHYc,
+HYpster, Jupiter 1000, etc.).
+Lastly, we continued the construction and commissioning of our 2,800 km of electric transmission
+lines in Brazil (Gralha Azul and Novo Estado projects).
+KOOBETON
+SESAG
+ELBAWENER
+€57.9 bn
+REVENUES
+IN 2021
+Sharing
+value
+VALUE DISTRIBUTION
+SUPPLIERS Raw materials purchases
+and related network
+IN 2021 67%
+costs (€32.1bn) and
+services purchases
+(€6.7 bn)
+The Group is committed to building sustained dialogue with
+each of its stakeholders and to sharing its value creation
+EMPLOYEES Personnel costs:
+in a fair and balanced manner. In 2021, ENGIE set up a AND JOBS €7.7 bn
+Dialogue Committee with its stakeholders as well as an SUPPORTED including €1.5 bn in
+social security
+access space to support sensitive projects. 13.3%
+contributions
+Committing to a fair transition
+For ENGIE, the transition to carbon neutrality by 2045
+INDUSTRIAL Depreciation,
+means taking into account the social impact of the energy
+PARTNERS amortization and
+transition. We must therefore integrate fair transition
+provisions:
+principles into all our projects at the local level and develop 8.3%
+€4.8 bn
+them in partnership with employees, unions, communities
+and suppliers. In accordance with the Paris Agreement,
+ENGIE is committed:
+• to jobs: processes and initiatives to stimulate employment
+opportunities, skills development and employee
+retention; measures to support employees affected by GOVERNMENT AND Income tax and other
+decarbonization; LOCAL AUTHORITIES taxes
+€3.2 bn
+• to local development: initiatives aimed at creating 5.5%
+economic value for regions and benefits for communities;
+• to stakeholder inclusion: promoting a fair transition in a
+co-constructive manner, by seeking solutions based on
+cooperation with governments and civil society.
+FINANCIAL Net financial income:
+PARTNERS €1.4 bn
+2.4%
+Guiding suppliers toward
+a responsible economy
+SHAREHOLDERS Dividend
+Mindful of the need to prevent the risk of forced labor 2.2% for 2021:
+throughout its value chain, ENGIE is proactively working €0.85/Share
+to identify suppliers who may be involved in human rights
+violations. In 2021, as part of the implementation of its
+due diligence policy, ENGIE set up a specific in-depth
+vigilance action plan to identify and manage the risks of
+forced labor practices in the Group’s supply chains located
+in China.
+ENGIE
+1.3%
+CUSTOMERS
+Dialogue procedures
+• Individual customers ➜ Marketing and satisfaction studies
+• Small business customers ➜ Measurement of Net Promoter Score (NPS)
+➜ Consumer panels
+• Industrial customers
+➜ Responses to calls for tenders
+• Key account customers
+➜ Co-construction
+• Trading
+➜ A ccess space
+Dialogue
+procedures
+• 140,000 suppliers • Vigilance plan
+of which 250 preferred
+• Submission of tenders
+• 75% of non-energy
+purchases in Europe
+• 45% SME suppliers in France
+• 101,504 employees 5% • Staff representative
+9%
+• 15,522 recruitments bodies at the European,
+• 4.9% apprentices in Europe national and local levels
+• 82,0% of employees trained 17% • “ENGIE & ME”
+Workforce in
+2021 commitment survey
+47%
+22%
+• €38 m allocated to the 4% 4% • Calls for innovative
+Rassembleurs d’Energies social 6% 31% projects
+impact fund • Support via the New
+• €180 m invested in the ENGIE 11% €8 bn in Ventures investment
+New Ventures innovation fund investments fund
+• €138 m in R&D expenditure in 2021 • Vigilance plan
+• Submission of tenders
+19%
+25%
+• Income tax paid: €0.6 m 7% • Participation
+• Other taxes and duties: €1.5 bn 13% 43% in think tanks
+2% • Consultations
+2% €2 bn paid in
+1 3% % income tax and • Partnerships
+2% other taxes • Corporate patronage
+5%
+23%
+• Financial net debt: €25.3 bn • Roadshows
+• Financial net debt/EBITDA: 2.4x • Interviews
+• €14 bn in Green bonds issued since • Responses to evaluation
+2014, representing 43% of the questionnaires
+Group’s bonds
+i.e. 66% of 2021 Net 4.5%3.2%0.6% • Shareholders’ Club
+recurring income, Group share 4.6%
+• Events (visits to Group
+(Proposal submitted 5%
+sites)
+to the Shareholders’ Meeting of
+April 21, 2022) owS nh ea rr se h ip • Meetings (face-to-face
+in 2021 and online)
+23.6% • Annual General
+58.5%
+Shareholders’ Meeting
+PROMOTING SUSTAINABLE AND RESPONSIBLE FINANCE
+In line with its purpose, ENGIE relies on green finance to finance its activities in a sustainable and
+responsible manner while maximizing value creation for its shareholders.
+A very strong financial performance in 2021 ENGIE maintains a close relationship with its shareholders
+through its Shareholders’ Club – which organizes meetings
+ENGIE’s financial performance was very strong in 2021: it
+around the Group’s businesses each year, as well cultural
+achieved the top end of the NRIgs guidance range. EBIT of
+and sports events – and its Shareholders’ Consultative
+€6.1 billion was up 42% organically, leveraging the favorable
+Committee, which is tasked with expressing the expectations
+price environment and the Group’s operational performance.
+and questions of individual shareholders. The Chairman of
+ENGIE met its targets in 2021 in an unprecedented energy the Board of Directors met with individual shareholders a
+environment, benefiting mainly from the strength of its number of times.
+integrated model. High levels of asset availability enabled
+the Group to use its flexible production capacity in a tight
+market. The right mix of contractual positions and activities, Eligible activities in 2021 under the EU Taxonomy
+along with a strong balance sheet and liquidity, also helped
+The Group’s eligibility rates for the European taxonomy
+it actively and effectively manage all exposures
+conceal very different rates depending on the activity. While
+to benefit the Group and its customers.
+the activities of the Renewables and Energy Solutions GBUs
+Out of €8.0 billion in total investments, growth investments are fully or overwhelmingly eligible, those of the Thermal
+stood at €4.4 billion, of which more than 90% related to the Generation and Energy Supply GBU and of the Networks
+strategic priorities. GBU are only marginally eligible. However, the latter two will
+gradually become eligible as they convert to renewable gas.
+The remaining activities (GEMS and Nuclear) are, in principle,
+Sharing performance with shareholders not covered. Capex for 2021 (growth and maintenance) was
+48% eligible but growth capex was 78% eligible in 2021,
+The Group reiterated its policy of basing its dividend on a
+confirming the announcement made in 2020.
+payout ratio of 65% to 75% of net recurring income, Group
+share. It also introduced a floor dividend of €0.65 per share
+for 2021-2023.
+For 2021, the Board of Directors thus proposed a payout
+15% Eligible opex
+of 66% of net recurring income, Group share, i.e. a dividend
+of €0.85 per share. This proposal will be submitted to the
+20% Eligible revenues
+shareholders for approval at the General Shareholders’
+Meeting on April 21, 2022. Since 2014, the Group has
+48% Eligible capex
+rewarded shareholders for their loyalty with an increased
+minimum dividend of +10%.
+78% Eligible
+growth capex
+Pierre-François Riolacci
+Executive Vice President in charge of Finance, Corporate Social Responsibility (CSR) and Purchasing
+ENGIE is a major economic player and must practice responsible and sustainable finance.
+This is reflected in the rigorous management of its financing and debt capacities, but also
+in the selection of growth investments that contribute to the necessary energy transition
+towards a decarbonized world. In 2021, ENGIE invested more than €4 billion in growth
+capex, of which more than 90% related to the strategic priorities and nearly 80% aligned
+with the EU taxonomy. These investments were financed in particular by green bonds on
+the market in which ENGIE remains a key player with over 14 billion issued since 2014.
+In addition to this financing, ENGIE is a responsible company that supports its millions
+of customers through its decarbonized offers and efficiency solutions. At a time when
+prices are rising sharply, ENGIE is helping its individual customers by implementing the
+government’s measures to freeze regulated rates in France and welcoming the customers of
+defaulting suppliers thanks to responsible pricing.
+Green finance at the service of economic performance
+Green bonds are financial tools that are used to finance 3
+the development of renewable energy projects or projects
+.2%
+related to energy efficiency. ENGIE is currently the leading
+corporate issuer, having issued a total of more than €14
+billion since 2014. In 2021, half the bonds issued by the OF SHARE CAPITAL HELD
+Group were green bonds. These tools contribute to ENGIE’s BY EMPLOYEES
+transformation towards low-carbon assets and energy
+services. Each time a green bond is allocated, the Group
+publishes an impact report to calculate the CO emissions
+2
+that have been avoided or reduced. The main projects
+financed by the Green Bond issuance of October 2021
+should contribute to avoiding the emission of at least 3.43
+million tons of CO eq per year.
+2
+A pacesetting financing structure
+Engaged in a decarbonization pathway, Chile has committed
+to becoming a net zero emission country by 2050. ENGIE is
+helping with its transition by activating several levers. The
+Group and the Inter-American Development Bank (IDB) have
+therefore developed a pilot financing structure that will be
+used to monetize the cost of decarbonization. It consists of a
+loan whose costs are reduced by a carbon price determined
+by a tailored methodology established by the IDB. This
+initiative could be replicated in the future by other Group
+subsidiaries.
+This funding approach will help accelerate the transition
+by activating several levers: ending coal-based electricity
+production by 2025 (with the shutdown of plants and the
+conversion of the more recent plants to gas and biomass);
+developing 2 GW of renewable capacities; and setting up
+pilot projects in favor of renewable hydrogen. The full plan
+will enable ENGIE to reduce CO emissions from its energy
+2
+production activities in Chile by 80% by 2026. The plan 14
+provides for an investment of €1.5 billion by 2025.
+€ .25 bn
+GREEN BONDS ISSUED SINCE 2014
+Green bonds issued and their allocations (€ bn) 14.25
+12.80
+10.63
+6.25 7.27 2.17
+5.38
+3.4 3.36
+2.5 2.75 4.01
+0.87 0.85 1.72 0.2 7. 951 1.5 1 1.37 1.89 2.35 2.25 2.17 88% New projects
+12% Refinancing
+2014 2015 2016 2017 2018 2019 2020 2021
+Amounts Amounts Cumulative amounts Cumulative amounts
+issued € bn allocated in € bn issued in € bn allocated in € bn
+A COLLECTIVE COMMITMENT TO THE TRANSITION
+ENGIE is committed to creating safe and fulfilling working conditions for all of its employees so as
+to rally an expert and committed community round the implementation of its purpose and its zero-
+carbon transition strategy.
+Staying tough on safety
+Occupational health and safety is ENGIE’s first priority. It In line with the 2016-2020 action plan, which significantly
+takes precedence over all other considerations for all people reduced the frequency rate in each of its businesses, the
+working for the Group, whether employees, temporary Group has drawn up a health and safety action plan for
+workers, subcontractors or interns. ENGIE has a policy of 2021-2025, structured along three lines – No life at risk,
+excellence to ensure the best possible working conditions all No mind at risk, No asset at risk – and completed by two
+over the world. The Group’s health and safety policy aims transversal levers:
+to make each individual, whether executive, manager or
+employee, a committed player in health and safety.
+NO LIFE AT RISK NO MIND AT RISK NO ASSET AT RISK
+Prevention of risks directly Prevention of risks related Prevention of risks
+related to the performance of to the context in which activities are related to industrial processes
+operations. carried out, development of quality
+of life at work and prevention of
+psychosocial risks
+Priority actions Priority actions Priority actions
+• Reinforce the commitment of • Reinforce the managerial dimension of • Reinforce shared industrial safety
+managers in health and safety quality of life at work management standards
+management • Understand the impact of physical and • Exercise particular vigilance regarding
+• Continue to deploy levers to psychological health on safety at work the industrial risks generated by our new
+prevent serious and fatal accidents • Identify and control risks related to the activities and by newly integrated entities
+• Develop the ability to identify adaptations and variability of organizations • Develop systematic sharing of feedback and
+risks • Identify and control risks related to the best practices
+• Set up a support plan for our “variability of persons”
+subcontractors
+2 TRANSVERSAL LEVERS
+Digital Communication
+&
+to standardize and speed up the implementation to strengthen the health and safety culture
+of priority actions and the commitment of each individual
+The Group suffered a particularly tragic 2021. While the • the convening of a one-hour “safety stand down” for all
+number of lost time injuries continued to fall, we were employees, a special time for discussing safety within the
+deeply saddened by 16 deaths related to our activities: teams;
+4 employees and 12 subcontractors. Management responded
+• a comprehensive assessment by a consulting firm
+swiftly and decided to implement a targeted and enhanced
+specializing in health and safety culture for employees and
+action program, focused on improving the safety culture,
+subcontractors;
+managers’ leadership in this critical area, and everyone’s
+commitment to and vigilance in protecting their own lives • a supplemental action plan to ensure subcontractor safety;
+and the lives of others. Several key actions were rolled out, • the strengthening of the Group’s safety, quality assurance
+including: and quality control standards.
+HR: a lever for the Group’s transformation
+The Human Resources strategy helps breathe life into ENGIE’s purpose: stepping up the move towards a carbon-neutral
+economy. In that regard, the HR department supports the organizational transformation by providing concrete answers on
+three strategic objectives:
+1 2 3
+Attracting and Encouraging employee Creating an inclusive
+retaining talent development environment
+ENGIE aims to attract and retain all its Developing employee skills and For ENGIE, diversity, professional equality
+talent through: employability is a key focus for the and inclusion are drivers of innovation and
+• a strong, unifying and meaningful competitiveness and performance of an performance.
+corporate culture; industrial group like ENGIE. In 2021, ENGIE therefore ramped up its
+• varied career paths in France and abroad; To ensure the successful roll-out of its efforts to promote the equal treatment of
+and strategy, ENGIE offers numerous learning employees with the launch of the “Friends”
+opportunities and innovative training network and the publication of a new
+• a strong, attractive and consistent methods: global “Understand each other to better act
+e thm ep Glo ry ouer p ’b s r pa un rd p a on sed ap nro dm sti rs ae t ein g yli .ne with • The Learning Festivals, which are together” guide.
+five-day virtual pop-up campuses that At the European level, ENGIE strengthened
+In a global context marked by tensions in bring together the Group’s managers to its actions and its commitment by
+the job market, particularly with regard to strengthen their distinctive skills and renewing its support for the European
+technical and female profiles, the Group their knowledge. This initiative helps “Embrace Difference” pledge and
+is pursuing a differentiated recruitment to reinforce a sense of belonging to the reiterating its adoption of the Women’s
+strategy, placing candidate experience Group and to develop a common culture Empowerment Principles defined by the
+at the heart of the recruitment process, through sharing and networking; UN (as from 2019).
+to better serve the professions and the
+business. • Engaging employees and encouraging ENGIE aims to achieve gender parity
+their development, at all levels, to help in management and is rolling out its
+Internally, ENGIE once again conducted its them understand and take ownership of international Fifty-Fifty program, which
+employee engagement survey, ENGIE&Me. ENGIE’s strategy: that is the objective takes a systematic approach to creating the
+In 2021, the results showed a strong of the Sustainability Academy, which right conditions to meet this goal.
+o f o trrv f ao e E nmr Q sa f2 Ul ol 0 A re m2 Nn 0 aSg t a t a iog one n8 dm . 3 te % hn e),t Gdle e rv ose p ul pi t( ’e su p t fh u 1 e n dp d ao is min p et o ns ta al l p t i pnor at o red tv ri isi n cd c uae u ll as ls y rsn l yacu no m tdr hpe rtor ooo r u au l gets he a o r tsp n wu p s f oo rt a or tt i rmnu aan io nbit u ii ni l re i g ts e y x perts, E i cn oN m2G 0 pIE 2 a n1h i,a ews s aa insc h r Fi e re c av o ne g cd n e i e z ax e nc d de l a Ele s u n o rt on pr ee e s o : u f lt ts h ea n tod p,
+In addition, our employees responded programs on corporate sustainability • 7th out of 120 companies in the SBF in
+favorably when asked about their issues and how to incorporate them into the ranking of female representation
+confidence in the Group’s vision and our relationships with stakeholders and in governance bodies, compiled by the
+strategy (+2 points) and in leadership for partners. French Ministry for Gender Equality;
+the future (+6 points) To go even further, ENGIE has stepped • 47th out of 668 European companies
+ENGIE has one goal for 2022: to build trust up the roll-out of the Skill’Lib program: evaluated in the European “Gender
+among and unite its employees in order to an internal skills marketplace that gives Diversity Index.”
+increase their engagement. managers a flexible way to access the skills
+they need in-house, while encouraging
+employees to develop new skills and fulfill
+their ambitions. In 2021, Skill’Lib was
+awarded the “HR Innovation Prize” by
+Victoires des Leaders du Capital Humain.
+An ambitious and dynamic social dialogue
+ENGIE believes that social dialogue and negotiation are which concluded with the signing of a protocol between
+the pillars of social cohesion, which is essential to its ENGIE and the European Works Council (EWC). The potential
+transformation and performance. At the beginning of 2022, investors presented their industrial and social projects to
+the Group signed a new global agreement that provides a the EWC secretariat, which was followed by a comparative
+common set of rights to all employees worldwide, especially analysis of the proposals.
+with regard to social protection, sustainable employment
+and diversity. This agreement also creates a platform for Jean-Sébastien Blanc
+global social dialogue by convening an annual Global Forum,
+Executive Vice President in
+with trade union federation representatives and ENGIE charge of Human Resources
+employees, the first edition of which will be held in the
+The men and women of ENGIE are
+second half of 2022.
+driven by our purpose:
+On the social front, the pandemic led to the acceleration
+to take action and meet the
+of the ENGIE Care global social protection program. In
+environmental and societal
+2020, ENGIE deployed the first part of this program in all
+its entities, enabling all Group employees to benefit from challenges that are disrupting our organizations
+minimum health coverage in the event of hospitalization and our businesses, but that are also creating
+and a minimum capital sum in the event of death. The ENGIE
+opportunities. Now more than ever, the HR
+Care program also aims, by 2024, to provide full pay for at
+department must work to promote the Group’s
+least 14 weeks of maternity leave and at least four weeks of
+paternity leave for all its employees worldwide. business performance and growth, while supporting
+Quality social dialogue is essential to the success of the its transformation as an industrial player.
+company, as demonstrated by the EQUANS disposal process,
+A LONG-TERM
+VISION
+In accordance with the AFEP-MEDEF code and
+the best governance standards, ENGIE relies on
+experienced governance that supports its
+sustainable and responsible value creation.
+P.42 A Board of Directors driving the Group’s strategy
+P.44 Board committees
+P.46 A general management steering the transformation
+P.47 A transversal governance of climate challenges
+P.48 A global risk management policy
+A BOARD OF DIRECTORS
+DRIVING THE GROUP’S STRATEGY
+ENGIE is managed by a team of 14 Directors with varied expertise whose mission, in terms of
+strategy, is to define the Group’s orientations and ensure their implementation. To ensure that
+ENGIE’s actions are consistent with its purpose, the Board of Directors takes into account the
+expectations of its stakeholders in order to meet the challenges
+that are transforming the energy sector.
+A Board that closely monitors the Group’s challenges
+Major work carried out in 2021
+The Group offers all new directors personalized training and
+regularly organizes specific training or information sessions. In
+In 2021, members of the Board of Directors
+2021, the Directors benefited from two training sessions on the
+held discussions on the following topics
+decommissioning of nuclear power plants in Belgium and on Global
+in particular:
+Energy Management (GEM) activities. Each year, the members of
+the Board meet at a strategic planning seminar during which they
+• The Group’s strategic orientations
+discuss sector developments and the expectations of the Group’s
+(repositioning of ENGIE, continued
+stakeholders. The 2021 seminar provided an opportunity to review
+geographic refocusing, roll-out
+progress on the implementation of the strategy and to discuss
+of the new organization, full phase-out of
+the future of gas networks, the Group’s ambitions in international
+nuclear power by 2025**, etc.),
+electricity networks and the Group’s research and innovation model.
+ENGIE is in regular dialogue with its shareholders, main institutional • Investments and asset sales (process of sale
+investors and proxy advisors as part of governance roadshows and of EQUANS, sale of interests in ENGIE EPS
+at other times. This dialogue enables the Chairman of the Board SA, ENDEL and GTT. sale of 11.5% in GRTgaz,
+to explain the Group’s strategic orientations and discuss their acquisition in partnership with Crédit Agricole
+expectations. Assurances of Eolia, one of the largest
+Complementary expertise renewable energy producers in Spain),
+The Board’s objective is to ensure that its members are aligned with • Finance and audit,
+ENGIE’s activities, challenges and strategic orientations, thereby
+contributing to the quality of the decisions taken. In 2022, the Board • Governance (takeaways from the dialogue
+of Directors proposed strengthening its societal and environmental between the Chairman and shareholders,
+responsibility and its knowledge of renewable energy by appointing investors and proxy advisors, assessment of
+Marie-Claire Daveu. When this proposed appointment is finalized at the functioning of the Board, etc.),
+the General Shareholders’ Meeting of April 21, 2022, the Board of
+• CSR (CSR targets, climate strategy and net
+Directors* will comprise 15 members, 64% independent members,
+zero commitment, matching of investments
+55% women and four nationalities (Australian, British, Canadian and
+with the Group’s CSR criteria, professional and
+French). ENGIE also ensures that the individual competencies of its
+salary equity policy, etc.).
+directors are wide-ranging and complementary. The page below
+presents the 3 key skills of each director out of the 12 competencies
+selected.
+Directors elected by the General Shareholders’ Meeting Directors elected by the General Shareholders’ Meeting on the recommendation of the French State
+Directors elected by employees to represent employees Director elected by the General S hareholders’ Meeting to represent employee shareholders
+Director representing the French State appointed by decree • (I) Independent directors
+LIST OF THE 12 COMPETENCIES SELECTED:
+General Management Administration of large companies Industrial sector Energy sector Services sector
+Public sector Finance CSR, climate, stakeholder dialogue HR social dialogue
+Digital, innovation, new technologies Geostrategic challenges Regulatory environment
+* In accordance with legal provisions and the applicable Afep-Medef Code, the four directors representing employees or employee shareholders are not taken into account when calculating the ratio of
+independent directors for the Board of Directors and its Committees or when calculating the ratio of women to men on the Board of Directors.
+1 Jean-Pierre Clamadieu (I)
+Chairman of the Board of Directors
+• Seniority on the Board1: 3 years
+55%* 7 • Number of offices held2: 2
+• Attendance rate
+at meetings in 2021: 100%
+WOMEN
+ON THE BOARD 11 2 Catherine MacGregor
+OF DIRECTORS Chief Executive Officer and Director
+9 • Appointed on May 20, 2021
+• No offices held2
+• Attendance rate
+at meetings in 2021: 100%
+3 Fabrice Brégier (I)
+• Seniority on the Board1: 5 years
+• Number of offices held2: 1
+• Attendance rate
+at meetings in 2021: 100%
+10
+12 4 Françoise Malrieu (I)
+• Seniority on the Board1: 10 years
+14
+• No offices held2
+• Attendance rate
+at meetings in 2021: 100%
+5 Ross McInnes (I)
+8 • Seniority on the Board1: 3 years
+• Number of offices held2: 2
+• Attendance rate
+at meetings in 2021: 100%
+13
+3
+6 Marie-José Nadeau (I)
+• Seniority on the Board1: 6 years
+• No offices held2
+• Attendance rate
+at meetings in 2021: 100%
+6 7 Lord Peter Ricketts
+of Shortlands (I)
+• Seniority on the Board1: 5 years
+• No offices held2
+• Attendance rate
+5 at meetings in 2021: 100%
+4
+8 Stéphanie Besnier
+• Appointed on May 19, 2021
+• Number of offices held2: 2
+• Attendance rate
+1 at meetings in 2021: 100%
+2
+9 Patrice Durand
+• Seniority on the Board1: 5 years
+• No offices held2
+• Attendance rate
+at meetings in 2021: 100%
+10 Mari-Noëlle
+Jégo-Laveissière
+• Seniority on the Board1: 6 years
+• Number of offices held2: 1
+• Attendance rate
+at meetings in 2021: 100%
+13
+11 Christophe Agogué 3
+MEETINGS
+• Seniority on the Board1: 3 years
+• No offices held2
+IN 2021 • Attendance rate
+at meetings in 2021: 100%
+100%
+12 Alain Beullier 3
+• Seniority on the Board1: 13 years
+• No offices held2
+PARTICIPATION • Attendance rate
+at meetings in 2021: 100%
+RATE AT BOARD
+OF DIRECTORS’
+MEETINGS 13 Philippe Lepage 3
+• Seniority on the Board1: 7 years
+• No offices held2
+• Attendance rate
+at meetings in 2021: 100%
+14 Jacinthe Delage
+• Elected at the Shareholders’
+BOARD COMMITTEES
+The Board of Directors is supported in its missions by four standing Committees with
+complementary expertise. Solicited on specific subjects in preparation for certain deliberations,
+they provide their recommendations on the decisions to be made. Each Committee is chaired by an
+independent director.
+AUDIT COMMITTEE
+MISSIONS MAIN WORK IN 2021
+Reviews the financial statements and financial position, and reviews internal and external “The Audit Committee recommended
+controls and mapping of significant risks for the Group. a new dividend policy and closely
+monitored changes in the Group’s
+financial guidance, which was raised
+two times in the context of a favorable
+market and a very strong operational
+performance. It focused on priority
+risks, such as nuclear risk, cybersecurity
+100% risk or the industrial risks associated
+Attendance with certain major projects. It held
+several joint meetings with the Strategy,
+rate
+Investment and Technology Committee,
+3 women 2 men 6 meetings
+mainly to review the business plan, the
+75%
+Marie-José Nadeau Christophe Agogué + 5 joint meetings valuation of EQUANS, and the complete
+Stéphanie Besnier Ross McInnes with the SITC Independence exit from nuclear power in 2025*.”
+rate
+Françoise Malrieu Marie-José Nadeau,
+Committee Chair
+Most represented Administration of
+competencies Finance large companies
+STRATEGY, INVESTMENT
+AND TECHNOLOGY COMMITTEE
+MISSIONS MAIN WORK IN 2021
+Gives its opinion on major strategic directions, in particular for the strategic plan. Examines “In addition to the joint meetings with
+projects for external or internal growth or disposal, strategic agreements, alliances or the Audit Committee, which were
+partnerships. Also examines strategic choices with regard to technological developments, particularly numerous in 2021, the
+modernization of industrial equipment or procurement policy and significant real estate SITC worked more specifically on the
+projects. Group's commitments to move away
+from coal, the mechanism governing
+investment decisions in offshore wind
+power and the expected internal rates
+of return in future renewable projects.
+As it does every year, it prepared the
+96%
+Board of Directors' strategy seminar,
+Attendance worked on the look-back of investments
+rate made and examined a series of
+2 women 4 men 7 meetings investment, acquisition and divestment
+60% projects, including the acquisition of
+Marie-José Nadeau Jean-Pierre + 5 joint meetings
+Eolia Renovables, one of the largest
+Stéphanie Besnier Clamadieu with the Audit Independence independent renewable energy
+Patrice Durand Committee rate producers in Spain.”
+Philippe Lepage Jean-Pierre Clamadieu,
+Committee Chair
+Ross McInnes
+Most represented Administration of Industrial
+competencies Finance large companies sector
+APPOINTMENTS, COMPENSATION
+AND GOVERNANCE COMMITTEE
+MISSIONS MAIN WORK IN 2021
+Reviews and makes recommendations regarding the composition and operations of “The ACGC worked to set the Chief
+the Board, the selection of the Chief Executive Officer, the succession plans and the Executive Officer’s annual and long-term
+compensation of the corporate officers. targets, which will now incorporate the
+Group’s climate objectives, in line with
+its purpose. It also amended the annual
+assessment of the Board of Directors to
+include an entire section on the Board’s
+consideration of climate issues. Lastly,
+97% it indicated its support for renewing the
+Attendance Chairman of the Board’s term of office,
+which is set to expire at the 2022
+rate
+General Shareholders’ Meeting. It also
+2 women 3 men 6 meetings
+began the process of selecting a new
+75%
+Françoise Malrieu Alain Beullier female independent director who would
+Stéphanie Besnier Fabrice Brégier Independence have extensive expertise in societal
+rate and environmental responsibility and in
+Lord Peter Ricketts renewable energy.”
+of Shortlands
+Françoise Malrieu,
+Committee Chair
+Most represented CSR, climate, dialogue Administration of
+competencies with stakeholders large companies Finance
+ETHICS, ENVIRONMENT
+AND SUSTAINABLE DEVELOPMENT COMMITTEE
+MISSIONS MAIN WORK IN 2021
+Ensures the Group has the right level of commitment with regard to ethics, CSR compliance, “The EESDC prepared the Board
+and corporate, social and environmental responsibility. Reviews human resources policies decisions on the adoption of a carbon
+and ensures that a corruption prevention and detection system is in place. Ensures that the neutrality target by 2045 covering
+Group takes into account CSR issues and long-term perspectives. not only Scopes 1 and 2 emissions
+but also Scope 3 emissions, moving
+from a 2°C trajectory to a “well below
+2°C” trajectory.” It also examined the
+planned consultation with shareholders
+on the climate transition strategy. This
+resulted in the submission of a specific
+96%
+“Say on climate” resolution to our
+Attendance 2022 General Shareholders’ Meeting.
+rate Lastly, the Committee held several
+3 women 1 man 7 meetings special meetings in response to the high
+66% number of fatal accidents among Group
+Mari-Noëlle Ross McInnes
+employees and subcontractors in order
+Jégo-Laveissière Independence
+to examine each of these accidents and
+rate
+Françoise Malrieu ensure that the necessary measures
+would be taken.”
+Jacinthe Delage
+Ross McInnes,
+Committee Chair
+Most represented Administration of CSR, climate, dialogue
+competencies large companies with stakeholders
+Finance
+A GENERAL MANAGEMENT
+STEERING THE TRANSFORMATION
+The drawing up of ENGIE’s strategy and the operational follow-up of its implementation are
+overseen by two executive bodies: the Executive Committee and the Operational Management
+Committee (OP’COM).
+Catherine MacGregor Paulo Almirante Sébastien Arbola Jean-Sébastien Blanc Frank Demaille Yves Le Gélard
+Chief Executive Officer Executive Vice President in Executive Vice President in Executive Vice President Executive Vice President Executive Vice President
+charge of Renewables, Energy charge of Thermal Generation in charge of Human Resources in charge of Transformation and in charge of Digital and
+Management and Nuclear and Energy Supply activities Geographies Information Systems
+Activities
+Cécile Prévieu Pierre-François Riolacci Edouard Sauvage Jérôme Stubler Claire Waysand
+Executive Vice President in Executive Vice President in Executive Vice President Executive Vice President, Executive Vice President
+charge of Energy Solutions charge of Finance, Corporate in charge of Networks activities project manager reporting to in charge of the General
+activities Social Responsibility (CSR) and the CEO, for the multi-technical Secretariat, Strategy,
+Purchasing services organizational project Research & Innovation,
+Communication
+Two complementary management levels
+MEMBERS COMPOSITION MISSIONS
+• 11 members • Makes strategic
+• 3 women (27%) decisions in line with
+EXECUTIVE • • C Eh xeie cf u E tix ve ec Vut iciv ee P O reffi sic -er • 2 nationalities t Bh oe a rg du i od fe Dlin ire es c ts oe rt s b y the
+COMMITTEE dents • Develops the long-term
+Target: at least vision
+40% women
+and at least 40% men by • Ensures that short-term
+2025 objectives are met
+MEMBERS COMPOSITION MISSIONS
+• Chief Executive Officer
+• Executive Vice Presi-
+Operational dents • Implements ENGIE’s
+Management • Entity CEOs • 54 members strategic decisions
+Committee • Directors of Global Busi- • 14 women (25.9%) • C tra ar nr sie fos rt mhe a tG ior no u p’s
+ness Units, regions and • 12 nationalities as close as possible
+(OP’COM) main countries to the regions
+• Heads of main functional
+departments
+A compensation policy that promotes sustainable performance
+The Group has a compensation policy that is personalized, In 2021, the Chairman’s compensation amounted to a fixed
+fair and competitive for all and which reflects the fee of €0.45 million. The ratio of the compensation for each
+performance and level of responsibility of each person. corporate officer to the average compensation of ENGIE’s
+Compensation of ENGIE’s senior managers is set according employees in France was 9.3x for the Chairman and 54x for
+to strict quantitative and qualitative performance criteria, the Chief Executive Officer.
+which reflect the implementation of the strategy. Each
+year, the compensation policy for managers and corporate
+officers is reviewed by the Board of Directors, based on the
+recommendation of the Appointments, Compensation and
+Governance Committee. It is subject to the approval of the
+Shareholders’ Meeting.
+Annual fixed Annual variable Long-term incentives
+(cash) (cash) (shares or equivalent)
+Chief Executive Officer Financial criteria Non-financial criteria Performance units
+€1 m 65% 35% vesting in 2024
+Success rate: 129% Success rate: 121%
+Amount paid for Growth in NRIGS over 2 years
+2021: €1,000,000 vs panel(1)
+Net recurring 25%
+Organization &
+income, Group
+share strategy: Change in Total Shareholder Return (TSR)
+70% over 3 years vs panel(1)
+25%
+Current 25%
+CSR criteria:
+operating 30% ROCE
+income - Occupational 30%
+25%
+accident frequency
+CSR objectives(2):
+Net economic rate ≤3.1 (10%)
+debt - ➘ in GHG emissions 2
+-
+0 ➘%
+i n GHG emissions from energy
+25% from energy
+production (10%)
+production (10%) - ➚ in % of renewables capacity (5%)
+Free Cash Flow - Outperformance of - ➚ in % of women in management (5%)
+(excl. GEM) five CSR ratings vs
+25% sector (10%)
+Amount paid for 2021: €1,109,0003 120,000 units paid for 2021, valued at
+€880,800 at the grant date
+Maximum amount: 140% of annual fixed Up to 120,000 units
+Other Executive
+Committee members Financial criteria Individual performance criteria
+Based on 65% 35% Performance shares
+experience, awarded under Group plans
+responsibilities Same as those for the Same as those for senior
+and market Chief Executive Officer management including penalty
+(1) Panel: EDP, ENEL, Iberdrola, Naturgy, Snam and RWE - (2) based on the end-2023 target - (3) The overall success rate of 126% corresponds to an amount of €1,259,000. However, given the
+seriousness of the accidents that occurred in 2021 and on the recommendation of the Chief Executive Officer, a 15% reduction in the target bonus, i.e. €150,000, will be applied to the bonus to be
+paid in 2022 for 2021, which will thus be reduced to €1,109,000.
+In 2022, three changes will be made to the Chief Executive Officer’s compensation: performance units will be replaced by
+performance shares; a fourth CSR criterion will be introduced for the annual variable component, relating to the recruitment
+of 35% women managers; and the occupational accident frequency rate criterion will be replaced by a set of three indicators:
+frequency rate, severity rate and number of fatal accidents. Senior managers’ variable compensation is structured around the
+same model as that of the Chief Executive Officer.
+A TRANSVERSAL GOVERNANCE
+OF CLIMATE CHALLENGES
+ENGIE relies on a specific governance of climate issues in order to implement its purpose: acting to
+accelerate the transition to a carbon-neutral economy and achieving its goal of Net Zero Carbon by
+2045. It not only includes specific responsibilities for each body but also the integration of climate-
+related issues into the Group’s investment and planning processes
+Climate governance – Board responsibilities
+BOARD OF DIRECTORS
+Sets the climate strategy and associated objectives
+Ensures that the climate strategy is at the heart of the overall strategy of the company,
+in accordance with the corporate purpose
+Préparent
+Ethics, Environment and Sustainable Strategy, Investment and Technology
+les décisions
+Development Committee du CA Committee
+Reviews the Group's climate objectives, their configuration Integrates the Group's climate issues and climate
+(ambition, definition, scope, deadlines and level of objectives in its investment decision process
+certification) and the monitoring of their implementation
+Examines the risks and opportunities of climate change
+Audit Commitee Appointments, Compensationand
+Identifies priority risks including climate risk Governance Committee
+Reviews financial guidance assumptions, including those Makes Remuneration of the CEO and the beneficiaries
+related to climate of performance shares conditional on specific climate
+Monitors the accounting impact of exceptional weather objective
+events
+Leads the annual Board evaluation, in particular
+Examines the adequacy of insurance coverage of risks
+on the consideration of climate issues
+(including climate risk)
+Climate governance – Executive responsibilities
+EXCOM
+Implements the group's climate strategy / Proposes the group’s climate policy to the Board / Makes arbitrages on climate trajectory between GBUs
+Sponsors each of the 2030 CSR objectives (out of which 6 climate objectives)
+Executive VP
+Executive VPs Executive VP
+in charge of Corporate Secretariat,
+in charge of GBUs (Renewables, Networks, in charge of Finance, Corporate Social
+Strategy, Research & Innovation and
+Energy Solutions, Thermal &Supply) Responsibility and Procurement
+Communication
+Strategy Department Global business Units / entities Finance Department
+Defines carbon price trajectories Ensure the operationalisation of the climate Ensures investment decisions
+Reviews energy market outlooks strategy (investments and divestments, new are consistent with the Group's
+and demand trends products, projects…) climate commitments through their
+Deliver projects and performance in line with compliance with CO2 budgets and
+the climate trajectories (CO yearly budget analysis including carbon pricing
+2
+allocated by the ExCom)
+Ethics & Compliance Department CSR Department
+Leads the group’s vigilance plan Leads climate reporting (including TCFD)
+including climate issues Coordinates the implementation of the climate
+strategy and its compliance with SBT objectives
+and climate adaptation plan
+A GLOBAL RISK MANAGEMENT POLICY
+The diversity of its activities and locations exposes the Group to various risks (see p.16). To limit
+their occurrence, minimize their impact and anticipate them, ENGIE has a global risk management
+policy.
+This policy lays out ENGIE's ambition to “control its risks management system in the activities and entities it controls,
+in order to ensure its performance” and advocates taking in compliance with the governance rules applicable to each
+risks that are legally reasonable, acceptable to the public entity. The annual risk assessment process is organized as
+and economically bearable. The Group applies its global risk follows:
+RISK REVIEW ANNUAL RISK NEW RISK REVIEW
+IN THE EXECUTIVE COMMITTEE’S MANAGEMENT CAMPAIGN presented to the Executive Committee
+RISK COMMITTEE that communicates the trajectories to and then to the Audit Committee.
+based on feedback from operating consider for risk management during The Audit Committee gives an opinion
+entities and functional departments the year launched throughout the Group. on the effectiveness of the risk
+and backed up by interviews with senior Emphasis on priority risks, management system and reports to
+management and a review of publications each of which is coordinated the Board of Directors
+by external analysts by an Executive Committee member
+A robust and scalable crisis management system A vigilance plan managed at the highest level
+In order to deal effectively with the occurrence of all The Group has a broad range of measures in place to prevent
+types of crises, ENGIE has set up a whistle-blowing and violations of human rights, fundamental freedoms, the
+alert system based on the reporting and analysis of major environment and human health and safety in connection
+incidents and the establishment of a decision-making with its activities and those of its subsidiaries. The vigilance
+process to manage the crisis at the appropriate level. This plan is deployed by a specific interdepartmental committee
+system was revised following the implementation of the which reports annually to the Ethics, Environment and
+Group’s organization into Global Business Units (GBUs) on Sustainable Development Committee of the Board of
+July 1, 2021. Directors on its implementation. In 2021, ENGIE continued
+its action to prevent, wherever possible, the risks identified
+The Covid-19 crisis demonstrated the Group’s ability to
+throughout its value chain:
+anticipate events. It came up with quick and effective
+responses to the problems created by the transnational
+nature of the crisis. Throughout the pandemic, we ensured
+the protection of personnel and sites, as well as the safety
+of the supply chain.
+ENVIRONMENT HEALTH, SAFETY
+HUMAN RIGHTS SUPPLIERS
+AND SOCIETAL AND SECURITY
+• Face-to-face and • Face-to-face and e-learning • Deployment of the Group’s • 100% preferred and major
+e-learning training on training on the environment new health and safety action suppliers assessed.
+human rights for the (in partnership with France plan for 2021-2025. • Ethics training for buyers in
+entire Group. Nature Environnement) and • Reinforcing the prevention of their relations with suppliers
+• Coverage of the annual on stakeholder engagement serious and fatal accidents, with the Ethics & Compliance
+human rights risk form: and sustainability challenges. particularly those related to Department (459 people
+95% E-learning on biodiversity electrical risks. trained via TEAMS and
+• Due diligence (with available to all employees. • Roll-out of nine commitments seven mandatory e-learning
+regard to human rights • Update of the CSR matrix proposed to employees with sessions).
+risk) on partners in aimed at integrating the the aim of improving the • Specific in-depth vigilance
+connection with the climate, environmental Quality of Life at Work. action plan to identify and
+Group’s Investment and societal dimensions • Roll-out of an updated version manage the risks of forced
+Committees: 100% into investment decisions. of the personal safety incident labor practices in the Group’s
+• Alerts received through It ensures the quality and reporting tool as part of the supply chains located in China.
+transparency of the CSR
+the whistle-blowing continuous improvement of • Promotion of inclusive
+information presented to the
+mechanism (in 2021, the process of risk mitigation, purchasing.
+decision-making committees,
+46 of these alerts prevention and response to
+clearly identifies the main
+concerned issues potential incidents.
+CSR risks/opportunities and
+related to the duty of
+addresses them throughout
+vigilance).
+the life cycle of a project.
+STATUTORY AUDITORS’ ASSURANCE REPORT ON SELECTED SOCIAL
+AND ENVIRONMENTAL INFORMATION PUBLISHED IN THE 2022
+ENGIE INTEGRATED REPORT
+Pursuant to your request and in our capacity as Statutory Auditors of Responsibility of the Statutory Auditors
+ENGIE (the “Company”), we performed a review in the aim of providing
+Based on our work, our responsibility is :
+limited and reasonable assurance on a selection of environmental and
+social indicators identified by the symbols n1 and n n2 respectively (the • To express a reasonable assurance on the fact that the Information has
+been prepared, in all material respects, in accordance with the Repor-
+“Information”) in the 2022 integrated report for the fiscal year ended
+ting Criteria. The conclusions expressed here above cover only this
+December 31, 2021.
+Information and not all of the information set forth in the integrated
+report;
+Conclusion
+• to express a limited assurance on the fact that the Information has
+Reasonable assurance been prepared, in all material respects, in accordance with the Repor-
+In our opinion, the Information selected by the Company and identified ting Criteria. The conclusions expressed here above cover only this
+by the sign n n in the 2022 integrated report, has been prepared, in all Information and not all of the information set forth in the integrated
+material aspects, in accordance with the criteria used by the company report.
+(hereinafter the “Reporting Criteria”).
+Nature and scope of procedures
+Limited assurance
+We carried out the work described below in order to obtain:
+Based on the procedures performed, nothing has come to our attention
+• a reasonable assurance that the Data selected by the Company and
+that causes us to believe that the Information selected by the Company
+and identified by sign n in the 2022 integrated report, has been pre- identified by the sign n n are fairly presented with no material anomaly
+in accordance with the Reporting Criteria, in all material respects;
+pared, in all material aspects, in accordance with the Reporting Criteria.
+• a limited assurance that the Data selected by the Group and identified
+by the sign n are fairly presented with no material anomaly in accor-
+Responsibility of the Company
+dance with the Reporting Criteria, in all material respects. A higher level
+The Information has been prepared under the responsibility of ENGIE of assurance would have required us to carry out more extensive.
+executive management, in accordance with the Reporting Criteria for We asked our experts in corporate social responsibility to assist us in the
+social and environmental reporting data, available upon request at the work described below:
+Company’s headquarters from the Group Environmental and Social Res- • We have assessed the appropriateness of the Reporting Criteria with
+ponsibility Department, the Group Health and Safety Department and respect to its relevance, completeness, reliability, neutrality and clarity,
+the Group Human Resources Department. by taking into consideration, when relevant, the sector’s best practices;
+• We have verified the set-up of a process to collect, compile, process, and
+Applicable regulatory provisions and professional check the completeness and consistency of the Information;
+• We have consulted the documentary sources and have interviewed the
+The work described below was performed in accordance with the pro- relevant staff from the Group Environmental and Social Responsibility
+fessional guidance issued by the French Institute of Statutory Auditors Department, the Group Health and Safety Department and the Group
+(Compagnie Nationale des Commissaires aux Comptes) relating to this Human Resources Department in order to analyze the deployment and
+engagement and with the international standard ISAE 3000 (revised)3. application of the Reporting Criteria;
+• We have set up analytical procedures on the Information and verified,
+Independence and quality control using sampling techniques, the calculations as well as the consolidation
+of Information;
+Our independence is defined by regulatory texts, the French Code of
+• We have tested the Information for a representative sample of entities
+Ethics for Statutory Auditors (Code de déontologie) and the require-
+that we selected4 based on their activity, their contribution to the conso-
+ments of the French Commercial Code. In addition, we have imple-
+lidated Information, their location and a risk analysis. We have conduc-
+mented a system of quality control including documented policies and
+ted interviews to verify the proper application of procedures and
+procedures aimed at ensuring compliance with ethical requirements,
+conducted substantive tests, using sampling techniques, to verify the
+French professional standards and applicable legal and regulatory requi-
+calculations performed and reconcile data with supporting evidence.
+rements.
+• The selected sample represented :
+- reasonable assurance: 40% of the workforce and between 23% and 50%
+of the environmental Information tested;
+- limited assurance: 40% of the workforce and between 3% and 73% of the
+environmental Information tested.
+Paris-La Défense, March 16, 2022
+The Statutory Auditors
+DELOITTE & ASSOCIES ERNST & YOUNG et Autres
+Nadia Laadouli, Associée • Patrick E. Suissa, Associé Charles-Emmanuel Chosson, Associé • Guillaume Rouger, Associé
+1 - Social and Health & Safety Information: Number of hours of training, Work-study trainees in 4 - For social Information:
+the workforce, Number of permanent contract and fixed-term hires, Voluntary turnover, Lost- Audits performed at intermediary consolidation level: Germany, Italy, Romania, Asia, Australia,
+time accident frequency rate for employees and subcontractors on sites with controlled access, Middle-East, South America, Tractebel
+Number of fatal accidents (employees), Overall employment rate of employees with disabilities Audits performed at entity level: INEO, ENGIE Services Chile, Cofely Services (Belgium), MCI,
+in France. ENGIE Servizi, ENGIE Insight Services, Cofely Besix FM LLC (United Arab Emirates), Munich
+Environmental Information: Total consumption – freshwater and non-freshwater, Non-hazardous Building Technologies Topco GmbH, Tractebel Engineering Pvt Ltd (India), GRDF, Electrabel –
+waste recovery rate, NOx emissions, SO2 emissions, Fine particle emissions. Nuke, Electrabel M&S Belgium, DGP, DCP, ENGIE Home Services
+2 - Social and Health & Safety Information: Number of employees, Internal lost-time occupational For Health and Safety Information:
+accident frequency rate for employees , Women in the workforce, Women in management Audits performed at intermediary consolidation level: Energy Solutions
+position, Trained workforce, Managerial staff in the workforce, Workforce with permanent Audits performed at entity level: ENGIE Soluções, ENGIE Services Chile, GRDF, Electrabel – Nuke,
+contracts. ENGIE Home Services, GRTgaz
+Environmental Information: Primary energy consumption – total, Total GHG emissions -Scope 1, For environmental Information: Compagnie Nationale du Rhône (CNR), CN’AIR, Cofely Installation in
+Total GHG emissions - Scope 2, Hazardous waste recovery rate. West-North Territory, ENGIE energy production and distribution subsidiaries – West-North Territory,
+3 - ISAE 3000 (révisée) - Assurance engagements other than audits or reviews of historical Compagnie Parisienne de Chauffage Urbain (CPCU), Valaxion, DK6 (Dunkirk), EEMS, Maxima,
+Operational Indicators 2021
+2019 2020 2021 without
+EQUANS
+Installed electricity generation capacity (GW)(1) 96.8 101 100.3 100.3
+Capacity under construction (GW)(1) 6.3 4.2 3.6 3.6
+Installed renewables capacity (%)(1) 27.8 31.2 34 34
+Installed renewables capacity (GW)(1) 27 31.1 34.4 34.4
+- of which hydro (excl. pumped storage) 16.3 17.9 17.9 17.9
+- of which wind 7.4 10.1 11.8 11.8
+- of which solar 2.6 3.1 4.1 4.1
+- of which biomass/biogas 0.6 0.4 0.3 0.3
+Net Promoter Score of BtoC customers
+France (13.3 million contracts in 2021) +4 +4 +19 +19
+Belgium (4.2 million contracts in 2021) -9 -1 +2 +2
+Italy (0.8 million contracts in 2021) N/A +19 +29 +29
+Romania (2.8 million contracts in 2021) +49 +50 +49 +49
+Australia (0.7 million contracts in 2021) N/A N/A +5 +5
+R&D expenditure (€ m) 189 190 138 138
+Gas sales (TWh)(2) 323 330 371 371
+Electricity sales (TWh)(2) 193 195 215 215
+Electricity production (TWh)(1) 433 400 426 426
+Load factor of gas stock (%) 57 56 55 55
+Load factor of coal stock (%) 41 49 55 55
+Availability of nuclear power plants (%) 79 63 92 92
+RAB distribution France (€ bn) (3) 14.8 14.9 15.3 15.3
+RAB transmission France (€ bn) (3) 8.9 8.8 8.6 8.6
+RAB storage France (€ bn) 3.7 3.7 3.8 3.8
+RAB LNG terminals France (€ bn) 1.0 0.9 0.9 0.9
+Quantity of energy distributed by GRDF (TWh) 274.9 256.2 276.8 276.8
+Storage capacity sold (TWh) 118.2 120 118.6 118.6
+Length of distribution networks (km) 252,279 254,294 267,594 267,594
+Length of GRDF network (km) 201,719 202,759 204,233 204,233
+Length of transmission networks (km) 39,345 39,352 39,360 39,360
+Length of GRTgaz network (km) 32,527 32,519 32,727 32,727
+Facilities – Order book (€ m) 10,347 10,726 11,072 1,581
+Engineering – Order book (€ m) 786 941 784 784
+Financial indicators
+2021*
+* Data as published 2019* 2020*
+without EQUANS
+Revenues (€ bn) 60.1 55.8 57.9
+EBITDA (€ bn) 10.4 9.3 10.6
+EBIT (€ bn) (4) 5.8 4.6 6.1
+Net recurring income/(loss), Group share (€ bn) (5) 2.7 1.7 2.9
+Gross investment (€ bn) 10.0 7.7 8
+of which growth investments (€ bn) 7.2 4.0 4.3
+of which maintenance investments (€ bn) 2.6 2.4 2.4
+of which nuclear provisions 0.2 1.3 1.3
+Cash flow from operations (CFFO) 7.6 7.1 6.3
+Net economic debt (€ bn) 41.1 37.4 38.3
+Net economic debt/EBITDA 4.0x 4.0x 3.6x
+Ordinary dividend for year N paid in year N+1 (€/share) 0 0.53 0.85
+(1) Counted at 100% regardless of the ownership interest
+(2) Sales figures are consolidated in accordance with accounting standards
+(3) Regulated Asset Base as of January 1
+(4) Current operating income after share in net income of equity method entities
+(5) Cash Flow From Operations: Free cash flow before maintenance CAPEX
+Environmental indicators 2021
+2019 2020 2021 without
+EQUANS
+n n Total GHG emissions – Scope 1 (Mt CO eq) 46.2 38.6 37.5 35.8
+2
+of which emissions from energy production (controlled assets) 43.7 36.4 35.2 33.7
+of which CH emissions 1.7 1.5 1.6 1.6
+4
+n n Total GHG emissions – Scope 2 (Mt CO eq) 2.5 2.3 1.9 1.9
+2
+Total GHG Emissions – Scope 3 (Mt CO eq) 124.3 124.7 126.9 121.8
+2
+of which use of products sold 60.9 61.5 65.5 65.5
+of which emissions from energy production (equity-accounted assets) 31.1 31.2 31.5 31.5
+CO emission ratio – Energy production – Scopes 1 and 3
+2 268 266 244 240
+(g CO eq/KWh eq)
+2
+n NOx emissions (kt) 52.8 49.0 49.8 48.8
+n SO emissions (kt) 124.3 119.6 106 106
+2
+n Fine particle emissions (kt) 4.7 6.3 5.8 5.7
+Mercury emissions (kg) 312 305 198 194
+n n Primary energy consumption – Total (excluding own
+343 285 318 314
+consumption) (TWh)
+n Total consumption – freshwater and non-freshwater (mm3) 94 77 96 96
+Rate of reduction in the water consumption of industrial
+0 -19 +1.8 +1.9
+activities compared with 2019 (%)
+Environmental risk prevention plan (% of relevant revenues) 80.4 82.7 84.2 95.8
+Environmental expenditure (€ m) 466 553 633 529
+Environment-related complaints (no.) 10 6 13 11
+Environment-related convictions (no.) 1 2 2 2
+Amount of compensation (€ k) 13 14 697 697
+n Non-hazardous waste recovery rate (%) 68 76 84 85
+n n Hazardous waste recovery rate (%) 31 30 15 16
+Certified environmental management system (% of relevant revenues) 72.4 75.7 75.6 75.2
+Carbon footprint of ENGIE working methods (ktCO eq.) 684 493 579 579
+2
+Electricity consumption of buildings (GWh) N/A 297 252 252
+Share of green vehicles in the vehicle fleet (%) N/A N/A 3 3
+Social indicators 2021
+2019 2020 2021 without
+EQUANS
+n n Number of employees 171,103 172,703 171,474 101,504
+n n Managerial staff in the workforce (%) 25.1 26.2 26.7 30.2
+n n Workforce with permanent contracts (%) 90.3 90.4 90.0 91.4
+n No. of permanent contract and fixed-term hires 37,189 29,481 33,806 15,522
+n Voluntary turnover (%) 7.1 5.4 7.4 5.2
+n n Internal lost-time occupational accident frequency rate
+3.7 3.0 3.2 2.8
+for employees
+n Lost-time accident frequency rate for employees
+3.3 2.7 2.9 2.5
+and subcontractors on sites with controlled access
+n Accident severity rate (employees) 0.14 0.11 0.11 0.09
+n Number of fatal accidents (employees) 2 3 4 2
+Number of fatal accidents (subcontractors) 2 3 12 11
+Health and safety prevention rate 0.42 0.59 0.58 0.65
+n n Women in the workforce (%) 20.9 21.5 21.8 25.1
+n n Women in management positions (%) 23.5 24.1 24.6 28.9
+Gender equity index
+France 72 87 89 89
+International 72 80 82 83
+n n Trained workforce (%) 69.2 70.1 81.9 82.0
+n Hours of training (no.) 3,271,154 2,963,242 3,468,907 2,254,023
+n Work-study trainees in the workforce (%) 3.3 3.6 3.8 3.9
+n Overall employment rate of employees with disabilities in France (%) 4.3 3.7 3.4 N/A
+Employee engagement (%) 80 83 83 83
+Societal indicators 2021
+2019 2020 2021 without
+EQUANS
+Share of activities, projects and sites being dismantled with a societal
+N/A 10 36 37
+plan (%)
+Share of activities, projects and sites that are being decommissioned
+N/A 21 37 38
+with an environmental plan in consultation with stakeholders (%)
+Responsible Purchasing Index (including CSR assessment and inclu-
+N/A 18 40 40
+sive purchasing and excluding energy purchases)
+Number of Elec Vert+ customers in France (2024 target: 300,000) N/A 15,000 53,000 53,000
+Number of customers in France who joined “Mon programme pour
+168,000 85,000 85,000
+agir” (target: 1.2 m)
+Beneficiaries with access to affordable, reliable, and clean energy
+4 6 7 7
+from 2018 (excluding the Rassembleurs d’Énergies fund) (m)
+Governance indicators 2021
+2019 2020 2021 without
+EQUANS
+Number of directors (post-Shareholders’ Meeting in year N+1) 13 14 15 15
+Number of nationalities represented on the Board of Directors
+4 4 4 4
+(post-Shareholders’ Meeting in year N+1)
+Attendance rate on the Board of Directors (%) 95 98 100 100
+Independence rate of the Board of Directors (%) (post-Shareholders’
+67 60 64 64
+Meeting in year N+1)
+Gender diversity rate of the Board of Directors (%) (post-Sharehold-
+40 50 55 55
+ers’ Meeting in year N+1)
+Senior managers trained in combating corruption (%) 91 86 96 96
+Training of staff most exposed to the risk of corruption (%) 25 21 51 49
+(7) Subject to approval of the resolutions at the General Shareholders’ Meeting of April 21, 2022
+This message includes forward-looking information and statements. Acknowledgments
+Such statements include financial projections and estimates, the
+The Societal Responsibility Department would like to thank all
+assumptions on which they are based as well as statements about
+stakeholders, customers, investors and NGOs for their contributions
+projects, objectives and expectations regarding future operations,
+to this new Report. It would particularly like to thank the teams from
+products or services, or future performance. Although ENGIE’s
+the following departments: Finance, Human Resources and Global
+management believes that these forward-looking statements are
+Care, Strategy, Brand and Communication, Risk, General Secretariat,
+reasonable, investors and ENGIE shareholders should be aware that
+Research & Innovation, Strategic Sourcing & Supply, Ethics,
+such forward-looking information and statements are subject to many
+Compliance and Privacy, as well as the GBU and persons interviewed.
+risks and uncertainties that are generally difficult to predict and
+beyond the control of ENGIE and may cause results and developments
+to differ significantly from those expressed, implied or predicted in the
+forward-looking statements or information. Such risks include those
+explained or identified in the public documents filed by ENGIE with
+the French Financial Markets Authority (AMF), including those listed
+in the “Risk Factors” section of the ENGIE 2021 Universal Registration
+Document filed with the AMF on March 9, 2022
+This document was produced by an
+environmentally responsible printer on paper
+from a certified source. It is available on the
+website ENGIE.com, where all the Group’s
+publications can be consulted.
+Design and creation:
+Photo and infographic credits: ENGIE • Adobe Stocks
+Date of publication: April 21, 2022
+Targeted communication for each of our stakeholders
+Investors and analysts Individual shareholders
+Key accounts (industrial and public authorities) and individual customers
+Industrial partners and suppliers Employees Public authorities NGOs and civil society
+Integrated Report Universal Annual results
+Registration for 2021
+Document
+Targets: Targets: Targets:
+Sustainability Climate Energy transition
+Book Report dashboard
+Targets: Targets: Targets:
+Join the community of Imaginative Builders
+1 Place Samuel de Champlain, Fbg de l’Arche
+92930 Paris la Défense Cedex
+France
+www.engie.fr

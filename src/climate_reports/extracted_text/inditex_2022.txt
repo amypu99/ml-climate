@@ -1,0 +1,948 @@
+5.5. Environment
+GRI 2-23; AF5
+Related material topics: Stakeholder engagement; Innovation; Climate
+change; Environmental footprint minimisation; Protection of natural
+resources.
+Our sustainability strategy encompasses numerous initiatives those of our partners and suppliers; the promotion of
+aimed at preserving the planet, reducing pressure on natural environmental awareness; and compliance with applicable
+resources and contributing to the fight against climate change. environmental legislation (as well as other obligations that may
+In 2022, we achieved our goal of 100% renewable electricity in be established).
+our facilities1. In this regard, we also highlight the VPPA (Virtual
+Power Purchase Agreement) signed for the supply of 100% These principles of action are embodied in our three
+renewable electric power which promotes additionality2, by environmental strategies—Energy, Water and Biodiversity—as
+generating new renewable energy capacity in Spain. well as in the commitments we have acquired with respect to
+forest products, as set out in our Forest Product Policy.
+We also work with our suppliers and other organisations in the
+industry to foster the implementation of specific improvement
+plans in our supply chain. In 2022, we launched a first pilot of our
+Collaboration Programme for Environmental Improvement
+aimed at transforming the supply chain and reducing its
+environmental impact, with a particular emphasis on water,
+polluting discharges, management of chemical products and
+energy, involving 208 key facilities. These plans enable us to
+optimise the use of fresh water and energy, which in turn
+reduces the associated emissions. This year, we have reduced
+the relative water consumption (l/kg) in our supply chain by 17%
+with respect to 2020.
+Furthermore, we are mindful of the particular relevance of
+protecting biodiversity, not only because of our specific
+business, but also because it is an essential element for the
+conservation and well-being of society and the planet. We
+contribute to protecting and caring for biodiversity through a
+number of initiatives, such as our involvement in the LEAF
+Coalition, a project on regenerative agriculture and the
+restoration of ecosystems in India, or our work with World Wide
+Fund for Nature (WWF) and Canopy.
+Our Sustainability Policy3 establishes the principles of
+environmental action, applicable across all business areas and
+throughout the value chain. It establishes as a fundamental
+principle the preservation of the environment through the
+implementation of continuous improvement actions in aspects
+such as emissions to air, consumption of resources, use of
+chemicals and waste management.
+Notable among these are the consideration of environmental
+variables in the planning and development of our activities and
+1 This includes all our own facilities (headquarters, logistics centres, factories and stores), with the exception of international offices.
+2 Additionality is a feature of power purchase mechanisms whereby the construction of new renewable energy generation infrastructure that would otherwise not be
+guaranteed to be developed is promoted.
+3 Our Sustainability Policy replaces the previous Environmental Sustainability Policy, the amendment of which was approved by the Board of Directors on 14 December
+2020.
+The current challenges call for swift and coordinated action by
+all. In this regard, Inditex works closely with organisations such
+as the MIT through the Climate and Sustainability Consortium,
+The Fashion Pact, the UN Fashion Industry Charter for Climate
+Action, Textile Exchange and Zero Discharge of Hazardous
+Chemicals (ZDHC), among others.
+i More information in section
+4.2.1. Partnerships of this Report.
+A fundamental aspect when implementing our strategies and
+achieving our environmental sustainability goals is to spread the
+sustainability culture to all our teams. In 2022, we continued to
+provide training and raise awareness among our staff. Overall,
+more than 13,000 employees received environmental
+sustainability training in 2022.
+5.5.1. Our approach to energy management and
+emissions reduction
+It is worth noting that, in 2022, 100% of the electricity consumed
+GRI 2-23; 3-3; 302-1; 302-2; 302-3; 302-4; 302-5; 304-2; 305-1; in our own facilities (headquarters, logistics centres, factories
+305-2; 305-3; 305-4; 305-5; 305-6; 308-2; AF5; AF21 and stores) came from renewable sources.
+Progress and current situation
+At Inditex we understand the need to make an unprecedented
+In the last few years, we have developed a number of initiatives
+global effort to reduce greenhouse gas (GHG) emissions and
+that have enabled us to advance on our path towards a low-
+mitigate the consequences of global warming and climate
+carbon economy and to reduce greenhouse gas emissions
+change as much as possible. We are therefore constantly
+throughout our value chain.
+seeking solutions that allow us to evolve our processes and
+implement best practices so as to ease the pressure on
+resources.
+Scope 1, 2 and 3 GHG emissions (tnCO eq)1
+2
+GHG emissions 2022 2021 2020 2019 2018 2022-2018 change
+Scope 1 11,232 14,575 11,859 15,804 19,172 -41%
+Scope 2
+0 47,770 98,676 293,981 419,448 -100%
+market-based
+Scope 2
+451,430 541,492 363,717 589,547 651,266 -31%
+location-based
+Scope 3 17,223,485 17,097,801 13,341,462 17,988,897 18,325,553 -6%
+Kg CO₂eq per m²
+(market-based 2 8 14 39 58 -97%
+scope 1+2)
+g CO₂eq per €
+(market-based 0 2 5 11 17 -98%
+scope 1+2)
+g CO2eq per €
+(market-based 531 619 659 647 718 -26%
+scope 1+2+3)
+1. For more information on this methodology, see section 7.1.3. Environmental impact management indicators of this Report. Our decarbonisation targets and progress
+towards them have not been significantly affected by the current situation of Russia and Ukraine.
+Scope 1 emissions: direct emissions related to sources under 2019, respectively).
+the direct control of the Inditex Group (combustion in boilers,
+own vehicles, etc.).
+GHG Emissions: Scopes 1, 2 and 3
+Scope 2 emissions: indirect emissions related to the generation
+Scope 1: 0.1%
+of electricity acquired and consumed. Franchises: 0.7%
+Business travel: 0.2% Scope 2: 0.0%
+Scope 3 emissions: include other indirect emissions linked to Material production:
+Use of sold products:
+12.8%
+the supply chain of goods and services produced, distributed 20.1%
+and marketed outside the Organisation. For greater
+End-of-life treatment
+transparency, the “purchased goods and services” category, of sold products: 1.3% Wet processes: 20.4%
+17,235 KTn
+according to the GHG Protocol, is subdivided into the following
+Finished product CO₂ EQ
+categories: raw material extraction, raw material processing,
+assembly: 4.4%
+material production, wet processes and final product assembly.
+Other*: 5.7%
+Scope 3 also includes emissions linked to the transportation of
+the products we market. In 2022, the emissions associated with T (ur pa sn ts rp eo amrt )a : n 8d .4 d %istribution R exa tw ra m cta iot ne :r i 1a 3l .4%
+upstream inbound transport and upstream outbound transport Raw material
+processing: 12.6%
+were equivalent to an energy consumption of 1,791,523 MWh
+and 4,031,013 MWh, respectively (3,357,983 MWh and 3,953,264
+* The “Other” category includes GHG emissions associated with the categories of
+MWh in 2021; 2,802,639 MWh and 3,218,377 MWh in 2020; and capital goods, employee commuting, fuel and energy related activities, and waste
+3,431,069 MWh and 4,306,576 MWh in 2019). Electricity generated in own operations.
+consumption in franchised stores amounted to 262,397 MWh
+and business travel consumption was 130,381 MWh
+(242,439 MWh and 63,839 MWh in 2021; 150,114 MWh and
+18,488 MWh in 2020; and 226,520 MWh and 218,274 MWh in
+Ambition and goals use of renewable energy.
+Our Roadmap includes numerous targets to achieve headway
+We want to be an active part of the change, mindful as we are of
+in fighting climate change and preserving the planet. In the long
+the complexity of the challenges, such as the inherent difficulty
+term, the Group aims to achieve net zero carbon emissions by
+of the lack of availability of renewable energies in the markets in
+2040. To do so, we are focusing our efforts on reducing
+which our value chain is deployed, the opportunities and the
+emissions, following SBTi guidelines and our commitment to the
+increased scientific knowledge available. That is why we
+Fashion Industry Charter for Climate Action, in alignment with
+regularly review our models and targets to ensure that they are
+the Paris Agreement goal on limiting global warming to 1.5°C.
+consistent with our own ambition, our stakeholders’
+expectations and the latest scientific evidence.
+In the medium term, we have set science-based
+decarbonisation targets (SBTs), approved by the Science-Based Although at the time of their approval our SBTs were classified
+Targets initiative (SBTi). These targets aim to reduce our scope 1 as "ambitious" by SBTi, the available scientific evidence has
+and 2 emissions by 90% by 2030 compared to 2018, and to evolved and the level of ambition and demands of all
+reduce our scope 3 emissions (in the supply chain category) by stakeholders has increased, and with it also our own.
+20% over the same period. Consequently, we are currently in the process of updating our
+medium-term commitments to align the reduction percentages
+In 2022 our scope 3 emissions, and in particular those with the updated SBTi criteria, and thus move further towards
+associated with the supply chain category, have remained the 1.5ºC reduction target across all three scopes. We will
+broadly stable compared to 2018. We are aware that there is still present the results of this process over the course of 2023.
+some way to go in this area and have therefore increased our
+efforts in this category in 2022. Of particular note is the launch of In this regard, in 2023 we will publish our decarbonisation plan,
+our Collaborative Programme for Environmental Improvement including the action lines, intermediate targets and resources
+of the supply chain, which has a specific focus on reducing needed to reach our goal of net zero emissions by 2040.
+energy consumption and associated emissions, as well as the
+In 2022, we signed up to the new targets set by the United Nations Fashion Industry Charter for Climate Action, which
+include, among others, the following:
+/To support the goals of the Paris Agreement in limiting global temperature rise to well below 1.5°C; to commit to SBTi
+approved GHG emission reductions in scope 1, 2 and 3 in line with the latest SBTi criteria and recommendations; and
+to undertake to achieve net zero emissions by 2050 at the latest;
+/100% of priority materials must be preferred and low-climate-impact by 2030. This includes materials that are closed-
+loop recycled, deforestation- and conversion-free at source, that come from regenerative practices and to which the
+relevant verification and impact measurement mechanisms have been applied;
+/To eliminate the use of coal in our own operations and in suppliers' facilities (tier 1 and 2) by 2030, avoiding the
+installation of new coal-fired equipment from 2023 onwards.
+In addition, we continue to work on the integration of the
+recommendations of the Task Force on Climate-Related i More information in section
+Financial Disclosures (TCFD). We analyse future climate 6.3.4. Climate change: risks and opportunities of this Report.
+scenarios and the associated risks and opportunities to pursue
+a decarbonisation strategy that is in line with science, resilient
+and competitive in the short, medium and long term.
+Our actions Global energy consumption by type (MWh):
+Year Electricity Natural Gas Other fuels
+The impact of greenhouse gas emissions (GHG) is closely linked
+to the methods of energy generation and consumption in our 2018 1,865,074 103,724 329
+own operations and in the value chain, to the materials we use in 2019 1,807,556 84,627 764
+our products and to their end of life. Our approach to reducing 2020 1,206,543 63,905 256
+these emissions is based on three key lines of action:
+2021 1,678,957 72,050 5,203
+/Monitoring consumption and associated emissions: gauging 2022 1,636,795 49,269 8,753
+our impact more accurately and reliably gives us a better
+understanding of our current situation and how the measures Electricity consumption in corporate headquarters,
+we implement perform. logistics centres and own factories:
+/Lower-impact consumption alternatives: with a focus on Relative
+Total electricity Relative electricity
+energy procurement, but also on the materials and designs of Financial consumption consumption (kWh/ electricity
+year consumption
+our products and facilities. (MWh) m²)
+(Wh/€)
+/Efficiency and optimisation initiatives: by using less energy- 2018 159,434 50 6
+intensive equipment and techniques, and replacing process 2019 175,308 49 6
+with others that have a lower impact. 2020 163,897 46 8
+2021 175,217 48 6
+5.5.1.1. Monitoring consumption and associated emissions
+2022 176,432 48 5
+Inditex’s Global Energy Strategy constitutes one of the main
+pillars of our commitment to decarbonisation. Its purpose is to
+Electricity consumption at our stores:
+promote the rational and efficient use of energy throughout the
+value chain. At the same time, we propose to reduce
+Global Relative
+greenhouse gas emissions and help mitigate their effects. Financial electricity Relative electricity electricity
+consumption in
+year consumption in consumption in
+stores (kWh/m²)
+The Group’s global energy consumption at our corporate stores (MWh) stores (Wh/€)
+headquarters, own factories, logistics centres and own stores 2018 1,705,639 394 65
+amounted to 1,694,817 MWh4 in 2022, of which 1,636,795 MWh
+2019 1,632,248 371 58
+came from renewable sources. This implies a 13% reduction in
+2020 1,042,646 252 51
+relative energy consumption per square metre with respect to
+2021 1,503,739 363 54
+2018, evidencing the energy efficiency efforts implemented by
+the Group. 2022 1,460,363 389 45
+Global energy consumption:1 Environmental Management System
+Efficiency is a priority at all the Group’s facilities. Our
+Global energy Relative energy Relative energy
+Year consumption consumption (kWh/ consumption Environmental Management System (EMS) is a core pillar of our
+(MWh) m²) (Wh/€) commitment to using renewable energy and circular
+2018 1,969,127 262 75 management models. Certified to ISO 14001 international
+standard, the EMS is implemented in 100% of the Group’s
+2019 1,892,947 237 67
+corporate headquarters, own logistics centres and own
+2020 1,270,704 165 62
+factories. Inditex has a team of 26 people to prevent
+2021 1,756,210 225 63
+environmental risks linked to these facilities, and to monitor and
+2022 1,694,817 228 52 assess the proper implementation of the EMS.
+1. This indicator records all the energy consumed at our Group’s own factories,
+stores, own logistics centres and by our own vehicles. In 2022, 2021, 2020, 2019 and 2018, no significant penalties or
+fines were imposed for breaches of current environmental
+regulations. Moreover, the Group does not have facilities in
+protected areas.
+Risk Management and Control Policy
+Inditex's Risk Management and Control Policy, which has been
+in force since 2015 and was last modified in 2020, affects the
+entire Group and forms the foundation of an Integrated Risk
+Management System (IRMS). It establishes the basic principles,
+key factors and general framework for action to manage and
+control risks affecting the Group, including climate risks.
+4 The electricity consumption in stores has been calculated on the basis of actual billing data. For those stores or periods for which we do not have information available, it
+has been estimated considering average consumption. This indicator records all the energy consumed at our Group’s own factories, stores, own logistics centres and by
+our own vehicles.
+At year-end, we had several active photovoltaic generation
+i More information in section plants and a wind turbine generator which generated 7,756
+6.3.4. Climate change: risks and opportunities of this Report. MWh of electricity (5,920, 1,373, 811 and 575 MWh in 2021, 2020,
+2019 and 2018, respectively), i.e. 31% more than in 2021, and with
+the following installed capacities: 3 MW in Lelystad, 1 MW in the
+Bearing our business activity in mind, the Group has no employee car park at our Arteixo Central Services facilities,
+liabilities, expenses, assets, provisions or contingencies of an 850 kW of wind power at Arteixo Central Services and 100 kW in
+environmental nature that could play a significant role in terms the Arteixo Technology Building, 200 kW in the headquarters of
+of the net assets, the financial situation and results of the Zara.com and Zara Man, 30 kW in the Tempe 1 centre, 200 kW
+Company. For this reason, such specific breakdowns are not in the Tempe 3 centre, 200 kW in the Tempe 3S centre and
+included in this Report. 100 kW in A Laracha fabric warehouse.
+5.5.1.2. Lower-impact energy consumption alternatives We also have a co-generation plant, which enables the
+The generation and acquisition of energy from renewable simultaneous production of heat and energy using natural gas.
+sources is a core pillar of the architecture of our business In 2022, this plant generated 2,061 MWh of electricity and
+model. Consequently, in 2022 we have reached our target in the 1,976 MWh of thermal energy (8,852 MWh of electricity and
+established time frame, using electricity from renewable 10,051 MWh of thermal energy in 2021; 4,334 MWh of electricity
+sources in all our own facilities. and 6,679 MWh of thermal energy in 2020; 7,785 MWh of
+electricity and 11,002 MWh of thermal energy in 2019; and
+Within the framework of our commitment, among other
+17,317 MWh of electricity and 16,634 MWh of thermal energy in
+measures we have invested in generating renewable energy at
+2018). In addition, 362 MWh of thermal energy was generated by
+our own operating centres. We use our own solar thermal, solar
+geothermal facilities and solar panels during the year (653 MWh,
+photovoltaic and wind energy, as well as facilities to harness
+633 MWh, 577 MWh and 329 MWh in 2021, 2020, 2019 and 2018,
+geothermal energy.
+respectively).
+In 2022, 100% of the electricity consumed at our facilities came
+A notable future project is the Outer Port Wind Facility in A
+from renewable sources (1,636,795 MWh), excluding self- Coruña with an estimated investment of 34 million euros5,
+generated electricity. This milestone means total savings of
+scheduled to enter into service in 2025. In 2021, we commenced
+451,430 tonnes of greenhouse gas emissions, 95% more than in
+the necessary procedures to start the authorisation process for
+2018 (1,593,547 MWh consumed and 493,723 tonnes of GHG
+the collective self-consumption facility in the Outer Port of A
+emissions avoided in 2021; 978,266 MWh and 265,041 tonnes in
+Coruña. The goal is to be able to generate on-site the renewable
+2020; 1,144,020 MWh and 295,566 tonnes in 2019; and
+energy necessary to cover the annual electricity required by our
+837,626 MWh and 231,818 tonnes in 2018, respectively).
+headquarters in Arteixo, as well as to supply clean electricity to
+the port's own infrastructures. In 2022, we continued to move
+Percentage of electricity coming from renewable
+sources:1 forward in the administrative procedures with all the official
+bodies involved and we are fully immersed in the project’s
+% of electricity coming from engineering definition and development phase.
+Year
+renewable sources
+This project developed in collaboration with the Port Authority of
+2018 45%
+A Coruña is a pioneering initiative that allows us to increase the
+2019 63%
+amount of self-generated renewable energy, while at the same
+2020 81%
+time positively impacting the environment around our
+2021 91% headquarters and setting an example of public-private
+2022 100% partnership initiatives aimed at reducing GHG emissions. The
+construction of the wind facility in the Outer Port of A Coruña
+1. In the case of renewable energy certificates, the period for the data is the
+calendar year, instead of the fiscal year (period of this Report). involves installing 3 wind turbines, each with a capacity of
+5.5-6 MW.
+a) Self-consumption
+Self-consumption means generating energy at our own facilities b) VPPA
+or at nearby and associated infrastructure for our own A PPA (Power Purchase Agreement) is a long-term agreement
+consumption and it is the most direct way to contribute new between consumers and energy producers that allows the latter
+renewable energy generation infrastructure. The roll-out of to secure the revenue necessary for the viability and access to
+photovoltaic and wind power generation facilities for self- financing for building new renewable generation infrastructure,
+consumption is included in Inditex's renewable energy adoption even in the absence of incentives for renewable generation or
+strategy for the next few years, as unequivocal evidence of our investment subsidies. Through these commitments we
+commitment to reducing greenhouse gas emissions. contribute additional renewable energy to the grid by enabling
+new and dedicated renewable energy generation projects
+to be carried out in a stable, long-term manner.
+5
+The planned investment corresponding to this project, which has not yet started, is included in the expected investment execution referred to in the section "Information
+on the foreseeable development of the group" of the Consolidated Directors’ Report.
+The projects we have selected belong to Energias de Portugal This is the case of the LEED Platinum certification obtained in
+Renováveis (EDPR) and are located in Spain.These projects are March 2022 for the new Zara.com building. Located at our
+in the development phase, pending final approval, and will come Arteixo headquarters, this 67,000 m2 facility boasts the latest
+on stream in 2025 under the Virtual Purchase Power Agreement advances in technology and sustainability.
+(VPPA) modality, provided they receive the administrative green
+light.
+In VPPAs there is no direct supply of electricity from the
+developers to end consumers. The power generated is instead
+fed into the electricity grid. Decoupling production and
+consumption provides flexibility and better suits our
+consumption pattern in various geographies, helping to achieve
+our sustainability goals.
+Accordingly, in 2022 we signed a VPPA, and we continue to
+work on negotiating new contracts that promote additionality by
+generating new renewable energy capacity.
+i More information in
+Note 26 Financial risk management policy and financial
+instruments to the Consolidated Annual Accounts.
+c) Energy Attribute Certificates
+Where the scope for implementing other types of mechanisms
+is limited, we use options such as green tariffs and energy
+attribute certificates (instruments that certify the renewable
+origin of a certain amount of electricity generated, and that can
+be purchased on the market to prove that an electricity supply is
+from a clean source).
+More than 90% of the energy allocation certificates we have
+used in 2022 comply with the requirements established by We also strive to ensure efficient and sustainable energy
+reference organisations, such as CDP, for this type of management. In 2022, our headquarters in Arteixo and the
+mechanism. In this sense, renewable energy is generated in the Inditex Data Processing Centre, located in A Laracha (A Coruña)
+electricity market in which it is consumed, except in those were certified to the ISO 50001 international standard.
+exceptional cases in which its purchase is not viable.
+b) Efficiency and sustainability in our stores
+5.5.1.3. Efficiency and optimisation initiatives Energy efficiency and the application of best practices in the
+area of environmental sustainability is a priority for Inditex in
+a) Efficiency in corporate headquarters, own logistics centres both the design and the day-to-day running of its stores. To
+and own factories achieve this goal, we execute a number of projects to help make
+At Inditex we have a culture of environmental efficiency; in other our stores spaces in which sustainability is fully integrated, from
+words, we apply processes that enable us to control the the facilities themselves to the products and the interaction with
+consumption of resources and take measures to reduce that our customers.
+consumption so as to mitigate the impact thereof. To ensure this
+is properly developed in our facilities, we make the necessary In this regard we are constantly reviewing our standards to
+investments in all our headquarters and platforms in compliance guarantee that they are in line with cutting-edge practices and
+with our Instruction for Proper Environmental Management, and implementing new programmes to advance on the path of
+we promote best practices in the day-to-day work of our continuous improvement and sustainability in our stores.
+employees.
+The construction design of our headquarters is based on
+bioclimatic criteria. As part of our strong commitment to
+sustainability, we also strive to ensure that our facilities meet the
+highest standards of sustainable construction. Consequently,
+since 2009 we have certified our most emblematic spaces in
+accordance with the most prestigious standards in sustainable
+construction, such as the LEED certifications developed by the
+US Green Building Council6.
+6 All the certifications are currently valid.
+Further evidence of our commitment to sustainable Other supply chain actions
+construction is the certification of our stores in accordance with As well as developing the collaborative programme for
+prestigious international standards such as LEED and BREEAM7. environmental improvement, our efforts are with respect to the
+We currently have 8 LEED Platinum certifications, 25 LEED Gold supply chain focus on the following aspects:
+certifications and 1 BREEAM certification.
+/ Reducing energy consumption
+Another significant step is the connection of our own stores with In order to reduce energy consumption, we provide our
+the central platform Inergy, which supervises and optimises suppliers with information on the best available techniques for
+energy consumption, boosts efficiency and reduces the the various manufacturing processes by means of an online
+environmental impact. At the end of 2022, 79% of our own stores knowledge transfer platform developed by Inditex, which is
+were connected to the platform. publicly available to the entire industry.
+The energy efficiency policy is not limited to physical stores Furthermore, we use this same channel to make available to
+alone, but extends equally to the digital universe. The website of them the knowledge acquired through our collaboration with
+Zara, our most emblematic brand, is hosted at our own data third parties on potential innovative solutions. For example, new
+centres and on external servers, which help us to streamline and dyeing and washing methods that reduce water consumption,
+store information. The electricity consumed by Zara.com’s lower the temperature required during the process and cut
+servers and offices comes from renewable sources. energy consumption, thus decreasing the associated emissions.
+One such collaboration is with BASF, to implement and optimise
+In addition, the servers are equipped with technologies that help the first industrial cold washing system, SOKALAN HP 56 A,
+optimise energy consumption by using processors and power which can meaningfully reduce water and energy consumption
+supplies that adapt to the servers’ demands in real time. in exhaust dyeing systems.
+c) Supply Chain Other measures in this knowledge transfer platform include
+replacing equipment with more efficient iterations, the proper
+Collaboration Programme for Environmental Improvement
+maintenance of equipment or changes to production
+We work with our suppliers to implement measures to improve
+processes.
+production processes and facilities in order to make better use
+of available resources. In 2022, we launched an Environmental
+/ Replacing fossil fuels
+Improvement Plan focused on reducing water and energy
+Some production processes require the use of energy sources
+consumption and managing chemicals and discharges. This
+to reach sufficient temperatures and generate steam. We
+Program has been launched as a pilot with a selected group of
+encourage our suppliers to use alternative fuels such as
+key suppliers.
+responsibly sourced biomass, backed by certification, or fuels
+The facilities’ energy management goals are as follows: made from agricultural waste, or the electrification of equipment
+when possible.
+/ To increase the purchase and/or generation of electricity
+coming from 100% renewable sources.
+Our goal is to eliminate the use of coal in our supply chain by
+/ To reduce thermal energy consumption in relation to 2030, and to avoid installing new coal-fired equipment from
+stationary thermal sources. 2023.
+This programme’s methodology consists of the facility’s drawing
+/ Use of renewable energies
+up an action plan. This plan is then verified by a third party and a
+We promote the use of renewable energy in our supply chain.
+baseline or starting point of energy consumption is established
+To this end, we share with suppliers in our main manufacturing
+prior to the plan’s implementation. Consumption is then
+clusters information on availability, regulations, procedures and
+monitored on a quarterly basis against this baseline.
+indicative prices for the implementation of an array of renewable
+energy procurement solutions.
+i More information in section d) Efficiency in transport and distribution
+5.5.2.2. Initiatives in supply chain of this Report. In order to improve the impact of our distribution and logistics
+operations and reduce associated emissions, we have
+established several lines of action in connection with transport
+activities:
+/ Fleet improvements
+We work with our suppliers to analyse and promote alternatives
+to conventional means of transport. Thus, the use of electric
+vehicles is gaining particular importance for Inditex and we have
+a major electrification programme for our last mile deliveries in
+China, allowing us to reduce GHG emissions and air pollution in
+cities. Specifically, this project has been rolled out across 42
+cities, allowing us to save 217.18 tonnes of CO equivalent as
+2
+compared to conventional fuel vehicles previously used, thereby
+reducing GHG emissions by 53%. The emission reduction
+7 All the certifications are currently valid.
+capacity of electric vehicles is related to their energy
+consumption per unit kilometre, and is further boosted by
+reducing the total distance covered. In Spain, we have also Atmospheric emissions and noise
+electrified last mile deliveries at several Madrid stores. pollution
+/ Review of transport traffic and routes
+Atmospheric emissions from combustion
+We strive to find the best way to shorten the distances travelled
+equipment (heating boilers and steam boilers) are
+in the supply and distribution processes of our goods. Similarly,
+subject to regular checks and verifications by
+we seek transport alternatives, including creating and using
+authorised control bodies to ensure that our
+intermodal routes that allow us to establish new connections
+logistics centres where this equipment is located
+with low-impact transport such as the train.
+comply with the applicable legislation. Thus, we
+/ Transport optimisation ensure that our atmospheric emissions are within
+We develop protocols that optimise, review and adjust loading the legal limits for the parameters required in each
+proposals across all modes of transport and we work with our case (for example, CO, NO x, SO 2 and opacity).
+logistics service suppliers to ensure that the measures analysed
+Furthermore, to mitigate noise pollution, our
+are implemented by means of continuous communication of
+Unloading Equipment Protocol aims to reduce
+operational and occupancy data. Likewise, we actively search
+noise from the distribution and supply of our
+for units and vehicles that allow us to make better use of the
+products during night-time hours, when the
+capacity in accordance with the cargo being shipped, such as
+permitted noise levels are more restrictive.
+High Capacity Vehicles or special sized maritime containers.
+/ Employee commuting
+We also promote alternatives for employee commuting. We
+have more than 421 charging stations for electric vehicles in all
+5.5.2. Our approach to water management
+the Group’s central services to facilitate the use of such vehicles
+by employees. More than 397,000 kWh8 were supplied from
+GRI 2-28; 3-3; 303-1; 303-2; 303-3; 303-4; 303-5
+these stations (more than 197,000 kWh in 2021, more than
+71,000 kWh in 2020 and more than 47,000 kWh in 2019), helping
+Water is a vital resource for the development of communities
+to avoid emissions associated with using fossil fuels. We also
+and ecosystems. Accordingly, water management at Inditex is
+have Weshare, a proprietary application for carpooling to and
+grounded on the principles of the CEO Water Mandate, a UN
+from the workplace. In Spain, our office employees are provided
+Global Compact endeavour that encompasses environmental
+with a shuttle bus service to get to work.
+and social aspects. Our approach places a premium on
+reducing water consumption in our operations and supply
+chain. This, in addition to preserving water as a natural resource,
+contributes to reducing greenhouse gas emissions, as less
+energy is needed to heat water in those production processes
+that require it.
+Our roadmap for sustainable and rational water usage
+throughout our value chain is defined by our Global Water
+Management Strategy. As we implement it, we develop a variety
+of individual initiatives and collaborate with various stakeholders
+to reduce our environmental impact and protect marine and
+freshwater habitats, always seeking the most sustainable and
+efficient processes and technologies. Notably, this strategy is
+currently in the process of being updated, with the aim of
+starting to implement the new version in 2023.
+5.5.2.1. Initiatives in own operations
+Water consumption at Inditex facilities is mainly for cleaning and
+sanitary purposes, and its discharge into municipal wastewater
+systems is guaranteed. In industrial settings, water is mainly
+used for steam generation and recirculation systems in closed-
+cycle industrial refrigeration, which allows us to estimate that the
+water discharged is equal to the water consumed. Wastewater
+in all facilities is discharged to the appropriate wastewater
+systems. At Inditex, water consumption does not affect
+protected habitats.
+8 Electrical consumption by electrical vehicle charging points in Group central services facilities, own logistics centres and own factories.
+In 2022, our own facilities (headquarters, factories, logistics /Developing a knowledge transfer platform with best available
+centres and stores) consumed a total of 1,780,190 cubic metres techniques relating to water and wastewater for our supply
+of water. The consumption at our centres is calculated through chain facilities.
+direct meter readings and bill charges from public water utilities
+companies.9 /Establishing a network of collaborating facilities for
+implementing measures and/or technologies linked to
+Water consumption reducing water consumption stemming from the Group's R&D
+work.
+Water Relative water Relative water
+Financial year consumption consumption consumption
+(m3) (litres/m2) (ml/€)
+i More information in section
+2018 2,145,804 285 82
+5.3. Our products of this Report.
+2019 2,068,661 260 73
+2020 1,663,039 216 82
+2021 1,886,900 241 68
+a) Care for Water
+2022 1,780,190 240 55 Our Care for Water programme, framed within the Green to
+Wear standard, distinguishes those facilities with proper water
+Some of the initiatives carried out include reusing 100% of the management under two categories: good and excellent. The
+water for garden irrigation and flush toilets at our Indipunt facility programme promotes the use of measures, chemicals and
+in Narón (A Coruña), using storm tanks that in 2022 enabled us technologies to reduce water consumption by boosting water
+to collect 25,080 m3 of water (10,439 m3 in 2021) from the roofs efficiency, the optimisation of production processes and the
+of our centres in Cerdanyola, Arteixo and Lelystad to be used for investment in technology.
+irrigation, or replacing all taps and flushers at our distribution
+centres in Spain with others that reduce both the flow rate and
+operating time, resulting in savings of up to 55% of the water
+i More information in section
+used.
+5.6.1. Sustainable management of the supply chain
+of this Report.
+5.5.2.2. Initiatives in supply chain
+Our supply chain is key to our policy of responsible water use
+management, as it includes the two areas where the highest
+The Care for Water programme provides "good" and "excellent"
+water consumption occurs in the production of goods. On the
+benchmark values for each type of wet process depending on
+one hand, it covers the cultivation and production of raw
+the substrate (yarn, fabric, garment) and textile fibres used.
+materials such as cotton and, on the other, the wet processes
+These values are obtained from theoretical consumption
+(dyeing, washing and printing, among others) needed to make
+estimates for each production process, to which variables such
+the items we sell. Consequently, taking 2020 as a baseline, the
+as machine cleanliness, among others, are added.
+Group has established the goal of reducing water consumption
+throughout the supply chain by 25% in 2025. In 2022, we have In 2022, we also reviewed this programme with the aim of
+reduced relative consumption by 17%, compared to 9310 litres raising its standards and promoting further water savings. The
+per kilogram of garment consumed in 2020. new benchmarks have been piloted at various facilities in
+different countries.
+Financial year Relative water consumption (litres/kg garment)
+2020 93
+2021 88
+2022 77
+To achieve this goal, throughout 2022 we have worked on
+different initiatives such as:
+/Increasing the number of facilities that meet the requirements
+of our Care for Water programme and those that are evolving
+towards excellence.
+/Updating the requirements of our Care for Water programme
+in order to raise its standards and promote further savings in
+water consumption.
+/Developing, together with the facilities, action plans focused on
+optimising water consumption and improving and reducing
+wastewater.
+9
+The consumption by own stores has been calculated based on the net expenditure per store. The specific average price of 20 markets has been used. For all other
+markets, we have used the average of m3/m2 per concept.
+10
+The water consumption in the supply chain is calculated from the consumption data obtained in the environmental audits, for the cases in which the information is not
+available, it has been estimated considering the consumption averages.
+b) Care for Water Improvement Programme plans and, on their own initiative, to those interested in
+Launched in 2021, this programme specifically aims to help improving both their water consumption and wastewater
+those facilities that have already been assessed within the Care treatment.
+for Water programme as having ‘good’ water management to
+improve to our highest Care for Water rating of ‘excellent’. This With regard to consumption, once the production process or
+target must be achieved within a maximum of 12 months. For processes of interest to the facility have been selected, the tool
+this purpose, facilities must draw up an action plan that includes supplies different measures ranging from potential
+the measures to be implemented, their implementation date and optimisations of the production process to the use of certain
+their associated reductions in water consumption. The chemicals, as well as different options for re-using or recycling
+measures fall into four different types of initiative: water. Each of these measures is accompanied by information
+of interest for the facility, such as the investment needed, the
+/Investment in new technology. estimated impact on consumption, potential constraints or
+difficulties of implementation, among others. Similarly, the
+/Optimisation of the manufacturing process. platform also provides information on the best available
+technologies to carry out the process more efficiently. In this
+/Re-use or recycling of wastewater that can be repurposed in
+case, the information provided by the platform includes the main
+manufacturing processes or in ancillary tasks such as cleaning
+benefits of the new technology compared to conventional
+machinery.
+technology, the savings associated with its use, potential
+limitations, as well as some of its manufacturers.
+/Zero Liquid Discharge or the installation of closed water loops
+in which there is virtually no consumption of water from the
+For wastewater treatment, the platform provides information on
+outside.
+various remedial measures for the chosen discharge
+parameters, as well as the cost associated with the
+Facilities have 30 days to devise this action plan, during which
+implementation of such measures and the technologies
+they have the support and advice of external partner
+required.
+companies.
+e) Network of collaborating facilities in the implementation of
+The quarterly progress of the action plan is verified by a third
+own R&D
+party who will determine whether the facility has achieved the
+Over the course of 2022, the Group has actively collaborated
+water consumption reduction target within the established time
+with different facilities to introduce innovative water saving
+frame. This year we have worked together with more than 242
+measures and technologies in the sector. The creation of this
+facilities within the framework of this programme, providing
+network responds to several key objectives:
+them support, guidance and advice.
+/To demonstrate that new measures or technologies work
+c) Collaboration programme for environmental improvement
+outside the lab and on an industrial scale.
+Over the course of 2022, an action plan was launched to reduce
+the environmental impact of the Group's key suppliers' facilities,
+/To assist these facilities in reducing water consumption.
+with a focus on water (as a complement to those facilities that
+are not under the scope of the Care for Water improvement /To develop case studies that show the performance and water
+programme), discharges, management of chemicals and savings associated with new measures or technologies in a
+energy. This This Program has been launched as a pilot with a way that facilitates their implementation at other facilities.
+selected group of key suppliers.
+5.5.2.3. Collaborations with external initiatives
+The objectives to be achieved by the facilities with regard to the
+Inditex works with the Chinese Institute of Public and
+first three areas are:
+Environmental Affairs (IPE) on the continuous improvement of
+environmental management in our supply chain in this market.
+/Reduction of water consumption to the Care for Water
+This entity provides information through its environmental
+programme’s ‘excellent’ level.
+platform, both from governmental sources and from the
+/Quality of wastewater discharges in line with the basic level of factories themselves and the brands that work with them. In
+the discharge standard developed by ZDHC. addition to the environmental performance of the textile
+factories, IPE monitors upstream suppliers (raw materials and
+/Use of 100% ZDHC level 3 certified chemicals. chemicals) as well as the wastewater treatment plants and the
+results of the wastewater analysis. The IPE has recognised
+The methodology of this action plan is similar to that of the Care Inditex’s efforts to improve the environmental performance of its
+for Water Improvement Programme in terms of quarterly supply chain, which is why the Group is ranked second in the
+monitoring and the development of an action plan by the facility textile sector and globally in the index that it publishes annually.
+and its quarterly monitoring. This plan is then verified by a third
+party and a baseline or starting point of the facility’s water Over the course of 2022, we began collaborating with the World
+consumption and other parameters of interest is established Wide Fund for Nature (WWF) to update our water management
+and monitored. strategy and to combine our efforts with those of other
+companies and organisations in order to continue generating
+d) Knowledge transfer platform positive impacts.
+Developed during 2022, this platform focuses on providing
+information to wet process facilities involved in devising action
+In line with our commitment to Changing Markets for the In keeping with these initiatives, we have classified our actions
+procurement of responsibly produced viscose and modal fibres, below according to the AR3T framework proposed by the SBTN,
+manufacturers of these fibres, among others, are required to which includes the following dimensions: Avoid, Reduce,
+implement chemical management systems as well as water Restore, Regenerate and Transform. This framework is
+treatment systems with the ultimate goal of having "Zero liquid especially significant due to this last dimension, as it focuses on
+discharge" facilities. Similarly, compliance with various best the "transformation" of the systems in which companies are
+manufacturing practices is verified through audits. immersed, where coordinated and collective action between
+different agents is particularly important.
+Finally, over the course of 2022, we have adopted the ZDHC’s
+Manufacturing Restricted Substances List (MRSL), which 5.5.3.1. Avoid
+regulates the quality of discharges, thus taking a further step The first step towards protecting biodiversity and ecosystems is
+towards convergence in the sector, facilitating compliance with to prevent impacts from occurring. This is especially important
+manufacturing requirements for chemical suppliers as well as when impacts occur in ecosystems of high biodiversity value,
+the facilities that use them. We have also integrated our The List such as primary forests and the habitats of endangered species.
+by Inditex programme into the ZDHC Foundation's chemical
+control strategy. Hence, the entire industry will be able to benefit In this way, and acknowledging the pivotal role of forests as a
+from key information to determine whether a chemical product refuge for biodiversity, a key element in the water cycle and a
+complies with both the ZDHC’s MRSL discharge parameters sink for greenhouse gases, our Forest Product Policy
+and the legal requirements applicable to the textile or leather establishes that all forest-based materials we use must come
+item marketed. from sustainable forestry operations, with the aim of avoiding
+the use of wood or pulp from primary and endangered forests.
+i More information in the document Innovation, This policy outlines how our wooden furniture and paper
+collaboration and continuous improvement for products, the bags we deliver to our customers, the product
+chemical safety available on Inditex’s corporate labels and the office paper we consume must be certified under
+website. FSC or PEFC forest management standards. It also establishes
+that we only use suppliers of regenerated cellulosic fibres
+designated as ‘green shirts’ in the Hot Button Report by Canopy,
+an international organisation with which we have been
+5.5.3. Our approach to biodiversity cooperating since 2014 whose mission is to protect primary and
+endangered forests. This Policy is also currently under review
+GRI 2-23; 3-3; 304-2 with a view to expanding its scope to include other materials
+linked to deforestation risk, such as leather.
+The protection of biodiversity is a key element of Inditex's
+sustainability strategy, both because of its importance for a We also seek to avoid impacting species in their natural habitat,
+thriving and resilient society, and because of the impact of our establishing in our Sustainability Policy that, in the case of using
+activity and its reliance on the ecosystemic services11 that products of animal origin, these must always come from animals
+biodiversity supports. raised on farms for meat and under no circumstances from
+animals slaughtered exclusively to market their skins, shells,
+Thus, a significant portion of our raw materials (cotton, other antlers, bones, feathers or down, among others.
+cellulosic fibres and materials, leather, etc.) depend on a
+functional soil, the availability of water for irrigation or the
+services of pollinators, factors which in turn rely on a diversity of
+ecosystems, species and genetic resources that guarantee their
+continuity and resilience.
+In response to these concerns, Inditex published its Biodiversity
+Strategy in 2013, based on the principles of the United Nations
+Convention on Biological Diversity and establishing the
+commitment to moving towards a responsible use of resources
+at every stage of our value chain. In 2022, we commenced a
+process to update and strengthen this strategy, referencing the
+commitments of the latest UN Convention on Biological
+Diversity (COP15) and the resulting Post-2020 Global
+Biodiversity Framework. This strategy also seeks to build on
+flagship initiatives such as the Science-based Targets for Nature
+(SBTN) or the Taskforce for Nature-related Financial Disclosure
+(TNFD), with the aim of continuing to inhabit a space of common
+understanding and collaboration around these matters.
+11 Ecosystemic services are the benefits that people derive from ecosystems, according to The Corporate Ecosystem Services Review: Guidelines for Identifying Business
+Risks and Opportunities Arising from Ecosystem Change (2012), World Resources Institute.
+i More information in section
+The Group's Animal Welfare 5.3. Our products of this Report.
+Policy states that:
+/We aim to reduce pollution from pesticides and fertilisers in
+/Animal products must come from animals that
+water and ecosystems by fostering the use of organic, or in
+have been treated ethically and responsibly,
+conversion, raw materials in our products.
+based on the internationally accepted "Five
+Freedoms" for animal welfare.
+i More information in section
+/Animal products from slaughtered animals must 5.3.2. Design and selection of materials of this Report
+come from species reared in farms to obtain
+meat.
+5.5.3.3. Restore and Regenerate
+/We will never use products from animals
+We want to contribute to the conservation and restoration of
+slaughtered exclusively for their skin, shell, horn,
+ecosystems, seeking to improve their current status. These
+bone, feather or down.
+actions focus on regeneration and restoration activities:
+/We will never sell cosmetic products that have
+a) Regenerate
+been tested on animals at any stage of
+At Inditex we are working to promote regenerative practices that
+production.
+allow us to reconcile the productive operation of land with
+concerns about the loss of nutrients, the supply and quality of
+water due to its contamination, the loss of biodiversity or the
+need to address the climate emergency, improving the soil's
+capacity to absorb carbon.
+5.5.3.2. Reduce
+The next step is to reduce the potential negative impacts from We have started to develop measures of this kind through our
+the development of our activity. Thus, Inditex prioritises investment in a project to promote regenerative practices in
+materials and production processes that reduce the potential India in conjunction with Action Social Advancement (ASA),
+negative impacts traditionally associated with them. Some Laudes Foundation, IDH The Sustainable Trade Initiative and
+notable actions in this regard are: WWF India. This project aims to promote these practices in an
+area of 300,000 hectares in the states of Madhya Pradesh and
+/We continue our journey towards decarbonising our activities Odisha (India).
+and thus also responding to the negative effects of climate
+change on ecosystems and biodiversity. b) Restore
+Restoration actions are those aimed at returning a degraded
+natural area to its original state (or as close to it as possible). To
+i More information in section 5.5.1. Our approach to help us in this connection, in 2022 we signed an agreement with
+decarbonisation and energy management of this Report WWF to carry out ecosystem restoration projects globally.
+The first projects in the framework of this collaboration with
+WWF focus on the restoration of forests, such as those of
+/We are committed to reducing water consumption in our
+Datça-Bozburun in Türkiye and the Holm oak forest of the
+supply chain by 25% in 2025 and we continue to make
+Cratere degli Astroni Reserve in Italy, which were affected by
+progress in mitigating wastewater impacts through our
+forest fires; and the conservation of the Dadia forest in Greece, a
+commitment to the ZDHC initiative, thereby easing pressures
+key site for the continent's birds of prey.
+on this vital life element.
+Beyond forests, and in recognition of the key importance of
+other types of ecosystems, the proceeds will also be used to
+i More information in section
+restore river basins and freshwater ecosystems. The projects
+5.5.2. Our approach to water management of this Report
+identified so far are located in North Africa—the Sebu basin in
+Morocco or the Guerbes-Sanhadja plains in Tunisia and Algeria
+/We aim to reduce land use and the consequent risk of —and in the Mekong Delta in Vietnam, affected by intensive rice
+ecosystem conversion through our commitment to recycled cultivation, the degradation of which causes a significant loss of
+biodiversity and endangers the well-being and livelihoods of
+materials and circularity in the textile sector, which means that
+local communities.
+the inputs needed to make garments come from garment
+recovery or the use of by-products or waste from other
+industries, reducing the need for virgin fibres and the end-of-
+life impacts of our garments.
+Restoration and protection actions will also be undertaken in /We remain committed to joint action in the textile sector
+ecosystems that provide habitat for endangered wildlife, such as through our involvement in The Fashion Pact, a sector-wide
+the Gran Chaco tropical forest and Pantanal wetlands, which initiative in which the protection of biodiversity, is one of the
+span territories between Argentina, Brazil, Bolivia and Paraguay, main axes, along with climate action and the prevention of
+in Mexico, where WWF teams work with local organisations to microplastic ocean pollution.
+conserve Monarch butterfly and jaguar habitats, and in the
+Taihang-Yan Mountains and the Amur-Heilong region of
+northern and north-eastern China, inhabited by the leopard and 5.5.4. Our approach to waste
+by the Amur tiger respectively.
+GRI 3-3; 304-2; 306-1; 306-2; 306-3; 306-4; 306-5
+Inditex also followed with profound concern the devastating
+wildfires in the summer of 2022 and is in the process of defining Day to day, we pay special attention to the materials we
+an intervention plan in Galicia, one of Spain's regions most generate in carrying out our activity. Accordingly, we run a
+blighted by fire. This work is in addition to its ongoing efforts to number of projects to facilitate the recovery, reuse and
+promote sustainable forestry models that increase incentives subsequent recycling of these materials, turning them into
+towards better forest management, a line of action that began in resources that can continue to be used and maximising their
+2018 with the Pico Sacro demonstration forest project. This line value.
+was reinforced in 2022 with the extension to other
+Zero Waste Programme
+demonstration forests in areas of Galicia, in collaboration with
+Within the framework of our Zero Waste programme, we have a
+the Galician Forestry Association, and in Portugal with Forestis,
+multidisciplinary team focused on addressing the proper
+and together with WWF in Castilla-La Mancha to promote
+management of the materials we use in our facilities: containers,
+sustainable forest management in a territory that accounts for
+packaging and other items. Our commitment is that, by 2023 the
+13% of the forest mass in Spain.
+waste generated at our corporate headquarters, logistics
+5.5.3.4. Transform centres, own factories and own stores is properly collected and
+managed so as to be available resources for a new use by
+Our actions to help transform the sector include:
+means of reusing or recycling.
+/Inditex joined the call within the "Business for Nature" initiative
+Not only does this challenge involve properly sorting the various
+to require countries to introduce regulations that make
+materials for treatment and subsequent recycling, but also
+estimating and reporting large companies’ and financial
+presents an opportunity to rethink our processes so that we
+institutions’ impacts on nature mandatory as part of the new
+avoid generating waste in the first place and instead maximise
+Post-2020 Global Biodiversity Framework.
+the use of those resources in our design, logistics, store and
+end-of-life operations.
+/In 2022, we signed up to the Arctic Corporate Shipping Pledge,
+an Ocean Conservancy initiative that encourages major
+logistics operators and global brands to undertake to avoid
+i More information about our programmes on the removal
+shipping routes through the Arctic, encouraging the
+of unnecessary materials, packaging and our Green to Pack
+application of the precautionary principle because of the
+programme in section 5.3.4. Use and end of life
+potential impact on this unique ecosystem. of products of this Report.
+/In addition to our efforts to protect forests, in 2021 we joined
+the LEAF Coalition, a public-private initiative coordinated by
+Emergent that seeks to transfer economic incentives to
+Our stores have a waste management system in place and the
+tropical and subtropical countries to curb deforestation in their
+vast majority already meet our internal Zero Waste criteria. We
+territories, and thereby to avoid the resulting GHG emissions
+continue to work to achieve our 2023 target.
+and with them the loss of biodiversity. In 2022 we confirmed
+the beneficiary countries—Costa Rica, Ecuador and Nepal in Generation of waste
+our case—opting for a contribution aimed exclusively at Waste generation at our facilities (headquarters, logistics
+recognising these countries’ efforts to avoid deforestation in centres and factories) is presented below12:
+their territories, and their progress towards climate mitigation,
+as they have proven that the actions they have implemented
+have worked.
+12 This data does not include waste generated in our own stores as this information is not available at the required level of detail in the Company's systems. We have several
+projects underway to report this information in future years.
+Type of waste 2022 (KG) 2022 (%) 2021 (KG) 2021 (%) 2020 (KG) 2020 (%) 2019 (KG) 2019 (%)
+Cardboard and
+13,713,321 66% 13,248,191 65% 10,974,962 59% 14,662,698 63%
+paper
+Wood 2,773,840 13% 2,982,115 15% 3,438,309 19% 3,769,554 16%
+Other non-
+2,951,460 14% 2,891,811 14% 2,771,796 15% 3,182,099 14%
+hazardous waste
+Plastic 680,725 3% 831,837 4% 863,627 5% 892,516 4%
+Textile waste 245,018 1% 252,831 1% 302,785 2% 498,217 2%
+Metal 232,293 1% 159,204 1% 67,747 0% 267,715 1%
+Hazardous waste 35,623 0% 31,428 0% 58,813 0% 78,479 0%
+Total 20,632,280 100% 20,397,417 100% 18,478,038 100% 23,351,279 100%
+The destination of this waste was as follows, according to its treatment1
+Non-hazardous waste destination 2022 (KG) 2022 (%) 2021 (KG) 2021 (%)
+Diverted from disposal 18,811,731 91% 18,691,531 92%
+Recycling 18,607,803 90% 18,256,653 90%
+Preparation for reuse 203,928 1% 434,878 2%
+Directed to disposal 1,784,926 9% 1,674,458 8%
+Landfilling 1,600,519 8% 1,343,862 6%
+Incineration (with energy recovery) 184,407 1% 330,596 2%
+Total 20,596,657 100% 20,365,989 100%
+1. With the update of GRI 306: Waste 2020 standard, the requirements on the detailed reporting of what happens to waste have changed with respect to the previous
+requirements set out in the 2016 edition of GRI 306. Due to the change, historical data are only available with the level of detail previously required.
+Non-hazardous waste destination 2020 (KG) 2020 (%) 2019 (KG) 2019 (%)
+Recycling 16,582,699 90% 20,903,595 90%
+Energy recovery 238,426 1% 321,323 1%
+Landfill 1,598,100 9% 2,047,882 9%
+Total 18,419,226 100% 23,272,800 100%
+Hazardous waste destination 2022 (KG) 2022 (%) 2021 (KG) 2021 (%)
+Diverted from disposal 26,141 73% 25,229 80%
+Recycling 24,531 69% 25,229 80%
+Preparation for reuse 1,610 5% 0 0%
+Directed to disposal 9,482 27% 6,199 20%
+Landfilling 7,610 21% 4,864 16%
+Other disposal operations 1,807 5% 400 1%
+Incineration (with energy recovery) 0 0% 935 3%
+Incineration (without energy recovery) 65 0% 0 0%
+Total 35,623 100% 31,428 100%
+Hazardous waste destination 2020 (KG) 2020 (%) 2019 (KG) 2019 (%)
+Recycling 48,547 82% 71,613 91%
+Energy recovery 976 2% 1,329 2%
+Landfill 9,290 16% 5,538 7%
+Total 58,813 100% 78,479 100%
+Furthermore, the packing materials that accompany our
+products (bags, labels and protective items) are managed by the
+Integrated Packaging Management Systems available in the
+markets where we operate. Our brands collaborate with these
+managers in the collection and management of this packing.
+Our Green to Pack programme aims to optimise the use of
+these elements, to extend their useful life and enhance their
+recyclability.
+i More information in section
+5.3.4. Use and end of life of this Report.
+The waste reduction programmes also cover the canteen
+service at our headquarters. We promote the use of cups,
+glasses and glass bottles that avoid the use of single-use
+plastics, as well as various actions against wasting food and to
+encourage the proper separation of food waste.

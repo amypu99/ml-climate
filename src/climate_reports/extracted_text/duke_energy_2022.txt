@@ -1,0 +1,3001 @@
+ADVANCING
+TOWARD A CLEAN, AFFORDABLE AND RELIABLE ENERGY FUTURE
+Revised version
+February 2023
+TABLE OF Executive Summary ����������������������������������������������������������������1
+Introduction ���������������������������������������������������������������������������5
+CONTENTS
+Governance ����������������������������������������������������������������������������8
+Board Oversight ��������������������������������������������������������������������8
+Management Oversight�����������������������������������������������������������9
+Compensation Related To Our Clean Energy Transition �������������10
+Political Contributions and Lobbying ��������������������������������������12
+Risk Management �����������������������������������������������������������������15
+Duke Energy’s Risk Management Process �������������������������������15
+Strategy and Scenario Analyses ����������������������������������������������18
+Risks and Opportunities ��������������������������������������������������������22
+Risks ���������������������������������������������������������������������������������22
+Opportunities ����������������������������������������������������������������������29
+New Technologies ���������������������������������������������������������������36
+Just Transition ��������������������������������������������������������������������38
+Net-Zero Scenario Analyses ���������������������������������������������������40
+1� Duke Energy Regulated Electric Business
+Net-Zero Scenario Analysis������������������������������������������������40
+Electric Business Net-Zero Scenario Analysis Results �����������48
+2� Natural Gas Business Unit Core Net-Zero Scenarios �������������51
+3� International Energy Agency (IEA) Net-Zero Analyses
+for Duke Energy’s Electric and Gas Businesses ��������������������57
+Metrics and Targets ��������������������������������������������������������������65
+Goals ���������������������������������������������������������������������������������65
+Scope 1 Greenhouse Gas Emissions ��������������������������������������67
+Scope 2 Greenhouse Gas Emissions ��������������������������������������68
+Relevant Scope 3 Greenhouse Gas Emissions �������������������������69
+Appendix: Glossary and acronyms ������������������������������������������70
+Cautionary Statement Regarding
+Forward-Looking Information �������������������������������������������������71
+ADVANCING
+TOWARD A CLEAN, AFFORDABLE AND RELIABLE ENERGY FUTURE
+Executive Summary
+Duke Energy is pleased to present our 2022 climate report� In the
+two years since our last report, we have focused on: (1) building a
+more reliable and resilient grid that can help mitigate the impacts
+of more severe weather, provide customers with more solutions
+tailored to their unique needs and accommodate significantly
+greater amounts of renewable energy, distributed energy resources,
+and demand response; and (2) investing in a cleaner energy supply�
+These strategic priorities are founded on the fundamental customer
+and community needs for affordable prices, reliability, and a
+lower carbon dioxide (CO or “carbon”) footprint� The transition
+2
+to clean energy and grid modernization will provide reliability and
+affordability through (1) taking advantage of decreasing prices
+and incentives for cleaner sources of energy, (2) replacing aging
+generating capacity that has increasing operation and maintenance
+costs, (3) mitigating the impacts of volatile fuel prices and less
+reliable fuel supplies, and (4) providing greater resilience to
+weather events�
+To this end, 85% of our capital plan over the next 10 years will
+be invested in our clean energy transition and grid modernization,
+with a keen focus on affordability and reliability� These capital
+investments will not only reduce greenhouse gas (GHG) emissions
+but will also provide substantial economic benefits in the regions
+we serve while also providing for the cleaner, stronger, more
+affordable and more resilient energy system our customers expect�
+The $145 billion in capital we plan to invest to support our clean
+energy transition and grid modernization over the next 10 years
+will contribute, on average, over 20,000 additional direct, indirect
+across the U�S� economy, including $1�5 billion in enterprisewide generation by 2030 and planning
+additional annual labor income, and $5 billion in to fully exit coal by 2035 as part of the largest
+associated property taxes over the next 10 years planned coal fleet retirement in the industry.2
+to support schools, emergency services, roads, Implementation of this goal will help meet our
+infrastructure, and for other public purposes�1 obligation to supply affordable and reliable power
+by reducing the financial and operational risks
+Our plans to affordably make this clean energy associated with reliance on coal generation and
+transition are developed through collaboration the inherent risks of the coal supply chain, while
+with stakeholders – and prudent actions we helping mitigate fuel price volatility that can
+believe are necessary to maintain the affordability impact our customers�
+and reliability on which our customers depend�
+The recently passed Inflation Reduction Act
+This clean energy transition not only provides
+(IRA) provides a tangible federal carbon policy
+emissions reductions for Duke Energy but also
+and reduces customer costs�3 It will improve
+provides an energy mix that helps our customers
+price stability by mitigating the risk of increased
+achieve their clean energy goals and provides a
+costs to customers due to current inflationary
+brighter, more prosperous future for all we serve�
+pressures and higher fuel costs� It also drives
+advancements in hydrogen and storage
+We have already made major strides toward
+technologies and strengthens the supply chain
+reducing carbon emissions from our electric
+for critical dispatchable clean energy resources
+generating fleet, with reductions of 44% through
+such as hydrogen, new nuclear, and advanced
+2021 while keeping energy affordable and reliable
+energy storage�
+and are on track to well exceed our goal of at
+least a 50% reduction in carbon emissions from Modeling for this report did not include impacts
+2005 levels by 2030� We will revisit this interim of the recent IRA but did look at impacts of the
+target in the future once state-level reviews of our proposed carbon plan in North Carolina and other
+plans have advanced� potential carbon policies on the Midwest, Florida
+and South Carolina� Our preliminary modeling
+The clean energy projects and projected adoption
+indicates that the IRA will reduce the cost of our
+of new clean energy technologies we include
+energy transition through the 2030s, bringing
+in our capital plan, coupled with the analysis down costs to customers with the IRA tax credits
+in this report and evaluation of future potential instead of an assumed price on carbon� We also
+sensitivities, give us confidence to establish an expect the IRA will bring down costs of advanced
+additional interim target of an 80% reduction technologies, such as green hydrogen, and make
+from 2005 levels by 2040� This report provides them cost competitive earlier than expected�
+detailed analysis and information supporting an The pace of investment still depends on things
+updated path toward our net-zero 2050 carbon like scalable supply chains; proactive grid planning
+emissions goal for electricity generation, inclusive processes; federal, state and local permitting; and
+of both our 2030 and 2040 interim targets� state regulatory approvals�
+1 EY, “Economic and tax contributions of Duke Energy’s clean energy (2023-2032),” prepared for Duke Energy Corporation,
+October 4, 2022�
+2 Achieving these goals depends on necessary regulatory approvals (which will require demonstration of no adverse effect on grid
+reliability and reasonable and prudent cost), the ability to site and construct new generation and transmission facilities, available
+supply chains for new generation and transmission equipment and natural gas availability� Contemplates retiring Edwardsport coal
+gasifiers by 2035 or adding carbon capture technology to reduce emissions.
+3 The Inflation Reduction Act was enacted on August 16, 2022. It extends certain and adds new tax incentives for clean energy.
+For our natural gas business, we adopted a goal in 2020 to achieve
+net-zero methane emissions for our operations by 2030 and have
+taken significant steps toward that goal, replacing all remaining cast
+iron and bare steel pipe, and adopting advanced leak detection
+programs and other technologies to reduce methane emissions�
+This year, we expanded our net-zero by 2050 goal to include Scope
+2 and certain Scope 3 GHG emissions�4
+Those are:
+ In the electric business, our net-zero goal by 2050 includes
+Scope 2 emissions from the electricity purchased for our own
+use, as well as Scope 3 emissions from the power we purchase
+for resale and from the procurement of fossil fuels for generation�
+ For the natural gas business, our net-zero by 2050 goal now
+includes Scope 3 upstream methane and CO emissions related
+2
+to purchased natural gas, as well as downstream CO emissions
+2
+from customers’ consumption of gas sold�
+As we developed these new goals, we have also analyzed our
+overall greenhouse gas emissions in more detail� Given this
+analysis, we have established an interim target for our Scope 2 and
+certain Scope 3 emissions of a 50% reduction from 2021 levels
+by 2035�
+We can now report that our goals cover 95% of our calculated
+2021 greenhouse gas emissions� Additional details on these
+emissions can be found in the section below entitled “Metrics
+and Targets�”
+Our Scope 1, 2 and 4 Under the Greenhouse Gas Protocol developed by the World Business Council
+3 net-zero by 2050 for Sustainable Development and the World Resources Institute, Scope 1 GHG
+goals cover 95% emissions occur from sources that are owned or controlled by the company,
+Scope 2 GHG emissions are from the generation of purchased electricity
+of our calculated
+consumed by the company, and Scope 3 GHG emissions are indirect emissions
+2021 greenhouse
+that occur as a consequence of the company’s actions, but are from sources not
+gas emissions.
+owned or controlled by the company� Examples of Scope 3 emissions are those
+from the extraction, production and transportation of fuels purchased by the
+company for its and its customers’ use, and from the use of products sold by
+the company�
+Over 95% of Duke Energy’s calculated 2021
+emission fall into currently stated net-zero goals.
+5%
+Emissions Included
+Total C0 e Emissions in Net-Zero Goals
+2
+109,486
+(Thousand metric tons) Emissions Excluded
+from Net-Zero Goals
+95%
+All our Scope 1, 2 and 3 goals are contingent on enabling policies;
+cost-effective technology advancements and scalable supply
+chains; the need to minimize the impact on customer costs; the
+continuing clean energy transition of the energy markets in which
+we operate; as well as federal, state, and local permitting and state
+regulatory approvals�
+This report also includes an analysis of a path we can take to
+achieve net-zero emissions from customer use of natural gas, and a
+third-party analysis of the International Energy Agency’s global net-
+zero by 2050 road map (a 1�5°C scenario) and its potential impact
+on our electric and gas businesses�
+Introduction
+Consistent with our 2018 and 2020 reports, this climate report is
+aligned with the recommendations of the Task Force on Climate-
+related Financial Disclosures (TCFD), covering:
+ governance around climate-related risks and opportunities;
+ our strategy to deal with those risks and opportunities, including
+net-zero scenario analyses;
+ our processes for identifying and managing climate-related risks
+and opportunities; and
+ our metrics and targets related to climate and our progress
+against those metrics and targets�
+Under each of these general areas of disclosure, TCFD
+recommends more detailed disclosures, as can be found on the
+next page�
+Each of the sections below is keyed to one of these
+recommended disclosures�
+Governance Strategy Risk Management Metrics and Targets
+Disclose the Disclose the actual Disclose how the Disclose the metrics
+organization’s and potential impacts organization identifies, and targets used to
+governance around of climate-related risks assesses and assess and manage
+climate-related risks and opportunities manages climate- relevant climate-
+and opportunities� on the organization’s related risks� related risks and
+businesses, strategy opportunities where
+and financial such information
+planning where is material�
+such information
+is material�
+Recommended Recommended Recommended Recommended
+Disclosures Disclosures Disclosures Disclosures
+a) D escribe the a) D escribe the a) D escribe the a) D isclose the
+board’s oversight climate-related organization’s metrics used by
+of climate- risks and processes for the organization
+related risks opportunities the identifying and to assess climate-
+and opportunities� organization has assessing climate- related risks and
+identified over the related risks� opportunities
+short, medium, and in line with its
+long term� strategy and
+risk management
+process�
+b) Describe b) D escribe the b) D escribe the b) D isclose Scope 1,
+management’s role impact of climate- organization’s Scope 2, and, if
+in assessing and related risks and processes for appropriate, Scope
+managing climate- opportunities on managing climate- 3 greenhouse
+related risks the organization’s related risks� gas (GHG)
+and opportunities� businesses, emissions and the
+strategy and related risks�
+financial planning.
+c) Describe the c) Describe how c) Describe the
+resilience of the processes for targets used by
+organization’s identifying, the organization to
+strategy, taking assessing, and manage climate-
+into consideration managing climate- related risks and
+different climate- related risks are opporuntieis and
+related scenarios, integrated into performance
+including a 2ºC or the organization’s against targets�
+lower scenario� overall
+risk management�
+5 Task Force on Climate-related Financial Disclosures, “Final Report: Recommendations of the Task Force on Climate-related
+Financial Disclosures,” June 2017�
+GOVERNANCE
+Governance
+(TCFD: Disclose the organization’s governance around climate-related
+risks and opportunities�)
+Board Oversight
+(TCFD: Describe the board’s oversight of climate-related risks and
+opportunities�)
+The Duke Energy Board of Directors understands the need for
+clean energy transformation, and that our customers, communities,
+employees and investors want us to address climate-related
+risks� Duke Energy’s board members regularly review the issues,
+opportunities, and risks related to our clean energy transition
+strategy at their board meetings and invite outside experts to
+discuss these issues�
+Because climate-related risks span many different functional
+areas of our business, they are overseen by a number of different
+committees of our Board of Directors, in addition to the board as a
+whole� For example:
+ The Operations and Nuclear Oversight Committee oversees
+operational risks and responses, such as storm response and grid
+hardening, as well as our carbon-free nuclear fleet.
+ The Audit Committee oversees the disclosures regarding material
+climate-related risks in our filings with the U.S. Securities and
+Exchange Commission (SEC)�
+ The Compensation and People Development Committee is
+The Duke Energy
+responsible for integrating key performance metrics into our
+Board of Directors
+incentive plans relating to environmental, clean energy, safety,
+oversees climate-
+and customer initiatives�
+related risks, issues
+and opportunities  The Finance and Risk Management Committee (FRMC) manages
+across all areas of overall risks, including those related to our clean energy transition
+our business. and climate change, as part of its enterprise risk management
+assessment reviews� This committee is also responsible for
+overseeing large capital investments, including those for new
+generation facilities, such as large renewables and storage
+projects, and for new natural gas infrastructure�
+ The Corporate Governance Committee has responsibility for the
+oversight of sustainability goals and strategies� This committee
+also oversees shareholder proposals and the company’s policies
+and practices with respect to political contributions, legislative
+lobbying, and political activities on the local, state, and
+federal level�
+The board’s oversight of clean energy transition Committee incorporated a qualitative climate
+and climate matters in 2021 and thus far in 2022 goal into the company’s executive short-term
+is summarized below� incentive (STI) plan for the first time in 2021,
+and in 2022, the Compensation and People
+ The board reviewed issues related to our clean
+Development Committee incorporated a
+energy and climate strategy, opportunities, and
+quantitative climate goal into the executive
+risks at every regularly scheduled board meeting
+STI plan�
+and invited outside speakers to discuss these
+issues with the board on several occasions�
+Management Oversight
+These topics included discussions of:
+(TCFD: Describe management’s role in assessing and
+– Emerging technologies, our greenhouse gas
+managing climate-related risks and opportunities�)
+emission reduction goals, and our generating
+fleet transition; Our climate and clean energy transition strategy
+– Integrated Resource Plans (IRPs) for our are fundamental to our corporate purpose and
+individual state jurisdictions, including the our business strategy� This makes oversight of
+2021 Indiana IRP; climate- and clean energy-related initiatives the
+focal point of what Duke Energy’s management
+– Development of our plans in response to
+does every day�
+North Carolina House Bill 951, including
+review of the Carolinas Carbon Plan filed in
+Climate-related risks are also an integral part of
+North Carolina in May 2022;
+Duke Energy’s annual comprehensive enterprise
+– All new large capital expenditures, risk assessment (ERA) process� The ERA
+including those for solar and other clean identifies potential major/substantive risks to
+energy sources; corporate profitability and value and is managed
+by the enterprise risk management (ERM)
+– Customer needs as they relate to clean
+function, which is housed in the organization of
+energy; and
+the executive vice president and chief financial
+– Federal and state policy and regulations� officer. The ERM function maintains and develops
+ As discussed below under “compensation,” policies and standards and supports risk
+the Compensation and People Development assessments in and across business units�
+characterize, track, and monitor risks in business for such matters in compliance with any laws
+unit risk registers� and regulations requiring their disclosure, as
+well as best practices in corporate reporting�
+The day-to-day direct management of risks and
+This committee is styled after our Financial
+opportunities related to federal climate and
+Disclosure Committee and, through it, we are
+carbon-reduction policies is the responsibility
+committed to ensuring both transparency and
+of the company’s external affairs and
+depth of disclosure on environmental, social, and
+communications team and, specifically, the
+governance matters�
+federal government affairs team, which works
+closely with the sustainability, stakeholder, and Development of our overall clean energy and
+corporate communications teams� These teams climate strategy is overseen by the organizations
+all report to the senior vice president, external of our executive vice president and chief financial
+affairs and communications, who is a member officer and our executive vice president and chief
+of the Duke Energy senior management team commercial officer. Within these organizations are
+and reports directly to the chair, president and the senior vice presidents of enterprise strategy
+chief executive officer. The federal government and planning, generation and transmission
+affairs group has organizational responsibility strategy, and the natural gas business, who
+for developing Duke Energy’s position on federal collectively are responsible for developing our
+legislative and regulatory proposals addressing IRPs, preparing and executing our generation fleet
+the clean energy transition and greenhouse transition plans, and managing our natural gas
+gas emissions and for assessing the potential utility operations�
+implications of such proposals for the company�
+These plans are coordinated with other
+The sustainability and stakeholder group engages
+organizations that report to the chief financial
+stakeholders for their perspective on our climate
+officer and obtain financing for the company’s
+position and strategy� External affairs and
+capital investments� The company’s clean
+communications also works with the enterprise
+energy transformation plans are then executed
+strategy and planning team as they develop the
+by a number of organizations, including the
+company’s clean energy transition strategy�
+organizations of the senior vice president
+At the state levels, Duke Energy’s CEOs, for generation and transmission market
+Midwest and Florida, and Carolinas, and the transformation and of the chief operating officer.
+state presidents in those organizations have At the state level, the plans are executed through
+the jurisdictional state presidents’ organizations by
+responsibility for developing the company’s
+the filing of resource plans with state commissions
+positions on state-level legislative and regulatory
+according to the laws and policies of each
+proposals addressing the clean energy transition,
+state, the issuance of requests for proposal and
+for day-to-day management of GHG reduction
+subsequent certificates of public convenience and
+efforts and policies in the state jurisdictions, and
+necessity for new generating assets, as well as for
+for engaging stakeholders at the state level to
+gas infrastructure to meet customer needs�
+provide input on the company’s climate strategy�
+Additional governance is provided by an employee Compensation Related To Our Clean
+management committee, the Environmental,
+Energy Transition
+Social and Governance (ESG) Strategy and
+Disclosure Committee that has been established The Duke Energy Board of Directors’
+to assist the company in: (a) reviewing and Compensation and People Development
+understanding general strategy relating to Committee has designed our compensation
+environmental and climate-related issues program to link pay to performance, with the goal
+pertaining to the company, as well as social and of attracting and retaining talented executives,
+governance issues arising from these issues; (b) rewarding individual performance, encouraging
+reviewing the systems and processes in place to long-term commitment to our business strategy,
+and aligning the interests of our management team with those of
+our stakeholders, including shareholders and customers�
+Our compensation program includes several new performance
+components that are aligned to our clean energy strategy�
+2021 and future years:
+Starting in 2021, the annual individual performance goals for
+each of our senior leaders includes strategic objectives based
+on a qualitative assessment of each leader’s contributions to
+advancing our climate strategy, including:
+– Demonstrating leadership to advance our climate strategy
+to cost-effectively reduce our carbon footprint from
+electricity generation by at least 50% by 2030 and to net-
+zero carbon emissions from electricity generation by 2050�
+– Advocating for public policy related to our climate strategy�
+– Investing in clean energy, including renewables, as well as
+grid capacity and capabilities to support higher levels of
+carbon-free generation�
+2022 and future years:
+Additionally, a new quantitative climate goal based on growth
+in non-emitting generation and storage capacity measured
+over a one-year period in comparison to preestablished
+objective performance criteria has been added to the 2022
+short-term incentive scorecard�6
+We align incentive The following long-standing metrics continue to be included in our
+compensation with clean compensation program:
+energy-related metrics
+including growth in  Safety – Safety remains our top priority� We include safety
+non-emitting generation metrics in both our short-term and long-term incentive plans
+and storage capacity, based on the total incident case rate of injuries and illnesses
+and reliability and among our workers to emphasize our focus on an event- and
+availability of nuclear and injury-free workplace�
+renewables generation.
+ Non-emitting generation – We include a nuclear reliability
+objective and a renewables availability metric in our short-term
+incentive plan to measure the efficiency of our nuclear and
+renewable generation assets�
+ Environmental events – To enhance our commitment to the
+environment, we incorporate a reportable environmental events
+metric into our short-term incentive plan�
+6 This new 2022 goal is in addition to the 2021 goal that emphasizes the
+reduction of our carbon footprint in a cost-effective manner�
+ Customers – To prioritize the customer experience and their
+expectation to be served reliably, affordably and increasingly, by
+cleaner energy, we incorporate a customer satisfaction metric in
+the short-term incentive plan, which is a composite of customer
+satisfaction survey results for each area of business�
+ Underpinning our entire compensation program, we continue
+to incorporate sound governance principles and policies that
+reinforce our pay for performance philosophy and strengthen the
+alignment of interests of our executives and shareholders�
+Duke Energy reviews its compensation program performance
+metrics with the Compensation and People Development
+Committee of the board on an ongoing basis�
+Political Contributions and Lobbying
+As we transition our business to cleaner sources of energy, we
+remain focused on delivering sustainable value for our customers
+and shareholders by maintaining industry-leading reliability
+and affordability, exceeding customer expectations, optimizing
+investments to drive attractive shareholder returns, and providing
+new product offerings and solutions that deliver growth�
+Transformation of this scale and scope requires partnering with
+stakeholders to champion durable public policies at the local, state
+and federal levels that enable us to transition our generating fleet,
+expand and adapt our electric grid and natural gas infrastructure,
+and adopt new carbon-free technologies that will reduce emissions
+while keeping energy affordable, reliable, and accessible� It is
+therefore essential for us to engage in public policy discussions
+– both on our own behalf and through trade associations –
+to advocate for the interests of our customers, employees,
+communities and shareholders�
+We regularly review our policies and procedures related to political
+activities to help ensure we are following best practices and, as
+a result, we have made several enhancements to our political
+expenditures policies and disclosures in recent years� In 2020,
+we expanded the practices covered by the policies to include
+additional oversight of political consultants who conduct external
+lobbying on behalf of the company� We also expanded disclosures
+around the company’s Political Expenditures Committee (PEC) to
+include the titles of the members and therefore the depth of their
+experience� The PEC is responsible for the management, oversight
+and approval of political activities. We also added certification,
+attestation and periodic training requirements for individuals who
+take part in political activities, including those individuals who hire
+external consultants or interact with political candidates, campaign
+committees or advocacy organizations�
+In November 2021, we revised our Political Expenditures Policy to
+enhance the transparency of our disclosures� These changes added
+disclosure of the following expenses starting with the January 2022
+to June 2022 Corporate Political Expenditures report:
+ The federal lobbying portion of dues paid to 501(c)(6)
+organizations, such as trade associations and chambers of
+commerce, for 501(c)(6) organizations with dues in excess of
+$50,000 for the calendar year�7
+ Non-dues contributions to 501(c)(6) organizations, such as trade
+associations and chambers of commerce, and contributions to
+501(c)(4) organizations, designated by the company to be used
+for political purposes, or reported by the 501(c)(6) or 501(c)
+(4) organization as used for political purposes�8 This disclosure
+includes the 501(c)(6) and 501(c)(4) organizations’ names and
+contribution amounts�
+Trade associations
+It is essential, as a highly regulated business, for us to engage in
+public policy discussions – both on our own behalf and through
+trade associations – to advocate for the interests of our customers,
+employees, communities and shareholders� In 2021, we began
+issuing an annual report, which discloses the major trade
+associations to which we belong and those associations’ positions
+on climate policy� The 2022 report, which was expanded
+to also reference our trade associations’ alignment with the
+Paris Climate Agreement, can be found here:
+2022-trade-associations-climate-review�pdf�
+Duke Energy continues 7 Federal “lobbying portion” means non-deductible business expenses under
+to enhance disclosure Internal Revenue Code (IRC) section 162(e)�
+of its political
+activities and trade
+8 “Political purposes” means non-deductible business expenses under
+association memberships. IRC 162(e)(1)(B)�
+RISK MANAGEMENT
+Risk Management regularly scheduled meeting� In addition, the
+company’s management, including the CRO,
+annually reviews the ERA with the full board� The
+(TCFD: Disclose how the organization identifies,
+CRO actively and independently provides risk
+assesses, and manages climate-related risks�)
+management oversight, including discussing levels
+of risk tolerance and risk acceptance within the
+Duke Energy’s Risk Management Process
+business units�
+As mentioned above, climate-related risks are
+ERM works with business unit subject matter
+included in Duke Energy’s annual comprehensive
+experts to identify and characterize key risks,
+ERA process. The ERA identifies potential major/
+including those related to climate and the
+substantive risks to corporate profitability and
+environment� Risks are captured across several
+value and is managed by the ERM function, which
+dimensions, including financial, reputational, and
+maintains and develops policies and standards
+operational (reliability, environmental including
+and supports risk assessments in and across
+climate change-related risks and opportunities,
+business units� The risk management function
+health and safety, compliance and other
+supports embedded business unit resources who
+operational aspects)� Business unit subject matter
+identify, characterize, track, and monitor risks in
+experts and management work with ERM to
+business unit risk registers�
+determine which risks are more likely to have
+ERM is led by the chief risk officer (CRO), who a substantive impact� These risk reviews are
+reports to the chief financial officer. The CRO required biannually and, depending on the needs
+provides an enterprise risk update to the FRMC of the organization, sometimes occur quarterly
+of Duke Energy’s Board of Directors at each within business units�
+Duke Energy has a robust process to identify and
+manage risks, including climate-related risks.
+Our CRO meets with business unit leadership to discuss risks,
+including climate-related risks, on a quarterly or semiannual
+basis� Combined, the ERA and business unit risk reviews look at
+short- and medium-term risks through the risk register process
+and, for medium-term climate-related transition risks, through
+the jurisdictional resource plans, which look out 10 to 20 years,
+depending on the jurisdiction�9 Longer-term risks are identified and
+managed through the Enterprise Strategy and Planning group’s
+tracking of longer-term trends�
+Business unit leaders are responsible for managing climate-related
+risks and opportunities that fall within their managerial purview�
+For example, the senior vice president of external affairs and
+communications is responsible for monitoring and responding
+to risks and opportunities posed by federal climate change-
+related policy proposals� The executive vice president, customer
+experience, solutions, and services is responsible for climate-
+related opportunities such as transportation electrification within
+our regulated jurisdictions�
+9 Note that the Carolinas Carbon Plan submitted to the North Carolina Utilities
+Commission in May 2022 does include a discussion of the longer-term signposts
+the company will monitor as it moves toward the North Carolina HB 951 target
+of carbon neutrality by 2050� HB 951 is discussed in more detail on page 19�
+STRATEGY AND SCENARIO ANALYSES
+Strategy and Scenario Analyses
+(TCFD: Disclose the actual and potential impacts of climate-related risks
+and opportunities on the organization’s businesses, strategy and financial
+planning where such information is material�)
+Introduction
+Duke Energy is leading one of the most ambitious clean energy
+transformations in our industry, with the largest planned coal
+retirement program in the U.S. electric utility industry. Eighty-five
+percent of our 10-year capital plan includes investments in our
+generating fleet’s transition to low- and zero-carbon resources
+and to a modernized grid� This transition not only provides a
+cleaner energy mix, but provides the following tangible benefits to
+customers, communities, and Duke Energy:
+ a more reliable, resilient and smarter grid capable of
+accommodating more distributed energy resources and
+enhancing the overall customer experience;
+ reduced exposure to financial and operational risks associated
+with reliance on coal generation and coal supplies;
+ mitigation against fuel price volatility;
+ enhanced economic development competitiveness of the
+regions we serve, enabling our states to recruit, retain, and grow
+manufacturers and other businesses;
+ opportunities for substantial capital investment, including through
+growth of our states’ renewable energy industries, resulting in
+employment growth and economic stimulation (including in rural
+communities); and
+ continued access to financing to fund operations and growth at
+reasonable rates�10
+This report provides more details on our paths toward our clean
+energy goals, including an updated analysis for our electric utility
+business’s projected path to net-zero carbon emissions� This
+reflects the most recent resource plans for our Midwest and Florida
+utilities, the proposed portfolios pursuant to Carolinas Carbon Plan
+filed in North Carolina, and our targeted exit from coal generation
+by 2035. We are confident we will well exceed our 50% carbon
+reduction goal from 2005 levels for electricity generation by
+2030 and will revisit this interim target in the future once state-
+level reviews of our plans have advanced� We are, based on the
+10 I n addition to the benefits that our clean energy transition provides with respect
+to continued access to financing at reasonable rates, such financing is also an
+enabling condition for our clean energy transition�
+reduction by 2040 for electricity generation (also are also establishing a target to reduce the Scope
+from a 2005 baseline)� We remain on track to 2 and 3 emissions that are included in our 2050
+achieve our net-zero goal for electricity generation net-zero goal by 50% from 2021 levels by 2035�
+by 2050�
+We have filed preferred portfolios in our recent
+We recognize there are still pending final rulings integrated resource plans to accomplish the 2030
+on the proposed Carolinas Carbon Plan in North goal. And, on May 16, 2022, we filed the first
+Carolina, our next resource plan to be filed in proposed carbon plan in North Carolina pursuant
+South Carolina in August of 2023 and other to North Carolina Session Law 2021-165 (House
+regulatory approvals� For example, in Indiana, we Bill 951 or HB 951) for approval by the North
+are in the process of updating our current IRP Carolina Utilities Commission (NCUC)�11 This plan
+to reflect, among other updates, bids from our
+(the proposed Carolinas Carbon Plan) presents a
+recent request for proposals (RFP)� Based on this
+range of portfolios to achieve the state’s interim
+update to the IRP, we will file certificates of public
+carbon reduction goal for electricity generation
+convenience and necessity (CPCNs) with the
+of 70% from 2005 levels and to achieve carbon
+Indiana Utility Regulatory Commission (IURC) for
+neutrality by 2050� The NCUC will decide upon
+resource additions in 2023�
+the final plan by the end of 2022. This plan
+will inform the next IRP to be filed in South
+There are also uncertainties due to recent supply
+Carolina in 2023, given that our dual-state
+chain constraints and volatility in commodity
+system operates in and provides benefits to
+prices, as well as potential future federal policies
+both Carolinas� We will continue to responsibly
+and permitting constraints� And over the next
+execute our clean energy strategy in each of our
+25-30 years, we expect there will be additional
+jurisdictions with updated resource plans and
+challenges from macroeconomic and global
+events and disruptions� That is why we plan for a other regulatory proceedings filed over the next
+variety of scenarios, frequently update our plans, few years and decades�
+and maintain transparent discussions with our
+And we are striving to achieve these ambitious
+stakeholders every step of the way� We remain
+goals while keeping energy affordable and reliable
+committed to these decarbonization objectives
+for our 8�2 million electric and 1�6 million gas
+and will continue to pursue a responsible and
+customers� All our Scope 1, 2, and 3 goals are
+orderly clean energy transition that maintains
+contingent on enabling policies; cost-effective
+reliability while providing improved price stability,
+technology advancements and scalable supply
+economic and infrastructure development, and
+chains; the continuing clean energy transition
+cleaner air for our customers�
+of the energy markets in which we operate; as
+We also analyzed our overall greenhouse gas well as federal, state and local permitting and
+emissions in more detail and find that our regulatory approvals�
+11 H B 951 is bipartisan legislation that advances carbon emission reductions from electric generating facilities in North Carolina�
+It passed the North Carolina General Assembly and was signed by the governor on October 13, 2021�
+ACCELERATING TOWARD A CLEAN ENERGY FUTURE
+Here’s how we’re taking action for our communities, while keeping energy affordable and reliable.
+BOOSTING RENEWABLES ELECTRIFYING TRANSPORTATION CHAMPIONING NEW TECHNOLOGIES MAINTAINING CRITICAL SUPPORT
+$100 million Advancements
+CH in emission
+4
+investing to help decarbonize monitoring
+30,000 MW of regulated
+transportation Advocating for new, zero-emission
+renewables by 2035*
+technologies such as:
+Pursuing subsequent license
+renewals for carbon-free nuclear
+Electric vehicle
+28,000 MW Advanced nuclear
+infrastructure pilots
+Hydrogen Leveraging the benefits of
+of energy storage by 2050
+RELIABLE
+Energy storage technologies
+Renewables 40% Carbon capture utilization natural gas to support
+of our energy mix Electrifying our fleet and helping and storage emission reductions
+by 2050 other companies electrify theirs and more renewables
+Renewable natural gas
+Net-zero methane emissions from natural gas business by 2030. Net-zero emissions by 2050 from
+Decarbonizing for our communities
+electric generation and natural gas businesses including Scopes 1 and 2 and certain Scope 3 emissions.
+*NOTE: with respect to this report’s data concerning renewable energy and zero-carbon generation capacity, projected carbon
+emissions, carbon emission intensity, and delivery and consumption of energy of and from Duke Energy’s subsidiary electric utilities’
+solar, hydroelectric, and biomass resources, note that some capacity and energy from such owned or purchased resources may be
+sold to third parties in the wholesale energy marketplace and not used to serve Duke Energy subsidiary electric utility customers�
+Some energy from such resources that is used to serve customers may not be acquired with associated Renewable Energy
+Certificates (RECs). Some energy from such resources is used to serve customers that have associated RECs, and such RECs
+may be used to meet statutory or regulatory compliance obligations (including obligations of subsidiary electric utility and certain
+wholesale customers), assigned for retirement for the benefit of customers pursuant to retail programs, or sold to third parties. Duke
+Energy’s electric utilities also buy power through purchased power agreements (PPAs) from solar, wind, hydroelectric, and biomass
+resources� Under certain PPAs for energy from such resources, the electric utilities purchase both the energy and the associated
+RECs� Under other PPAs, including some of those entered into pursuant to the electric utilities’ respective obligations under the
+Public Utility Regulatory Policies Act of 1978 (PURPA), Duke Energy does not purchase any RECs associated with the energy�
+Under PPAs entered into by Duke Energy’s electric utilities pursuant to certain retail customer programs, such utilities purchase
+RECs associated with the energy, but convey the RECs to participating customers, or retire such RECs on the customers’ behalf�
+Duke Energy’s subsidiary, Duke Energy Renewables, sells the electricity and/or RECs it generates to its customers.
+Our clean energy strategy is informed by the views of our
+diverse stakeholders, including customers, regulators, investors,
+policymakers, employees, and the communities we serve� These
+stakeholders hold a variety of interests, and we seek to engage
+with them all as we make our clean energy transition�
+ Customers: Providing access to affordable, reliable, accessible
+and increasingly clean energy�
+ Communities: Creating stronger, more inclusive, and
+vibrant economies�
+ Suppliers: Collaborating in the clean energy transition�
+ Investors: Providing sustainable long-term returns through
+financial and clean energy leadership.
+ Employees: Creating opportunities and mission-driven work�
+ Policymakers: Ensuring balanced public policy that helps our
+clean energy transition in a way that maintains affordability and
+reliability for our customers�
+ Non-governmental organizations: Providing a voice and
+feedback on climate and clean energy transition-related issues
+and priorities�
+ Thought leaders: Helping communicate the dimensions of the
+clean energy transition�
+The rest of this section will:
+ discuss risks and opportunities we have identified related to
+climate change and how they affect our strategies;
+ describe key parts of our clean energy transition strategy
+(including development of new technologies and just
+transition); and
+ review scenarios that illustrate pathways toward achieving our
+greenhouse gas reduction goals for both our electric and gas
+businesses, as well as review an alternative scenario under which
+it is assumed that policies are adopted to require reductions
+commensurate with the International Energy Agency’s (IEA’s) net-
+zero by 2050 scenario�
+Risks and Opportunities
+(TCFD: Describe the climate-related risks and opportunities the
+organization has identified over the short, medium, and long term.
+Describe the impact of climate-related risks and opportunities on the
+organization’s businesses, strategy, and financial planning.)
+Risks
+Physical risks
+Extreme weather events – including hurricanes, heavy rainfall,
+more frequent flooding, ice storms, higher temperatures, and
+droughts – can impact our assets, electric grid and reliability�
+Due to the location of some of our service territories, we must be
+especially vigilant about adapting and responding to these risks�
+Below are descriptions of the possible physical risks related to
+climate change that we have identified as potentially affecting
+Duke Energy, summaries of the actions we are taking in our
+businesses to mitigate physical risks to our system, and a summary
+of a comprehensive study we are undertaking with an outside
+consultant of future climate vulnerabilities for the Carolinas
+transmission and distribution system�
+Storms and heavy rainfall events
+We have underway a 10-year storm protection plan in Florida and
+three-year grid improvement plans in North Carolina and South
+Carolina� This is in addition to infrastructure plans in our Ohio and
+Kentucky service territories� In Indiana, the company is also in the
+Duke Energy is taking final year of a seven-year, $1.4 billion transmission and distribution
+steps to be prepared
+modernization plan, and its new six-year, $2 billion modernization
+for physical risks due to
+plan was recently approved�
+storms, heavy rainfall,
+flooding, ice storms These investments will better prepare the company’s grid for severe
+higher temperatures, weather events associated with climate change and help reduce
+and droughts. potential power outages that can affect our customers� Recent
+installations of flood protections around substations in North
+Carolina and South Carolina that have experienced historic flooding
+in recent years will help protect vulnerable communities from
+extended outages like they experienced during hurricanes Matthew
+and Florence in 2016 and 2018, respectively� When aligned
+with vegetation management, pole and line upgrades, targeted
+undergrounding of outage-prone lines and self-healing technology
+installation in many of the same areas, we can significantly
+increase resiliency and help better protect the local community
+and economy during severe weather events� We are also leveraging
+data analytics and technology to achieve improvements in energy
+reliability and resiliency, while supporting our clean energy goals�
+For example, we are installing smart, self-healing operated by the company� Of course, water
+technology that can automatically detect power availability is an important consideration in those
+outages, isolate the problem, and then quickly watersheds, both to Duke Energy and to others�
+reroute service to other available lines to restore In these areas, we collaborate with local water
+power faster� In 2021, self-healing technology utilities, environmental groups, homeowners and
+avoided more than 700,000 extended outages recreational enthusiasts on watershed and drought
+and saved customers nearly 1�2 million hours of planning� Our hydroelectric projects also have
+total outage time� drought response plans (known as “low inflow
+protocols” (LIPs)) embedded in their Federal
+This same technology also helps enable the
+Energy Regulatory Commission (FERC) operating
+two-way power flow needed to support growth
+permits; the LIPs work to conserve water in the
+of renewables and distributed technologies like
+reservoirs and protect all water intakes in the
+battery storage and electric vehicles� When
+watershed, including those for Duke Energy’s
+layered with improved system control technologies
+facilities, until it rains again� Duke Energy’s
+and voltage optimization capabilities, the
+hydroelectric projects also have procedures in
+technologies help increase not only resiliency, but
+place for managing operating conditions during
+also improve monitoring and protection against
+“high inflow” (high rainfall) events.
+physical and cyber risks, enable the growth of
+company-owned and third-party renewables, and Except for emergency situations, Duke Energy
+provide a foundation to help us achieve net-zero
+endeavors to maintain lake levels within the
+carbon emissions by 2050�
+ranges set forth in its FERC licenses under
+normal operating conditions� Lake levels are
+Water availability
+closely monitored, and operational adjustments
+Many sources of electricity require significant are made based on various factors, including
+amounts of water for cooling purposes� A weather forecasts�
+prolonged drought could therefore impact reliable
+Other Duke Energy facilities are protected from
+electricity generation�
+drought because they have closed-cycle cooling
+Several of Duke Energy’s power plants in the and/or operate on large sources of water or on
+Carolinas are located on hydroelectric reservoirs cooling reservoirs; one (the Brunswick Nuclear
+drought-related risks� We have also implemented methodology, shaped the assessment goals and
+equipment and operational changes at nuclear objectives, and contributed to findings.
+and coal plants to reduce potential drought-
+The CRRS Interim Report highlights the
+related risks�
+vulnerability assessment findings and is the first
+In 2018, we adopted a new goal to reduce annual major deliverable in the study� It was released to
+water withdrawals by our generation fleet by 1 the TWG in late July 2022�
+trillion gallons from the 2016 level of 5�34 trillion
+gallons by 2030� In 2021, withdrawals were The Interim Report reviewed exposure and
+approximately 4�92 trillion gallons, a reduction of vulnerability to physical risks of climate change
+0�42 trillion gallons� at the individual asset level and provided data
+to inform our assessment of adaptation options
+Our planned transition to cleaner energy by, in that would improve the system’s resilience to
+part, replacing coal and older natural gas plants future potential risks� The report focuses on a
+that use once-through cooling systems with range of plausible climate change futures for five
+hydrogen-capable natural gas combined-cycle climate hazard categories: (1) high temperatures
+plants that use closed-cycle cooling systems, and extreme heat; (2) extreme cold and ice;
+and with renewables, reduces the amount of
+(3) flooding and precipitation; (4) wind; and (5)
+water withdrawn and thereby reduces the risk to
+wildfire. It is based on plausible upper and lower
+operations from potential future droughts�
+bounds of climate scenario projections, using
+We are also considering the impacts on water use
+the Intergovernmental Panel on Climate Change
+of other new technologies; for example, as part
+(IPCC) Representative Concentration Pathway
+of our evaluation of electrolytic (green hydrogen)
+(RCP) 4�5 (50th percentile) and RCP8�5 (90th
+as a potential zero-carbon fuel source, we are
+percentile) scenarios�
+evaluating the water required for green hydrogen
+production pathways� The study provides projected changes in 2050
+for each climate hazard and vulnerability ratings
+Comprehensive climate vulnerability study for for all hazard and asset group combinations
+the Carolinas T&D system under the RCP4�5 and RCP8�5 scenarios�
+Without adaptation investments, under both
+In 2021, we initiated a Climate Risk and
+scenarios, substations are at the highest potential
+Resilience Study (CRRS) of the Carolinas
+risk, with extreme heat and flooding being the
+transmission and distribution (T&D) system
+greatest concerns� The transmission system faces
+to (1) to assess the vulnerability of our T&D
+assets and operations to projected physical medium- and low-scoring risks for most climate
+impacts of climate change and (2) to develop hazards (depending on scenario, with lower risks
+a flexible framework to improve the Carolinas under RCP4�5)�
+T&D system’s resilience� ICF International led
+While we expect the final report in 2023 to
+the research and analysis, and, throughout the
+identify opportunities to further enhance the grid’s
+process, Duke Energy subject matter experts from
+resilience, we are already actively engaged in
+across the company provided detailed input and
+implementing resiliency measures to address flood
+feedback through ongoing discussions, interviews,
+and wind risk� For example, we implemented
+workshops, and comments�
+permanent flood mitigation at the substations
+Additionally, at our request, ICF convened a that experienced flooding during hurricanes
+panel of stakeholders to serve on a Technical Matthew and Florence and increased our design
+Working Group (TWG)� The TWG stakeholders standard elevation for new substations� We also
+represented customers, state regulatory staff, deploy temporary flood mitigation measures
+environmental advocates, industry organizations, ahead of storm for other substations in the path
+academia, cooperative/municipal power providers, of the storm� Through the remaining phase of
+government/agency representatives, and others. this work, we will identify additional potential
+adaptation measures to improve resiliency for It also requires the interconnection of this
+existing and future Carolinas T&D assets through generation and electric transmission to transmit
+a flexible adaptation strategy informed by the clean energy to load centers� In addition, for
+stakeholder feedback� hydrogen-capable gas turbines, new hydrogen
+production and transportation infrastructure will
+The Interim Study may be found here�
+be needed, and for CCUS, in addition to carbon
+capture equipment, new pipelines will likely be
+Transition risks
+needed� Further, until new dispatchable zero-
+We continually monitor and respond to risks carbon energy sources like the above are installed,
+related to the transition to cleaner energy� These new natural gas pipelines will likely be needed�
+include both permitting and execution risks, policy
+risks, and economic risks� All this construction requires site acquisition,
+regulatory approvals, permitting, skilled labor,
+Permitting and execution risks supply chain availability, and execution, all of
+which, if delayed, pose a risk to accomplishment
+Executing our clean energy strategy requires
+of our carbon reduction goals in a timely manner�
+the extensive buildout of additional generation,
+including new forms of generation such as:
+For example, under the proposed Carolinas
+ wind, solar, and existing and long-duration Carbon Plan, we could need as much as
+energy storage 12,000 MW of new solar before 2035,12 nearly
+ dispatchable resources, including quadrupling the solar currently installed in our
+Carolinas service areas� And because conservative
+– hydrogen-capable gas turbines;
+estimates show that 1 MW of solar roughly
+– carbon capture, utilization and storage requires at least 8 acres of land, this requires
+(CCUS); and
+over 95,000 acres of land, or about 150 square
+– new nuclear� miles�13
+12 Under Portfolio 1 in both our North Carolina and South Carolina service areas�
+13 Great Plains Institute, “The True Land Footprint of Solar Energy,” September 2021�
+In addition, in our natural gas business, as can be seen in the
+scenario analysis section, our path to net-zero for Scope 3
+customer emissions includes significant use of renewable natural
+gas (RNG)� There is a risk to implementation of this strategy
+if the needed quantities of RNG do not materialize at
+reasonable costs or if any additional costs are not approved
+by Duke Energy’s regulators�
+To address permitting and execution risks, we are advocating for
+permitting reform at the federal level� Federal, state and local
+legislation or regulations need to be revised to expedite and
+facilitate permitting and implementation of projects that will enable
+our clean energy transition while continuing to ensure communities
+will be meaningfully involved in decisions affecting them and the
+environment will be protected�
+Policy risks
+As a regulated electric and gas utility, Duke Energy’s expenditures
+supporting its clean energy transition must be approved by state
+regulators to enable recovery of those costs� Capital expenditures
+are reviewed by state public utility commissions for inclusion in
+the company’s jurisdictional rate bases upon which regulated rates
+of return are earned� In addition, some expenditures, such as fuel
+costs, are subject to recovery clauses and are also subjected to
+annual prudency reviews by state regulators, although the company
+does not earn a return on these expenditures�
+Under state laws, the company must present a range of resource
+options when it is proposing a new generation mix, including the
+most cost-effective options that maintain customer affordability and
+reliability, given current state and federal policies� The company
+Duke Energy’s must also present the lowest-cost option for cost recovery when
+expenditures for delivering natural gas to its customers� We must demonstrate that
+the clean energy our clean energy strategy and resource plans maintain affordability
+transformation must be and reliability and are the most prudent option for customers�
+reviewed for prudency
+Federal and state policies can be adopted that provide incentives
+and approved by
+for our clean energy transition� The U�S� Congress has enacted two
+state regulators.
+major laws in the past year – the Infrastructure Investment and
+Jobs Act (IIJA) and the IRA – that provide major incentives for the
+development and deployment of clean energy technologies and grid
+improvements� In addition, EPA has, over the past decade, twice
+adopted regulations under the Clean Air Act to require power plants
+to reduce carbon emissions� These regulations were rescinded by
+the EPA or stayed or invalidated by judicial review�14
+And in the states, recent policies have been adopted that help
+our clean energy transition; for example, North Carolina adopted
+14 T hese regulations were rescinded, stayed or invalidated before their
+implementation; therefore, this has not affected our continuing carbon
+emissions reductions from electricity generation�
+HB 951 in 2021, and other policies were adopted in Tennessee
+and North Carolina to help reduce emissions from our natural
+gas business unit and its customers� Because these policies are
+now in effect and will help enable our clean energy transition and
+emissions reductions, they will be discussed further below
+under “opportunities�”
+To date, an important factor in driving our success in achieving
+emissions reductions has been breakthroughs in technology
+development� We also need policies to further support and enable
+the commercialization of advanced clean energy technologies like
+new nuclear, hydrogen, CCUS, and long-duration energy storage�
+Other policies are also needed to facilitate the siting, permitting,
+and cost recovery of needed electric transmission and distribution
+infrastructure, as well as infrastructure that can carry natural
+gas, RNG, CO , or hydrogen� Policies are also needed to facilitate
+2
+the procurement of low- and zero-carbon fuels such as RNG
+and hydrogen�
+From a regulatory standpoint, the EPA has stated that it will
+propose a new rule under the Clean Air Act for power plant carbon
+emissions in 2023� Duke Energy continues to monitor this and will
+assess the impacts of any proposed rule on the company’s clean
+energy transition and whether it helps enable that transition in an
+affordable and reliable manner�
+While the IIJA and the IRA, as mentioned above, will help drive
+adoption of new clean energy technologies, to ensure we are able
+to achieve our full clean energy transformation, we continue to
+advocate for policies at the federal and state levels that will further
+enable that transition while maintaining affordable and reliable
+energy for our customers� The major principles against which we
+compare proposed policies are discussed below�
+Our view on effective carbon policy
+Duke Energy has long advocated for climate change policies that
+will result in significant but orderly reductions in greenhouse gas
+emissions over time� We support market-based approaches that
+balance environmental protection with affordability, reliability and
+economic vitality� We seek to ensure that the policies adopted to
+achieve emission reduction goals are cost-effective, and equitable;
+promote a broad range of technology development; and include
+provisions to efficiently address greenhouse gas emissions across
+all sectors of the economy�
+Duke Energy issued a statement in January 2021 supporting the
+U�S� rejoining the Paris Agreement� We believe that the policy
+approaches we support are aligned with the Paris Agreement’s
+guiding principles and goals�
+Our analyses have identified several key policy attributes that we
+believe will allow us to achieve our emission reduction goals while
+maintaining affordable and reliable energy for our customers� These
+attributes will also help to incentivize the adoption of new, low- and
+zero-emitting technologies� We believe climate policy should:
+ Incentivize a zero-carbon trajectory in a cost-effective manner
+that preserves the affordability and reliability of energy�
+ Recognize that continuing to operate existing nuclear generation
+and adding new small modular reactors (SMR) and likely other
+advanced nuclear technologies is essential to maintaining our
+emission reduction progress and achieving net-zero goals�
+ Recognize that natural gas generation remains essential
+to transition to an affordable and reliable clean energy
+future, at least until advanced zero-carbon dispatchable
+generation sources15 and long-duration storage become
+commercially available�
+ Recognize the need for and promote the siting and permitting
+of infrastructure needed to transition to net-zero, including
+pipelines for low- and zero-carbon fuels, as well as electric
+transmission infrastructure�
+ Promote robust and sustained support for research, development,
+demonstration, and deployment of advanced technologies such
+as advanced nuclear, hydrogen, RNG, long-duration storage, and
+carbon capture, utilization and storage�
+We need regulators and legislators to embrace policies to further
+incentivize our clean energy transition and allow for the recovery
+of costs to ensure the deployment of capital needed to operate our
+system cleanly, affordably and reliably well into the future� We will
+continue to advocate at the federal and state level for policies that
+will meet the above criteria and ultimately benefit our customers.
+Economic risks
+Our clean energy transition will require additional capital
+investments and operating and maintenance costs� As with other
+costs incurred on behalf of our customers and in response to
+energy and environmental policies, our regulated electric and
+gas utilities would plan to seek cost recovery for clean energy
+investments through public and transparent state regulatory
+review processes�
+To mitigate the risk of stranded assets, we will continue to engage
+with policymakers and stakeholders prior to retiring existing assets
+or making investments in new generating capacity� This supports
+our future ability to recover costs as we position our electric
+15 A t Duke Energy, we refer to these as zero-emitting load-following resources,
+or ZELFRs�
+generated from the use of coal and no clear plan
+Another area of economic risk for our strategy is
+to reduce its use in the future� As noted above,
+technology risk� As noted earlier, a critical part
+Duke Energy has retired significant amounts of
+of our zero-carbon strategy is the need for new
+coal capacity and has plans to reduce its coal
+electric generation and storage technologies that
+generation to 5% of its mix by 2030 and to phase
+are not yet commercially available or are unproven
+out coal generation by 2035, subject to regulatory
+at utility scale� As it becomes harder to source
+approvals� This plan has been received favorably
+fuels like coal for current generation technologies,
+by the insurance companies with whom we
+new, cleaner, technologies must emerge to
+do business�
+take their place� If these technologies are not
+developed or are not available at competitive
+Opportunities
+prices, or if we invest in early stage technologies
+that are then supplanted by technological
+While the clean energy transition comes with
+breakthroughs, our ability to achieve our clean
+challenges, there are also opportunities for our
+energy transition could be at risk� To reduce this
+business and for those we serve� Within our
+risk, Duke Energy is focusing on the development
+business, there are opportunities for our regulated
+of new technologies, as described below on
+utilities to make investments that provide a
+page 36�
+regulated rate of return� These investments
+include those in our clean energy transition such
+Over the next 10 years, the company has
+as renewables, energy efficiency, energy storage,
+projected capital investments of $145 billion of
+and grid modernization, as well as electric vehicle
+which 85% is for fleet transformation and grid
+infrastructure and distribution of alternative low-
+modernization� Access to capital at reasonable
+rates is critical to our ability to transform� To date, carbon fuels�
+the company’s strong credit profile has supported
+ready access to equity and debt securities at Policy opportunities
+reasonable terms� If this were adversely impacted, Policies that enable our clean energy transition
+the company’s ability to access capital to execute provide opportunities for Duke Energy to
+capital projects at competitive rates would be accomplish its emission reduction goals in a way
+impeded� Without access to capital, the pace of that benefits both the company and its customers.
+the company’s energy transition could decline�
+North Carolina HB 951 is one example of such a
+policy� It directs the NCUC to “take all reasonable
+To help mitigate the risk of reduced access to
+steps to achieve a 70% reduction in emissions
+capital, the company published a Sustainable
+of carbon dioxide (CO ) emitted in the state from
+Financing Framework in November 2021 2
+electric generating facilities owned or operated
+allowing investors who have specific mandates,
+by electric public utilities from 2005 levels by
+or increased focus on investments with
+the year 2030 and carbon neutrality by the year
+higher sustainability attributes, to purchase
+2050�” Further, the NCUC is required to “develop
+sustainability-labeled bonds from many of the
+a plan … to achieve the least cost path … to
+electric utility issuers within Duke Energy�
+achieve compliance with the authorized carbon
+Finally, there are insurance-related reduction goals and “ensure any generation and
+risks� Commercial insurance companies have resource changes maintain or improve upon the
+stated that they will begin to curtail the amount adequacy and reliability of the existing grid�” HB
+951 was supported by bipartisan majorities in of combustion) can provide investments for the
+the North Carolina General Assembly and the company and reduce emissions� For example,
+governor� HB 951 is a successful example of how Tennessee recently adopted the “Tennessee
+climate-related policies can become opportunities Natural Gas Innovation Act” (TN SB 1959), which
+when our clean energy transition is facilitated in a authorizes a mechanism to recover the costs
+manner that preserves affordability and reliability related to the use or development of infrastructure
+for our customers� to facilitate use of innovative natural gas
+resources for natural gas utility customers, if the
+In the last year, Congress adopted two major commission finds that the costs are in the public
+pieces of legislation that will help develop new interest� For purposes of this bill, “innovative
+clean energy technologies, improve the electric natural gas resources” include, but are not limited
+grid, and enable the clean energy transition� to, farm gas, biogas, RNG, hydrogen, carbon
+The first, the IIJA, also known as the bipartisan capture, qualified offsets, renewable natural gas
+infrastructure bill, was enacted in late 2021� It attributes, responsibly sourced gas (RSG), and
+provides more than $60 billion for clean energy energy efficiency resources.
+technology development and grid modernization�
+In addition, another state-level policy success
+The second, the IRA, enacted in August, extends from the natural gas business unit is the new
+existing solar and wind tax credits and includes North Carolina GreenEdgeSM program� GreenEdge
+new tax credits for energy storage, hydrogen, and is a voluntary program available to residential and
+for new and existing nuclear� These tax credits will small commercial customers to purchase blocks
+lower the cost of the clean energy transition for of environmental attribute equivalents and carbon
+Duke Energy’s customers�16 offsets to offset the emissions from their use of
+natural gas� The GreenEdge program allows these
+For natural gas, policies to enable the use of customers to purchase monthly “blocks” that
+RNG, hydrogen and other alternate fuels (which represent a combination of RNG environmental
+are low carbon or carbon neutral at the point attributes and carbon offsets� Each block is
+16 P lease note, however, that the analyses presented later in this report were completed prior to the enactment of the IRA�
+Preliminary modeling regarding the impact of the IRA is discussed on page 41�
+equivalent to 25% of the average North Carolina household’s
+monthly natural gas use� This helps the company achieve its goal
+for net-zero Scope 3 natural gas customer emissions�
+Renewables
+Customer demand for electricity from cleaner sources continues to
+increase� Given this, we are increasing the amount of renewables
+on our system, which helps us reduce carbon emissions in line
+with our clean energy goals, diversify our fuel sources and provide
+investment opportunities� By 2035, we expect to have 30,000
+MW of regulated renewables on our system, including both utility-
+owned and those procured under purchased power agreements�17
+One of the nation’s and Duke Energy’s fastest-growing areas for
+solar power is Florida and in August of this year, we reached a
+significant milestone, delivering on our commitment to provide
+700 MW of solar energy at 10 facilities to Florida customers�
+By 2024, with a combined investment of over $2 billion,
+Duke Energy Florida’s solar generation portfolio will include 25
+grid-tied solar power plants, which will provide about 1,500 MW
+of emission-free generation with approximately 5 million solar
+panels installed� These solar facilities provide a cleaner, brighter
+energy future for our Florida customers, diversify our fuel sources
+and, in addition, foster economic development and job creation in
+the areas we serve�
+In the Carolinas, more than 4,500 MW of solar capacity is
+connected to our grid – including company-owned and independent
+projects� We continue to grow our solar portfolio as we continue
+our clean energy transition�
+Duke Energy recently
+became one of two In addition, Duke Energy recently became one of two offshore wind
+offshore wind lessees for lessees for the Carolina Long Bay area east of Wilmington, North
+the Carolina Long Bay Carolina� The Duke Energy lease could support the development
+area. The Duke Energy of up to 1�6 GW of offshore wind� It creates optionality if the
+lease could support the NCUC determines that offshore wind is part of the least-cost path
+development of up to to achieve the goals of North Carolina HB 951� Three of the four
+1.6 GW of offshore wind, portfolios submitted under the proposed Carolinas Carbon Plan for
+enough to power nearly
+HB 951 include offshore wind
+375,000 homes.
+17 See NOTE on page 20�
+Energy storage
+There are many types of energy storage – from traditional
+hydroelectric pumped storage to new technologies involving
+battery, thermal, and mechanical energy storage� Our scenario
+analysis shows that we are projecting nearly 30 GW of energy
+storage on our system by 2050�
+Our approach is to enhance our long-serving hydroelectric assets,
+actively deploy battery storage technologies available today and
+support the development of advanced energy storage options� We
+plan to invest more than $600 million in battery energy storage by
+2025, which will help to support our renewables portfolio�
+The company has 77 MW of battery energy storage in service and
+another 14 MW under construction� By the end of 2022, we will
+have at least 50 MW of battery energy storage in Florida, including
+a battery on Cape San Blas on the Gulf of Mexico� In North
+Carolina, the Hot Springs Microgrid was placed in service in 2021�
+This project combines a 2-MW solar array with 4�4 MW of battery
+storage� This will be the company’s largest microgrid – providing
+reliable power to a small town�
+We are testing long-duration energy storage technologies at our
+Duke Energy Emerging Technology and Innovation Center in Mount
+Holly, North Carolina� Multiple new battery chemistries will be
+tested in the 2022-2023 time frame that will inform our future
+deployments at scale�
+Energy efficiency
+Energy efficiency is an important opportunity and tool for our
+business – it helps customers by reducing energy costs and the
+company by reducing electric and natural gas load and therefore
+reducing carbon emissions�
+Energy efficiency is an important part of our resource plans.
+For example, each of the scenarios presented in the proposed
+Carolinas Carbon Plan assumes reducing 1% of eligible retail load
+through energy efficiency each year. This aggressive long-term
+forecast of energy efficiency savings is more than double the level
+assumed in the Carolinas 2020 IRPs�
+In 2021, enterprisewide, we exceeded energy efficiency goals by
+achieving a cumulative reduction in customer energy consumption
+of 21,361 GWh at year’s end – equivalent to the annual energy
+usage of 1�78 million homes� We also reduced cumulative peak
+demand by 6,929 MW�
+Energy efficiency is also an important factor in our long-term plans
+for our natural gas business� Our models predict that customers
+will continue to add newer, less energy-intensive gas appliances�
+We continue to help customers manage energy to take action to save energy and money, the
+costs while improving access to their homes’ company’s Online Marketplace, retailer discount
+specific energy profiles, including: and in-home assessments continue to be cost-
+effective choices for customers�
+ Home Energy Reports (MyHER) reports –
+individual reports are provided to over 2�6  Piedmont Natural Gas has provided funding
+million residential customers each month� for low-income weatherization assistance
+With this information, customers can make programs that provide a more energy-efficient
+meaningful decisions about their own and comfortable home environment for the
+energy use� customers served and recently received
+regulatory approval for several new residential
+ New, modernized billing and technology and commercial energy efficiency programs in
+systems – for customers in the Carolinas and North Carolina�
+Florida, new billing and payment options,
+improved digital experience with more self-  Duke Energy Indiana provided enhanced
+service choices, and insights into energy use funding for health and safety improvements for
+and spending� In December 2021, 71% of low-income customers, allowing their homes to
+enrollments in payment assistance programs be weatherized and providing energy savings�
+and 70% of billing program enrollments were
+ Duke Energy Ohio and Kentucky employee
+completed via the new self-service methods�
+volunteers assembled hundreds of winter
+ Direct outreach – through grassroots awareness weatherization kits that were handed out
+to customers� The weatherization kits were
+campaigns, the company uses a wide variety
+distributed in partnership with community
+of communications tactics to deliver important
+organizations across Ohio and Kentucky, and
+messages about higher bills� We provide
+included items such as draft stoppers, window
+customers with tools to help them manage their
+insulation, outlet covers, weatherstripping, etc�
+bills, reduce energy use, and save money�
+to help customers prepare for the cold winter
+ Program and engagement options – to months and make their homes more energy
+simplify next steps for customers who want efficient to cut down on their energy costs.
+ As we look to the remainder of 2022 and initiatives to embrace and encourage the transition
+beyond, new options such as time-based rate to greater transportation electrification.
+options, program bundles, and education
+Starting within the company, we have made
+and tools around electric vehicle charging will
+a strong commitment to electrifying our own
+provide even more value for customers�
+fleet. We have pledged to convert 100% of our
+nearly 4,000 light-duty vehicles and 50% of our
+Electric vehicles
+combined fleet of about 6,000 medium-duty,
+According to the Edison Electric Institute, as heavy-duty and off-road vehicles to EVs, plug-in
+many as 26�4 million electric vehicles (EVs) hybrids or other zero-carbon alternatives by 2030�
+may be on the road by 2030�18 The increase in
+demand for electricity in this transformation of the In Florida, the company’s Park and Plug pilot
+transportation sector provides us an opportunity has installed more than 600 EV public charging
+stations throughout the state� To date, drivers
+to grow our electricity business with clean energy�
+have used the Park & Plug network for almost
+We are a strong supporter of utility involvement to 130,000 charging sessions, displacing more than
+help scale the electrification of the transportation 215,000 gallons of gasoline� The Park and Plug
+sector and provide equitable access to EV program includes direct current (DC) fast chargers
+charging across the communities we serve� It’s a in strategic locations connecting major and key
+major reason we have introduced comprehensive secondary corridors and evacuation routes in
+18 E lectric Vehicle Sales and the Charging Infrastructure Required Through 2030 (eei�org)�
+Duke Energy has pledged to convert 100% of its nearly 4,000
+light-duty vehicles and 50% of its combined fleet of about 6,000
+medium-duty, heavy-duty and off-road vehicles to EVs, plug-in
+hybrids, or other zero-carbon alternatives by 2030.
+Florida� This creates critical infrastructure needed for EV adoption
+and helps reduce range anxiety�
+In the Carolinas, regulatory action in 2020 resulted in the approval
+of pilot programs� In North Carolina, we received regulatory
+approval for “Make Ready Credit” programs to provide credits to
+reduce the upfront cost of upgrading electrical systems to install
+charging infrastructure for homeowners and businesses� We have
+filed for approval of a similar program in South Carolina and intend
+to expand it to other jurisdictions, subject to regulatory approval� In
+addition, we aim to make sure future charging is equitable to rural
+and low- to middle-income areas�
+We are now working on an expanded suite of EV programs, making
+it more affordable and convenient for customers to access EV
+charging infrastructure across the areas we serve� For example, in
+Indiana, we are implementing fast charging infrastructure as part
+of a Volkswagen grant, and EV incentives were recently approved
+for residential and commercial customers and for fleet and school
+buses� Additionally, the company’s fast charging tariff and EV
+service equipment tariff were recently approved�
+The company has also actively engaged with each state in which
+we operate as they develop plans for additional EV infrastructure
+funding under the IIJA� Recently, the Federal Highway
+Administration approved these Electric Vehicle Infrastructure
+Deployment Plans for all 50 states under the National Electric
+Vehicle Infrastructure Formula Program� These state plans will fund
+numerous activities to promote EV charging, including construction
+of new EV charging infrastructure�
+In the commercial space, the company’s wholly owned subsidiary,
+eTransEnergy, helps large businesses and municipalities with all the
+planning, financing, acquisition and deployment services to electrify
+their fleets. eTransEnergy provides unregulated services to assist
+school districts, transit agencies and companies across the country
+achieve their economic and sustainability goals as they transition to
+clean energy transportation options�
+Stakeholder engagement
+Duke Energy is driving the clean energy transition in partnership
+with external stakeholders to reach the best solutions for its
+customers and communities� We are working collaboratively to
+make the changes we can today while developing new solutions
+to deliver an even cleaner energy future� We are listening, learning
+and adjusting along our journey and are committed to a future
+that offers reliable, accessible and affordable clean energy for all
+customers and to making a positive impact on our communities�
+Doing so requires that we get their perspectives early and often and
+work together to develop and deliver smart energy solutions� We
+engage and interact, hold open houses and listen before we act�
+Effective stakeholder engagement requires the development of
+genuine, positive working relationships, which in turn relies on
+a foundation of trust� We are growing our team of engagement
+experts at Duke Energy to focus on engaging customers, local
+governments and communities and connecting those localized
+projects and initiatives to state and federal policies and regulations�
+Duke Energy is committed to including engagement expertise
+in our project management practices and maturing our use
+of environmental justice screening tools and community
+assessments. This helps us develop specific strategies and tactics
+for engagement such as listening sessions, community forums
+and partnerships with groups who have their own established
+communications channels we can leverage� The early inclusion
+of stakeholder engagement helps us identify risks and explore
+opportunities associated with our energy transition�
+For example, in the Carolinas we are targeting 70% carbon
+reduction in the 2030 time frame – a goal outlined by North
+Carolina HB 951� After gathering feedback from stakeholders in
+both North Carolina and South Carolina, we incorporated this
+public input into our proposed Carolinas Carbon Plan – a road
+map for modernizing our two-state energy system in a manner
+that reduces risks for customers while also lowering emissions and
+balancing affordability and reliability�
+We believe our long-term success is deeply intertwined with the
+health and well-being of the communities we serve, and we strive
+to be transparent in our stakeholder engagement outreach�
+New Technologies
+The development and commercialization of new technologies
+will be critical to our achievement of our net-zero goals and for
+economywide decarbonization� We have undertaken numerous
+partnerships, with technology developers, researchers, and industry
+groups to advance technology maturity and create supportive
+policy frameworks� In addition to these initiatives, we are exploring
+additional technology advancement projects and partnerships
+under the IIJA, which provides the Department of Energy with
+more than $60 billion to invest in clean energy technologies and
+grid modernization across the United States� We are evaluating
+potential IIJA projects related to hydrogen, long-duration energy
+storage, carbon capture, and more�
+New nuclear
+ New nuclear technologies under development include SMRs,
+advanced reactors and microreactors� SMRs are water-cooled
+reactors (like today’s commercial fleet); advanced reactors
+are non-water-cooled (e�g�, molten salt, liquid metal, or high-
+could be used in small applications like a
+university setting�  We are piloting multiple technologies, including
+a vanadium flow battery with the University
+ Examples of the ways we are exploring these of Central Florida; Honeywell’s new non-
+technologies include: flammable flow battery and EOS’s Znyth Gen
+3�0 zinc bromine battery at Duke Energy’s
+– We serve an advisory role on the TerraPower-
+Emerging Technology Innovation Center in
+led team that is working to demonstrate
+Mount Holly, North Carolina; and EnerVenue’s
+TerraPower and GE Hitachi’s Natrium fast
+nickel-hydrogen battery at our McAlpine Creek
+sodium reactor with molten salt storage� The
+Substation in Charlotte, North Carolina�
+project received one of two U�S� Department
+of Energy (DOE) awards through the
+ We are partnering with the Electric Power
+Advanced Reactor Demonstration Program
+Research Institute (EPRI) to study the cost and
+in 2020�
+performance of deploying Hydrostor’s Advanced
+– We are an advisory board member for Compressed Air Energy Storage technology at
+NuScale, which is working toward a six-
+an existing coal site in North Carolina�
+unit pilot SMR plant in Idaho by 2030�
+The U�S� Nuclear Regulatory Commission
+Hydrogen
+(NRC) announced on July 29, 2022 that it
+is directing its staff to issue a final rule that  We are implementing a solar to 100% green
+hydrogen-capable combustion turbine in Florida�
+certifies NuScale’s SMR standard design
+for use in the U�S� According to the NRC, Our goal is to be operational by 2024�
+“certification … means the design meets the
+ We are partnering with Clemson University
+agency’s applicable safety requirements�”
+and Siemens Energy to evaluate a project
+NuScale is the first such design to receive
+to produce, store and co-fire hydrogen at Duke
+NRC certification, but it has not yet received
+Energy’s combined heat and power plant on
+its operating license�
+Clemson’s campus in South Carolina�
+– We serve as advisory board members for
+multiple technologies and interface with  We are partnering with Wabash Valley
+companies like GE Hitachi and X-energy; both Resources on a Department of Energy-funded
+companies are working to deploy SMRs� front-end engineering design study of biomass-
+– In Indiana, we are working with Purdue to-net-zero-hydrogen production in Indiana�
+University on an SMR feasibility study to
+ We are a sponsor of the Energy Futures
+develop information on how to best meet the
+Initiative’s Hydrogen Market Formation study�
+clean energy needs of the university and the
+state using nuclear�
+Carbon Capture, Utilization and Storage (CCUS)
+– We are members of the Market Development
+Advisory Committee for General Fusion, a  Over the past 15 years, we have participated
+Canadian company developing a fusion power in multiple CCUS pilots in our Midwest service
+plant technology� territories, including successful injection of
+1,000 tons of CO at the East Bend Station
+2
+Long-duration energy storage deep well site in Kentucky and engineering
+ We have owned and operate pumped-storage design and geologic site characterization at our
+hydro stations since the 1970s in our Western Edwardsport Integrated Gasification Combined
+Carolinas region� The company is evaluating the Cycle (IGCC) plant in Indiana�
+Advanced customer programs and flexible demand
+ We are piloting vehicle-to-grid (V2G) and vehicle-to-building
+technologies, such as:
+– Electric school buses in Indiana with Cummins, Blue Bird
+and Nuvee;
+– A 17 kW DC charger with V2G capabilities that is powered
+directly from our DC microgrid at our Mount Holly Innovation
+Center; and
+– A pilot program, announced in August, in collaboration with
+Ford Motor Company, that, if approved by the NCUC, will
+provide incentives to customers to allow their eligible EVs,
+including the Ford F-150 Lightning, to feed energy back to the
+grid to help balance peak demand�
+ We are testing advanced demand response capabilities through
+Bring Your Own Thermostat and Bring Your Own Battery pilots�
+Natural gas distribution methane reduction initiatives
+ We entered into a partnership with Accenture and Microsoft to
+develop greenhouse gas emissions platform designed to apply
+direct measurement data into a platform to store, track and
+monitor emissions across the business�
+ We are performing pilot testing of satellite technology for
+advanced methane leak detection capable of detecting plumes of
+methane as small as a leak on a residential meter�
+ We are pilot testing gas cloud imaging cameras (GCI) at strategic
+stationary locations on the gas distribution system to perform
+24/7 real-time methane detection.
+We have filed for approval
+in North Carolina of a
+ We are incorporating the use of cross-compression technology
+partnership with Ford
+to eliminate methane emissions, such as blow-downs or flaring,
+Motor Company that
+during operational activities�
+will use F-150 Lightning
+electric trucks to help
+Just Transition
+power the grid.
+Duke Energy’s long-term success is deeply intertwined with the
+health and well-being of the communities we serve� As part of
+our clean energy transition, we want to ensure a just transition in
+which we will be thoughtful and intentional in how we achieve our
+clean energy transition and we will consider the diverse needs,
+preferences and expectations of our stakeholders�
+In 2022, we launched a cross-functional working team to build a
+framework and just transition strategy that’s based on stakeholder
+input and our learnings from previous coal facility retirements�
+In those cases, we gained valuable experience about how to
+meaningfully address impacts to workers and communities�
+For example, in North Carolina, we developed a multiskilling
+program for 500 coal plant workers, which provides employees
+with the skills needed to generate reliable power for our
+customers during the transition� We also conducted expert-guided
+benchmarking exercises to determine best practices, and we’re
+leaning in and engaging in dialogue to understand the needs of
+a diverse set of stakeholders, including local governments and
+nonprofits, as we develop our long-term strategy.
+Based on this experience, our benchmarking exercises, and ongoing
+stakeholder dialogues, we have developed the below principles to
+guide us as we continue our transition to a clean energy future�
+As we navigate the largest planned coal retirement in the industry,
+we are being intentional in how we approach a fair, equitable and
+just transition for stakeholder groups that include our employees,
+customers and communities� We commit to:
+ Support the workforce: Fundamental to our transformation
+is our commitment to enable sustainable career opportunities
+and build a talented, diverse workforce across the communities
+we serve� We will support the workforce needed to safely run
+and maintain the plants through retirement� Additional support
+for employees affected by our clean energy transformation
+will include providing assistance to pursue new career paths,
+including reskilling and internal placement opportunities and,
+if needed, external career transition support�
+ Engage with our communities: We will communicate with
+key stakeholders in and around the community to identify
+opportunities and needs that arise as a direct result of the
+transition� We will seek advice from and partner closely with
+In North Carolina, we the affected community, including individual community
+members and public and private organizations that can share
+developed a multiskilling
+unique perspectives as we listen, learn and adjust to develop
+program for 500 coal
+collaborative community plans�
+plant workers. This
+provides employees with
+ Prioritize reliable, affordable and accessible energy for all
+the skills needed to
+customers: We are focused on maintaining energy reliability
+generate reliable power for
+during the transition while recognizing the importance of
+our customers during the
+affordability for our customers and are committed to balancing
+clean energy transition.
+these needs. Additionally, we will prioritize scenarios benefiting
+customers including power generation supported by clean
+energy sources�
+ Evaluate community development: We will incorporate a
+process to evaluate Duke Energy infrastructure and land for
+replacement generation, alternative economic development
+opportunities and/or land restoration to benefit the vitality and
+well-being as well as the environment of the local community�
+We will partner with the community to evaluate additional
+regional economic opportunities that will promote employment
+and sustainable economic benefits.
+Net-Zero Scenario Analyses a 1�5°C scenario; the IEA states that its
+scenario “reducing global carbon dioxide (CO )
+2
+emissions to net-zero by 2050 is consistent
+(TCFD: Describe the resilience of the organization’s
+with efforts to limit the long-term increase in
+strategy, taking into consideration different climate-
+global temperatures to 1�5°C�”
+related scenarios, including a 2°C or lower scenario�)
+The below sections discuss analysis of scenarios 1� D uke Energy Regulated Electric
+for achievement of zero carbon emissions for the
+Business Net-Zero Scenario Analysis
+following segments of our business�
+The following analysis examines an updated
+1� Duke Energy’s electric business� This scenario
+scenario for achieving our net-zero CO emissions
+shows an option for how Duke Energy would 2
+goal by 2050 for our regulated electric generation
+achieve its goals of at least a 50% reduction
+business� This analysis was conducted using the
+in carbon emissions from 2005 levels by
+same industry-standard expansion planning and
+2030, 80% by 2040, and net-zero emissions
+hourly production cost modeling tool that we use
+by 2050�
+for integrated resource planning� The analysis
+did not include transmission and distribution
+2� Duke Energy’s natural gas business� This
+modeling, which is required to assess the cost
+scenario includes a discussion of how the
+and technical feasibility of interconnecting large
+natural gas business unit can achieve its goal
+quantities of renewables�
+of net-zero emissions from customer use of gas
+by 2050�
+The scenario analysis is intended only to provide
+an enterprisewide directional illustration of a
+In addition, we present a third-party analysis of:
+possible pathway to achieve our clean energy
+3� Duke Energy’s electric and gas businesses transition� The results through 2030-2035
+under the International Energy Agency’s (depending on the jurisdiction) are generally
+(IEA’s) Net Zero by 2050 scenario�19 aligned with coal retirement dates and the most
+Stakeholders have requested that we analyze recent resource plans for our Midwest and Florida
+19 I nternational Energy Agency, Net Zero by 2050: A Road Map for the Global Energy Sector, revised version, October 2021�
+regulated electric utilities and the proposed scalable supply chains; proactive grid planning
+Carolinas Carbon Plan as filed in North Carolina. processes; federal, state and local permitting; and
+One exception to this alignment is a more state regulatory approvals�
+aggressive carbon price trajectory required for
+The IRA does provide a tangible federal carbon
+Midwest and Florida jurisdictions to achieve zero
+policy, which reduces customer costs� This will
+carbon emissions by 2050�
+also improve rate stability by mitigating the risk
+In light of the dependency of these projections of increased costs to customers due to current
+on policy and technology development, supply inflationary pressures and higher fuel costs. It
+chains and regulatory processes, the projections also drives advancement in hydrogen and storage
+will change over time as regulatory decisions are technologies and strengthens the supply chain
+made and new information becomes available� for critical dispatchable clean energy resources
+We will continue to work collaboratively with such as hydrogen, new nuclear, and advanced
+stakeholders in the states we serve as we energy storage�
+develop future resource plans pursuant to
+The pathway represented by this scenario analysis
+regulatory requirements�
+supports the overall trajectory of our carbon
+Modeling for this report did not include impacts reduction goals for electricity generation of at
+of the recent IRA but did look at impacts of the least a 50% reduction by 2030, 80% by 2040
+proposed carbon plan in North Carolina and other and net-zero by 2050� However, further policy
+support; technology development; sustainable
+potential carbon policies on the Midwest, Florida
+supply chains; and federal, state, and local
+and South Carolina� Our preliminary modeling
+permitting are needed to achieve our 2050 goals�
+indicates that the IRA will reduce the cost of our
+energy transition through the 2030s, bringing
+Key caveats and assumptions for regulated
+down costs to customers with the IRA tax credits
+electric business net-zero scenario analysis
+instead of an assumed price on carbon� We also
+expect the IRA will bring down costs of advanced Developing scenarios out to 2050 necessarily
+technologies, such as green hydrogen, and make requires an analysis that includes numerous
+them cost competitive earlier than expected� The uncertainties and assumptions� The company’s
+pace of investment still depends on things like resource planning processes, which go out 10
+to 20 years, provide a relatively more certain view� Projecting
+beyond that time frame requires more speculative assumptions for
+how technology, electricity demand, and costs may evolve several
+decades in the future�
+In addition to assumptions in currently proposed IRPs and the
+proposed Carolinas Carbon Plan, this net-zero scenario analysis is
+based on the following assumptions:
+ Legislative or regulatory federal climate policy is enacted that
+facilitates the transition to net-zero emissions by 2050 – or, in
+the absence of federal policy, climate policies are enacted in each
+of the states in which Duke Energy operates generating capacity�
+As noted above, the analysis was conducted before enactment of
+the IRA and so does not include its clean energy incentives�
+ Regulatory approvals of the generation changes modeled in the
+scenario are obtained over the planning horizon through 2050�
+ Buildout of natural gas pipelines and generating capacity is
+allowed where necessary to enable coal retirements� (We assume
+that these will be transitioned to hydrogen or RNG operation
+prior to 2050�)
+ Scalable supply chains are developed for renewables, storage,
+and ZELFR technologies�
+ Cost-effective new ZELFRs such as advanced nuclear, zero-
+carbon hydrogen, and carbon capture, utilization and storage are
+developed and commercially available in time to be used when
+needed for the scenario�
+The net-zero analysis
+ Buildout of new ZELFR capacity and associated electric
+for Duke Energy’s
+transmission lines is achievable within the time frames needed
+electric business
+for this strategy�
+rests on numerous
+assumptions  Federal, state and local permitting is obtained for new technology
+detailed here.
+installations, pipelines, and transmission�
+ In addition, this net-zero scenario analysis makes the following
+specific modeling assumptions:
+System load For the net-zero scenario analysis, Duke Energy used a “high EV”
+scenario coupled with the same economic growth and energy efficiency
+forecasts used in its proposed 2022 Carolinas Carbon Plan and its recent
+integrated resource plans in Indiana and Kentucky and its 10-year site
+plan in Florida� In the early years, the load growth under this scenario
+matches the growth we project in our recent IRPs and Carbon Plan� It
+then ramps up over time and averages over the period 2022-2050 a
+compound annual growth rate for energy (in megawatt-hours (MWh))
+of 1�49%� This assumes normal weather as experienced over the past
+30 years�
+The high EV scenario assumes achievement of the Biden administration’s
+goal that 40% to 50% of new vehicle sales will be electric by 2030� To
+enable this, we assume that the numerous announcements of new EV
+models to be released in the next few years will come to fruition� Further,
+greatly increased charging infrastructure must be assumed to be available
+to alleviate range anxiety for EVs�
+Existing nuclear All existing nuclear plants receive subsequent license renewals and are
+authorized by the Nuclear Regulatory Commission to operate for an
+additional 20 years (for a total operating life of 80 years)� In addition,
+the IRA provides a production tax credit for existing nuclear from 2024
+through 2032� Existing nuclear generation is assumed to be capable of
+reducing output by up to 20% post-2040 to aid in balancing generation
+and load�
+Coal retirements Coal retirements in North Carolina are based on the proposed 2022
+Carolinas Carbon Plan filed on May 16, 2022. Coal retirements in Indiana
+and Kentucky are based on 2021 IRPs, and the Crystal River units in
+Florida are assumed to retire in 2034, per the 2022 10-year site plan�
+All future coal retirements are subject to regulatory approval and, in
+certain cases, the availability of replacement generation�
+Natural gas assets New units are assumed to have a 35-year book life, progressively
+(power generation) transitioning to hydrogen use by 2050 or alternatively, RNG�
+Hydrogen blending in natural gas turbines is assumed to begin in 2035
+at approximately 3% by volume and to ramp up to approximately 15% by
+volume by the early 2040s�
+All natural gas units built after 2030 are assumed to be convertible to full
+hydrogen capability� After 2040, only peaking units that are fully hydrogen
+capable are assumed to be built�
+time beginning in 2035 due to the uncertainties regarding how the
+markets will evolve in the future�
+This is a conservative approach to ensure that customer load is served�
+Actual plans would consider market purchases as required by state law
+and regulations�
+Fuel supplies Until new dispatchable carbon-free fuel technologies become
+and prices economically viable for utility-scale use, traditional fossil fuels will be
+required to satisfy regulatory mandates for least-cost planning and reliable
+operations. This means obtaining sufficient coal supplies to provide
+reliability through the planned (subject to regulatory approval) end of
+coal consumption in 2035 and obtaining additional firm transportation
+for interstate natural gas required to support renewable integration,
+maintain cost-effective and reliable energy, and achieve declining system
+carbon emissions�
+This analysis used Duke Energy’s fall 2021 fuel forecast, which was
+completed before inflation and fuel supply challenges became a major
+factor in the spring and summer of 2022� Our ongoing work will continue
+to reflect updates in commodity prices and we believe, coupled with
+incentives from the IRA, that this will tend to advantage clean generation
+sources, balanced by the need for reliable capacity�
+For natural gas commodity prices, fall 2021 market prices (which, as
+noted above, occurred prior to 2022 fuel price inflation) are used for the
+first five years of the forecast and assumed to transition to fundamentals-
+based prices over years five through eight. IHS Markit forecasts are used
+beginning in year nine� The modeling also assumed a limited supply of
+new Appalachian gas. As described in our Carolinas Carbon Plan filings,
+however, more detailed modeling would show that a limited portion of
+energy storage could be more cost-effectively replaced with hydrogen-
+capable combustion turbines (CTs)�
+Zero-emitting load- ZELFRs are assumed to be commercially available for deployment in the
+following resources mid-2030s� ZELFR is a placeholder in the modeling for new commercially
+(ZELFRs) available dispatchable utility-scale technologies to complement high
+penetrations of renewables� For purposes of cost analysis, costs for
+ZELFRs were based on SMRs� ZELFRs could also be combined-cycle
+power plants with CCUS, or use hydrogen or biofuels (like RNG)� In
+reality, a combination of several technologies, including both SMRs
+and advanced reactors are needed to replace existing baseload and
+intermediate generation and back up weather-dependent renewable
+generation� The capital costs of these various types of ZELFRs are
+uncertain; therefore, it makes capital expenditure projections uncertain
+once ZELFRs are assumed to be installed�
+which did not capture supply chain issues and inflationary effects
+observed over the past several months� Some of the prices below are
+projected to decrease over time (especially renewables and storage), while
+others are expected to increase�
+ CTs – $600/kW (represents multiunit site)
+ Combined cycle (CCs) – $650/kW (represents 2x1 advanced class with
+duct firing)
+ Hydrogen combustion turbines – $720/kW (represents multiunit site)
+ Retrofit of existing gas units to 100% hydrogen capable – $110/kW for
+CCs to $150/kW for CTs
+ Small modular nuclear reactors and advanced reactors – $5,000/kW
+ Solar – $1,500/kW
+ Solar with integrated four-hour storage – $2,000/kW
+ Wind – $1,400/kW (onshore) to $3,800/kW (offshore)
+NOTES:
+Interconnection costs for these technologies were not explicitly considered
+in the scenario analysis� This assumption yields an optimistic view of the
+costs of adding large quantities of renewables to the grid� Typical costs of
+transmission access for various types of renewables are shown below as a
+percentage of total project costs:
+ Conventional generation – 10% (constrained area)
+ Solar – 20% (bundled solar in constrained area)
+ Wind (offshore and out of state) – 20% to 50% (location-dependent)
+ Batteries – 20% (depends on location and primary use)
+Transmission access cost is expected to increase with greater amounts of
+renewables and will be dependent on location, type, amount, and existing
+infrastructure� Due to uncertainty in these factors, projections of future
+transmission access costs were not included�
+New  New small modular reactors available beginning 2034�
+nuclear availability
+ Advanced reactors available beginning 2038�
+generally aligned with the National Renewable Energy Laboratory annual
+technology baseline moderate scenario�
+Batteries are assumed to be available to store energy for four, six or eight
+hours� It is also assumed that there are no limitations on the supply chain
+for batteries and that they can be interconnected in a timely manner and
+without cost constraints�
+Seasonal battery storage technologies are not currently commercially
+available, and their costs and development timeline are uncertain, so
+they are not assumed in the model� We view ongoing research into
+battery storage as vital to reducing costs and enabling longer-duration
+storage, but because the timing of technological breakthroughs for battery
+storage remains unclear (as do the costs of battery storage after the
+breakthroughs), we did not speculate on the timing or cost impact of a
+breakthrough in battery technology in this limited analysis�
+Hydrogen (H ) Hydrogen blending is assumed at existing CC and CT units in 2035+�
+2
+See below discussion of assumptions for internally produced hydrogen�
+ Hydrogen production technology and a robust hydrogen market is
+assumed to be available by 2040�
+ All new CTs 2040+ are assumed to be operated on 100% H �
+2
+ Remaining CT and CC units on the system in 2050, as well as all CTs
+and CCs added to the portfolios, operate on H in 2050�
+2
+ Hydrogen cost assumptions are informed by the DOE price target for
+clean hydrogen�
+In the coming decades, hydrogen production and consumption for
+electric power generation is expected to expand significantly and become
+an important component of achieving carbon neutrality by 2050�
+While Duke Energy is optimistic that the current DOE targets will drive
+development of a hydrogen market, our modeling sought to assess the
+potential for producing an adequate hydrogen supply for Duke Energy
+needs based on surplus energy from our generating assets�
+We evaluated the level of surplus clean energy (from solar, wind, and
+nuclear) during periods of lower energy demand to see how that could
+potentially be translated into hydrogen production� Our modeling showed
+that this surplus clean energy could provide enough internally produced
+hydrogen to adequately meet all of the assumed hydrogen blending needs,
+which begin in 2035� As the need for hydrogen usage grows throughout
+the 2040s with the addition of 100% hydrogen resources, our modeling
+projects that our surplus clean energy could supply approximately half of
+the total hydrogen needed for 2050 consumption�
+carbon policy and Midwest modeling utilized a carbon price assumption, but with the
+adjustment of a higher and later starting point. In these cases, a $26/
+short ton carbon price, escalating at $7/year was used in dispatch starting
+in 2028, which supports a steady trajectory to reach net-zero carbon
+by 2050� For the Carolinas, the modeling results presented below are
+consistent with the proposed Carolinas Carbon Plan� The carbon price
+could also represent limitations on coal generation starting in 2028, either
+through new policies or market constraints�
+This modeling effort assumes a policy is imposed that requires zero
+carbon emissions from electricity generation in 2050� This is consistent
+with prior Clean Electricity Standard proposals in Congress� As discussed
+previously, the modeling was performed before enactment of the IRA�
+Electric Business Net-Zero Scenario Analysis Results
+The following results reflect only one set of the possible
+generation mixes that would result in net-zero emissions by
+2050� The ultimate pace of the transition will be dependent
+upon several factors such as regulatory approval, access to
+replacement generation, supply chains, etc� and actual results
+could be materially different from this scenario� These results do
+not represent definitive utility resource plans. Each Duke Energy
+utility’s resource plan will be developed in conjunction with
+policymakers and other stakeholders and will require regulatory
+approval under our legal mandate to provide affordable and
+reliable energy�
+Figure 1 shows the mix of the company’s regulated generating
+capacity (in gigawatts (GW)) in 2021, along with the capacity
+projected through 2050 every five years (starting in 2025).20 21
+Overall, this shows that over 120 GW of new resources will need to
+be built and interconnected over the next 27 years�
+Figure 1: Total Capacity (GW) – Enterprise
+Distributed Resources
+160
+Storage
+140
+120 ZELFR
+(New)
+100
+ZELFR
+80 (Converted H 2/Biogas)
+60 Existing Nuclear
+40 Renewables
+20 Gas
+0 Coal
+2021 2025 2030 2035 2040 2045 2050
+Figure 2 shows the percentage mix of the company’s regulated
+generation in 2021, along with the percentages projected through
+2050 every five years (starting in 2025).22 The mission of natural
+gas resources evolves over time from replacing coal to backing
+up renewables� Even though gas turbines’ contribution to the
+20 See NOTE on page 20�
+21 N ote – “ZELFR – Converted H/Biogas” are existing (at the time of adoption)
+2
+natural gas combined-cycle and combustion turbine units converted to run on
+green hydrogen or biogas (RNG)�
+22 See NOTE on page 20�
+generation mix declines, they continue to serve a critical function,
+maintaining reliability through severe weather events� As noted
+above, beginning in 2045, gas turbines that will remain in 2050
+are converted to operation on zero-carbon hydrogen or biogas/
+RNG�
+Figure 2: Percent of Total Generation – Enterprise
+100%
+ZELFR
+(New)
+80%
+ZELFR
+(Converted H/Biogas)
+60% 2
+Existing Nuclear
+40% Renewables
+Gas
+20%
+Coal
+0
+2021 2025 2030 2035 2040 2045 2050
+This scenario results in the following projected carbon emissions
+from Duke Energy generation�23 The use of gas turbines converted
+to zero-carbon fuels allows us to achieve zero carbon emissions in
+2050, without the use of offsets�
+sleveL
+5002
+morf
+noitcudeR
+egatnecreP
+Figure 3: CO Trajectory – Enterprise
+2
+Based on 2005 Baseline of 139M Metric Tons
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2021 2025 2030 2035 2040 2045 2050
+CO Trajectory
+2
+23 See NOTE on page 20�
+Key insights
+Under this scenario analysis, we are confident in exceeding our
+50% carbon reduction from 2005 levels by 2030 target and,
+assuming new technologies are developed and are cost-effective,
+achieving our new 80% reduction by 2040 target on the path to
+zero carbon emissions in 2050� In addition:
+ The analysis shows that while batteries are important for
+smoothing and time-shifting renewables, dispatchable, clean
+energy resources like hydrogen- and biogas-fired turbines are
+needed to provide longer-duration backup for renewables,
+particularly during cold winter weather when solar output is often
+low, even at midday�
+ It stands out in our modeling that advanced nuclear with
+load-following capabilities works well to support renewables
+integration into our transformed clean energy grid�
+ As we consider sourcing hydrogen, we find that clean energy
+from renewables and advanced nuclear in non-peak periods
+would be sufficient to produce much of the green hydrogen
+needed to back up renewables during severe weather events�
+ To execute this strategy that doubles our installed generating
+capacity by 2050, federal, state, and local permits are essential
+for installation of new generation technologies, pipelines,
+and transmission�
+The economics and availability of future zero-emitting resources
+could shift over time� However, we can mitigate that uncertainty
+Advanced nuclear by continued engagement in technology development�
+with load-following
+We will update this analysis as needed, work with stakeholders
+capabilities works well
+and regulators on the best path forward for customers, and
+to support renewables
+communicate regularly with customers on price and affordability,
+integration into our
+transformed clean while we seek to achieve this clean energy transition�
+energy grid.
+Comparison to Transition Pathway Initiative
+Some stakeholders have expressed interest in how our projected
+emissions trajectory aligns with goals of the Paris climate
+agreement�24 The Paris Agreement states that its goals are
+“holding the increase in the global average temperature to well
+below 2°C above pre-industrial levels and pursuing efforts to limit
+the temperature increase to 1�5°C above pre-industrial levels�”
+Several groups have laid out a variety of pathways they project
+are required to achieve global decarbonization consistent with the
+goals of the Paris Agreement, among them the Transition Pathway
+24 United Nations, “Paris Agreement,” 2015, Article 2, page 3�
+Initiative (TPI)�25 Leveraging the modeling from this report and our
+established net-zero target, our projected carbon intensity reduction
+for electricity generation is generally aligned with the 2°C scenario
+carbon intensity for electricity generation presented by the TPI 26
+Figure 4:
+Duke Energy Projected CO Intensity (metric tons/MWh) vs. TPI 2°C
+2
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+2020 2030 2035 2040 2050
+TPI Below 2 Degrees Duke Energy Projected
+2� N atural Gas Business Unit Core Net-Zero Scenarios
+Natural gas business scope 1 reduction plan
+We believe we are well-positioned to achieve our goal of net-zero
+methane emissions from our natural gas distribution system by
+2030 through the following actions:
+ Replaced more than 1,400 miles of cast iron and bare steel
+pipe, resulting in the elimination of more than 95% of the
+methane emissions previously attributed to the cast iron and bare
+Duke Energy’s projected
+steel infrastructure�
+carbon intensity for
+electricity generation
+ Partnered with Accenture and Microsoft on a unique satellite leak
+is aligned with the 2
+detection platform designed to measure actual baseline methane
+degrees Celsius trajectory
+emissions from natural gas distribution systems�
+presented by the Transition
+Pathway Initiative for  Accelerated efforts to reduce leak inventory with a “Find It, Fix
+electric utilities. It” approach. Under this program, we are fixing small leaks faster
+and, as new leak detection technology is added, we will be able
+to quickly address leaks as they are found� We have reduced
+recordable leaks by more than 85% since the beginning of 2021�
+ Using new technologies to improve measurement and monitoring
+of methane emissions, including satellite technology and real-
+25 Transition Pathway Initiative, “Carbon Performance Assessment of Electricity
+Utilities: Note on Methodology,” November 2021, page 7�
+26 See NOTE on page 20�
+business, this scenario analysis is intended only to
+provide an illustration of potential options to meet
+ Adoption of cross compression technology to
+Duke Energy’s net-zero target for gas business
+eliminate emissions from blow-downs or flaring
+during operational activities when possible� customer Scope 3 downstream emissions� Given
+the heavy reliance on decarbonized gas fuel
+ We are continuing to work with ONE Future, supplies (RNG and hydrogen) and technologies
+a coalition of natural gas companies across
+that are expected to require large-scale
+the supply chain to find solutions to make
+investment and development over the coming
+meaningful methane emissions reductions�
+decades, these projections will change over time
+ONE Future’s goal is to reduce methane
+emissions to less than 1% of natural gas as new information becomes available� We will
+throughput across the natural gas value chain� continue to work with stakeholders and regulators
+In 2020, ONE Future members achieved a in the states we serve as we develop future plans
+methane emissions intensity of 0�424%, as pursuant to regulatory requirements�
+detailed in the ONE Future 2021 Methane
+Intensity Report� We see multiple ways that our gas infrastructure
+can be leveraged in support of net-zero emissions
+Natural gas business Scope 3 pathways� However, supportive policy and
+reduction scenario27
+regulatory approvals in each state in which the
+Following the expansion of our 2050 net-zero company operates will be critical to achieving
+goal to include Scope 2 and certain Scope these goals�
+3 upstream and downstream emissions, we
+engaged ICF to perform this first-time analysis
+Key assumptions for the gas business net-zero
+exploring a potential pathway to net-zero Scope 3
+scenario analysis
+downstream carbon emissions by 2050 from our
+customers’ consumption of natural gas we sell�28 Any analysis that goes out nearly three decades
+The analysis follows a Duke Energy forecast for includes numerous uncertainties and assumptions�
+continued gas customer growth but also assumes In particular, the gas business’s ability to achieve
+significant customer efficiency improvements and
+net-zero customer emissions relies in part on
+the use of renewable natural gas, hydrogen, and
+customer decisions and the adoption of more
+offsets to achieve net-zero emissions for customer
+efficient equipment, as well as investment in and
+use� The analysis, however, did not include a full
+development of RNG and hydrogen, all of which
+assessment of costs or feasibility for this and
+will evolve over the coming decades� Based on
+other emission reduction pathways that would be
+required to establish an optimal pathway for the this understanding, the gas business net-zero
+company and its customers� analysis relies on the following assumptions�
+27 The discussion of projections under which we achieve our net-zero by 2050 goal for Scope 2 and certain other Scope 3
+emissions, as well as our interim 2035 goal for reducing Scope 2 and certain Scope 3 emissions, is in the last section of this
+report, “Metrics and Targets�”
+28 D uke Energy engaged ICF to conduct an analysis of the potential transition pathways for Duke Energy’s electric and gas
+businesses under a scenario consistent with the International Energy Agency’s Net-Zero Emissions scenario, as well as to
+perform its first analysis exploring natural gas utility pathways to achieve net-zero customer emissions. The analysis was based
+on a variety of forward-looking assumptions and information obtained from public and private sources� Neither ICF nor
+Duke Energy makes any warranty or representation as to the accuracy of any such information or any conclusions based
+thereon� ICF is a global consulting services company� It is a non-partisan, non-political company that delivers a broad and
+diverse range of independent, unbiased, objective analyses and related consulting services to help clients navigate change and
+better prepare for the future� ICF does not advocate for or against or endorse any particular public policy position� Rather, ICF’s
+2,000+ climate, energy, and environment experts worldwide – comprising one of the world’s largest science-based climate
+consultancies – are dedicated to working with business, government, and nonprofit organizations to plan for, design, and
+implement programs that drive low-carbon transitions and build resilience against the effects of climate change�
+Customer numbers Duke Energy customer growth trends continue, with residential and
+commercial gas utility customers rising to 2�4 million by 2050,
+a 47% increase over 2020 Duke Energy gas customer numbers�
+Consistent with historic trends, this pathway assumes no significant
+increase in electrification of building heating.
+Efficiency & behavior A large portion of Duke Energy natural gas customers adopt high-
+efficiency equipment and a variety of energy savings measures. This
+adoption is supported by the company’s energy efficiency programs
+and through reasonable building code updates and represents a
+continuation of historical trends of a significant decline in average
+per-customer consumption� As a result, even with the increase in
+customer numbers, in this scenario total gas usage declines modestly,
+as efficiency improvements offset the impact of growth.
+Renewable natural gas Duke Energy will be able to procure adequate RNG to supply 80%
+(RNG) of the company’s gas sales demand throughput by 2050� This
+is generally aligned with the ”Optimistic” RNG supply scenario
+discussed below and reflects a decarbonizing economy with state
+policies that are supportive of utility investment in RNG production,
+procurement and sales to utility customers�
+Hydrogen We assume we will safely be able to blend up to 5% hydrogen
+on an energy basis (equivalent to 15% on a volumetric basis) into
+the company’s gas distribution system� The blending of hydrogen
+will reduce the GHG emissions intensity of gas combustion by
+our customers�
+Offsets and negative Duke Energy will be able to purchase offsets or leverage negative
+emissions technologies emissions fuel sources and technologies to reduce a portion of the
+company’s emissions to reach net-zero�
+Renewable natural gas supply
+Renewable natural gas (RNG) is a pipeline-compatible gas derived from biogenic or other renewable
+sources that have lower life cycle carbon dioxide emissions than geologic gas� Today, RNG is mainly
+sourced from anerobic digestion processes for waste-based feedstocks (e.g., landfills, wastewater, food
+waste, and animal manure), but it can also be produced from other feedstocks and processes, which
+are expected to become more plentiful over time� To achieve net-zero for customer emissions, our gas
+business will, over time, need to transition away from geologic gas and switch to RNG supply� To assess
+potential RNG supplies, ICF developed a range of supply scenarios within the states in which our gas
+utilities operate, which include “Total Inventory,” “Optimistic” and “Limited�” This analysis was based
+on an assessment of projections of different RNG feedstocks from government and industry reports and
+databases� Technical resource potentials were developed, including
+availability and other resource constraining factors, to estimate the
+supply of RNG available to the company for utility development or
+purchased supply for our customers�
+Figure 5’s Total Inventory column summarizes the maximum RNG
+potential for each type of feedstock and production technology
+for the states within the company’s natural gas service areas
+(combined across Kentucky, North Carolina, Ohio, South Carolina,
+and Tennessee)� It does not apply any economic or technical
+constraints on feedstock availability� By contrast, the Limited and
+Optimistic RNG potential scenarios were developed assuming
+different levels of feedstock utilization relative to the maximum
+RNG inventory� The Limited scenario represents low levels of
+feedstock utilization, resulting in RNG availability of 10% of the
+Total Inventory maximum, whereas the Optimistic scenario uses
+balanced assumptions regarding feedstock utilization, assuming
+a greater value of biomass� This results in a projected potential
+equal to 55% of the Total Inventory assessed for the company’s
+service areas�
+Figure 5� Scenarios for RNG Production Potential by Feedstock in
+States where Duke Energy has Gas Utility Service (trillion Btu per year
+(tBtu/year), in 2050).
+Figure 5: 2050 Duke Energy States’ RNG Potential
+Scenarios and Total Inventory (trillion Btu/year, in 2050)
+2,000
+1,796.2
+1,800
+1,600
+1,400
+1,200
+985.5
+1,000
+800
+600
+400
+184.2
+200
+0
+Limited Optimistic Total Inventory
+Animal Manure – Dairy and Swine Animal Manure – Other
+Food Waste Landfill Gas
+Water Resource Recovery Facilities (WRRFs) Agriculture Residue
+Energy Crops Forestry & Forest Product Residue
+Municipal Solid Waste (MSW)
+Results – Scope 3 scenario for gas business
+The results of this analysis illustrate a scenario to achieve net-
+zero Scope 3 emissions by 2050 for the combustion of gas
+sold to Duke Energy’s gas utility customers� These results are
+not intended to represent a definitive utility resource plan; the
+gas business’s resource plans are developed with each state
+pursuant to regulatory requirements to supply safe, affordable and
+reliable energy�
+The following figures show Duke Energy’s projected potential
+number of residential and commercial gas customers,29 average
+projected energy use per customer, and how the gas supply mix
+would evolve through 2050 under this Scope 3 customer Net-Zero
+carbon emissions scenario�
+Figure 6� Duke Energy’s Projected Customer Numbers and Usage Per
+Customer under Scope 3 Net-Zero Customer Carbon Emissions Scenario
+Duke Energy Building Sector
+(Residential + Commercial) Number of Customers
+3,000,000
+2,500,000
+2.4 million
+2,000,000
+(+47% from 2020)
+1,500,000
+1,000,000
+500,000
+0
+2020 2025 2030 2035 2040 2045 2050
+Duke Energy Core Net-Zero Scenario
+Duke Energy Commercial & Residential Average Use per Customer
+Despite the assumption millions of Btu (MMBtu)/year
+of significant growth 600
+in the number of gas
+customers, overall usage 500
+declines slightly due 436 MMBtu/year
+400
+to adoption of energy (–21% from 2020)
+efficient end uses.
+300
+200
+42 MMBtu/year
+100
+(–28% from 2020)
+0
+2020 2025 2030 2035 2040 2045 2050
+Commercial - Duke Energy Core Net-Zero Scenario
+Residential - Duke Energy Core Net-Zero Scenario
+29 M ost gas sales are to residential and commercial customers� Gas sold to
+industrial and power generation customers is very small (~5%), therefore
+those customers are not included in this scenario�
+Duke Energy Core Net Zero Scenario (trillion Btu/year)
+140
+120
+100
+80
+60
+40
+20
+0
+2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047 2048 2049 2050
+RNG Geologic Natural Gas + Offsets Hydrogen Remaining Unabated Geologic Natural Gas
+As can be seen in Figure 7, the net impact of across our customer base and rely heavily on
+projected growth in the number of Duke Energy transitioning geologic natural gas supply to RNG,
+gas customers and the adoption of energy hydrogen, other alternative fuels, and offsets�
+efficiency measures by those customers results The balance of fuel supplies, technologies and
+in essentially flat demand for gas at about 125 the use of offsets, as well as a focus on the most
+trillion Btu (tBtu)/year. Figure 7 also shows that cost-effective approach to meeting the net-zero
+this demand can be met by replacing geologic carbon goal, will evolve over time as supplies
+natural gas over time with a mixture of, by 2050, of decarbonized gas continue to increase and
+approximately 92% RNG and hydrogen� Any small as supporting policy and regulatory frameworks
+remaining emissions from geologic gas can be are secured� Other key insights from this initial
+offset by using RNG supplies that provide offsets modeling exercise include:
+(such as dairy and swine waste-sourced RNG),
+ A pathway to net-zero carbon emissions
+or by procuring certified offsets. Comparing the
+for our gas customers is achievable, but
+approximately 90 tBtu demand for RNG in 2050,
+regulatory and policy actions will be needed
+shown in Figure 7 with the bar charts in Figure
+to support this transition� There are a range of
+5 above for Duke Energy’s states, shows that
+existing and emerging alternative fuel supplies
+sufficient supply is projected under all scenarios
+and technologies that we can leverage to
+within the states where our gas businesses
+help our customers reduce their emissions�
+operate� Additional RNG supplies are also
+Additionally, there are a variety of pathways
+anticipated elsewhere in the nation�
+combining different opportunities that could
+achieve our net-zero target for customer Scope
+Key insights
+3 emissions by 2050� Supportive policy and
+To achieve net-zero Scope 3 emissions for regulatory approvals would be required to
+the combustion of gas sold to our gas utility pursue some of these opportunities, particularly
+customers by 2050, we will need to realize where new fuel sources may be needed to
+continued improvements in energy efficiency support emission reduction efforts�
+customers adopt existing and emerging high- zero gas customer carbon emissions by 2050�
+efficiency technologies will continue to be This is the first Duke Energy climate report that
+an effective way to reduce emissions and has included an analysis of pathways to net-
+provide cost benefits to customers. Building zero for gas customer Scope 3 emissions, and
+code updates can also ensure that new gas we expect our strategy to continue to evolve
+customers are living and working in highly over time as further information and analysis
+efficient buildings. Customer efficiency becomes available�
+improvements in this analysis were able to
+offset the impact of significant customer 3� I nternational Energy Agency (IEA) Net-
+growth, resulting in a modest decline in Zero Analyses for Duke Energy’s Electric
+gas consumption in buildings� Reduced
+and Gas Businesses
+consumption also means available RNG
+supplies can cover a larger portion of the Many stakeholders are interested in companies’
+remaining gas throughput and helps mitigate the analyses of scenarios that will limit global
+customer affordability impacts from the switch average warming to 2 degrees Celsius or lower�
+to potentially higher-cost decarbonized gases� In response to shareholder requests, we are
+including in this climate report an analysis of the
+ Innovation and technology development,
+impacts on the company’s electric and natural
+particularly for decarbonized gas supply, will
+gas businesses should the IEA’s 2050 Net-Zero
+be key to enable our gas business’s transition
+Emissions (NZE) scenario be adopted as a policy
+to net-zero customer carbon emissions� This
+in the United States� 30
+potential pathway to net-zero relies on the
+development of large volumes of RNG and This analysis has been conducted by a third-
+potentially other low- and zero-carbon fuels like party consultant, ICF, who was selected through
+hydrogen� Up to 2035, our supply is expected a rigorous RFP process�31 Below is a summary
+to rely upon RNG produced through anaerobic of the ICF analysis of the IEA NZE scenario for
+digestion, a reliable technology with a proven both our electric and gas businesses. It first
+track record� After 2035, much of the additional summarizes the IEA scenario, then its impact
+RNG supply is likely to come from the on our gas business, followed by our electric
+deployment of thermal gasification processes. business, and concludes with a qualitative
+This technology has been demonstrated, but discussion of the scenario’s potential impact on
+is not yet commercialized, and its successful the company’s capital spending and implications
+deployment will be important to achieve the for customer costs� The full ICF report is available
+scale of RNG supply needed in 2050� upon request�
+30 I nternational Energy Agency, “Net Zero by 2050: A Road Map for the Global Energy Sector,” revised version, October 2021�
+31 S ee footnote 28�
+The IEA Net-Zero Energy (NZE) scenario
+IEA’s NZE illustrates a potential global energy pathway limiting
+global temperature rise to 1�5 degrees Celsius� This pathway is
+dependent on international cooperation among all governments to
+achieve a global energy sector revolution�
+By design, the IEA NZE scenario relies on unprecedented changes
+in energy production and consumer behavior, as well as expedited
+technology innovations within the next decade and through 2050�
+For example, the IEA NZE scenario assumes that globally the
+following changes occur:
+ The electric sector in all developed countries reaches net-zero
+carbon emissions by 2035�
+ The electric sector in all other countries reaches net-zero carbon
+emissions by 2040�
+ Within fewer than three years, no new fossil fuel boilers will
+be sold�
+ More than 85% of existing buildings are “zero-carbon ready”32 by
+2050, requiring 2�5% of all existing buildings to undergo a deep
+energy retrofit each year starting in 2030. This retrofit has been
+estimated to cost the average single-family home in the U�S�
+roughly $40,000 to $57,000�33
+ Consumers consent to thermostat setpoints being limited to
+roughly 67°F for heating and 76°F for cooling�
+ Within fewer than eight years, more than 60% of new car sales
+will be electric�
+The IEA net-zero
+scenario depends  Within fewer than eight years, all new industrial development will
+on international use near-zero emissions technologies�
+cooperation among all
+governments, as well as  By 2050, natural gas used for heating would decline by 98%
+from 2020 levels, while electricity would provide 66% of energy
+unprecedented changes
+use in buildings
+in energy production
+and consumer behavior.
+ By 2035, renewable energy installations will increase to a rate 4
+times that of the current annual capacity installation rate�
+32 Per the IEA, a zero-carbon-ready building is “highly energy efficient and either
+uses renewable energy directly or uses an energy supply that will be fully
+decarbonized by 2050, such as electricity or district heat�”
+33 A merican Council for an Energy-Efficient Economy (ACEEE), Report: “Deep
+Retrofits Can Halve Homes’ Energy Use and Emissions,” December 20, 2021�
+Duke Energy Gas Sales, tBtu/year
+140
+120
+100
+80
+60
+40
+20
+0
+2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047 2048 2049 2050
+RNG Hydrogen Remaining Unabated Geologic Natural Gas
+Impacts on Duke Energy with insights about implications for our gas and
+electric businesses�
+If the IEA NZE scenario were adopted as policy
+in the U�S�, Duke Energy’s gas and electric
+The IEA NZE scenario would represent
+businesses would need to deploy existing and
+transformative change for Duke Energy’s gas
+still-evolving clean energy technologies at an
+customers and require new policies, regulations,
+unprecedented pace while quickly phasing out and programs� Under the IEA scenario, a large
+conventional emitting technologies and resources� portion of utility residential and commercial
+customers would be electrified and employ
+The analysis presented here is illustrative of
+significant efficiency retrofits and upgrades,
+pathways that could be adopted to align with
+resulting in natural gas throughput decreasing by
+the IEA NZE scenario, assuming corresponding
+approximately 90% by 2050�
+external enablers required to facilitate those
+pathways are adopted (such as unprecedented There would be significant transition costs and
+policies, technologies, significant customer impacts on existing gas utility residential and
+behavior changes, and markets)� commercial customers, but it is expected this may
+disproportionately impact low-income customers
+ICF’s analysis relied on an analysis and
+who are less likely to be able to afford to switch
+interpretation of the IEA NZE assumptions and
+from gas to electric�
+trajectories for the United States and did not
+include an assessment of costs, feasibility, and As can be seen in Figure 8, hydrogen and RNG
+regulatory barriers for different components of this gas supplies and infrastructure would need
+IEA net-zero pathway for Duke Energy customers� to scale up rapidly to meet projected 2030
+Therefore, the inclusion of this scenario should requirements� For the gas utility business,
+not be construed as Duke Energy considering providing redelivery, or transportation service,
+this to be a feasible and realistic pathway for the of gas sold by third-party marketers, RNG,
+and hydrogen (not pictured in the “sales gas”
+company to implement�
+chart above) to industrial and power generation
+Key elements of the transition required for customers would become the largest portion of
+Duke Energy to meet the IEA NZE scenario are remaining annual throughput in the company’s
+illustrated in Figures 8, 9, 10 and 11, along gas system�
+Figure 9� Duke Energy’s electric generation emissions and carbon intensity
+under the IEA NZE scenario
+Duke Energy IEA NZE Projected Emissions and
+Carbon Intensity, Electric Generation
+OC
+snoT
+cirteM
+noilliM
+2
+hWM/snot
+cirteM
+70 0.35
+60 0.30
+50 0.25
+40 0.20
+30 0.15
+20 0.10
+10 0.05
+0 0.00
+-10 -.05
+2025 2030 2035 2040 2045 2050
+CO Emissions CO Intensity
+2 2
+Figure 10� Duke Energy’s Projected Electric Capacity under the IEA
+NZE Scenario
+Duke Energy IEA NZE Capacity Mix in GW
+160 Storage
+140
+Solar
+120
+Wind
+100
+Other
+80
+ZELFR
+60
+Existing CC/CT
+40
+Nuclear
+20
+Coal
+0
+2025 2035 2050
+Figure 11� Duke Energy Generation Mix Under IEA NZE Scenario,
+percentages of total generation
+Duke Energy Generation Mix Under IEA NZE Scenario
+100% Storage Discharge
+Net Solar
+80%
+Wind
+60% Other
+ZELFR*
+40%
+Nuclear
+20% Fossil Gas
+Coal
+0
+2025 2035 2050
+Consistent with the IEA NZE, the electric analysis presented
+here illustrates a pathway for Duke Energy to achieve a net-zero
+electric portfolio by 2035� To achieve this, policies, technologies,
+consumer behaviors, and supply chains that do not currently
+exist are developed almost immediately� Under IEA’s scenario,
+electric utilities in developed countries are also assumed to
+continue to reduce emissions below zero thereafter, likely through
+the adoption of CCUS technologies for biogas or biomass-fired
+electric generation�
+The capacity and generation resource mix illustrate the resource
+changes required to align our portfolio with the IEA NZE� By 2035,
+Under the IEA net-zero
+our generation portfolio would be required to more than double
+scenario, Duke Energy’s
+in size, even with the retirement of many conventional fossil-fired
+generation portfolio
+assets� To ensure reliability, ICF’s analysis assumes over 15,000
+would need to more
+MW of ZELFRs are installed by 2035; as noted above, ZELFRs
+than double in size
+include new nuclear, gas turbines fueled by green hydrogen, CCUS,
+by 2035, along with
+or long-duration storage� None of these technologies are currently
+the installation of over
+commercially available; under this scenario they must be available
+15,000 MW of ZELFRs.
+on a large-scale basis by 2030�
+By 2050, our portfolio would be about triple current capacity,
+with nearly 26,000 MW of ZELFRs, over 10,000 MW of wind,
+and nearly 63,000 MW of solar� This new capacity would require
+unprecedented levels of new transmission investment, which are
+not estimated in this analysis�
+Additionally, over this time period, due to the electrification of
+buildings, transportation and industry, Duke Energy’s electric
+customer base would expand, however aggressive consumer
+behavior changes, energy efficiency, and demand response growth
+would limit sales growth to just over 1% per year�
+One of the many risks the IEA acknowledges commercially viable market options on a large-
+with their NZE scenario is if the major increase in scale basis by 2030 in order to be fully deployed
+energy efficiency they assume is delayed or does by 2035�
+not materialize, substantial additional challenges
+Regulatory processes must be aligned with
+would be raised� For example, the impact on the
+the 2035 zero carbon goals to achieve the IEA
+electric sector from space heating electrification
+pathway� No state in the U�S�, nor the federal
+would be much larger, particularly at the winter
+government, has yet to adopt requirements
+peak, should the combined assumed building
+aligned with a 2035 carbon-neutral electric
+and equipment energy efficiency improvements
+sector� If such a policy were adopted in the
+not occur� Similarly, aggressive adoption of
+U�S�, to support the necessary approvals for
+demand response and load management to
+the investments identified, at a minimum, state
+supply peak conditions must be achieved in
+regulatory processes to which Duke Energy is
+all sectors, including heating, charging, and
+subject would need to be revised to align with a
+manufacturing processes�
+goal for a carbon neutral electric grid by 2035� As
+Technological development and deployment such, in addition to the mainstay tenets of safe,
+will be key to enable the envisioned transition affordable, and reliable power, which currently
+to net-zero emissions in the electric sector� The govern electric utility operations, all states would
+deployment of renewable and battery storage need to require clean energy as an additional
+tenet to govern utility operations�
+technology across the U�S� must achieve levels
+four times that of the 2020 deployment level
+Impacts on Duke Energy capital spending
+every year between 2025 and 2030� Further,
+this pathway to net-zero relies on the quick For the gas business, capital requirements would
+development and deployment of technologies, decline only modestly over time� While the IEA
+which are only in demonstration or prototype NZE scenario might reduce the number of gas
+phase today� Duke Energy’s pathway under this customers Duke Energy serves, in 2050 the
+scenario is dependent on major innovation efforts company may still have more than 200,000 gas
+taking place this decade for new technologies customers spread across its service area to whom
+and clean fuel options such as SMR, advanced Duke Energy has an obligation to provide safe
+nuclear, RNG, and green hydrogen to be and reliable service� Despite an 87% reduction
+Also, spending on energy efficiency and demand
+gas network, with similar levels of spending on side programs by both Duke Energy and our
+that infrastructure as exists today� It should also
+customers would necessarily increase to align
+be noted that while certain categories of capital
+with the IEA NZE’s outlook�
+expenditures (e�g�, new customer connections)
+might be eliminated, other new categories Overall, the IEA NZE scenario would require a
+of expenditures would also likely emerge to
+significant ramp-up in investment spending (and,
+meet the IEA’s aggressive assumptions for
+assuming regulatory approval, customer costs) at
+new technology deployment (e�g�, spending on
+a highly accelerated pace, starting today� This is
+hydrogen infrastructure)� In terms of potential
+in contrast to a gradual transition of the electric
+revenue implications, Duke Energy would expect
+sector reflected in Duke Energy’s modeling of its
+these to follow a similarly modest decline as the
+net-zero goal�
+capital requirements, based on the expectation
+that under the IEA NZE customer rates would
+Many existing energy resources, including ones
+increase in order to recover the company’s capital
+with relatively low-carbon contributions, are likely
+requirements and operating costs across lower
+to be displaced prior the end of their useful lives�
+volumes of gas sold�
+Additional clean energy resources will need to be
+In contrast, the electric business would see
+invested in and developed quickly to surpass the
+a greatly increased level of spending on
+amount of physical generating capacity currently
+infrastructure both for the supply and demand
+on the power grid�
+side� As envisioned, the IEA NZE scenario
+is dependent on the massive deployment Similarly, the transmission system would need
+of renewables as well as highly responsive
+substantial reinforcement in a very short time
+dispatchable clean generation technology to
+to both enable the volume of interconnections
+support increasing electrification of the buildings,
+required for new cleaner generating capacity
+transportation, and industrial sectors� By 2030,
+and ensure system reliability and that system
+to maintain a reliable system, the Duke Energy
+stability and voltages are maintained at safe
+electric generation fleet would be double its
+current size, and by 2050 triple its current size to operating levels� The distribution grid will need to
+support a relatively mild growth in peak demand� be significantly redeveloped and within the IEA
+NZE scenario is predicated on a re-envisioning
+Further, to cope with the growing amounts
+of the grid and the monitoring equipment�
+of fluctuating renewables and the intense
+Similarly, spending on the transmission and
+electrification rates, the transmission and
+distribution system would require modernized
+distribution network would need to modernize,
+communications and management approaches to
+expand, and improve its operation and
+efficiency to maintain its stability and reliability. balance the system on a sub-hourly basis�
+Transmission network investment would be
+Consumers would also further experience
+required to support the large amount of additional
+out-of-pocket initial capital expenses with
+capacity needed while distribution networks
+would also need significant expansion to support varying pay back periods on distributed energy
+the increased number of customers, vehicle resources, home heating retrofits and building
+charging, distributed resource connections, and envelope improvements�
+The IEA NZE scenario would require a significant ramp-up
+in investment spending (and, assuming regulatory approval,
+customer costs) at a highly accelerated pace starting today.
+METRICS AND TARGETS
+Metrics and Targets
+(TCFD: Disclose the metrics and targets used to assess and manage
+relevant climate-related risks and opportunities where such information is
+material� Disclose the targets used by the organization to manage climate-
+related risks and opportunities and performance against targets�)
+Goals
+Scope 1 goals
+For our electric generation business, our updated Scope 1 goals are
+at least a 50% reduction in carbon emissions below 2005 levels by
+2030, an 80% reduction by 2040, and to achieve net-zero carbon
+emissions by 2050� We have also established a goal for coal to
+represent 5% of our generation mix by 2030 and to exit coal
+generation by 2035�34 For our natural gas distribution business, our
+goal is to achieve net-zero methane emissions by 2030�
+Through 2021, we have reduced Scope 1 carbon emissions from
+electricity generation by 44% from 2005 levels, the equivalent of
+removing 13 million vehicles from the road�
+Examples of actions we have taken to reduce Scope 1 emissions in
+our electricity business include:
+ Retired 56 coal units, representing approximately 7,500 MW
+since 2010�
+ Filed the Carolinas Carbon Plan in line with the North Carolina
+mandate to achieve a 70% reduction in carbon emissions by
+2030 and carbon neutrality by 2050�
+Duke Energy has
+already reduced its  Filed resource plans in the Midwest and Florida with preferred
+CO emissions from scenarios that support exiting coal generation by 2035�
+2
+electricity generation by
+ Submitted an application to the Nuclear Regulatory Commission
+44% below 2005 levels
+for a subsequent license renewal for Oconee Nuclear Station to
+through 2021.
+keep this carbon-free energy source running for an additional 20
+years� We plan to pursue similar license renewals for each of our
+11 nuclear units�
+ Installed or contracted for significant renewable generation, with
+renewables projected to represent nearly 20% of generation
+by 2030 and to total, in our regulated utilities, 30,000 MW
+by 2035 (both utility-owned and under purchased power
+agreements)�
+34 A chieving these goals depends on necessary regulatory approvals (which will
+require demonstration of no adverse effect on grid reliability and reasonable
+and prudent costs), the ability to site and construct new generation and
+transmission facilities, available supply chains for new generation and
+transmission equipment and natural gas availability�
+Our natural gas business continues to work to achieve its Scope 1
+goal, with actions including:
+ Replaced more than 1,400 miles of cast iron and bare steel
+pipe, resulting in the elimination of more than 95% of the
+methane emissions previously attributed to the cast iron and bare
+steel infrastructure�
+ Partnered with Accenture and Microsoft on a unique satellite leak
+detection platform designed to measure actual baseline methane
+emissions from natural gas distribution systems�
+ Accelerated efforts to reduce leak inventory using a “find it, fix
+it” approach. Under this program, we are fixing small leaks faster
+and, as new leak detection technology is added, we will be able
+to quickly address leaks as they are found� This has resulted in
+an 85% reduction in leaks since the beginning of 2021�
+ Piloting new technologies to improve measurement and
+monitoring of methane emissions, including satellite technology
+and real-time measurement devices to pinpoint and repair
+leaks faster�
+ Adopting cross compression technology to eliminate intentional
+emissions from blow-downs or flaring during operational activities
+when possible�
+ Investing in RNG projects and continuing to work with our
+jurisdictions to expand RNG availability for our customers�
+ Sourcing RNG for our compressed natural gas stations in
+Nashville and expanding the use of RNG to our other publicly
+Our natural gas accessible fueling stations, further increasing the environmental
+business has partnered benefit of CNG.
+with Microsoft and
+Accenture to pioneer Scope 2 and 3 goals and projections
+a unique satellite-
+This year we expanded our 2050 net-zero goals to include Scope 2
+based methane leak
+and certain Scope 3 emissions:
+detection system.
+ In the electric business, our net-zero goal will include greenhouse
+gas emissions from the power we purchase for resale, from the
+procurement of fossil fuels used for generation, and from the
+electricity purchased for our own use�
+ For the natural gas business, it includes upstream methane
+and carbon emissions related to purchased natural gas and
+downstream carbon emissions from customers’ consumption
+of sold gas�
+We have also analyzed our overall greenhouse gas emissions in
+more detail and disclose 2021 Scope 1, 2, and 3 emissions below�
+Our methodology and assumptions for calculating these emissions
+were reviewed by a third party to provide additional confidence in
+the numbers� Our net-zero goals for Scopes 1, 2, and 3 now cover
+95% of our calculated 2021 greenhouse gas emissions�
+We have also projected our Scope 2 and 3 emissions over time
+through 2050 and have, based on this analysis, introduced
+interim targets to achieve a 50% emissions reduction by 2035 for
+the Scope 2 and Scope 3 emissions included in our net-zero by
+2050 goal�
+Several factors give us confidence that we can meet this Scope 2
+and 3 interim goal:
+ As we transition out of coal and away from geologic gases as
+sources of electricity generation, there will no longer be upstream
+emissions related to coal mining and transportation and reduced
+emissions related to gas procurement�
+ We expect that emissions associated with purchases of electricity
+for resale (Scope 3) and our own use (Scope 2) will similarly
+decline as our industry peers reduce their emissions (for example,
+the majority of electric generators have net-zero goals for the
+2040 to 2050 time frame)�35 Energy efficiency opportunities
+and, as noted above, the transition of our industry peers to net-
+zero carbon emissions will support the net-zero trajectory for
+Scope 2�
+ And, as discussed above in the section on our natural gas
+business, we will continue to work upstream with suppliers to
+reduce emissions from geologic gas we procure, and will reduce
+downstream emissions through customer efficiency, the use of
+RNG and hydrogen, as well as offset program�
+(TCFD: Disclose Scope 1, Scope 2, and, if appropriate, Scope 3
+greenhouse gas emissions�)
+Below is a summary of Duke Energy’s Scope 1, 2, and relevant
+3 emissions� All emissions in blue backgrounds are included in
+Duke Energy’s goals�
+Scope 1 Greenhouse Gas Emissions
+Emissions from electric generation (thousand metric metric tons
+of CO equivalent (or CO e))
+2 2
+2005 2019 2020 2021
+CO e 139,000 84,000 74,000 77,406
+2
+35 Scope 2 emissions associated with purchased power for Duke Energy
+facilities we do not serve and transmission line losses account for only 0�39%
+of Duke Energy’s total emissions�
+Methane emissions from natural gas distribution36
+(thousand metric tons)
+2018 2019 2020 2021
+CH (CO e) 37 160 308 327 322
+4 2
+Sulfur Hexafluoride (SF ) emissions from electric transmission
+6
+and distribution38 (thousand metric tons)
+2018 2019 2020 2021
+SF (CO e) 305 477 384 363
+6 2
+Other Scope 1 emissions39 (thousand metric tons CO e)
+2
+2021
+Fleet (forklifts, cars, trucks) 110
+Ancillary equipment 844
+Refrigerants 80
+Natural gas use at Duke Energy buildings 4
+Scope 2 Greenhouse Gas Emissions
+Scope 2 greenhouse gas emissions (thousand metric tons CO e)
+2
+2021
+Power purchases for Duke Energy facilities that are
+3
+not served by Duke Energy itself
+Transmission line losses 425
+36 M ethane emissions are calculated by applying EPA Subpart W emission
+factors to facility counts such as miles of pipeline, and the number of meters/
+services and adding component leaks based on survey data� This methodology
+does not provide for an accounting of emission reduction efforts; rather, the
+methodology reflects an increase due to greater miles of pipe and meters as
+the company grows the natural gas business� The eventual use of more direct
+measurement in the coming years will provide actual measured emissions and
+performance metrics�
+37 2 019, 2020, and 2021 values are based on Natural Gas Sustainability
+Initiative (NGSI) reporting; 2018 predates adoption of NGSI and represents
+EPA Subpart W reported emissions�
+38 S F emissions vary year to year due to maintenance, replacement and storm
+6
+repair needs�
+39 N ote that emissions for which only 2021 values are reported have not been
+reported previously and were developed during 2022�
+Relevant Scope 3 Greenhouse Gas Emissions
+Relevant Scope 3 greenhouse gas emissions (CO e, thousand
+2
+metric tons)
+202140
+Category 1 – purchased goods and services 2,800
+Category 3 – fuel and energy-related activities
+not included in Scope 1 or 2 – upstream
+1,020
+emissions from natural gas suppliers for
+natural gas distribution business
+Category 3 – upstream emissions (extraction,
+production, & transportation) from purchased 5,500
+fossil fuels for electricity generation
+Category 3 – emissions associated with power
+13,300
+purchased for resale
+Category 3 – emissions associated with other
+280
+fuel purchases
+Category 5 – waste 51
+Category 6 – business travel 4
+Category 7 – employee commuting 84
+Over 95% of Category 10 – processing of sold products 346
+Duke Energy’s
+calculated Scope 1,
+Category 11 – use of sold products –
+2, and 3 emissions
+emissions from the use of natural gas sold 6,608
+for 2021 fall into
+to customers
+currently stated
+net-zero goals.
+40 Some data shown are estimates based on the most recent data available�
+Glossary and acronyms
+and efficiency, and much more.” Currently, IEA
+is made up of 31 member countries (many of the
+ACP – the American Clean Power Association developed nations of the word, including the U�S�
+and most of the EU countries), 10 association
+Advanced reactors – advanced nuclear reactors
+countries (China, India, Brazil, and others), and
+being developed are not water-cooled, like
+three accession countries (Chile, Colombia, and
+today’s commercial fleet. They are planned to
+Israel, who are seeking full membership)� The IEA
+be cooled by molten salt, liquid metal, or high-
+Secretariat is headed by Executive Director Dr�
+temperature gas�
+Fatih Birol�
+CCUS – carbon capture, utilization and storage�
+IRP – Integrated Resource Plans (IRPs) are
+This is a process by which CO is captured from
+2 developed by electric utilities on a regular basis
+emissions sources like coal- and natural gas-
+(annually, semiannually, or some other frequency)
+fired power plants and either reuses or stores it
+to assess future electric power demand and
+so it will not enter the atmosphere� CO storage
+2 develop a plan to meet that demand�
+in geologic formations includes oil and gas
+reservoirs, deep saline reservoirs, and unmineable NCUC – North Carolina Utilities Commission�
+coal seams�
+New nuclear – new nuclear reactor technologies
+CO e – carbon dioxide equivalent� For non-CO under development include small modular
+2 2
+greenhouse gases, CO e signifies the amount reactors, advanced reactors, and microreactors�
+2
+of CO , which would have the equivalent global
+2
+warming impact� CO e enables accounting for RNG – renewable natural gas�
+2
+amounts of different greenhouse gases with a
+SMR – small modular reactor (nuclear)�
+common unit�
+These reactors are water-cooled, like today’s
+EV – electric vehicle� commercial fleet.
+IEA – International Energy Agency� The Paris- ZELFR – zero-emitting load-following resources�
+based IEA was created in 1974 to ensure the Duke Energy term for new zero-emitting electric
+security of oil supplies, but its mission has generating resources that are dispatchable when
+evolved over the years� IEA’s website states: electric energy is needed (they can “follow load,”
+“While energy security remains a core mission, as opposed to renewables like solar and wind
+the IEA today is at the center of the global energy power, which are only available when the sun
+debate, focusing on a wide variety of issues, shines and/or the wind blows at sufficient speeds).
+Regarding Forward-  Costs and effects of legal and administrative
+proceedings, settlements, investigations
+Looking Information
+and claims;
+This document includes forward-looking  Industrial, commercial and residential growth
+statements within the meaning of Section 27A or decline in service territories or customer
+of the Securities Act of 1933 and Section 21E of bases resulting from sustained downturns of
+the Securities Exchange Act of 1934� Forward- the economy and the economic health of our
+looking statements are based on management’s service territories or variations in customer
+beliefs and assumptions and can often be usage patterns, including energy efficiency
+identified by terms and phrases that include efforts, natural gas building and appliance
+“anticipate,” “believe,” “intend,” “estimate,” electrification, and use of alternative energy
+“expect,” “continue,” “should,” “could,” “may,” sources, such as self-generation and distributed
+“plan,” “project,” “predict,” “will,” “potential,”
+generation technologies;
+“forecast,” “target,” “guidance,” “outlook” or
+other similar terminology� Various factors may  Federal and state regulations, laws and other
+cause actual results to be materially different than efforts designed to promote and expand the
+the suggested outcomes within forward-looking use of energy efficiency measures, natural
+statements; accordingly, there is no assurance gas electrification, and distributed generation
+that such results will be realized� These factors technologies, such as private solar and battery
+include, but are not limited to:
+storage, in Duke Energy service territories
+could result in a reduced number of customers,
+ The impact of the COVID-19 pandemic;
+excess generation resources as well as
+ State, federal and foreign legislative and stranded costs;
+regulatory initiatives, including costs
+of compliance with existing and future  Advancements in technology;
+environmental requirements, including those
+ Additional competition in electric and
+related to climate change, as well as rulings that
+natural gas markets and continued
+affect cost and investment recovery or have an
+industry consolidation;
+impact on rate structures or market prices;
+ The influence of weather and other natural
+ The extent and timing of costs and liabilities to
+phenomena on operations, including the
+comply with federal and state laws, regulations
+economic, operational and other effects
+and legal requirements related to coal ash
+of severe storms, hurricanes, droughts,
+remediation, including amounts for required
+closure of certain ash impoundments, are earthquakes and tornadoes, including extreme
+uncertain and difficult to estimate; weather associated with climate change;
+ The ability to recover eligible costs, including  Changing investor, customer and other
+amounts associated with coal ash impoundment stakeholder expectations and demands;
+retirement obligations, asset retirement and
+construction costs related to carbon emissions  The ability to successfully operate electric
+generating facilities and deliver electricity to
+reductions, and costs related to significant
+customers including direct or indirect effects
+weather events, and to earn an adequate return
+on investment through rate case proceedings to the company resulting from an incident
+and the regulatory process; that affects the United States electric grid or
+generating resources;
+ The costs of decommissioning nuclear facilities
+could prove to be more extensive than amounts  Operational interruptions to our natural gas
+estimated and all costs may not be fully distribution and transmission activities;
+manner, or at all;
+ The impact on facilities and business from
+a terrorist attack, cybersecurity threats,  Changes in rules for regional transmission
+data security breaches, operational organizations, including changes in rate designs
+accidents, information technology failures and new and evolving capacity markets, and
+or other catastrophic events, such as fires, risks related to obligations created by the
+explosions, pandemic health events or other default of other participants;
+similar occurrences;
+ The ability to control operation and
+ The inherent risks associated with the operation maintenance costs;
+of nuclear facilities, including environmental,
+health, safety, regulatory and financial risks,  The level of creditworthiness of counterparties
+to transactions;
+including the financial stability of third-party
+service providers;
+ The ability to obtain adequate insurance at
+ The timing and extent of changes in commodity acceptable costs;
+prices and interest rates and the ability to
+ Employee workforce factors, including
+recover such costs through the regulatory
+the potential inability to attract and retain
+process, where appropriate, and their
+key personnel;
+impact on liquidity positions and the value of
+underlying assets;  The ability of subsidiaries to pay dividends
+or distributions to Duke Energy Corporation
+ The results of financing efforts, including
+holding company;
+the ability to obtain financing on favorable
+terms, which can be affected by various  The performance of projects undertaken
+factors, including credit ratings, interest by our nonregulated businesses and the
+rate fluctuations, compliance with debt success of efforts to invest in and develop
+covenants and conditions, an individual utility’s new opportunities;
+generation mix, and general market and
+economic conditions;  The effect of accounting pronouncements
+issued periodically by accounting standard-
+ Credit ratings may be different from what setting bodies;
+is expected;
+ The impact of United States tax legislation to
+ Declines in the market prices of equity and our financial condition, results of operations or
+fixed-income securities and resultant cash
+cash flows and our credit ratings;
+funding requirements for defined benefit pension
+plans, other post-retirement benefit plans and  The impacts from potential impairments
+nuclear decommissioning trust funds; of goodwill or equity method investment
+carrying values;
+ Construction and development risks associated
+with the completion of the capital investment  Asset or business acquisitions and dispositions,
+projects, including risks related to financing, including our ability to successfully consummate
+obtaining and complying with terms of permits, the second closing of the minority investment
+meeting construction budgets and schedules in Duke Energy Indiana, may not yield the
+and satisfying operating and environmental anticipated benefits;
+disrupt our operations, impact our ability to
+execute on our business strategy, or cause assumptions, the events described in the forward-
+looking statements might not occur or might occur
+fluctuations in the trading price of our common
+to a different extent or at a different time than
+stock; and
+described� Forward-looking statements speak only
+ The ability to implement our business strategy, as of the date they are made and Duke Energy
+including its carbon emission reduction goals� expressly disclaims an obligation to publicly
+update or revise any forward-looking statements,
+Additional risks and uncertainties are identified whether as a result of new information, future
+and discussed in the company’s reports filed with events or otherwise�

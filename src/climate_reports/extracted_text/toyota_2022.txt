@@ -1,0 +1,1558 @@
+3 19 34
+About This Report Carbon Environmental
+Metrics Table
+4 25
+Dear Reader Water
+36
+GRI Content Index
+6 27
+Contributions To The Materials
+UN SDGs
+30
+Biodiversity
+10
+Environmental Strategy
+FORWARD-LOOKING STATEMENTS
+This report contains certain “forward-looking statements”, as defined in U.S. securities laws, that are based on Toyota Motor North America, Inc.’s (TMNA’s) current assumptions and expectations, including statements regarding our targets, goals,
+expectations, commitments and programs and other strategy, business plans, initiatives and objectives related to the environment, social and governance matters, sustainability, climate change, biodiversity or greenhouse gases. These statements are
+typically accompanied by the words “aim,” “hope,” “believe,” ”commit,” “estimate,” “plan,” “aspire” or similar words. All such statements are intended to enjoy the protection of the safe harbor for forward-looking statements within the meaning of Section 27A of
+the U.S. Securities Act of 1933, as amended and Section 21E of the Securities Exchange Act of 1934, as amended. Our actual future results, including the achievement of our targets, goals, commitments or objectives, could differ materially from our projected
+results as the result of changes in circumstances, assumptions not being realized or other risks, uncertainties and factors. Such risks, uncertainties and factors include, but are not limited to, those relating to existing or future economic or political instability,
+fluctuations in currency exchange rates and interest rates, changes in the funding environment in financial markets and increased competition in the financial services industry, changes in laws, regulations and government policies and the outcome of
+current and future litigation and legal and government proceedings and investigations, the ability to meet customer demand, implement corporate strategy and maintain a positive brand image and those relating to existing and future environmental
+regulations, including those relating to emissions, fuel economy, noise and pollution, technological advances, interpretations and definitions of renewable energy and/or renewable energy sources, economic and political environments relating to
+climate change, sustainability, severe weather, environmental, social and governance matters and/or greenhouse gas emissions in the countries in which TMNA operates, potential liability of TMNA’s operations under regulations developed pursuant to
+international climate change related agreements, including about greenhouse gas calculations, reduction methods, and/or offsets, and the nascent and continued development of this report, including the metrics and assumptions used by management
+in its preparation. Such risks, uncertainties and factors, as well as others, are discussed in the “risk factors” included in Item 3.D of Toyota Motor Corporation’s (TMC’s) most recent annual report on Form 20-F filed with the U.S. Securities and Exchange
+Commission (SEC). We urge you to consider all of the risks, uncertainties and factors identified above or discussed in such reports carefully in evaluating the forward-looking statements in this report. Toyota and TMNA cannot assure you that the results
+reflected or implied by any forward-looking statement will be realized or, even if substantially realized, that those results will have the forecasted or expected consequences and effects. In addition, historical, current, and forward-looking sustainability-
+related statements may be based on standards for measuring progress that are still developing, internal controls and processes that continue to evolve, and assumptions that are subject to change in the future. The forward-looking statements in our
+report are made as of the date this report is first released, unless otherwise indicated, and we undertake no obligation to update these forward-looking statements, including any obligation to adapt them to reflect subsequent events or circumstances.
+About This Report
+Toyota Motor Corporation (TMC) is headquartered in Japan and produces an annual
+sustainability report, which covers TMC initiatives as well as activities of consolidated
+subsidiaries and affiliates around the world.
+Toyota Motor North America, Inc. (TMNA) is headquartered in Plano, Texas, and is a
+wholly owned subsidiary of TMC.
+Toyota Canada Inc. (TCI) is headquartered in Toronto, Ontario, and is a majority owned
+subsidiary of TMC, with TMC holding 51%.
+To complement TMC’s sustainability reporting, TMNA and TCI have been producing an
+annual regional environmental report covering activities in the United States, Canada
+and Mexico since 2002. This 2022 report covers environmental performance at North
+American manufacturing plants as well as TMNA and TCI activities under the Toyota
+and Lexus brands during fiscal year 2022 (April 1, 2021, through March 31, 2022) and
+product model year 2021. The reporting period is consistent with TMC’s financial
+reporting. Data presented with different dates are clearly indicated.
+This report has been prepared with reference to the Global Reporting Initiative (GRI)
+Sustainability Reporting Standards. Please refer to the GRI Content Index at the end of
+this report.
+© November 2022
+Contact
+Toyota Motor North America, Inc. headquarters in Plano, Texas
+Environmental Report Manager
+Toyota Motor North America, Inc. | 6565 Headquarters Drive, Plano, Texas 75024
+Toyota Canada Inc. | One Toyota Place, Toronto, Ontario M1H1H9
+Dear Reader This planet we call home is an amazing These issues are BIG. Even if we at Toyota We continuously evaluate our efforts and
+place. It’s full of breath-taking views, achieved everything we are striving for identify areas where we can – and should -
+geologic wonders and creatures of all – such as carbon neutrality in our North improve. ln line with our 7th Environmental
+shapes and sizes. But lately, we are American operations by 2035 – sadly, we Action Plan, we have put larger efforts into
+inundated with news about threats to wouldn’t make much of a dent. the following:
+our home planet, including wildfires,
+drought, plastics in our waters and That’s why we enlist the help of others • Significantly increasing the amount of
+species extinction, as well as the ongoing to support us on our journey to make renewable electricity we purchase
+pandemic, economic uncertainty and the life cycle of our vehicles achieve
+• Further reducing the amount of water we
+other geo-political challenges. zero environmental impact. By working
+use across our operations
+together, small steps, when done
+No aspect of our lives remains untouched. collectively, become big improvements. • Reducing the amount of packaging
+So, how do we as individuals and as a Our team members, suppliers and dealers material we use
+company respond to these crises? How do are on board, and so are our customers. • L aunching a new program to
+How do we provide for we provide for our home planet to be as They all want Toyota to do more. And to encourage our dealers to improve their
+awe-inspiring tomorrow as it is today? help THEM do more. environmental performance
+our home planet to be as
+• Asking our suppliers to step up their
+awe-inspiring tomorrow There is no simple answer. We believe the However, we need to pick up the pace
+efforts to operate more efficiently and
+environmental conversation must include to achieve the transformational change
+as it is today? sustainably
+four challenges: needed for a sustainable future. At Toyota,
+our attention over the past few years has • E xpanding our programs to support
+• Climate change been on responses to climate change. critical species like pollinators
+We know we can do more. We don’t have
+• Water scarcity
+the same rigorous and strategic process As these efforts demonstrate, we remain
+• Unsustainable production and to address water, materials issues or committed to positively contributing
+consumption patterns biodiversity concerns. Therefore, we are to society, finding new ways to grow
+• Biodiversity loss looking to develop those processes and to sustainably and reducing Toyota’s
+educate team members in North America environmental footprint. Environmental
+These challenges are intertwined and on all four primary areas of focus: Carbon, sustainability is a core part of our DNA. We
+cannot be solved in a silo. And no single Water, Materials and Biodiversity, as will continue to innovate and continuously
+business or organization can solve these outlined in this report. improve to help build a better, smarter and
+problems alone. more sustainable future for all. Please join
+us and let’s make a better planet.
+Tetsuo “Ted” Ogawa Kevin Butt
+President and Chief Executive Officer Senior Director, Environmental Sustainability
+Toyota Motor North America, Inc. Toyota Motor North America, Inc.
+FY2022 Highlights
+CARBON CARBON CARBON
+52% 1st 22%
+OF TOYOTA AND LEXUS MODELS ALL-ELECTRIC VEHICLE, TOYOTA OF TMNA’S ELECTRICITY
+HAVE AN ELECTRIFIED OPTION, bZ4X, WENT ON SALE IN THE U.S. CONSUMPTION IS EXPECTED TO
+AND MORE ARE ON THE WAY AND CANADA COME FROM RENEWABLE SOURCES
+BEGINNING IN 2023
+CARBON CARBON WATER
+1st 248 132
+TOYOTA PORT OPERATION IN THE SHUNT TRUCKS ARE EXPECTED MILLION GALLONS OF WATER
+WORLD TO USE 100% RENEWABLE TO BE CONVERTED FROM RESTORED TO THE HARDY RIVER
+ELECTRICITY FROM ONSITE DIESEL TO ELECTRIC BY 2025 AS PART OF A PARTNERSHIP WITH
+GENERATION IS TLS LONG BEACH THE NATURE CONSERVANCY
+IN CALIFORNIA TO RESTORE WATER TO THE
+COLORADO RIVER DELTA
+MATERIALS MATERIALS BIODIVERSITY
+19% 93% 1,922
+REDUCTION IN THE WEIGHT OF OF ALL WASTE WAS RECYCLED, ACRES OF POLLINATOR HABITAT
+PLASTIC PACKAGING PROCURED REUSED OR REPURPOSED IN 2021 WERE DEVELOPED
+BETWEEN FY2018 AND FY2022
+Contributions to the UN SDGs
+So much needs to be done to solve the critical environmental issues facing the global community – climate change, water scarcity, resource depletion and habitat loss,
+to name the big ones.
+In September of 2015, the United Nations Together, we are ready to make great
+adopted the 2030 Agenda and Sustainable things happen on our journey towards a
+Development Goals (SDGs). The 17 SDGs more sustainable future.
+and their corresponding 169 targets United Nations
+run from 2016 through 2030 and in that To find out more about the 17 UN SDGs, Sustainable
+Developmental
+time, seek to “free the human race from visit the UN’s Sustainable Development Goals*
+the tyranny of poverty and want and to Goals website.
+heal and secure our planet.”1 This may
+sound like an unrealistic mission, but Toyota’s response to the UN SDGs,
+the UN goals are actually achievable – if particularly those addressing Global Toyota
+Environmental
+governments, businesses, nonprofits, environmental issues, is centered around Challenge 2050
+other organizations and even individuals the six far-reaching challenges within the
+all do their part. Toyota Environmental Challenge 2050
+(Challenge 2050). Each major region is
+This year marked the halfway point – we developing strategies and targets to help
+are halfway through the 15-year period for the company achieve these challenges.
+achieving the SDGs. The pandemic put to Here in North America, Toyota’s activities
+a grinding halt many of the advances that supporting both Challenge 2050 and
+were being made, and now, there is a lot the SDGs are organized around our
+of catching up to do. environmental sustainability focus
+areas of Carbon, Water, Materials and
+At TMNA, we share the fundamental Biodiversity. Our long-term strategies in Toyota North
+mission of the SDGs – to make the world each of these focus areas, supported by America
+Focus Areas
+better, safer and healthier. Achieving outreach activities, show the steps we’re
+the SDGs and the Toyota Environmental taking to address the world’s pressing
+Challenge 2050 will take careful planning. environmental problems and become part
+MATERIALS BIODIVERSITY OUTREACH
+And it will take time. We won’t see of the solution.
+progress on this massive scale overnight. * Toyota Motor Corporation (TMNA’s parent company) recognizes additional SDGs as relevant to the global
+company. We only list the SDGs here considered relevant to Toyota in North America.
+Nonetheless, we do remain committed to
+acting, and even to picking up the pace.
+More than 46,000 North American
+team members are on board as well as
+suppliers, dealers and other partners.
+Education
+Engagement
+Communication
+Contributing to the UN Sustainable Development Goals
+WATER CARBON
+Carbon
+SDG 7: Ensure Access to Affordable, Reliable, Sustainable SDG 13: Take Urgent Action to Combat Climate Change
+and Modern Energy for All and its Impacts
+Access to energy is a key driver of economic growth. Given the world’s growing The global nature of climate change calls for broad cooperation in developing
+population, clean energy is more crucial than ever. Energy storage, whether in sustainable, low carbon pathways to the future. Toyota recognizes climate change as
+second-life batteries or through stationary hydrogen storage, can help set the stage a global priority issue and has established three aggressive carbon goals to eliminate
+for increasing the share of renewable electricity on the grid. Through the Toyota CO emissions from our new vehicle fleet, our own operations, and the vehicle life cycle,
+2
+Environmental Challenge 2050, Toyota recognizes the connection between using clean all by 2050.
+energy and limiting greenhouse gas emissions.
+Here in North America, we are working towards improving fuel economy and reducing
+Toyota uses energy to power our manufacturing plants, distribution centers and offices. CO emissions from new vehicles by increasing the number of Toyota and Lexus models
+2
+Our suppliers also use energy to power their facilities. Promoting efficient energy use that are electrified.² We are also working towards reducing absolute CO emissions from
+2
+and renewable energy sourcing are key components of our Carbon strategy. our facilities and transportation activities and increasing our use of renewable energy.
+We are partnering with various stakeholders to advance infrastructure for alternative
+fuel vehicles, reduce congestion and develop low carbon fuels. And we are working with
+SDG 7: Affordable & TMNA’s Contributions suppliers to communicate our goals and help them find ways to reduce their carbon
+Clean Energy
+footprint.
+On Our Way to 100% Renewable Electricity
+Target 7.2 Increase substantially the
+share of renewable energy in the In TMNA’s Green Supplier Requirements, suppliers are SDG 13: Climate Action TMNA’s Contributions
+global energy mix required to pursue opportunities to reduce energy use
+and consider renewable energy options.
+Target 13.3 Improve education,
+awareness-raising and human and Carbon Targets
+Target 7.3 By 2030, double the institutional capacity on climate
+global rate of improvement in Environmental Metrics Table - Energy change mitigation, adaptation, GHG Emissions Data
+energy efficiency impact reduction and early warning
+Water Materials
+SDG 6: Clean Water and Sanitation SDG 12: Responsible Consumption and Production
+Water is a precious and finite resource that is critical to the survival of people and the Economic growth and development require the production of goods and services that
+planet; yet it is often undervalued. Through the Toyota Environmental Challenge 2050, improve quality of life. But the rapid increase in global consumption of materials has
+Toyota recognizes water as a global issue that requires a local response. come at a cost to the environment. Sustainable production and consumption patterns
+are required to minimize natural resource depletion and the use of toxic materials as well
+Some of Toyota’s North American sites are in water-stressed areas, and our larger
+as the waste and pollutants generated. Through the Toyota Environmental Challenge
+assembly plants use significant volumes of water during vehicle production, particularly
+2050, Toyota acknowledges the need to move away from a throw-away society to a
+in the painting process. To conserve water and improve water quality, we are developing
+recycling-based society.
+water stewardship plans for our sites located in areas of high water stress.
+Here in North America, to promote a circular economy and avoid both depletion of
+natural resources and environmental pollution from increasing amounts of waste, we
+SDG 6: Clean Water & Sanitation TMNA’s Contributions focus on increasing reuse and recycling, reducing waste, and enhancing our use of
+sustainable raw materials.
+Target 6.4 By 2030, substantially increase water-use efficiency
+across all sectors and ensure sustainable withdrawals SDG 12: Responsible Consumption & Production TMNA’s Contributions
+and supply of freshwater to address water scarcity and Water Target
+substantially reduce the number of people suffering from
+water scarcity
+Target 12.2 By 2030, achieve the sustainable management and
+efficient use of natural resources
+Target 6.6 By 2020, protect and restore water-related
+Helping Restore Water Flows in
+ecosystems, including mountains, forests, wetlands, rivers, Target 12.4 By 2020, achieve the environmentally sound
+the Colorado River Delta
+aquifers and lakes management of chemicals and all wastes throughout their life
+cycle, in accordance with agreed international frameworks,
+and significantly reduce their release to air, water and soil in Chemical Management
+order to minimize their adverse impacts on human health and
+the environment
+Target 12.5 By 2030, substantially reduce waste generation
+Waste
+through prevention, reduction, recycling and reuse
+Target 12.6 Encourage companies, especially large and
+transnational companies, to adopt sustainable practices Toyota North American
+and to integrate sustainability information into their Environmental Report
+reporting cycle
+Biodiversity Outreach
+SDG 15: Life on Land SDG 17: Partnerships for the Goals
+Halting biodiversity loss has become a critical endeavor as many species slide towards We recognize that no single entity can achieve the SDGs in isolation. These are shared
+extinction. To safeguard these species and their habitats, protected areas have been problems that require a shared response.
+designated around the world. Through the Toyota Environmental Challenge 2050, Toyota
+The Toyota Environmental Challenge 2050 seeks to create net positive impact, which
+recognizes the need to protect species and conserve habitat.
+can only be achieved by collaborating with our stakeholders. Through the power of
+Toyota owns more than 26,000 acres of land in North America and has facilities in or near collaboration, we hope to create lasting outcomes on a macro scale that will help us
+crucial habitats. Our company believes strongly in working in harmony with nature. To build a more sustainable future.
+that end, we partner with others to help protect critical habitat and threatened species,
+TMNA supports local, national and regional community projects that align with our
+certify projects with the Wildlife Habitat Council, and strive to educate both our team
+environmental sustainability focus areas of Carbon, Water, Materials and Biodiversity.
+members and communities about the importance of biodiversity.
+By concentrating our support on organizations that address challenges in these four
+core areas, we are building on our environmental commitment beyond minimizing
+negative impacts and helping to promote positive environmental change across the
+SDG 15: Life on Land TMNA’s Contributions
+North American region. We share our know-how and collaborate so that we can build
+more than great cars – we are building a better tomorrow by harnessing the power of
+collective action.
+Target 15.1 By 2020, ensure the
+conservation, restoration and
+sustainable use of terrestrial and
+inland freshwater ecosystems and
+Helping Restore Water Flows in the Colorado River Delta SDG 17: Partnerships for the Goals TMNA’s Contributions
+their services, in particular forests,
+wetlands, mountains and drylands,
+in line with obligations under
+international agreements Target 17.17 Encourage and The Nature Conservancy: Helping Restore Water Flows
+promote effective public,
+in the Colorado River Delta
+public-private and civil society
+Target 15.5 Take urgent and Restoring Habitat partnerships, building on the National Environmental Education Foundation and
+significant action to reduce the experience and resourcing Pollinator Partnership: Expanding Pollinator Habitat
+degradation of natural habitats, halt Protecting Species strategies of partnerships data, Wildlife Habitat Council: Restoring Habitat
+the loss of biodiversity and, by 2020, Helping Restore Water Flows in the Colorado River Delta monitoring and accountability
+protect and prevent the extinction
+of threatened species The Flight of the Monarch
+Environmental Strategy
+Respect for the Planet is one
+Environmental Focus Areas Across the Vehicle Life Cycle
+of our company’s core values.
+We demonstrate this value
+by striving to go beyond zero Dealership
+environmental impact, to
+creating a net positive impact for
+society and the planet. At TMNA,
+we focus our efforts on four
+priority issues – Carbon, Water,
+Materials and Biodiversity – that
+Assembly
+Plant
+align with Toyota’s corporate
+global environmental strategy
+and span the vehicle life cycle,
+as illustrated in the graphic.
+SUPPLIER
+We also engage in outreach
+activities to promote awareness,
+develop strategic partnerships
+and share know-how, all to help
+build a more sustainable future.
+Carbon Water Materials Biodiversity
+• Purchasing renewable electricity • Reducing the amount of water we use in • Using sustainable materials in vehicle parts • Planting pollinator gardens and native
+production processes species on our sites
+• Switching trucks and other transport to low • Reducing waste generation and increasing
+carbon powertrains • Encouraging suppliers and dealers to reduce recycling • Working with suppliers and dealers to
+their water use develop pollinator habitat
+• Encouraging suppliers and dealers to reduce • Managing chemicals safely and finding
+CO2 emissions • Working with nonprofit organizations to suitable alternatives • Partnering with nonprofit organizations to
+conserve water and educate people about expand pollinator habitat and educate the
+• Offering a portfolio of lower and zero • Encouraging suppliers and dealers to reduce
+water issues public about biodiversity
+carbon vehicles their waste and recycle more
+Goals and Targets
+GRI 2-22, 3-3
+Toyota’s long-term aspirations are outlined in the Toyota Environmental Through Challenge 2050, team members across the company, in every region of
+Challenge 2050. Mid-term milestones have also been established, as well as the world, are working to put Toyota’s global vision of Respect for the Planet into
+short-term (five-year) targets. action. Challenge 2050 unites us all with a common purpose – to be more than just
+good stewards of the environment and to create positive changes beyond our facility
+boundaries.
+Toyota Environmental Challenge 2050
+Within TMNA, we continue to refine a regional environmental sustainability strategy to
+align Toyota’s global values and Challenge 2050 with our regional focus areas – Carbon,
+Water, Materials and Biodiversity. In each focus area, we are working towards minimizing
+environmental impacts and, through outreach activities, towards a net positive impact on
+society and the planet.
+The Toyota Environmental Challenge 2050 (Challenge 2050) is a set of six visionary,
+global challenges that seek to go beyond eliminating negative environmental impacts
+to creating positive value for the planet and society. Toyota Motor Corporation (TMC, Watch the Toyota Environmental Challenge 2050 video
+TMNA’s parent company headquartered in Japan) announced these six challenges in
+2015 after extensive research and internal and external consultation. The challenges
+apply to all Toyota subsidiaries around the world.
+The six challenges are:
+New Vehicle CO Emissions Challenge – Reduce CO emissions from new vehicles
+2 2
+by 90% (2010 baseline)
+Operations CO Emissions Challenge – Eliminate CO emissions from operations3
+2 2
+Life Cycle CO Emissions Challenge – Eliminate CO emissions from suppliers and
+2 2
+dealers
+Water Conservation Challenge – Conserve water and protect water resources The Toyota Environmental Challenge 2050 outlines the
+Recycling-Based Society Challenge – Support a circular economy company’s global aspirations to achieve carbon neutrality and
+Harmony with Nature Challenge – Conserve biodiversity, protect species and
+have a positive impact on the planet and society.
+restore habitats
+Mid-Term Milestones
+TMC has established several global mid-term milestones, including those below, to help the company achieve the Toyota Environmental Challenge 2050.
+Toyota Environmental
+Global Milestone TMNA Contributions and Milestones
+Challenge 2050
+Reduce global average CO2 emissions (grams/ CO2 emissions per mile from TMNA’s new vehicles have decreased 41% since 2010.
+kilometer) from new vehicles by 35% or more by CO2 emissions per mile from TCI’s new cars have decreased 23% since 2012.
+2030, compared to 2010 levels.
+TMNA Milestones:
+In the U.S., Toyota has targeted 70% electrified new vehicle sales (excluding performance vehicles) by 2030.
+Reduce CO2 emissions throughout the vehicle TMNA defines vehicle life cycle to include suppliers, logistics and dealerships.
+life cycle by 25% or more by FY2030, compared • We are requiring suppliers to reduce absolute CO2 emissions by 14% by FY2026, from FY2018 levels.
+to 2013 levels. • It may prove difficult to reduce emission from logistics by 2030, given the forecasted availability of fuel cell and electric
+powertrains for the trucking fleets.
+• Sixteen dealerships are participating in the Dealership Environmental Excellence Program, 6 of which use
+renewable electricity.
+Achieve carbon neutrality at global TMNA defines carbon neutrality to apply to all facilities, not just manufacturing plants. Total Scope 1 and 2 CO2 emissions
+manufacturing plants by 2035. are 20% lower than they were in FY2018. This is due to GHG efficiency measures and increases in renewable electricity
+purchases. We are on track to becoming carbon neutral at our facilities by 2035.
+TMNA Milestone:
+In the U.S., Toyota is targeting reducing GHG emissions at nine plants by 50% by FY2030 (from a baseline of FY2018), through
+energy efficiency measures and building renewable energy generation. This target was set as part of the U.S. Department of
+Energy’s Better Climate Challenge.
+Complete impact assessments by 2030 at each We are implementing the International Water Stewardship Standard, developed by the Alliance for Water Stewardship
+of the 22 plants in North America, Asia and (AWS). We are currently piloting the AWS Standard at our assembly plant in Baja California, Mexico, and plan to roll out
+Europe where water is discharged directly into to additional sites in the future.
+a river.
+Complete the establishment of battery We are working with our partners to create a sustainable, closed-loop battery ecosystem at our new battery manufacturing
+collection and recycling systems globally by plant in North Carolina. Our current battery recycling program in the U.S. has collected and recycled or remanufactured over
+2030. 178,000 hybrid vehicle batteries since 2010.
+Contribute to biodiversity conservation We are supporting the development of at least 26,000 acres of pollinator habitat in North America by FY2026. In FY2022,
+activities in collaboration with NGOs and other 1,547 acres of pollinator habitat were developed through a collaboration with Pollinator Partnership. TMNA has also
+partners. developed 375 acres of pollinator habitat on its own lands, mostly through our partnership with Wildlife Habitat Council®.
+This brings the total number of acres to 1,922.
+Environmental Action Plan Targets
+North American environmental sustainability planning, strategies and actions are driven by Environmental Action Plans, which are five-year roadmaps that help achieve incremental
+progress towards the global milestones and the Toyota Environmental Challenge 2050.
+Focus Area 7th EAP Targets FY2022 Progress
+∆ 52% of models are electrified
+Offer electrification across the Toyota and Lexus lineups by around 2025
+Achieve 40% electrified new Toyota vehicle sales in the U.S. (by unit) by ∆ 25% of sales by unit in the U.S. were electrified in 2021
+2025 (excluding performance vehicles)
+Carbon
+Currently at 4.3%, but have two virtual power purchase agreements (VPPAs) coming online in 2022
+Increase purchased renewable electricity to 45% or more of total
+∆ and 2023 that are expected to bring us above 20%. This target also supports the mid-term
+electricity purchased by 2025
+milestone for all facilities to be carbon neutral by 2035.
+Reduce absolute CO2 emissions from logistics by 15% from FY2018 levels, We do not expect to be able to meet this target, given the forecasted availability of fuel cell and
+X
+by FY2026 electric powertrains for trucking fleets.
+Reduce absolute CO2 emissions from suppliers by 14% from FY2018 Supplier companies submitted CO2 data to us for the first time in FY2022. We expect to begin
+O
+levels, by FY2026 tracking emissions reductions in the near future.
+Expand participation in the Dealer Environmental Excellence Program to
+∆ 16 dealerships are already participating, 6 of which use renewable electricity.
+100 dealerships by FY2026
+Reduce water use per unit of vehicle production by 5% by FY2026, from
+O 1% reduction in water intensity, FY2020-FY2022
+FY2020 levels
+Water
+Reduce single-use plastics at on-site food services by FY2026 by 75% O Due to COVID-related delays in employees coming back to the office, we did not make much
+progress on this target last fiscal year. We expect to see progress in FY2023.
+Reduce procurement of single-use packaging materials by 25% by ∆ Based on our estimates, we have reduced the use of single-use packaging materials by
+Materials FY2026, from FY2018 levels approximately 19% compared to the FY2018 baseline.
+Implement a closed-loop battery recycling program by FY2026 to support ∆ We are working with our partners to create a sustainable, closed-loop battery ecosystem at the
+our new battery manufacturing plant in North Carolina North Carolina battery manufacturing plant. Toyota and Redwood Materials are exploring a series
+of end-of-life battery solutions.
+Support the development of at least 26,000 acres of pollinator habitat in
+∆ At the end of FY2022, we had supported 1,922 acres and we have more planned for FY2023.
+North America by FY2026
+Biodiversity
+Environmental Sustainability Governance
+GRI 2-9, 3-3
+TMNA’s Sustainability and Regulatory developing short-, medium- and Representatives from these divisions
+Affairs (SRA) division handles product long-term sustainability strategies for also participate in focus groups that North American Executive
+environmental and safety regulation, TMNA, including planning and target concentrate on specific environmental Committee
+energy and climate research, setting in alignment with the Toyota issues, such as water or biodiversity. These (Representatives of Toyota entities in
+environmental sustainability, enterprise Environmental Challenge 2050, which focus groups report to the Environmental North America)
+chemical management, and engine includes developing consolidated five- Sustainability Working Group and help
+certification and compliance. Separately, year environmental action plan goals implement environmental action plan
+TMNA Environmental Sustainability
+TMNA’s Environmental & Facilities (E&F) and targets. ES is also responsible for targets, perform benchmarking and data
+(Kevin Butt, ES Senior Director/NAEC
+division handles facility environmental and developing the annual North American gathering activities, and raise awareness
+Secretariat)
+safety regulatory compliance. Environmental Report. ES reports progress among team members and external
+on these activities to the North American stakeholders.
+The Environmental Sustainability (ES) Executive Committee (NAEC). Environmental Sustainability
+group within SRA is responsible for Working Group
+ES facilitates an Environmental Working Group as a coordinating mechanism for
+TMNA. The group is comprised of environmental experts and representatives from
+various divisions:
+• Sustainability and Regulatory Affairs • Real Estate Property Services
+• Research and Development • Environmental & Facilities
+• Procurement • Legal
+• Corporate Communications • Toyota Canada Inc. (TCI)
+• Compliance and Audit • Parts Supply Chain Operations
+• Logistics • Manufacturing Engineering Division
+• Enterprise Strategy
+Toyota Motor North America, Inc. headquarters in Plano, Texas
+Environmental ISO 14001 Certifications of Toyota’s
+Location Original Certification Date
+North American Facilities
+Management
+Manufacturing Plants Huntsville, Alabama 2005
+Environmental management systems are
+an essential part of Toyota’s overall effort
+GRI 3-3 Long Beach, California 1998
+to minimize risks and achieve leading
+TMNA relies on strong management levels of environmental performance.
+Princeton, Indiana 1999
+processes to achieve leading An environmental management system
+environmental performance. (EMS) provides a framework for identifying
+Georgetown, Kentucky 1998
+significant environmental aspects and
+impacts and setting corresponding Troy, Missouri 1998
+controls, goals and targets to manage
+and reduce these impacts over time. Blue Springs, Mississippi 2012
+The facilities listed in the chart have
+had their environmental management Jackson, Tennessee 2007
+systems third-party certified to ISO
+14001, the International Organization San Antonio, Texas 2008
+for Standardization’s standard for
+designing and implementing an effective Buffalo, West Virginia 2000
+environmental management system.
+Woodstock, Ontario (Canada) 2009
+Cambridge, Ontario (Canada) 1998
+Tijuana, Baja California (Mexico) 2006
+Apaseo el Grande, Guanajuato
+2021
+(Mexico)
+Vehicle Distribution Centers Montreal, Quebec (Canada) 2003
+Toronto, Ontario (Canada) 2001
+Vancouver, British Columbia
+Parts Distribution Center 2002
+(Canada)
+Clarington, Ontario (Canada) 2022
+Canadian Sales Headquarters in
+Sales Regional Offices 2001
+Toronto, Ontario
+Pacific Regional Office and TFS 2002
+Quebec Regional Office and TFS 2005
+Prairie Regional Office and TFS 2008
+Atlantic Regional Office and TFS 2006
+LEED® Certifications Toyota’s North American Facilities With LEED® Certifications
+BD+C = Building Design + Construction
+Seventeen Toyota and Lexus facilities have achieved Leadership in Energy and Environmental
+ID+C = Interior Design + Construction
+Design (LEED®) certification. LEED® is a point-based system administered by the U.S. and
+O+M = Operations and Maintenance
+Canadian Green Building Councils promoting a whole-building approach to sustainable
+construction and remodeling. LEED certification is based on meeting stringent requirements in
+Toyota Facility Location Year Certification Level
+sustainable site development, water savings, energy efficiency, materials selection and indoor
+environmental quality. Ranging from office space to vehicle distribution centers, these facilities
+Toyota Financial Services West Chandler, Arizona 2021 ID+C Gold
+represent Toyota’s continued efforts to improve the design and efficiency of all operations.
+Toyota Motor North America is a platinum member of the U.S. Green Building Council.
+Toyota Financial Services East Alpharetta, Georgia 2021 ID+C Silver
+Further, Toyota has three projects pursuing LEED certification: the renovation of the vehicle
+Production Engineering &
+logistics facility at the Port of Long Beach in California, the newly constructed visitor center at Georgetown, Kentucky 2019 BD+C Platinum
+Manufacturing Center
+the assembly plant in Mississippi, and the new parts distribution center in Clarington, Ontario.
+Toyota Supplier Center York Township, Michigan 2019 BD+C Platinum
+Additionally, the parts distribution center in Ontario has earned Zero Carbon Building design
+certification from the Canadian Green Building Council.
+Centro de Entrenamiento Toyota San Luis Pozos, Mexico 2018 O+M, Platinum
+Toyota Motor North America
+Headquarters (Office Towers, High
+Plano, Texas 2017 BD+C Platinum
+Bay Evaluation Building, Vehicle
+Delivery Center)
+Chicago Service Training Center Aurora, Illinois 2015 BD+C Gold
+Lexus Eastern Area Office Parsippany, New Jersey 2014 ID+C Platinum
+Toyota Kansas City Training Center Kansas City, Missouri 2012 BD+C Gold
+Toyota Inland Empire Rancho Cucamonga,
+2010 ID+C Gold
+Training Center California
+Toyota Technical Center York Township, Michigan 2010 BD+C Gold
+Toyota Racing Development Salisbury, North
+2010 BD+C Certified
+North Carolina Carolina
+Lexus Florida Training Center Miramar, Florida 2009 ID+C Gold
+Toyota Phoenix Training Center Phoenix, Arizona 2009 ID+C Silver
+North America Production
+Georgetown, Kentucky 2006 ID+C Silver
+Support Center
+Toyota Motor North America, Inc. Washington, D.C. 2016 ID+C Silver
+Portland Vehicle Distribution Center Portland, Oregon 2004 BD+C Gold
+Compliance
+GRI 2-27
+Many of Toyota’s activities in vehicle development, manufacturing and logistics are
+subject to local, state, provincial and federal laws that regulate chemical management,
+air emissions, water discharges, storm water management, greenhouse gas emissions,
+and waste treatment and disposal. These regulations vary by facility based on the type of
+equipment operated and the functions performed.
+In this report, we disclose the number of environmental violations in the U.S., Canada and
+Mexico that resulted in air or water pollution. We report violations in the year in which they
+occurred. In FY2022, our North American manufacturing plants and logistics sites had zero
+environmental regulatory violations that resulted in air or water pollution.
+Environmental Violations Resulting in Air or Water Pollution
+FY2019 FY2020 FY20214 FY20225
+Number of violations 0 0 0 0
+4 In January 2021, Toyota paid a civil penalty of $180 million to the U.S. Environmental Protection Agency pursuant to a Consent Decree to resolve investigations stemming from a self-reported process gap in fulfilling certain emissions defect information
+Stakeholder Engagement
+GRI 2-28, 2-29
+TMNA engages with a range of stakeholders on our environmental sustainability strategy and initiatives.
+Category of
+Purpose of Engagement
+Stakeholders
+Team members We engage with team members (the term we use to refer to employees) to educate them about the importance of environmental sustainability and to solicit their input and expertise to
+help us meet our goals and targets.
+Customers Customers and consumers are increasingly concerned about global issues such as climate change and are looking for large companies to offer low carbon solutions. We continuously
+engage with customers to educate them about our hybrid technology and alternative powertrain vehicles. We also educate them about how we are reducing our environmental impacts
+across the vehicle life cycle.
+Suppliers Toyota’s North American supply chain represents the majority of our environmental footprint in the region. We engage with suppliers to help us reduce our environmental impacts across
+the vehicle life cycle. We partner with them to use more sustainable materials in vehicle parts and we collaborate with them on efforts to reduce waste and packaging. We also engage
+with suppliers through Suppliers Partnership for the Environment, which provides a forum for global automotive manufacturers, their large and small suppliers, the U.S. Environmental
+Protection Agency (EPA) and other government entities from around the world to work together towards a shared vision of an automotive industry with positive environmental impact.
+Dealerships We engage with dealerships through our newly launched Dealer Environmental Excellence Program (DEEP), which provides guidance and incentives to Toyota and Lexus dealerships
+and recognizes them for positive environmental performance. The program targets continuous operational improvement in six categories: energy use, water consumption, waste, indoor
+environment, community outreach, and connecting with nature. Participating dealerships can earn up to five stars in each category for tracking environmental performance data, achieving
+minimum performance benchmarks, implementing improvement projects and aligning with the Toyota Environmental Challenge 2050. We began recognizing high performing dealers in
+2022.
+Regulatory agencies We engage with regulatory agencies at the federal, provincial, state and local levels to secure necessary environmental permits and comply with regulatory requirements. We also engage
+with regulators on the content of proposed rules to facilitate collaboration and understanding.
+Investors TMNA engages with investors, including environmental, social and governance (ESG)-focused investors, to respond to requests for information and to keep them apprised of our vehicle
+electrification plans. We also follow developments related to regulatory financial filings, such as the climate-related disclosure rule recently proposed by the U.S. Securities and Exchange
+Commission.
+Local communities We engage with communities through outreach activities conducted locally by individual sites. These activities allow us to volunteer and share know-how in support of our efforts to create
+net positive impacts in the areas of Carbon, Water, Materials and Biodiversity.
+Nonprofit organizations We engage with nonprofit organizations in support of our efforts to create net positive impacts in the areas of Carbon, Water, Materials and Biodiversity. Examples include World Wildlife
+Fund, Wildlife Habitat Council, Pollinator Partnership, The Nature Conservancy, and National Environmental Education Foundation.
+Membership in TMNA is a member of trade and other membership associations to educate others about our efforts and positions, help them develop climate-related and other policy positions, participate
+associations in research and other projects, and leverage their expertise to help us scale up our efforts to reduce our environmental impacts. These associations include but are not limited to:
+Alliance for Automotive Innovation (Chris Reynolds, TMNA’s chief administrative officer, is on the Board of Directors)
+Automotive Industry Action Group (AIAG)
+Clean Energy Buyers Alliance (CEBA)
+Environmental Law Institute (ELI) (Chris Reynolds is on the Board of Directors)
+Resources for the Future (RFF) (TMNA is a member of RFF’s Business Leadership Council)
+Suppliers Partnership for the Environment (SP)
+TMNA and TCI are also members of several industry associations that foster the development and deployment of hydrogen and fuel cell technologies.
+These include but are not limited to:
+California Hydrogen Business Council (CHBC)
+California Hydrogen Coalition (CHC)
+Fuel Cell & Hydrogen Energy Association (FCHEA)
+Renewable Hydrogen Alliance (RHA)
+Commitment to Carbon Neutrality TMNA is addressing carbon emissions in performance, including energy efficiency and
+the following ways: CO emissions reductions. For information on
+2
+GRI 3-3 how we’re reducing emissions from logistics,
+1 Reducing vehicle CO emissions by see our story on Zero-Emissions Trucking.
+2
+In this report, we use the term “CARBON” introducing more electrified6 vehicles and
+to refer to carbon dioxide (CO) emissions, by making our internal combustion engines
+2
+the main greenhouse gas (GHG) linked more fuel efficient: Zero emissions from
+to climate change. Transportation is
+our vehicles is the ultimate goal and we
+responsible for nearly one quarter of
+believe the path to getting there is with
+the world’s GHG emissions and as an
+a portfolio approach – fuel cell vehicles,
+automotive company, TMNA is committed
+hybrid vehicles, plug-in hybrid vehicles
+to doing our part to help the world
+and battery electric vehicles. Offering a
+Carbon transition to a low carbon economy. We
+range of low emission vehicles means we
+aim to be carbon neutral at all of our North
+American facilities by 2035 and across the should be able to reduce as much CO
+2
+vehicle life cycle no later than 2050. as possible as soon as possible, which in
+Sustainable Development North America means offering more plug-
+Goals 7 and 13 seek to Carbon neutral means we aim to reduce in hybrids and hybrids until the alternative
+accelerate the transition our Scope 1 and 2 emissions to the greatest fueling infrastructure for hydrogen fuel cell
+extent possible, then rely on offsets, if and all-electric vehicles expands. For more
+to sustainable energy
+necessary, to get us to zero CO emissions. on our portfolio approach, see our story,
+sources and combat We also include Scope 3 emissi2 ons in our
+Electric Avenue.
+climate change. By finding carbon neutrality target so that by 2050, we
+aim to have zero CO emissions across our
+ways to increase our use 2 2 Eliminating CO from our operations by
+entire vehicle life cycle. 2
+of renewable energy and investing in on- and off-site solar and wind
+eliminate CO emissions, we projects, implementing energy efficiency
+2 projects and investigating ways to reduce
+are working at every stage
+our thermal load: We have a goal that
+of the vehicle life cycle to TMNA’s Carbon Position all of our facilities will be carbon neutral 2023 bZ4X Limited
+help the world build a low Statement: by 2035. See our story on the Toyota
+carbon future. Port Facility in California that is close to
+Transportation is responsible for achieving carbon neutrality.
+one quarter of the world’s GHG
+emissions and as an automotive 3 Partnering with suppliers and dealers to
+company, TMNA is committed to eliminate CO emissions from our value
+2
+doing our part to help the world chain: Toyota requires direct parts, materials
+transition to a low carbon economy. and accessory suppliers to commit to
+TMNA acknowledges climate change reducing CO emissions by at least 3%
+2
+as a priority management issue per year. We have set a target for logistics
+and supports the goals of the Paris suppliers to reduce emissions from the
+Agreement, a pact adopted by 196 transportation and distribution of parts,
+countries that commits to reducing accessories and finished vehicles by 15% by
+GHG emissions in order to keep FY2026, and another target for our dealers to
+warming well below 2° Celsius, and participate in our new Dealer Environmental
+to pursue efforts to limit warming to Excellence Program (DEEP), which
+1.5° Celsius. encourages improvements in environmental
+2026 2030 2035 2050
+Increase electrified new
+Toyota vehicle sales to 70%
+in the U.S. (by unit)
+Reduce absolute CO₂ Reduce GHG emissions Achieve carbon neutrality at
+emissions from logistics by from nine U.S. plants by 50% all North American facilities
+15% from FY2018 levels between fiscal years 2018
+and 2030, through energy Reduce absolute CO₂ efficiency measures and emissions from suppliers 14% building renewable energy from FY2018 levels generation
+Expand participation in
+DEEP to 100 dealers
+selciheV )3
+epocS(
+Current Future
+snoitarepO
+srelaeD
+dna
+sreilppuS
+)2 & 1 sepocS(
+)3
+epocS(
+Our Path to Carbon Neutrality
+Toyota as a company aims to achieve carbon neutrality globally by 2050. In North America, we have a number of milestones between now and then to put us on the right path.
+2022 2025
+Toyota’s first all-electric
+vehicle, the bZ4X, went on Offer electrification across
+sale in the U.S. and Canada the Toyota and Lexus lineups
+Increase electrified new
+Toyota vehicle sales to 40%
+in the U.S. (by unit)
+TMNA began purchasing Increase purchased
+electricity through our first renewable electricity to 45%
+virtual power purchase or more of total electricity
+agreement (VPPA) with purchased in North America Clearway Energy Group New EV battery Achieve in West Virginia, which manufacturing facility is carbon is expected to generate expected to open in North neutrality
+166,615 MWh of electricity Carolina with production across
+for TMNA lines for making batteries for the vehicle
+both fully electric vehicles life cycle
+and hybrid vehicles
+Launched an updated Green
+Supplier Requirements
+document and launched
+the Dealer Environmental
+Excellence Program (DEEP)
+Carbon Targets
+GRI 3-3
+Vehicles Operations Life Cycle
+Our vehicle targets beginning in FY2022 are to:
+Our operations targets beginning in Our targets for suppliers, logistics
+FY2022 are to: activities and dealers are to:
+• Offer electrification across the Toyota and Lexus lineups by around 2025.
+• I ncrease purchased renewable electricity • Reduce absolute CO emissions from
+• Achieve 40% electrified new Toyota vehicle sales by 2025 and 70% by 2030 (by unit, 2
+excluding performance vehicles). to 45% or more of total electricity logistics by 15% from FY2018 levels, by
+FY2026.
+purchased by FY2025.
+As of August 2022, there were 19 Toyota and Lexus electrified vehicle models on the
+• Reduce absolute CO emissions from
+market in North America, with more on the way. In 2021, TMNA was the number one seller • Reduce GHG emissions at nine U.S. 2
+suppliers by 14% from FY2018 levels, by
+of electrified vehicles in the U.S. for the 22nd consecutive year. plants by 50% by FY2030, from a FY2018
+FY2026.
+baseline (U.S. Department of Energy
+Better Climate Challenge target). • Expand participation in the Dealer
+Environmental Excellence Program to 100
+% of Toyota + Lexus Models with % of New Toyota Vehicles Sold
+• Achieve carbon neutrality at all North dealerships by FY2026.
+Electrified Options that are Electrified
+American facilities by 2035.
+Logistics: This target will be difficult to
+100% As of the end of FY2022, the portion of meet given the forecasted availability of
+electricity purchased by TMNA that was fuel cell and electric powertrains for the
+70%
+renewable was 4.1%. This percentage trucking fleets. However, we continue
+52% 40% is expected to increase significantly in to make progress. Toyota has converted
+25% FY2023 as the first of our virtual power 18 shunt trucks from diesel to EV at
+purchase agreements comes online. See manufacturing plants, parts centers and
+our story on Renewable Electricity. cross docks. When all 248 shunt trucks are
+converted by the end of 2025, we expect
+2021 2025 Target 2021 2025 Target 2030 Target Total Scope 1 and 2 CO 2 emissions to avoid approximately 15,000 metric tons
+increased by 5% in FY2022 compared of CO annually.
+to FY2021, mainly due to an increase in 2
+CO 2 emissions per mile from TMNA’s new vehicles have decreased 41% since 2010. For production related to easing of pandemic- Suppliers: Supplier companies submitted
+information on fleet GHG emissions, see GHG Emissions Data. related restrictions. Despite the increase, CO data to us for the first time in FY2022.
+2
+emissions are still 20% lower than they We expect to begin tracking emissions
+were in FY2018. This is due to GHG reductions in the near future.
+efficiency measures and increases in
+renewable electricity purchases. We are Dealers: Sixteen dealers are already
+on track to meeting our Better Climate active in our newly launched Dealership
+Challenge target by FY2030 and becoming Environmental Excellence Program and six
+Toyota has been the number one seller of electrified vehicles
+carbon neutral at our facilities by 2035. have committed to using more renewable
+in the U.S. for 22 consecutive years. energy.
+GHG Emissions Data GHG Emissions Intensity
+FY2019 FY2020 FY2021 FY2022
+GRI 305-1, 305-2, 305-3, 305-4, 305-5
+GHG Intensity 0.66 0.62 0.63 0.62
+TMNA uses The GHG Protocol: A Corporate eGRID emission factors. For sites in
+Accounting and Reporting Standard, Canada, provincial emission factors are Numerator: Scope 1+2 emissions from all Toyota North America locations, including assembly
+Revised Edition (published by the World sourced from Canada’s National Inventory and unit plants, offices and warehouses
+Resources Institute and the World Business Report, and for Mexico, a country-specific Denominator: Number of vehicles produced in North America
+Council for Sustainable Development) emission factor is sourced from Carbon
+to develop an annual GHG emissions Footprint Country Specific Electricity Grid
+GHG Reductions As A Direct Result of GHG Efficiency Measures
+inventory. TMNA follows the financial Greenhouse Gas Emissions Factors v1.4,
+control approach. September 2020. Metric Tons C0 2
+FY2022
+Calculations of Scopes 1 and 2 emissions Three of Toyota’s U.S. manufacturing
+include CO only. plants are classified as large emitters
+2 Scope 1 3,039
+and as such, are required to report
+Scope 1 sources include stationary GHG emissions data under U.S. EPA’s Scope 2 18,936
+combustion (such as burning natural Greenhouse Gas Reporting Program.
+gas for energy) as well as owned mobile Individual plant data for our assembly TOTAL 21,975
+sources (such as Toyota-owned fleet plants in Kentucky, Texas and Indiana are
+Scope: GHG efficiency measures include energy and GHG efficiency improvements plus on-
+vehicles and owned logistics trucks). available on the U.S. EPA’s website through
+site solar projects. Does not include CO reductions from the implementation of virtual power
+its online data publication tool. 2
+purchase agreements.
+Scope 2 emissions include consumption
+of purchased electricity from Toyota sites In Canada, Toyota’s Cambridge and
+in North America. Scope 2 emissions Woodstock, Ontario, plants are required CO 2 Emissions From Logistics
+are reported using the market-based to report under Environment Canada Metric Tons C0
+approach. Where renewable electricity is and Climate Change’s Greenhouse Gas 2
+purchased, an emission factor of zero is Emissions Reporting Program and Output FY2018 FY2019 FY2020 FY2021 FY2022
+assumed. Indirect emissions from non- Based Pricing System; both plants are
+renewable electricity used at Toyota’s also required to report GHG emissions Emissions from Logistics 741,706 818,862 729,858 670,570 807,388
+(Scopes 1 and 3)
+U.S. locations are calculated using U.S to the province of Ontario under its
+Environmental Protection Agency (EPA) Environmental Protection Act. Scope: Owned and third-party service parts and vehicle transport (e.g., trucking and rail).
+Mobile sources only
+Scope 3 emissions for category 1,
+purchased goods and services, are being
+Scope 1 + 2 GHG Emissions
+collected from suppliers and are expected
+to be available in the near future. Metric Tons C0 2
+FY2019 FY2020 FY2021 FY2022
+Scope 1 434,000 409,000 387,000 445,353
+Scope 2 783,000 697,000 627,000 618,729
+TOTAL 1,217,000 1,106,000 1,014,000 1,064,082
+The U.S., Canada and Mexico have adopted GHG emissions and fuel economy U.S. Fleet CO Data (Annual Grams CO per Mile)
+2 2
+standards; the regulations in Canada and Mexico are similar to the federal regulations
+in the U.S.
+The U.S. Fleet CO Data chart shows GHG performance of Toyota’s U.S. vehicle fleet 2016 267
+2
+under the U.S. EPA GHG program. The annual GHG compliance values account
+2017 259
+for real-world GHG benefits from off-cycle technologies, such as air conditioning
+and aerodynamic improvements, not observed over the official tailpipe CO 2 testing 2018 254
+conditions.
+2019 247
+2020 258
+Canada Fleet CO Data (Annual Grams CO per Mile)
+2 2
+Mexico Fleet CO Data (Annual Grams CO per Kilometer)
+2 2
+raeY
+ledoM
+2017
+2018
+2019
+2020
+2021
+raeY
+ledoM
+205.6
+294.5
+191.5
+294.7
+182.9
+264.1
+165.5
+261.3
+164.0
+214.3
+Car Truck
+Based on CO emissions data reported to Environment and Climate Change Canada
+2
+2017 158.4
+2018 162.2
+2019 161.0
+2020 157.0
+2021 150.0
+raeY
+ledoM
+2022 Mirai Limited
+Volatile Organic Compounds (VOCs)
+In our operations, the primary concern with non-greenhouse gas air emissions is smog.
+Smog is formed as particulate matter, nitrogen oxides, and volatile organic compounds
+(VOCs) react with sunlight. Smog has been linked to several health issues and is
+particularly prevalent in dense urban areas with heavy traffic, industrial activity and
+sunny, warm climates.
+Vehicle body painting operations generate most of Toyota’s VOC emissions. Toyota’s
+North American manufacturing plants measure grams of VOCs emitted per square
+meter of vehicle surface area coated (g/m2). VOC emissions from vehicle body painting
+increased 3.4 percent between FY2021 and FY2022 due mainly to an increase in
+production related to easing of pandemic-related restrictions.
+We expect VOC emissions to continue to decrease as we further improve transfer
+efficiency and launch additional water-borne paint systems.
+VOC Emissions
+Grams per Square Meter of Vehicle Surface Area Coated
+FY2019 13.0
+FY2020 12.3
+FY2021 11.8
+FY2022 12.2
+sCOV
+Air Quality California’s Low Emission Vehicle program
+and create a federal vehicle emissions
+program that allows automakers to sell the GRI 305-7
+same vehicles in all 50 states.
+Criteria Pollutant Tailpipe
+Toyota’s goal is to maintain flexibility
+Emissions
+to build vehicles based on customer
+preferences. In setting tailpipe emission
+Hydrocarbons, nitrogen oxides (NOx) and regulations, we believe standards should
+carbon monoxide — all byproducts of be performance-based and consider
+fuel combustion — are linked to various the interaction with other vehicle rules
+air quality issues such as smog formation — such as fuel economy/greenhouse
+as well as various health effects. Limiting gas standards — to ensure the total
+criteria pollutant emissions from our package of requirements is effective and
+vehicle tailpipes help to reduce some of acceptable to the consumer. Fuels must be
+the environmental impacts of driving. considered with vehicle technologies as
+a holistic system. Reduced sulfur levels in
+The U.S. EPA and the state of California
+gasoline, required by the federal Tier 3 and
+have certification programs to categorize California LEV III programs, are enabling
+vehicles in terms of their level of tailpipe
+the after-treatment systems being
+emissions, and Environment and Climate
+designed for compliance.
+Change Canada has issued Tier 3
+regulations aligned with the final U.S. Toyota annually complies with the state
+Tier 3 rule. of California, U.S. and Canadian vehicle
+criteria pollutant emissions standards.
+While the EPA Tier 3 and California Low
+Emission Vehicle III (LEV III) regulations The 2022 “Greenest List”, published by the
+have different nomenclature for American Council for an Energy Efficient
+categorizing vehicle emissions, the Economy (ACEEE), names the Toyota Prius
+bins include the same vehicle emission Prime, Toyota Corolla Hybrid and Toyota
+groupings. For the 2021 model year, EPA Camry Hybrid LE as three of the greenest
+Tier 3 and California LEV III regulations vehicles available in the U.S. in 2022.
+required an auto manufacturer’s fleet ACEEE evaluated more than 1,000 models
+average to meet an emission standard for and awards each car with a Green Score
+non-methane organic gas with nitrogen based on an environmental damage index
+oxides (NMOG + NOx) of 58 mg/mi for (EDX), which reflects the cost to human
+passenger cars and light-duty trucks up health from air pollution associated with
+to 3,750 pounds, and 65 for other light- vehicle manufacturing and disposal, the
+duty trucks. The regulations set declining production and distribution of fuel or
+emission standards from 2017 through electricity, and vehicle tailpipes.
+2025, when the NMOG + NOx average
+for both sets of vehicles will become Natural Resources Canada ranks the most
+30 mg/mi. fuel-efficient vehicles each year and three
+Toyota models made the list in 2022:
+The EPA Tier 3 vehicle standards were Toyota Corolla Hybrid, Toyota Highlander
+intended to be harmonized with
+Commitment to Water Aqueduct is the Water Risk Atlas, which TMNA addresses water-related impacts in
+combines 13 indicators covering aspects of three ways:
+as a Shared Resource quantity, quality and reputational risk into a
+1 Conserving Water: We continue to work
+composite overall risk score. Our analysis is
+to make auto manufacturing more efficient
+GRI 3-3 based on version 3.0 of the Atlas (released
+so that we use less water for every vehicle
+GRI 303-1, 303-2 in 2019).
+we produce, and we will continue to
+explore options for reusing and recycling
+Recently, TMNA started moving beyond an Toyota’s North American locations have
+water so that we withdraw less from fresh
+onsite water management approach to one been mapped, including manufacturing
+water sources. See our stories on how
+of site and watershed water stewardship. plants, R&D centers, vehicle and parts
+the assembly plant in Indiana is saving
+Toyota is committed to water stewardship, distribution centers, service training
+54.3 million gallons of water annually and
+which means using water in a way that centers and offices. The sites were then
+Water how a membrane bio reactor helps us
+is socially equitable, environmentally ranked based on their overall risk score.
+recycle 23 million gallons annually in Baja
+sustainable and economically beneficial, According to the Atlas, seven of Toyota‘s
+California.
+and is achieved through working with North American locations scored in the
+Sustainable Development
+stakeholders on site- and watershed-based “high” risk level and two in the “extremely
+Goal 6 seeks to “ensure actions. high” risk level. These sites are located 2 Protecting Water Resources: Water
+quality is a key component of Toyota’s
+availability and sustainable in water-stressed areas and are a priority
+approach to water stewardship. Some of
+management of water and Water is an important issue to Toyota in terms of managing water use and
+our sites discharge wastewater, which we
+because we use water in our operations. At efficiency. In FY2022, these seven sites
+sanitation for all.” By finding monitor and treat to meet local, state and
+TMNA, we use a small amount of water for represented 7% of the water Toyota
+ways to increase water-use federal regulations and to avoid negatively
+drinking water and washrooms, but more withdrew in North America.
+efficiency, improve water impacting water bodies.
+importantly, the majority of TMNA’s water
+quality and protect water- use occurs in manufacturing, primarily
+TMNA Sites in a Overall Water 3 Sharing our know-how: We engage in
+related ecosystems, we are in the painting process. Before a welded
+Water-Stressed Area Risk Ranking outreach activities with communities to
+helping to build a more vehicle body can be painted, water sprays scale up progress to the point of creating
+are used during a pretreat process that Assembly plant in Baja
+sustainable future for society, High positive change. We provide funding
+degreases and removes dirt, rinses, and California, Mexico
+business and the planet. to nonprofit organizations to help raise
+applies an anticorrosion base coat. If the
+awareness about the importance of water
+Assembly plant in
+surface of the vehicle body isn’t clean, Guanajuato, Mexico High conservation, and we fund hands-on
+paint defects can occur.
+learning programs with schools to teach
+Toyota Technical Center in children about water quality and water
+TMNA treats certain wastewater streams on- Gardena, California High resource management. See how we’re
+site and discharges wastewater to publicly
+supporting The Nature Conservancy to
+owned treatment works. Water is consumed TLS Long Beach vehicle
+restore water flows in the Colorado River
+distribution center, High
+primarily through evaporative processes California Delta.
+during building heating and cooling.
+TABC unit plant in Long We are also engaging with suppliers.
+High
+Limited amounts of water are used for Beach, California Water use in our supply chain far exceeds
+irrigation at some sites. TMNA uses drought- the amount we use in our own operations.
+resistant and native plants wherever LA Region office, California Extremely High When we launched the updated Green
+possible to minimize irrigation needs. Supplier Requirements in April 2022, we
+LA Parts Distribution Center, High included a new requirement for suppliers
+California
+TMNA uses the World Resources Institute to track water withdrawal, discharge and
+(WRI) Aqueduct™ Tool to identify water- Toyota Arizona consumption volumes. We also request
+And finally, we are asking dealerships approach taken globally by our corporate Water Withdrawal, Only 7% of water withdrawal occurred
+participating in our Dealer Environmental parent, Toyota Motor Corporation. in an area of “high” or “extremely high”
+Discharge and
+Excellence Program to track their water use water stress (based on WRII’s Water Risk
+and develop reduction plans. As part of the U.S. Department of Energy’s Consumption Atlas).
+Better Building Challenge, TMNA is
+In keeping with TMNA’s comprehensive targeting a 20% reduction in water intensity Approximately 94% of total water
+approach, we are implementing the at nine U.S. plants by FY2026, from a GRI 303-3, 303-4, 303-5 withdrawal came from municipal sources
+International Water Stewardship Standard baseline of FY2014. This is a sub-target of In FY2022, Toyota withdrew 1.68 billion (both fresh and recycled water from
+developed by the Alliance for Water the TMNA-wide target of 5% reduction from gallons of water at North American utilities); the remaining withdrawals
+Stewardship (AWS). The AWS Standard FY2020 levels. facilities, including manufacturing plants, came from surface water bodies,
+offers a credible, globally applicable R&D centers, parts and vehicle distribution groundwater and rainwater.
+framework for major water users to In FY2022, our North American facilities centers, service training centers and
+understand their own water use and (both production and non-production offices. This is a 10% increase compared Water withdrawal volumes were
+impacts, and to work collaboratively and sites) used 973 gallons to produce a Toyota to FY2021, mainly due to increases in compiled primarily from water utility
+transparently with others for sustainable or Lexus vehicle. This is higher than the production following pandemic-related invoices. For rainwater, measurements
+water management within the wider previous fiscal year, but still 1% less than shutdowns. are taken from the collection units. Water
+water catchment context. Implementers we used in FY2020. We continue to seek discharge is either measured by meter or,
+follow the steps and guidance in the AWS opportunities for continuous improvement in the case of non-production facilities,
+Standard to work towards becoming good even while production levels fluctuate due estimated based on occupancy.
+water stewards by improving site water mainly to supply chain disruptions.
+performance and contributing to wider
+sustainability goals. We are currently Water Use (Gallons)
+piloting the AWS Standard at our assembly
+FY2020 FY2021 FY2022
+plant in Baja California, Mexico, and plan
+to roll out to additional sites in the future. Water Intensity
+Water Withdrawal 1,766,238,000 1,526,868,000 1,678,110,000
+As we better understand the Rio Grande (Gallons of Water Withdrawn per Vehicle
+Produced)
+Tijuana River Basin, we are gaining a better Water Discharge 1,173,877,000 1,241,390,000 1,158,684,000
+983
+understanding of the watershed issues 973
+of local community water availability as it 951 958 Water Consumption 592,361,000 285,478,000 519,426,000
+relates to the watershed’s reliance on the
+Scope: All Toyota North America locations, including assembly and unit plants, offices and
+Colorado River.
+warehouses
+Water Target Water Use In Water Stressed Areas (Gallons)
+GRI 3-3 FY2020 FY2021 FY2022 FY2026 FY2021 FY2022
+Baseline Target
+Our water target for fiscal years 2022 to Water Withdrawal 124,859,000 117,391,000
+2026 is to reduce water use per unit of
+Scope: All Toyota North America locations, Water Discharge 93,019,000 75,968,000
+vehicle production by 5% from FY2020
+including assembly and unit plants, offices
+levels. Water Consumption 31,840,000 41,423,000
+and warehouses
+The target equates to a 1% improvement Scope: All Toyota North America locations, including assembly and unit plants, offices and
+per year and is consistent with the warehouses
+Water-stressed areas were identified using WRI’s AqueductTM Water Risk Atlas and include
+Commitment to Materials Targets and cardboard boxes for shipping parts
+between suppliers, distribution centers,
+Responsible Production GRI 3-3 plants and dealerships. The highest use of
+single-use packaging is for service parts,
+GRI 3-3 Plastics so this is where we will be focusing our
+efforts going forward.
+TMNA strives to use responsible production Our plastics target for fiscal years 2022 to
+practices involving environmentally sound 2026 is to reduce single-use plastics at on- TMNA is a member of Suppliers
+management of 1) goods provided by site food services by 75%, from a calendar Partnership for the Environment (SP) and
+suppliers (such as steel, aluminum, plastic year 2019 baseline. participates in the Materials Efficiency
+parts and other raw materials) and 2) waste Work Group. The Materials Efficiency
+generated by our activities. Plastic is not biodegradable, can be Work Group created a new Sustainable
+Materials
+difficult to recycle, and is well known for Packaging sub-group, co-chaired by
+Our plants, warehouses and R&D causing water and ocean pollution. That’s TMNA and Magna, to further SP’s efforts to
+sites across North America have why we are working on reducing plastics promote the design and use of sustainable
+Sustainable Development mature governance organizations and wherever we can. This target covers packaging. This group created a resource
+Goal 12 seeks to “ensure management systems in place to help single-use plastics used in our cafeterias; with information on the viable recyclability
+sustainable consumption ensure chemicals and wastes are handled see the packaging target below for our of 35 different packaging material types
+and production patterns.” safely and in compliance with applicable target to reduce plastic and other types of commonly used in the automotive
+federal, state, provincial and local packaging. industry.
+By finding ways to conserve
+regulations. We are also committed to
+natural resources, reduce continuous improvement, which means Due to COVID-related delays in employees
+waste and sustainable we look for ways to reduce the use of coming back to the office, we did not make
+manage material flow, substances of concern, eliminate waste at much progress on this target last year.
+we are helping to create the source, and reuse and recycle. However, during FY2023, we are working Packaging Material Procured
+on replacing several single-use items with
+by Weight
+a circular economy that
+TMNA’s Environmental Sustainability, compostable and reusable items and (Metric Tons)
+benefits people and the
+Materials Engineering, and Procurement expect to see reductions soon.
+11,989
+planet. departments work together with suppliers
+9,751
+to help reduce the use of packaging Packaging 9,471
+materials, identify sustainable materials for
+use in vehicle parts, manage substances Our packaging target for fiscal years
+of concern, and reduce, reuse and recycle 2022 to 2026 is to reduce procurement of
+waste. single-use packaging materials by 25%
+from FY2018 levels.
+FY2018 FY2022 FY2026
+We developed this target to help us reduce Baseline Target
+waste and lessen the environmental
+19% reduction
+impacts of shipping parts and materials. Scope: This target covers expendable
+IN SINGLE-USE PACKAGING, FY2018-FY2022 Based on our estimates, we have reduced and export boxes and pallets used in
+(BY WEIGHT) the use of single-use packaging materials manufacturing, plus cardboard, pallets,
+by approximately 19% compared to the paper and soft plastics used in service parts
+FY2018 baseline. One way we reduce distribution.
+packaging is by using approximately
+60,000 returnable packaging modules
+Battery Recycling Sustainable Materials The mining of rare earth metals can a collaborative effort between TMNA and
+have negative environmental and social several other automakers, a common
+Our hybrid vehicle battery recycling consequences. Our parent company, guidance document called Global
+GRI 301-2
+target for fiscal years 2022 to 2026 is to Toyota Motor Corporation, has developed Product Chemical Compliance Process
+implement a closed-loop battery recycling We strive to increase our use of a magnet for use in electric vehicle motors Management was published through the
+program to support our new battery sustainable materials, which include that replaces up to 50% of the neodymium, Suppliers Partnership for the Environment.
+manufacturing plant in North Carolina. reclaimed materials and materials with a rare earth metal, with more abundant This guidance document complements
+and less costly lanthanum and cerium. our annual questionnaire and is just one
+recycled and/or renewable content.
+Toyota expects the magnets to be used of many initiatives TMNA is carrying out as
+GRI 301-3 Using sustainable materials means using
+in electric vehicles in the first half of the part of a five-year strategy to enhance the
+materials in the most productive way, with
+In 2021, Toyota announced its newest 2020s. chemical management capabilities of the
+emphasis on using less as well as reducing
+plant, Toyota Battery Manufacturing North American supply chain.
+toxic chemicals and environmental
+North Carolina (TBMNC), with an initial As members of SP, we participate in
+impacts across the whole life cycle.
+investment of $1.29 billion for battery the Materials Efficiency Work Group. In Waste
+production. In 2022, Toyota announced Using sustainable materials conserves collaboration with the Automotive Industry
+an additional investment of $2.5 billion in natural resources and contributes to Action Group (AIAG), work group members
+TBMNC, bringing the total to $3.8 billion. a circular economy. According to the developed two new guidance documents: GRI 306-1, 306-2, 306-3, 306-4, 306-5
+Scheduled to begin production in 2025, Alliance for Automotive Innovation, Measuring Renewable Content of Total waste generated by TMNA increased
+the facility will produce batteries for approximately 86% of an end-of-life Automotive Products and Measuring 14% in 2021 compared to 2020, mainly
+hybrid electric vehicles and battery vehicle’s material content is recycled, Recycled Content of Automotive Products. due to increases in production following
+electric vehicles. reused or used for energy recovery. Our These documents are designed to outline pandemic-related shutdowns. TMNA
+a common industry-supported definition
+sustainable materials efforts seek to create reused, recycled or recovered 93% of all
+We are working with our partners to and approach for measuring renewable
+closed loops within our industry, and even waste in 2021. Only 1.6% of waste was sent
+create a sustainable, closed-loop and recycled content in vehicles.
+within our own plants, processes and to landfills for disposal, and 5.4% was
+battery ecosystem at TBMNC. Toyota
+vehicles. incinerated, either with or without energy
+and Redwood Materials (Redwood) are Chemical Management
+recovery.
+exploring a series of end-of-life battery We continue to develop and
+solutions. Initially, this collaboration commercialize technologies that enable GRI 3-3 By weight, steel is the largest raw material
+is expected to focus on the collection, the use of sustainable materials with used to make Toyota and Lexus vehicles.
+testing and recycling of Toyota hybrid reduced environmental impacts in a range Chemicals are utilized every day to It is also the largest waste stream,
+electric vehicle batteries. The companies of vehicle components. For example, produce parts and materials in Toyota and accounting for 76% of all waste generated
+will then look to expand into other areas we use bio-based plastics — plastics Lexus vehicles. Proper management of in 2021. We recycle 100% of the scrap steel
+such as battery health screening and derived either wholly or in part from plant these chemicals is important in reducing waste generated.
+data management, remanufacturing and materials —in the seat cushions in Toyota their environmental impacts throughout
+battery material supply throughout North Prius, Corolla and RAV4, and in Lexus RX the vehicle life cycle. We continue to prioritize reduce, reuse
+America. Together, Toyota and Redwood 350; and we use post-industrial garment and recycling over disposal, both to
+are striving to seamlessly incorporate clippings made of cotton and synthetic It’s important for Toyota to understand reduce our impact on the environment and
+battery recycling through domestic battery fibers in door panel insulation, floor the chemical content of the parts we to optimize efficiency and reduce cost in
+materials manufacturing into Toyota’s silencers and floor mats. receive from our suppliers. TMNA’s our operations. We partner with our waste
+battery production strategy. Chemical Management Office (CMO) aims vendors, universities and others to help us
+We also look for alternatives to rare earth to track and visualize the development find innovative ways to reduce, reuse or
+See our story on How We Recycle Hybrid metals, which are necessary components and growth of our suppliers’ chemical recycle our waste streams. See our stories,
+Vehicle Batteries for more information on in hundreds of products across a wide management systems, in part, through Solving for the Solvent and Towards a
+what happens to hybrid vehicles at end range of applications, especially high-tech the implementation of an annual chemical Circular Economy, for examples of how we
+of life. consumer products like electric vehicles. management supplier questionnaire. In reduce, reuse and recycle.
+We also engage with suppliers on waste
+Waste Diverted from Disposal (CY2021)
+reduction. In the most recent edition of our
+Green Supplier Requirements, we request 93% of all waste Pounds
+all suppliers to decrease the amount of
+waste generated and increase the amount WAS RECYCLED, REUSED OR Recycled, Reused, Recovered
+of waste recycled. RECOVERED IN 2021
+Regulated* Waste 7,299,419
+Waste data is collected on a calendar
+Non-regulated Waste 750,587,344
+year basis. At North American
+manufacturing plants, distribution centers TOTAL WASTE DIVERTED 757,886,763
+and warehouses, third-party waste
+management and recycling vendors Scope: Toyota’s North American headquarters, manufacturing, R&D, sales and logistics
+provide waste data based on weight for sites in the U.S., Canada and Puerto Rico. Also includes data from manufacturing in Mexico.
+most waste streams. At sales offices, we Data from non-manufacturing sites in Mexico will be included in future years. Data excludes
+assumed weights based on an estimated construction and demolition waste from new construction and expansion projects. Certain
+average waste per person. waste streams are diverted onsite through reuse; however, we do not track this data.
+*Regulated waste includes hazardous, universal and special wastes regulated at the federal,
+state, provincial or local level. Non-regulated waste is all other waste.
+Total Waste Generated (CY2021)
+Pounds Waste Disposed (CY2021)
+Pounds
+2019 2020 2021
+Regulated* Waste 16,832,174 14,010,112 18,412,607 Landfill Incineration
+Non-regulated Waste 728,983,646 699,832,363 797,302,944 Regulated* Waste 888 11,112,300
+Scrap Steel Recycled 599,397,719 594,061,626 616,091,071 Non-regulated Waste 12,870,915 33,844,687
+Compost 998,672 721,600 2,940,434 TOTAL 12,871,803 44,956,987
+All other waste streams 128,587,255 105,049,137 178,271,438 TOTAL WASTE DISPOSED 57,828,790
+TOTAL WASTE GENERATED 745,815,820 713,842,476 815,715,552 Scope: Toyota’s North American headquarters, manufacturing, R&D, sales and logistics
+sites in the U.S., Canada and Puerto Rico. Also includes data from manufacturing in Mexico.
+Scope: Toyota’s North American headquarters, manufacturing, R&D, sales and logistics Data from non-manufacturing sites in Mexico will be included in future years. Data excludes
+sites in the U.S., Canada and Puerto Rico. Also includes data from manufacturing in Mexico. construction and demolition waste from new construction and expansion projects.
+Data from non-manufacturing sites in Mexico will be included in future years. Data excludes
+construction and demolition waste from new construction and expansion projects. Note: 100% of waste disposed was disposed offsite.
+*Regulated waste includes hazardous, universal and special wastes regulated at the federal, *Regulated waste includes hazardous, universal and special wastes regulated at the federal,
+state, provincial or local level. Non-regulated waste is all other waste. state, provincial or local level. Non-regulated waste is all other waste.
+Commitment to We also engage with suppliers. In the
+Acres of Pollinator
+most recent edition of our Green Supplier
+Harmony With Nature Requirements, we request all suppliers Habitat Supported
+to support the development of wildlife
+26,000
+GRI 3-3 corridors and consider identifying
+biodiversity risks in their supply chains.
+Human activity is putting pressure on We are a member of SP, where we co-led
+biodiversity and accelerating biodiversity the launch of the SP Pollinator Project
+loss. This on its own is a global challenge, Challenge (see our story on The Flight of
+but biodiversity is also inextricably linked the Monarch for more information).
+to climate change – we can’t solve the 1,922
+climate crisis without recognizing the
+Biodiversity Biodiversity Target
+significant role nature plays in capturing
+FY2022 FY2026
+and storing CO from the atmosphere Baseline Target
+2 GRI 304-2
+through ecosystem services, on land and in
+Sustainable Development the oceans.
+Our biodiversity target for fiscal years 2022
+Goal 15 seeks to halt
+to 2026 is to support the development of
+biodiversity loss and restore Business has a role to play at least 26,000 acres of pollinator habitat
+in reversing nature loss
+ecosystems. By finding in North America.
+and protecting
+ways to reverse nature loss
+biodiversity. That’s why we
+The reason TMNA chose to support 26,000
+and protect species, we are at TMNA joined more than We can’t solve the climate
+acres of pollinator habitat is because the
+helping future generations 1,000 companies in land area is equal to the 26,000 acres that crisis without recognizing the
+continue to enjoy the signing up to Business for Nature’s Call to
+the company’s facilities currently occupy significant role nature plays
+natural wonders of our Action, calling on governments to adopt across North America. Constructing and
+ambitious policies to reverse nature loss in in capturing and storing CO
+world. operating manufacturing plants can lead 2
+this decade. to negative impacts on biodiversity, such from the atmosphere through
+as habitat conversion and species loss. We ecosystem services, on land
+Across North America, we are
+aim to counter these impacts by partnering
+focusing on: and in the oceans.
+with local stakeholders on conservation
+projects, when needed, and by creating
+• No net loss of biodiversity
+and restoring habitats on our sites.
+• Respect for legally designated protected
+areas
+In FY2022, 1,547 acres of pollinator habitat
+• Avoidance of negative impacts on
+were developed through collaboration with
+threatened or protected species
+Pollinator Partnership (P2). Additionally,
+Toyota has developed 375 acres of
+Our focused approach to this involves
+pollinator habitat on its own lands, mostly
+working with stakeholders, including
+through our partnership with Wildlife
+employees, communities and nonprofit
+Habitat Council® (WHC). This brings the
+organizations, on biodiversity projects on
+total number of acres to 1,922. For more
+our sites and in our communities.
+information, see our story on Expanding
+Pollinator Habitat.
+Restoring Habitat
+Wildlife Habitat Council Conservation Certifications
+Certifications as of August 2022
+GRI 304-1, 304-3
+Toyota Site Name Certification Level
+TMNA partners with Wildlife Habitat Council® (WHC) on conservation programs at sites
+in North America. Conservation programs at 14 of our sites, including nine assembly
+and engine plants, have achieved Conservation Certification, which is WHC’s voluntary Toyota Motor Manufacturing, Texas Gold
+certification standard designed for broad-based biodiversity enhancement and
+conservation education activities on corporate landholdings. Toyota Motor Manufacturing, West Virginia Gold
+For more on our work with WHC, see our story on the Indicator Species Project.
+Toyota Motor Manufacturing, Kentucky Gold
+Toyota Motor Manufacturing Canada, Cambridge Gold
+Toyota Motor Manufacturing Canada, Woodstock Silver
+Toyota Motor Manufacturing, Alabama Silver
+Toyota Motor Manufacturing, Mississippi Silver
+Toyota Technical Center, Ann Arbor, Michigan Certified
+Toyota Technical Center, York Township, Michigan Certified
+Toyota Motor Manufacturing, Indiana Certified
+Toyota Motor Manufacturing, Tennessee Certified
+TMNA Headquarters in Plano, Texas Certified
+Toyota Motor Manufacturing, Kentucky Production and Engineering Manufacturing Center, Kentucky Certified
+Toyota Logistics Services in Portland, Oregon Certified
+Toyota Sites in or Adjacent to a Protected Area, Critical Habitat or Biodiversity Hotspot
+Includes Toyota majority-owned sites in operation as of August 2022
+As part of our engagement with WHC,
+Protected Area, Critical Habitat and/or
+Site Name Location Type of Operation TMNA identifies operational sites that
+Biodiversity Hotspot
+are in or near a protected area, critical
+habitat or biodiversity hotspot.7 The sites
+TMMBC Tijuana, Baja California (Mexico) Manufacturing Hotspot: California Floristic Province; near a protected area or critical habitat
+Protected area: Wildlife Preserve
+are all actively working on conservation
+initiatives. In 2021, we initiated a grant
+Protected Area: Vansittart Woods program with NEEF in the California
+TMMC Woodstock, Ontario (Canada) Manufacturing
+wetlands Floristic Province, the only biodiversity
+hotspot identified in North America (see
+TABC Long Beach, California Manufacturing Hotspot: California Floristic Province Biodiversity Conservation Grants for
+information on the impacts of this grant
+Gardena Technical Center Gardena, California R&D Hotspot: California Floristic Province program).
+LA Parts Distribution Center Los Angeles, California Parts logistics Hotspot: California Floristic Province
+TLS Long Beach Port of Long Beach, California Vehicle logistics Hotspot: California Floristic Province
+San Ramon Regional Office and
+San Ramon, California Parts logistics Hotspot: California Floristic Province
+Parts Distribution Center
+North American Parts Center
+Ontario, California Parts logistics Hotspot: California Floristic Province
+California
+TLS Portland Port of Portland, Oregon Vehicle logistics Critical Habitat for Soho Salmon
+TAPG Phoenix, Arizona Proving ground Critical Habitat for Yellow-billed Cuckoo
+7A Protected Area is defined as a geographic area that is designated, regulated or managed to achieve specific conservation objectives. (GRI Standards Glossary 2016)
+Critical Habitat is a term defined and used in the U.S. Endangered Species Act. It is a specific geographic area(s) containing physical or biological features that are essential for the conservation of a threatened or endangered species and that may require special management and protection. Critical
+habitat may include an unoccupied area(s) if it is determined to be essential for the conservation of the species.
+A Biodiversity Hotspot is defined as an area that meets two criteria: It must have at least 1,500 vascular plants as endemics — which is to say, it must have a high percentage of plant life found nowhere else on the planet; and it must have 30 percent or less of its original natural vegetation. Biodiversity
+Protecting Species
+Endangered, Threatened or Protected Species On or Near Toyota Sites
+Includes Toyota-owned sites in operation as of August 2022
+GRI 304-4
+WIth the help of WHC, we assess sites for Toyota Site Endangered, Threatened, Law/Regulation Activities
+or Protected Species
+the presence of endangered or threatened
+species. Sites with or near protected
+species are listed in the table, along with On December 15, 2020, the U.S. Fish
+and Wildlife Service announced that
+their activities to support those species.
+listing the monarch as endangered
+or threatened under the Endangered
+See our story on The Flight of the Monarch Species Act is warranted, but precluded
+All TMNA sites in North America Monarch butterfly The Flight of the Monarchs
+for information on how we support the by higher priority listing actions. The
+migratory monarch butterfly, which was monarch is now a candidate under the
+Endangered Species Act and its status
+added to the IUCN Red List in July 2022
+will be reviewed annually until a listing
+as an endangered species. IUCN - the decision is made.
+International Union for Conservation
+of Nature – is a Switzerland-based
+Ceanothus verrucosus
+conservation organization that monitors (a medicinal shrub)
+the status of wildlife worldwide. According
+Crotalus ruber
+to the IUCN, populations of migratory (a native rattlesnake)
+monarchs have declined between 22 and Linx rufus (bobcat) Protected by Mexico’s Ministry of These species are found on 143 acres of
+72% over the past 10 years because of Manufacturing plant in Tijuana, Environment and Natural Resources
+Baja California (Mexico) Lepus californicus (SEMARNAT) under NOM–059– the site’s property that are protected as
+pesticides and herbicides, deforestation (black–tailed jackrabbit) SEMARNAT–2010 a wildlife preserve.
+for logging, urban development and
+Ferocactus gracilis
+agricultural expansion. Climate change— (fire barrel cactus)
+in the form of drought, wildfire and
+Cylindropuntia californica
+extreme temperatures—is also threatening (California cholla)
+milkweed, the only plant monarch larvae
+feed on. Toyota has pollinator gardens Manufacturing plants in Cambridge Protected by the Migratory Birds Installed 71 bird boxes at Toyota's
+Tree Swallow assembly plants in Cambridge and
+spanning over 300 acres at 17 sites across and Woodstock, Ontario (Canada) Convention Act
+Woodstock, Ontario.
+North America that support migratory
+monarchs and other pollinator species. Cave shrimp are found in an area of
+Protected by the U.S. Endangered
+Engine plant in Huntsville, Alabama Alabama cave shrimp the site that is not disturbed by site
+Species Act
+operations or activities.
+Solidago shortii
+Assembly and unit plant in (short’s goldenrod) Protected by the U.S. Endangered Planted Short’s Goldenrod along a one–
+Georgetown, Kentucky Myotis sodalist Species Act mile nature trail onsite
+(Indiana bat)
+Salmon Safe certified; site maintains
+a bioswale and storm water pollution
+Vehicle logistics site at the Port of Protected by the U.S. Endangered
+Coho Salmon prevention program; team members
+Portland, Oregon Species Act
+participate in annual cleanup of the
+Willamette River
+CARBON
+CO EMISSIONS Unit FY2020 FY2021 FY2022
+2
+Scope 1 emissions MT CO 409,000 387,000 445,353
+2
+Scope 2 emissions (market-based) MT CO 697,000 627,000 618,729
+2
+Total Scope 1+2 emissions MT CO 1,106,000 1,014,000 1,064,082
+2
+GHG intensity 1 MT CO/ vehicle 0.62 0.63 0.62
+2
+Scope 3, Use of Sold Product 2 MT CO 86,870,000 94,800,000 Not available
+2
+Scope 3, Downstream Transportation and Distribution (third-party MT CO Not reported Not reported 800,344
+2
+U.S. service parts and vehicle transport only)
+Scope 3, Dealerships MT CO Not measured Not measured 2,153,455
+2
+FLEET CO PER MILE Unit MY2020 MY2021 MY2022
+2
+U.S. Fleet GHG Data 3 Grams CO/ mile 258.0 Not available Not available
+2
+Canada Fleet GHG Data - car Grams CO/ mile 165.5 164.0 Not available
+2
+Canada Fleet GHG Data - truck Grams CO/ mile 261.3 214.3 Not available
+2
+Mexico Fleet GHG Data Grams CO/ kilometer 157 150 Not available
+2
+ELECTRIFIED VEHICLE SALES Unit CY2020 CY2021 CY2022
+Toyota and Lexus models with an electrified option (U.S.) % Not measured Not measured 52
+Toyota and Lexus Vehicle Sales that are electrified (U.S.) % 16 25 Not available
+Total number of electrified vehicles sold – U.S.4 # 337,036 583,697 Not available
+BEVs sold – U.S.5 # 0 0 Not available
+Hybrids sold – U.S. # 318,639 528,319 Not available
+Plug-in Hybrids sold – U.S. # 17,898 52,749 Not available
+Fuel cell hybrids sold – U.S. # 499 2,629 Not available
+Percent of Toyota and Lexus Vehicle Sales that are electrified (Canada) % 18.5 27.7 Not available
+Total number of electrified vehicles sold – Canada6 # 35,504 62,460 Not available
+BEVs sold – Canada # 0 0 Not available
+Hybrids sold – Canada # 29,901 52,959 Not available
+Plug-in Hybrids sold – Canada # 5,582 9,373 Not available
+Fuel-cell hybrids sold – Canada # 21 128 Not available
+ENERGY Unit FY2020 FY2021 FY2022
+Total energy consumption MWh 3,700,858 3,609,000 3,892,335
+Non-renewable electricity MWh 1,670,000 1,535,000 1,586,998
+Renewable electricity MWh 60,000 62,000 70,724
+Natural gas MWh 2,050,000 1,938,000 2,166,553
+Fuels used in mobile sources MWh 78,700 74,000 68,060
+Energy intensity 7 MWh/vehicle 2.11 2.23 2.26
+Fleet fuel economy – U.S.8 Miles per gallon of gasoline 27.0 Not available Not available
+WATER Unit FY2020 FY2021 FY2022
+Water withdrawal Gallons 1,766,238,000 1,526,868,000 1,652,147,000
+Portion withdrawn in water-stressed areas9 % 6 8 7
+Water withdrawn from municipal sources % 95.2 96.2 94.1
+Water withdrawn from surface water10 % 4.4 3.5 2.9
+Groundwater11 % 0.4 0.3 3.0
+Water discharge Gallons 1,171,907,000 1,238,972,000 1,158,684,000
+Portion discharged in water-stressed areas % 4 7 7
+Water consumption Gallons 594,331,000 287,896,000 493,462,000
+Portion consumed in water-stressed areas % 12 11 8
+Water withdrawn per vehicle produced Gallons/ vehicle 983 951 958
+WASTE Unit CY2020 CY2021 CY2022
+Percent of total waste reused, recycled or recovered12 % 93.2 92.9 Not available
+Total waste generated Pounds 713,842,476 815,715,552 Not available
+Regulated Waste Pounds 14,010,112 18,412,607 Not available
+Non-regulated Waste Pounds 699,832,363 797,302,944 Not available
+Scrap steel recycled Pounds 594,061,626 616,091,071 Not available
+Compost Pounds 721,600 2,940,434 Not available
+All other waste streams Pounds 105,049,137 178,271,438 Not available
+Regulated waste diverted from disposal13 Pounds 4,844,115 7,299,419 Not available
+Non-regulated waste diverted from disposal Pounds 660,495,382 750,587,344 Not available
+Regulated waste landfilled Pounds 0 888 Not available
+Regulated waste incinerated14 Pounds 9,165,997 11,112,300 Not available
+Non-regulated waste landfilled Pounds 10,764,547 12,870,915 Not available
+Non-regulated waste incinerated Pounds 28,572,434 33,844,687 Not available
+BIODIVERSITY Unit FY2020 FY2021 FY2022
+Acres of pollinator habitat supported15 Acres Not measured Not measured 1,922
+Number of sites with programs with Wildlife Habitat Council (WHC) # of sites certified by WHC 13 15 14
+Conservation Certification
+AIR QUALITY Unit FY2020 FY2021 FY2022
+VOC emissions16 Grams/square meter of 12.3 11.8 12.2
+surface area coated
+COMPLIANCE Unit FY2020 FY202117 FY202218
+Violations that resulted in air or water pollution # 0 0 0
+8 Fuel economy as reported in the 2021 EPA Automotive Trends Report, table 2.3, page 13 15 Includes both on- and off-site habitats
+9 Water-stressed areas are defined according to the Water Risk Atlas in WRI’s Aqueduct Tool as areas with either “high” or “extremely high” 16 Scope = North American manufacturing plants
+overall risk. 17 In January 2021, Toyota paid a civil penalty of $180 million to the U.S. Environmental Protection Agency pursuant to a Consent Decree to
+10 Includes collected rainwater resolve investigations stemming from a self-reported process gap in fulfilling certain emissions defect information reporting requirements
+GRI Content Index
+Statement of Use TMNA has reported the information cited in this GRI content index for the period April 1, 2021 to March 31, 2022 with reference to the GRI Standards.
+GRI 1 used GRI 1: Foundation 2021
+GRI STANDARD DISCLOSURE LOCATION
+GRI 2: General
+2-1 Organizational details About This Report
+Disclosures 2021
+2-2 Entities included in the organization’s Toyota Motor North America, Inc. (TMNA)
+sustainability reporting Toyota Canada Inc. (TCI)
+Toyota’s majority-owned North American manufacturing plants
+2-3 Reporting period, frequency and contact point About This Report
+2-4 Restatements of information TMNA has restated water data for FY2020 and FY2021 to fill in minor gaps in reporting from a few sites.
+2-5 External assurance See the Toyota Sustainability Data Book, pages 44-45, for the Verification Statement prepared for Toyota Motor Corp.
+TMNA and TCI do not have North American data separately assured.
+2-6 Activities, value chain and other business TMNA distributes and markets passenger cars and trucks for sale at Toyota and Lexus dealerships in the U.S. TMNA
+relationships manufactures passenger cars and trucks and engines at 13 plants in the U.S., Canada and Mexico. TCI distributes and
+markets passenger cars and trucks for sale at Toyota and Lexus dealerships in Canada. TMNA reported U.S. sales in 2021
+of over 2.3 million vehicles. TCI reported Canadian sales in 2021 of over 225,000 vehicles. There are more than 1,900
+Toyota and Lexus dealerships in the U.S., Canada and Mexico.
+2-7 Employees Over 46,000 team members in the U.S., Canada and Mexico
+2-9 Governance structure and composition Environmental Sustainability Governance
+2-22 Statement on sustainable development Dear Reader
+strategy Goals and Targets
+2-27 Compliance with laws and regulations See Compliance for information on environmental compliance in North America.
+Environmental Metrics Table – Compliance
+2-28 Membership associations Stakeholder Engagement
+2-29 Approach to stakeholder engagement Stakeholder Engagement
+GRI 3: Material Topics 3-1 Process to determine material topics See the Toyota Sustainability Data Book, page 5, for a description of TMC’s process for determining materiality for the
+2021 global entity.
+3-2 List of material topics Material environmental topics are Carbon, Water, Materials and Biodiversity.
+3-3 Management of material topics Goals and Targets
+Commitment to Carbon Neutrality
+Commitment to Water as a Shared Resource
+Commitment to Responsible Production
+Chemical Management
+Commitment to Harmony With Nature
+GRI Content Index
+GRI STANDARD DISCLOSURE LOCATION
+GRI 301: Materials 2016 301-2 Recycled input materials used Sustainable Materials
+301-3 Reclaimed products and their packaging Battery Recycling
+materials How We Recycle Hybrid Vehicle Batteries
+GRI 302: Energy 2016 302-1 Energy consumption within the organization Environmental Metrics Table – Energy
+302-3 Energy intensity Environmental Metrics Table – Energy
+302-5 Reductions in energy requirements of Environmental Metrics Table – Vehicle Fuel Efficiency
+products and services
+GRI 303: Water and 303-1 Interactions with water as a shared resource Commitment to Water as a Shared Resource
+Effluents 2018
+303-2 Management of water discharge- Commitment to Water as a Shared Resource
+related impacts
+303-3 Water withdrawal Water Withdrawal, Discharge and Consumption
+Environmental Metrics Table - Water
+303-4 Water discharge Water Withdrawal, Discharge and Consumption
+Environmental Metrics Table – Water
+303-5 Water consumption Water Withdrawal, Discharge and Consumption
+Environmental Metrics Table – Water
+GRI 304: Biodiversity 2016 304-1 Operational sites owned, leased, managed Restoring Habitat
+in, or adjacent to, protected areas and areas of high
+biodiversity value outside protected areas
+304-2 Significant impacts of activities, products and Biodiversity Target
+services on biodiversity Indicator Species Project
+304-3 Habitats protected or restored Restoring Habitat
+Expanding Pollinator Habitat
+304-4 IUCN Red List species and national Protecting Species
+conservation list species with habitats in areas The Flight of the Monarch
+affected by operations
+GRI Content Index
+GRI STANDARD DISCLOSURE LOCATION
+GRI 305: Emissions 2016 305-1 Direct (Scope 1) GHG emissions GHG Emissions Data
+Environmental Metrics Table – CO Emissions
+2
+305-2 Energy indirect (Scope 2) GHG emissions GHG Emissions Data
+Environmental Metrics Table – CO Emissions
+2
+305-3 Other indirect (Scope 3) GHG emissions Environmental Metric Table - CO Emissions
+2
+305-4 GHG emissions intensity GHG Emissions Data
+Environmental Metrics Table – CO Emissions
+2
+305-5 Reduction of GHG emissions GHG Emissions Data
+Toyota Port Facility Nears Carbon Neutrality
+On Our Way to 100% Renewable Electricity
+305-7 Nitrogen oxides (NOx), sulfur oxides (SOx), Air Quality
+and other significant air emissions
+GRI 306: Waste 2020 306-1 Waste generation and significant Waste
+waste-related impacts Towards a Circular Economy
+306-2 Management of significant waste-related Waste
+impacts Towards a Circular Economy
+306-3 Waste generated Waste
+Environmental Metrics Table – Waste
+306-4 Waste diverted from disposal Waste
+Environmental Metrics Table – Waste
+306-5 Waste directed to disposal Waste
+Environmental Metrics Table – Waste
+GRI 308: Supplier 308-2 Negative environmental impacts in the The primary negative impact in our supply chain is CO emissions that contribute to climate change. See Life Cycle
+2
+Environmental supply chain and actions taken for our supplier CO target and Green Supplier Requirements for information on how we are collecting information
+Assessment 2016 2
+from suppliers.
+GRI 413: Local 413-1 Operations with local community Examples of local community engagement include:
+Communities 2016 engagement, impact assessments, and Helping Restore Water Flows in the Colorado River Delta
+development programs
+Community Recycling Days
+Biodiversity Conservation Grants

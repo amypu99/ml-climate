@@ -7,6 +7,8 @@ import json
 import gc
 import re
 import math
+from glob import glob
+import os
 
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 os.environ["CUDA_VISIBLE_DEVICES"] = "3"
@@ -35,17 +37,25 @@ pipe = pipeline("text-generation", model=model, max_new_tokens=200, torch_dtype=
 pipe.model = pipe.model.to('cuda')
 
 
-f = open("./climate_reports/extracted_text/amazon-2021-sustainability-report_cleaned.txt")
-text = f.read()
-tokenized_document = tokenizer(text, return_tensors='pt' ).to('cuda')
-document_length = len(tokenized_document['input_ids'][0][1:-1])
-num_chunks = math.ceil(document_length/CHUNK_LEN)
-summary_len = MAX_SEQ_LEN//num_chunks
+# f = open("./climate_reports/extracted_text/amazon-2021-sustainability-report_cleaned.txt")
 
-for i in range(num_chunks):
-    tokenized_chunk = tokenized_document['input_ids'][0][i*CHUNK_LEN:(i+1)*CHUNK_LEN]
-    decoded_chunk = tokenizer.decode(tokenized_chunk)
-    messages = [{"role": "user", "content": f"Read the following corporate climate report, summarize the document, and include all important information and statistics related to sustainability and climate. \n\n{decoded_chunk}"},
-    ]
-    print(pipe(messages, max_new_tokens=summary_len))
-    print("\n\n\n\n\n")
+path = 'climate_reports/extracted_text/'
+files = list(glob(os.path.join(path, "*cleaned.txt")))
+
+for file_path in files:
+    with open(file_path, "r") as f:
+        text = f.read()
+        tokenized_document = tokenizer(text, return_tensors='pt' ).to('cuda')
+        document_length = len(tokenized_document['input_ids'][0][1:-1])
+        num_chunks = math.ceil(document_length/CHUNK_LEN)
+        summary_len = MAX_SEQ_LEN//num_chunks
+
+        for i in range(num_chunks):
+            tokenized_chunk = tokenized_document['input_ids'][0][i*CHUNK_LEN:(i+1)*CHUNK_LEN]
+            decoded_chunk = tokenizer.decode(tokenized_chunk)
+            messages = [{"role": "user", "content": f"Read the following corporate climate report, summarize the document, and include all important information and statistics related to sustainability and climate. \n\n{decoded_chunk}"},
+            ]
+            print(pipe(messages, max_new_tokens=summary_len))
+            print("\n\n\n\n\n")
+
+        break

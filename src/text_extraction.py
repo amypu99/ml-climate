@@ -129,7 +129,8 @@ def process_pdfs(input_folder, output_folder, top_n=20, header_height=50, footer
             print(f"Text with top words removed saved to: {cleaned_output_path}\n")
 
 if __name__ == "__main__":
-    input_folder = "./climate_reports"
-    output_folder = os.path.join(input_folder, "extracted_text")
+    input_folder = "./climate_reports/ccrm_2024"
+    output_head_dir = "./climate_reports"
+    output_folder = os.path.join(output_head_dir, "extracted_text")
     
     process_pdfs(input_folder, output_folder, top_n=20, header_height=50, footer_height=50)

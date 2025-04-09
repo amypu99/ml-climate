@@ -1,0 +1,6 @@
+# training data
+src/climate_reports/ccrm_2024.zip
+src/climate_reports/ccrm_2024
+src/climate_reports/ccrm_2024/*
+
+src/test.py
