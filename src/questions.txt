@@ -1,0 +1,126 @@
+=======================
+Sustainability QA Prompts
+=======================
+
+Overall Questions
+-----------------
+1. Read the following sustainability report for this company and give an overall transparency score.
+   The transparency score should be one of: very poor, poor, moderate, reasonable, high, unknown.
+
+2. Read the following sustainability report for this company and give an overall integrity score.
+   The integrity score should be one of: very poor, poor, moderate, reasonable, high, unknown.
+
+
+Tracking and Disclosure
+-----------------------
+3. Read the following sustainability report for this company and evaluate the company’s tracking and disclosure of emissions.
+   Give a singular score representing the transparency and integrity of the company’s tracking and disclosure of emissions:
+   Answers should range from very poor, poor, moderate, reasonable, high, unknown.
+
+
+Reduction Targets
+-----------------
+4. Read the following sustainability report for this company and evaluate the company’s reduction targets.
+   Give a transparency score: very poor, poor, moderate, reasonable, high, unknown.
+
+5. Read the following sustainability report for this company and evaluate the company’s reduction targets.
+   Give an integrity score: very poor, poor, moderate, reasonable, high, unknown.
+
+
+Reducing Own Emissions
+----------------------
+6. Evaluate the company’s strategy for reducing their own emissions.
+   Give a transparency score: very poor, poor, moderate, reasonable, high, unknown.
+
+7. Evaluate the company’s strategy for reducing their own emissions.
+   Give an integrity score: very poor, poor, moderate, reasonable, high, unknown.
+
+
+Responsibility for Unabated Emissions
+-------------------------------------
+8. Evaluate the company’s commitment to reducing unabated GHG emissions.
+   Give a transparency score: very poor, poor, moderate, reasonable, high, unknown.
+
+9. Evaluate the company’s commitment to reducing unabated GHG emissions.
+   Give an integrity score: very poor, poor, moderate, reasonable, high, unknown.
+
+
+Key Data Points
+---------------
+10. What is the company’s revenue in XXXX? If not found, output 'none.'
+
+11. Extract the company’s total emissions for XXXX (in megatons CO₂e). If unavailable, output 'none.'
+
+12. What is the company’s pledge for XXXX as mentioned in the report? If none, output 'none.'
+
+13. List the company’s major emission sources and briefly explain each. If none, output 'none.'
+
+14. Identify the company’s disclosed major emission sources. If none, output 'none.'
+
+15. What is the company’s headline target or pledge? If absent, output 'none.'
+
+
+Short-Term Targets
+------------------
+16. What specific short-term targets (next 10 years) are set? Present in bullet list. If none, output 'none.'
+
+17. Summarize overall short-term targets (next 10 years). If none, output 'none.'
+
+
+Medium-Term Targets
+-------------------
+18. Identify specific medium-term targets from the report. Present clearly. If none, output 'none.'
+
+19. Summarize overall medium-term targets. If none, output 'none.'
+
+
+Long-Term Targets
+-----------------
+20. Extract specific long-term targets and present in a list. If none, output 'none.'
+
+21. Summarize overall long-term targets. If none, output 'none.'
+
+
+Operational Emissions
+---------------------
+22. What are the company’s operational emissions goals? List and include explanations. If none, output 'none.'
+
+
+Renewable Energy
+----------------
+23. Extract the company’s renewable energy percentage related to Scope 2 emissions. If none, output 'none.'
+
+24. What renewable energy statistics and procurement details are provided? Assess whether they are meeting targets. If none, output 'none.'
+
+
+Scope 3 Emissions – Upstream
+----------------------------
+25. What is the upstream (Scope 3) emissions number for XXXX? (e.g., megatons CO₂e). If unavailable, output 'none.'
+
+26. List targets and details related to upstream Scope 3 emissions. If unavailable, output 'none.'
+
+
+Scope 3 Emissions – Downstream
+------------------------------
+27. Extract downstream (Scope 3) emissions number for XXXX. If missing, output 'none.'
+
+28. What are the targets and key details regarding downstream Scope 3 emissions?
+
+
+Contributions and Offsets
+-------------------------
+29. What are the company’s current climate contributions? Provide detailed list with context.
+
+30. What offsetting claims are made? List and briefly explain how they are justified.
+
+
+Target Summaries
+----------------
+31. Extract any detailed short- and medium-term targets. Provide a clear, bullet-point list with specifics.
+
+32. Provide a concise summary of the company’s short- and medium-term targets.
+
+
+Reduction Measures
+------------------
+33. What emission reduction measures are outlined? List and briefly describe intended impacts.
