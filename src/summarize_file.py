@@ -18,9 +18,8 @@ os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 from transformers import pipeline
 
-CHUNK_LEN = 2000
-MAX_SEQ_LEN = 8000
-BATCH_SIZE = 2
+MAX_SEQ_LEN = 25000
+BATCH_SIZE = 10
 
 def climategpt_setup():
     model_name = "eci-io/climategpt-7b"
@@ -81,6 +80,9 @@ for chunk in chunked_documents:
 # print(len(chunked_documents.page_content))
 # print(groupings['output_3d593a7d821f2abbf4d54ee7fd048d77e27af537.jsonl'][0])
 
+NUM_CHUNKS = len(chunked_documents)
+OUTPUT_SEQ_LEN = max(50, MAX_SEQ_LEN//NUM_CHUNKS)
+
 # for each training example
 
 def replace_after_last_period(text):
@@ -103,7 +105,7 @@ for key in groupings.keys():
     print(len(all_messages))
     for i in range(0, len(all_messages), BATCH_SIZE):
         batch_messages = all_messages[i:i+BATCH_SIZE]
-        results = pipe(batch_messages, max_new_tokens=100)
+        results = pipe(batch_messages, max_new_tokens=OUTPUT_SEQ_LEN)
         # print(results[0])
         # print(results[0][0]['generated_text'][1]['content'])
         generated_texts = [result[0]['generated_text'][1]['content'] for result in results]
