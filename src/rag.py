@@ -45,7 +45,7 @@ from langchain.vectorstores import Chroma
 
 
 def setup_vector_store(document_folder):
-    loader = DirectoryLoader(document_folder, glob='*.jsonl', show_progress=True, loader_cls=JSONLoader, loader_kwargs = {'jq_schema':'.', 'content_key': 'text', 'json_lines': True,})
+    loader = DirectoryLoader(document_folder, glob='output_1f175a880ed5a09c6f77e3658258c7740416decf.jsonl', show_progress=True, loader_cls=JSONLoader, loader_kwargs = {'jq_schema':'.', 'content_key': 'text', 'json_lines': True,})
     documents = loader.load()
     print(f'document count: {len(documents)}')
     text_splitter = CharacterTextSplitter(separator="\n\n",
@@ -86,6 +86,10 @@ def apply_prompt(chunk_text, question):
 prompt_template = """
 Context information is below.\n---------------------\n{context}\n---------------------\nGiven the context information and not prior knowledge, answer the query.\nQuery: {question}\n"
 """
+
+def format_docs(docs):
+    return "\n\n".join(doc.page_content for doc in docs)
+
 def invoke_ragchain(llm, prompt_template, retriever, question):
     prompt = PromptTemplate(
         input_variables=["context", "question"],
@@ -93,9 +97,6 @@ def invoke_ragchain(llm, prompt_template, retriever, question):
     )
     # Create llm chain 
     # llm_chain = LLMChain(llm=llm, prompt=prompt)
-
-    def format_docs(docs):
-        return "\n\n".join(doc.page_content for doc in docs)
 
     rag_chain = ( 
     {"context": retriever | format_docs, "question": RunnablePassthrough()}
@@ -121,11 +122,8 @@ def query_model(query, docs):
     pipe = pipeline("text-generation", model=model, max_new_tokens=200, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer)
     pipe.model = pipe.model.to('cuda')
 
-    chunk_text = docs[1].page_content
-    print("CHUNK TEXT")
-    print(chunk_text)
-    print("\n")
-    full_prompt = apply_prompt(chunk_text, query)
+    all_chunk_text = format_docs(docs)
+    full_prompt = apply_prompt(all_chunk_text, query)
     messages = [{"role": "user", "content": full_prompt},]
             
     results = pipe(messages, max_new_tokens=256)

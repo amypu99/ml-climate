@@ -10,8 +10,9 @@ import math
 from glob import glob
 import os
 
+# Comment if not running on GPU. Alternatively, change your visible device
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
-os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+os.environ["CUDA_VISIBLE_DEVICES"] = "6"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 
@@ -52,34 +53,49 @@ questions_csv = pd.read_csv('ccrm_2024_questions.csv')
 questions = questions_csv.Question.to_list()
 
 
-for file_path in files:
+from langchain_community.document_loaders.json_loader import JSONLoader
+from langchain_community.document_loaders import DirectoryLoader
+from langchain_text_splitters import CharacterTextSplitter
 
-    text = pd.read_json(file_path).text
-    chunked_content = text.split("\n\n")
-    for question
-            
-    all_prompts = [apply_prompt(chunk) for chunk in chunked_content]
-    # print("\n\n\n".join(all_prompts))
-    all_messages = [[{"role": "user", "content": x}] for x in all_prompts]
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
+document_folder = "/home/amy_pu/ml-climate/src/climate_reports/ccrm_2024_olmocr/results/"
+# output_3d593a7d821f2abbf4d54ee7fd048d77e27af537.jsonl'
+loader = DirectoryLoader(document_folder, glob='output_3d593a7d821f2abbf4d54ee7fd048d77e27af537.jsonl', show_progress=True, loader_cls=JSONLoader, loader_kwargs = {'jq_schema':'.', 'content_key': 'text', 'json_lines': True,})
+# loader = DirectoryLoader(document_folder, glob='*.jsonl', show_progress=True, loader_cls=JSONLoader, loader_kwargs = {'jq_schema':'.', 'content_key': 'text', 'json_lines': True,})
+documents = loader.load()
+print(f'document count: {len(documents)}')
+text_splitter = CharacterTextSplitter(separator="\n\n",
+    chunk_size=1000,
+    chunk_overlap=200,
+    length_function=len,
+    is_separator_regex=False,
+)
+from collections import defaultdict
+chunked_documents = text_splitter.split_documents(documents)
+# print(chunked_documents[0])
+groupings = defaultdict(list)
+for chunk in chunked_documents:
+    groupings[chunk.metadata['source'].replace('/home/amy_pu/ml-climate/src/climate_reports/ccrm_2024_olmocr/results/', '')].append(chunk.page_content)
+# print(len(chunked_documents))
+# print(len(chunked_documents.page_content))
+# print(groupings['output_3d593a7d821f2abbf4d54ee7fd048d77e27af537.jsonl'][0])
 
-    tokenized_document = tokenizer(text, return_tensors='pt' ).to('cuda')
-    
-    document_length = len(tokenized_document['input_ids'][0][1:-1])
-    num_chunks = math.ceil(document_length/CHUNK_LEN)
-    summary_len = MAX_SEQ_LEN//num_chunks
+# for each training example
+for key in groupings.keys():
+    chunked_content = groupings[key] 
+# for file_path in files:
 
-    for i in range(num_chunks):
-        tokenized_chunk = tokenized_document['input_ids'][0][i*CHUNK_LEN:(i+1)*CHUNK_LEN]
-        decoded_chunk = tokenizer.decode(tokenized_chunk)
-        for question in questions:
-            content = f"Context information is below.\n---------------------\n{decoded_chunk}\n---------------------\nGiven the context information and not prior knowledge, answer the query.\nQuery: {question}\nAnswer:"
-            # content = f"Read the following corporate climate report and answer the question. {question}\n\n{decoded_chunk}"
-            messages = [{"role": "user", "content": content},
-            ]
-            print(file_path)
-            print(pipe(messages, max_new_tokens=summary_len))
-            print("\n\n\n\n\n")
-            break
-        break
+
+#     # split by new paragraph
+#     chunked_content = text.split("\n\n")
+#     # loop through all questions
+#     for question in questions:
+#         all_prompts = [apply_prompt(chunk, question) for chunk in chunked_content]
+#         all_messages = [[{"role": "user", "content": x}] for x in all_prompts]
+#         print(len(all_messages))
+#         # results = pipe(all_messages, max_new_tokens=256)
+#         # print(results[0])
+#         break
+#     break
