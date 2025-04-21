@@ -7,6 +7,8 @@
 
 
 import os
+import pandas as pd
+import json
 import torch
 from transformers import (
     AutoModelForCausalLM,
@@ -44,6 +46,13 @@ from langchain_community.document_loaders.json_loader import JSONLoader
 from langchain_community.document_loaders import DirectoryLoader
 
 from langchain.vectorstores import Chroma
+
+def load_jsonl(filepath):
+    data = []
+    with open(filepath, 'r') as file:
+        for line in file:
+            data.append(json.loads(line.strip()))
+    return pd.DataFrame(data)
 
 # 'output_1f175a880ed5a09c6f77e3658258c7740416decf.jsonl'
 def setup_vector_store(document_folder, glob):
@@ -166,7 +175,8 @@ def apply_prompt(chunk_text, question):
     # full_prompt = (
     #     f"Context information is below.\n---------------------\n{chunk_text}\n---------------------\n\n\n\n\n\nGiven the context information and not prior knowledge, answer the query.\nQuery: {question}"
     # )
-    full_prompt = f"Instruction: Give a singular score representing the transparency and integrity of the company’s tracking and disclosure of emissions: answers should range from very poor, poor, moderate, reasonable, high, unknown. Context information is below.\n---------------------\n{chunk_text}\n---------------------\n\n\n\n\n\nGiven the context information and not prior knowledge, answer the query.\nQuery: {question}"
+    # full_prompt = f"Instruction: Read the corporate climate report below and answer the query.\n---------------------\n{chunk_text}\n---------------------\n\n\n\n\n\nGiven the context information and not prior knowledge, answer the query.\nQuery: {question}"
+    full_prompt = f"{question}"
 
     return full_prompt
 
@@ -195,7 +205,9 @@ def invoke_ragchain(llm, prompt_template, retriever, question):
     ans = rag_chain.invoke(question)
     return ans
 
-
+def apply_text(all_chunk_text):
+    full_text = f"\n\n\n\n\n—— REPORT START ——\n{all_chunk_text}—— REPORT END ——"
+    return full_text
 
 def query_model(model, tokenizer, query, docs):
     pipe = pipeline("text-generation", model=model, max_new_tokens=200, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer)
@@ -204,7 +216,7 @@ def query_model(model, tokenizer, query, docs):
     all_chunk_text = format_docs(docs)
 
     full_prompt = apply_prompt(all_chunk_text, query)
-    messages = [{"role": "system", "content": "You are a "},{"role": "user", "content": full_prompt}]
+    messages = [{"role": "system", "content": "You are a meticulous emissions-disclosure analyst. Your job is to read a corporate sustainability report (provided) and judge the company's emissions tracking and reporting"},{"role": "user", "content": full_prompt},{"role": "user", "content": apply_text(all_chunk_text)}]
             
     results = pipe(messages, max_new_tokens=256)
     return results
@@ -215,15 +227,14 @@ if __name__ == "__main__":
     document_folder = "/home/amy_pu/ml-climate/src/climate_reports/ccrm_2022_olmocr/results/"
     vector_store = setup_vector_store(document_folder, glob="output_1f175a880ed5a09c6f77e3658258c7740416decf.jsonl")
 
-    retrieval_query = "Retrieve all information regarding the company's tracking and disclosure of their greenhouse gas (GHG) emissions, footprints, trajectories. Also retrieve information regarding any climate targets or pledges, or any  commitments towards decarbonizing the value chain or reducing emissions."
-    docs = vector_store.similarity_search(retrieval_query, k=10)
+    # retrieval_query = f"Retrieve all information regarding the company's tracking and disclosure of their greenhouse gas (GHG) emissions, footprints, trajectories. Also retrieve information regarding any climate targets or pledges, or any  commitments towards decarbonizing the value chain or reducing emissions."
+    # retrieval_query = f"Retrieve all information regarding the company's emission reduction targets, any target setting approaches or timelines, any 'net-zero' pledges, any plan for immediate action to reduce emissions along the entire value chain paired with a longer-term vision for deep decarbonisation, and coverage of all emission sources and greenhouse gasses. This information should include short, medium, and long-term targets for reducing emissions. Some companies do not commit to absolute GHG-related targets, but rather focus on emission intensity targets or targets associated with decarbonisation indicators, such as renewable energy target."
+    # docs = vector_store.similarity_search(retrieval_query, k=10)
     # for i in range(len(docs)):
     #     print(docs[i].page_content)
     #     print("\n\n\n")
     # print(len(docs))
-    # query = "Read the following sustainability report for this company and give an overall transparency score. Transparency refers to the extent to which a company publicly discloses the information necessary to fully understand the integrity of that company’s approaches towards the various elements of corporate climate responsibility. The transparency score should be one of: very poor, poor, moderate, reasonable, high, unknown."
-    query = "Read the following judging criteria and give a singular score representing the transparency and integrity of the company’s tracking and disclosure of emissions: answers should range from very poor, poor, moderate, reasonable, high, unknown.\n\nUse the following criteria for judging:\n\nHIGH score: Only give this score if ALL of the following are met: there is an annual disclosure, a breakdown of the data to specific emission sources, historical data for the same emission sources, explanations on why omitted emission sources are not tracked, disclosure of non-GHG climate forcers and both market and location-based emission estimates using the highest estimate for emission aggregates.\n\nREASONABLE score: only give this score if ALL of the following are met: there is an annual disclosure, a breakdown of the data to specific emission sources, historical data for the same emission sources, explanations on why omitted emission sources are not tracked, disclosure of non-GHG climate forcers and market- and location-based emission estimates, but the lowest estimate is used for emission aggregates.\n\nMODERATE score: only give this score if ALL of the following are met: there is an annual disclosure, a breakdown of the data to specific emission sources, historical data for the same emission sources, explanations on why omitted emission sources are not tracked, disclosure of non-GHG climate forcers and market- and location-based emission estimates, including data for the target base year. However, the level of detail does not facilitate a thorough understanding of emission sources.\n\nPOOR score: the disclosure of emissions includes some major sources of emissions BUT excludes other significant sources.\n\nVERY POOR score: the emissions scope is not tracked or disclosed, or emissions for the target base year are not disclosed.\n\nRemember to respond with a singular score of the following: poor, poor, moderate, reasonable, high, unknown."
-    
+
     model, tokenizer = climategpt_7b_setup()
     # model, tokenizer = climategpt_13b_setup()
     # model, tokenizer = climatellmama_8b_setup()
@@ -233,4 +244,23 @@ if __name__ == "__main__":
     # model, tokenizer = ministral_8b_it_setup()
     # model, tokenizer = mistral_7b_it_setup()
     # model, tokenizer = climte_nlp_longformer_detect_evidence_setup()
-    print(query_model(model, tokenizer, query, docs))
+    query_df = load_jsonl("CCRM/questions.jsonl")
+    queries = query_df.question.to_list()
+    k_docs = query_df.k_docs.to_list()
+    for i, query in enumerate(queries):
+        docs = vector_store.similarity_search(query, k=k_docs[i])
+        full_chat = query_model(model, tokenizer, query, docs)
+        # print(full_chat)
+        llm_response = full_chat[0]['generated_text'][3]['content']
+        print("QUESTION ", i)
+        print("\n")
+        print(llm_response)
+        print("\n\n")
+
+    # query = "Read the following sustainability report and answer the question: What is the company's revenue for the year? If this information is not found in the report, please output 'none.'\n\n────────────────────\n### Output\nReturn **only** this JSON object:\n\n```json\n{\n  \"revenue\": \"<amount>\",\n  \"reasoning\": \"<1-3 sentences citing concrete evidence (page/section refs if possible)>\"\n}\n```"
+
+    # docs = vector_store.similarity_search(query, k=4)
+    # full_chat = query_model(model, tokenizer, query, docs)
+    # # print(full_chat)
+    # llm_response = full_chat[0]['generated_text'][3]['content']
+    # print(llm_response)
