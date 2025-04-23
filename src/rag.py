@@ -245,13 +245,46 @@ def run_year(year):
 
     vector_store = setup_vector_store(document_folder, glob=glob)
 
-    # retrieval_query = f"Retrieve all information regarding the company's tracking and disclosure of their greenhouse gas (GHG) emissions, footprints, trajectories. Also retrieve information regarding any climate targets or pledges, or any  commitments towards decarbonizing the value chain or reducing emissions."
-    # retrieval_query = f"Retrieve all information regarding the company's emission reduction targets, any target setting approaches or timelines, any 'net-zero' pledges, any plan for immediate action to reduce emissions along the entire value chain paired with a longer-term vision for deep decarbonisation, and coverage of all emission sources and greenhouse gasses. This information should include short, medium, and long-term targets for reducing emissions. Some companies do not commit to absolute GHG-related targets, but rather focus on emission intensity targets or targets associated with decarbonisation indicators, such as renewable energy target."
-    # docs = vector_store.similarity_search(retrieval_query, k=10)
-    # for i in range(len(docs)):
-    #     print(docs[i].page_content)
-    #     print("\n\n\n")
-    # print(len(docs))
+    model, tokenizer = climategpt_7b_setup()
+    query_df = load_jsonl("CCRM/questions.jsonl")
+    queries = query_df.question.to_list()
+    k_docs = query_df.k_docs.to_list()
+    all_results = []
+    for i, source in enumerate(sources):
+        company_answers = [source]
+        for j, query in enumerate(queries):
+            docs = vector_store.similarity_search(query, k=k_docs[j],filter=lambda doc: filter(doc, index=source))
+            full_chat = query_model(model, tokenizer, query, docs)
+            llm_response = full_chat[0]['generated_text'][3]['content']
+            company_answers.append(llm_response)
+            # print("QUESTION ", j)
+            # print("\n")
+            # print(llm_response)
+            # print("\n\n")
+        all_results.append(company_answers)
+        if i % 5 == 0:
+            print(i)
+            with open(f"ccrm_{year}_results.csv.temp", "a", newline='') as f:
+                writer = csv.writer(f)
+                writer.writerow(company_answers)
+
+
+    with open(f"ccrm_{year}_results.csv", "w", newline='') as f:
+        writer = csv.writer(f)
+        writer.writerows(all_results)
+
+def run_company(year):
+    document_folder = f"/home/amy_pu/ml-climate/src/climate_reports/ccrm_{year}_olmocr/results/"
+    glob = "*.jsonl"
+
+    sources = []
+    for filename in os.listdir(document_folder):
+        with open(document_folder+filename, "r") as f:
+            df = pd.read_json(f)
+            source = df.metadata["Source-File"].replace(".pdf", "").replace(f"climate_reports/ccrm_{year}/", "")
+            sources.append(source)
+
+    vector_store = setup_vector_store(document_folder, glob=glob)
 
     model, tokenizer = climategpt_7b_setup()
     query_df = load_jsonl("CCRM/questions.jsonl")
