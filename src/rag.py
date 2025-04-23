@@ -10,6 +10,7 @@ import os
 import pandas as pd
 import json
 import torch
+import csv
 from transformers import (
     AutoModelForCausalLM,
     AutoTokenizer,
@@ -54,9 +55,18 @@ def load_jsonl(filepath):
             data.append(json.loads(line.strip()))
     return pd.DataFrame(data)
 
+def filter(document, index):
+    if document.metadata["index"] == index: 
+        return True
+    return False
+
+def metadata_func(record: dict, metadata: dict) -> dict:
+    metadata["index"] = record.get("metadata")["Source-File"].replace(".pdf", "").replace("climate_reports/ccrm_2022/", "")
+    return metadata
+
 # 'output_1f175a880ed5a09c6f77e3658258c7740416decf.jsonl'
 def setup_vector_store(document_folder, glob):
-    loader = DirectoryLoader(document_folder, glob=glob, show_progress=True, loader_cls=JSONLoader, loader_kwargs = {'jq_schema':'.', 'content_key': 'text', 'json_lines': True,})
+    loader = DirectoryLoader(document_folder, glob=glob, show_progress=True, loader_cls=JSONLoader, loader_kwargs = {'jq_schema':'.', 'content_key': 'text', 'json_lines': True,'metadata_func': metadata_func})
     documents = loader.load()
     print(f'document count: {len(documents)}')
     text_splitter = CharacterTextSplitter(separator="\n\n",
@@ -210,22 +220,30 @@ def apply_text(all_chunk_text):
     return full_text
 
 def query_model(model, tokenizer, query, docs):
-    pipe = pipeline("text-generation", model=model, max_new_tokens=200, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer)
+    pipe = pipeline("text-generation", model=model, max_new_tokens=200, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,)
     pipe.model = pipe.model.to('cuda')
 
     all_chunk_text = format_docs(docs)
 
     full_prompt = apply_prompt(all_chunk_text, query)
-    messages = [{"role": "system", "content": "You are a meticulous emissions-disclosure analyst. Your job is to read a corporate sustainability report (provided) and judge the company's emissions tracking and reporting"},{"role": "user", "content": full_prompt},{"role": "user", "content": apply_text(all_chunk_text)}]
+    messages = [{"role": "system", "content": "You are a meticulous emissions-disclosure analyst. Your job is to read a corporate sustainability report (provided) and judge the company's emissions tracking and reporting."},{"role": "user", "content": full_prompt},{"role": "user", "content": apply_text(all_chunk_text)}]
             
     results = pipe(messages, max_new_tokens=256)
     return results
 
 
+def run_year(year):
+    document_folder = f"/home/amy_pu/ml-climate/src/climate_reports/ccrm_{year}_olmocr/results/"
+    glob = "*.jsonl"
 
-if __name__ == "__main__":
-    document_folder = "/home/amy_pu/ml-climate/src/climate_reports/ccrm_2022_olmocr/results/"
-    vector_store = setup_vector_store(document_folder, glob="output_1f175a880ed5a09c6f77e3658258c7740416decf.jsonl")
+    sources = []
+    for filename in os.listdir(document_folder):
+        with open(document_folder+filename, "r") as f:
+            df = pd.read_json(f)
+            source = df.metadata["Source-File"].replace(".pdf", "").replace(f"climate_reports/ccrm_{year}/", "")
+            sources.append(source)
+
+    vector_store = setup_vector_store(document_folder, glob=glob)
 
     # retrieval_query = f"Retrieve all information regarding the company's tracking and disclosure of their greenhouse gas (GHG) emissions, footprints, trajectories. Also retrieve information regarding any climate targets or pledges, or any  commitments towards decarbonizing the value chain or reducing emissions."
     # retrieval_query = f"Retrieve all information regarding the company's emission reduction targets, any target setting approaches or timelines, any 'net-zero' pledges, any plan for immediate action to reduce emissions along the entire value chain paired with a longer-term vision for deep decarbonisation, and coverage of all emission sources and greenhouse gasses. This information should include short, medium, and long-term targets for reducing emissions. Some companies do not commit to absolute GHG-related targets, but rather focus on emission intensity targets or targets associated with decarbonisation indicators, such as renewable energy target."
@@ -236,26 +254,89 @@ if __name__ == "__main__":
     # print(len(docs))
 
     model, tokenizer = climategpt_7b_setup()
-    # model, tokenizer = climategpt_13b_setup()
-    # model, tokenizer = climatellmama_8b_setup()
-    # model, tokenizer = led_base_setup()
-    # model, tokenizer = qwen_setup()
-    # model, tokenizer = gemma_setup()
-    # model, tokenizer = ministral_8b_it_setup()
-    # model, tokenizer = mistral_7b_it_setup()
-    # model, tokenizer = climte_nlp_longformer_detect_evidence_setup()
     query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
     k_docs = query_df.k_docs.to_list()
-    for i, query in enumerate(queries):
-        docs = vector_store.similarity_search(query, k=k_docs[i])
-        full_chat = query_model(model, tokenizer, query, docs)
-        # print(full_chat)
-        llm_response = full_chat[0]['generated_text'][3]['content']
-        print("QUESTION ", i)
-        print("\n")
-        print(llm_response)
-        print("\n\n")
+    all_results = []
+    for i, source in enumerate(sources):
+        company_answers = [source]
+        for j, query in enumerate(queries):
+            docs = vector_store.similarity_search(query, k=k_docs[j],filter=lambda doc: filter(doc, index=source))
+            full_chat = query_model(model, tokenizer, query, docs)
+            llm_response = full_chat[0]['generated_text'][3]['content']
+            company_answers.append(llm_response)
+            # print("QUESTION ", j)
+            # print("\n")
+            # print(llm_response)
+            # print("\n\n")
+        all_results.append(company_answers)
+        if i % 5 == 0:
+            print(i)
+            with open(f"ccrm_{year}_results.csv.temp", "a", newline='') as f:
+                writer = csv.writer(f)
+                writer.writerow(company_answers)
+
+
+    with open(f"ccrm_{year}_results.csv", "w", newline='') as f:
+        writer = csv.writer(f)
+        writer.writerows(all_results)
+
+
+
+if __name__ == "__main__":
+    document_folder = "/home/amy_pu/ml-climate/src/climate_reports/ccrm_2022_olmocr/results/"
+    glob = "*.jsonl"
+
+    sources = []
+    for filename in os.listdir(document_folder):
+        with open(document_folder+filename, "r") as f:
+            df = pd.read_json(f)
+            source = df.metadata["Source-File"].replace(".pdf", "").replace("climate_reports/ccrm_2022/", "")
+            sources.append(source)
+
+    vector_store = setup_vector_store(document_folder, glob=glob)
+
+    # retrieval_query = f"Retrieve all information regarding the company's tracking and disclosure of their greenhouse gas (GHG) emissions, footprints, trajectories. Also retrieve information regarding any climate targets or pledges, or any  commitments towards decarbonizing the value chain or reducing emissions."
+    # retrieval_query = f"Retrieve all information regarding the company's emission reduction targets, any target setting approaches or timelines, any 'net-zero' pledges, any plan for immediate action to reduce emissions along the entire value chain paired with a longer-term vision for deep decarbonisation, and coverage of all emission sources and greenhouse gasses. This information should include short, medium, and long-term targets for reducing emissions. Some companies do not commit to absolute GHG-related targets, but rather focus on emission intensity targets or targets associated with decarbonisation indicators, such as renewable energy target."
+    # docs = vector_store.similarity_search(retrieval_query, k=10)
+    # for i in range(len(docs)):
+    #     print(docs[i].page_content)
+    #     print("\n\n\n")
+    # print(len(docs))
+
+    model, tokenizer = climategpt_7b_setup()
+    query_df = load_jsonl("CCRM/questions.jsonl")
+    queries = query_df.question.to_list()
+    k_docs = query_df.k_docs.to_list()
+    # all_results = []
+    for i, source in enumerate(sources):
+        company_answers = {"source":source}
+        for j, query in enumerate(queries):
+            docs = vector_store.similarity_search(query, k=k_docs[j],filter=lambda doc: filter(doc, index=source))
+            full_chat = query_model(model, tokenizer, query, docs)
+            llm_response = full_chat[0]['generated_text'][3]['content']
+            company_answers[j] = llm_response
+            # print("QUESTION ", j)
+            # print("\n")
+            # print(llm_response)
+            # print("\n\n")
+        # all_results.append(company_answers)
+        with open("ccrm_2022_results.jsonl.temp", "a") as f:
+            json.dump(company_answers,f)
+            f.write("\n")
+        if i % 5 == 0:
+            print(i)
+            print(company_answers)
+
+    # with open("ccrm_2022_results.csv", "w") as f:
+    #     json.dump(company_answers,f)
+    #     f.write("\n")
+
+
+    # with open("ccrm_2022_results.csv", "w", newline='') as f:
+    #     writer = csv.writer(f)
+    #     writer.writerows(all_results)
+
 
     # query = "Read the following sustainability report and answer the question: What is the company's revenue for the year? If this information is not found in the report, please output 'none.'\n\n────────────────────\n### Output\nReturn **only** this JSON object:\n\n```json\n{\n  \"revenue\": \"<amount>\",\n  \"reasoning\": \"<1-3 sentences citing concrete evidence (page/section refs if possible)>\"\n}\n```"
 
