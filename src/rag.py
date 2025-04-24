@@ -34,20 +34,17 @@ from langchain_core.vectorstores import InMemoryVectorStore
 
 from langchain.prompts import PromptTemplate
 from langchain.schema.runnable import RunnablePassthrough
-from langchain_community.llms import HuggingFacePipeline
-from langchain.chains import LLMChain
 from langchain_text_splitters import CharacterTextSplitter
 from langchain_core.output_parsers import StrOutputParser
 
+from langchain_community.document_loaders.json_loader import JSONLoader
+from langchain_community.document_loaders import DirectoryLoader
 
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
-from langchain_community.document_loaders.json_loader import JSONLoader
-from langchain_community.document_loaders import DirectoryLoader
-
-from langchain.vectorstores import Chroma
+CHUNK_LEN = 1000
 
 def load_jsonl(filepath):
     data = []
@@ -65,16 +62,22 @@ def metadata_func(record: dict, metadata: dict) -> dict:
     metadata["index"] = record.get("metadata")["Source-File"].replace(".pdf", "").replace("climate_reports/ccrm_2022/", "")
     return metadata
 
+def length_function(text: str, tokenizer) -> int:
+    return len(tokenizer(text)["input_ids"])
+
 # 'output_1f175a880ed5a09c6f77e3658258c7740416decf.jsonl'
-def setup_vector_store(document_folder, glob):
+def setup_vector_store(document_folder, glob, tokenizer):
     loader = DirectoryLoader(document_folder, glob=glob, show_progress=True, loader_cls=JSONLoader, loader_kwargs = {'jq_schema':'.', 'content_key': 'text', 'json_lines': True,'metadata_func': metadata_func})
     documents = loader.load()
     print(f'document count: {len(documents)}')
-    text_splitter = CharacterTextSplitter(separator="\n\n",
-        chunk_size=1000,
+    text_splitter = CharacterTextSplitter(
+        separator="\n\n",
+        chunk_size=CHUNK_LEN,
         chunk_overlap=200,
-        length_function=len,
+        # length_function=len,
+        length_function=lambda text: length_function(text, tokenizer=tokenizer),
         is_separator_regex=False,
+        strip_whitespace=True,
     )
     chunked_documents = text_splitter.split_documents(documents)
     # db = FAISS.from_documents(chunked_documents, HuggingFaceEmbeddings(model_name='BAAI/bge-base-en-v1.5'))
@@ -137,7 +140,8 @@ def query_model(model, tokenizer, query, docs):
     return results
 
 
-def run_year(year):
+def run_year(model_params, year):
+    model, tokenizer, max_seq_len = model_params["model"], model_params["tokenizer"], model_params["max_seq_len"]
     document_folder = f"/home/amy_pu/ml-climate/src/climate_reports/ccrm_{year}_olmocr/results/"
     glob = "*.jsonl"
 
@@ -148,17 +152,17 @@ def run_year(year):
             source = df.metadata["Source-File"].replace(".pdf", "").replace(f"climate_reports/ccrm_{year}/", "")
             sources.append(source)
 
-    vector_store = setup_vector_store(document_folder, glob=glob)
+    vector_store = setup_vector_store(document_folder, glob, tokenizer)
 
-    model, tokenizer = climategpt_7b_setup()
     query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
-    k_docs = query_df.k_docs.to_list()
+    # k_docs = query_df.k_docs.to_list()
+    k_docs = max_seq_len // CHUNK_LEN
     all_results = []
     for i, source in enumerate(sources):
         company_answers = [source]
         for j, query in enumerate(queries):
-            docs = vector_store.similarity_search(query, k=k_docs[j],filter=lambda doc: filter(doc, index=source))
+            docs = vector_store.similarity_search(query, k=k_docs,filter=lambda doc: filter(doc, index=source))
             full_chat = query_model(model, tokenizer, query, docs)
             llm_response = full_chat[0]['generated_text'][3]['content']
             company_answers.append(llm_response)
@@ -183,7 +187,8 @@ def add_token_count(document, tokenizer):
     document.metadata["str_len"] = len(document.page_content)
     return document
 
-def run_company(company, year):
+def run_company(model_params, company, year):
+    model, tokenizer, max_seq_len = model_params["model"],model_params["tokenizer"],model_params["max_seq_len"]
     document_folder = f"/home/amy_pu/ml-climate/src/climate_reports/ccrm_{year}_olmocr/results/"
     glob = f"{company}*.jsonl"
     company_year = str(int(year) - 2)
@@ -195,16 +200,15 @@ def run_company(company, year):
         source = df.metadata["Source-File"].replace(".pdf", "").replace(f"climate_reports/ccrm_{year}/", "")
         sources.append(source)
 
-    vector_store = setup_vector_store(document_folder, glob=glob)
+    vector_store = setup_vector_store(document_folder, glob, tokenizer)
 
-    # model, tokenizer = climategpt_7b_setup()
-    model, tokenizer = qwen_setup()
     query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
-    k_docs = query_df.k_docs.to_list()
+    # k_docs = query_df.k_docs.to_list()
+    k_docs = max_seq_len // CHUNK_LEN
     company_answers = [source]
     for j, query in enumerate(queries):
-        docs = vector_store.similarity_search(query, k=k_docs[j],filter=lambda doc: filter(doc, index=source))
+        docs = vector_store.similarity_search(query, k=k_docs,filter=lambda doc: filter(doc, index=source))
         docs = [add_token_count(doc, tokenizer) for doc in docs]
 
         all_chunk_text = format_docs(docs)
@@ -228,4 +232,5 @@ def run_company(company, year):
 
 
 if __name__ == "__main__":
-    run_company(company="walmart", year="2022")
+    model_params = qwen_setup()
+    run_company(model_params, company="walmart", year="2022")
