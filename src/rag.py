@@ -18,6 +18,7 @@ from transformers import (
     pipeline
 )
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoModelForSeq2SeqLM
+from model_setup import climategpt_7b_setup, climategpt_13b_setup, climatellmama_8b_setup, qwen_setup, ministral_8b_it_setup, mistral_7b_it_setup, climte_nlp_longformer_detect_evidence_setup, longformer_setup, led_base_setup, gemma_setup
 
 
 from datasets import load_dataset
@@ -83,102 +84,6 @@ def setup_vector_store(document_folder, glob):
     vector_store = InMemoryVectorStore(embedding=embeddings)
     vector_store.add_documents(documents=chunked_documents)
     return vector_store
-
-
-def climategpt_7b_setup():
-    model_name = "eci-io/climategpt-7b"
-
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        torch_dtype=torch.bfloat16,
-        device_map="auto",
-    )
-    return model, tokenizer
-
-def climategpt_13b_setup():
-    model_name = "eci-io/climategpt-13b"
-
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        torch_dtype=torch.bfloat16,
-        device_map="auto",
-    )
-    return model, tokenizer
-
-def qwen_setup():
-    model_name = "Qwen/Qwen2.5-7B-Instruct-1M"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        torch_dtype=torch.bfloat16,
-        device_map="auto",
-    )
-    return model, tokenizer
-
-def gemma_setup():
-    model_name = "google/gemma-7b-itM"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        torch_dtype=torch.bfloat16,
-        device_map="auto",
-    )
-    return model, tokenizer
-
-def ministral_8b_it_setup():
-    model_name = "mistralai/Ministral-8B-Instruct-2410"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        torch_dtype=torch.bfloat16,
-        device_map="auto",
-    )
-    return model, tokenizer
-
-def mistral_7b_it_setup():
-    model_name = "mistralai/Mistral-7B-Instruct-v0.3"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        torch_dtype=torch.bfloat16,
-        device_map="auto",
-    )
-    return model, tokenizer
-
-def climatellmama_8b_setup():
-    model_name = "suayptalha/ClimateLlama-8B"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        torch_dtype=torch.bfloat16,
-        device_map="auto",
-    )
-    return model, tokenizer
-
-def longformer_setup():
-    model_name = "allenai/longformer-base-4096"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForSequenceClassification.from_pretrained(model_name,torch_dtype=torch.bfloat16,
-        device_map="auto",)
-    return model, tokenizer
-
-# cannot use pipeline with following model
-def led_base_setup():
-    model_name = "allenai/led-base-16384"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-    return model, tokenizer
-
-def climte_nlp_longformer_detect_evidence_setup():
-    model_name = "climate-nlp/longformer-base-4096-1-detect-evidence"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForSequenceClassification.from_pretrained(model_name,torch_dtype=torch.bfloat16,
-        device_map="auto",)
-
-    return model, tokenizer
-
 
 
 def apply_prompt(chunk_text, question):
@@ -273,108 +178,54 @@ def run_year(year):
         writer = csv.writer(f)
         writer.writerows(all_results)
 
-def run_company(year):
+def add_token_count(document, tokenizer):
+    document.metadata["tok_len"] = len(tokenizer(document.page_content)['input_ids'])
+    document.metadata["str_len"] = len(document.page_content)
+    return document
+
+def run_company(company, year):
     document_folder = f"/home/amy_pu/ml-climate/src/climate_reports/ccrm_{year}_olmocr/results/"
-    glob = "*.jsonl"
+    glob = f"{company}*.jsonl"
+    company_year = str(int(year) - 2)
+    filename = f"{company}_{company_year}.jsonl"
 
     sources = []
-    for filename in os.listdir(document_folder):
-        with open(document_folder+filename, "r") as f:
-            df = pd.read_json(f)
-            source = df.metadata["Source-File"].replace(".pdf", "").replace(f"climate_reports/ccrm_{year}/", "")
-            sources.append(source)
+    with open(document_folder+filename, "r") as f:
+        df = pd.read_json(f)
+        source = df.metadata["Source-File"].replace(".pdf", "").replace(f"climate_reports/ccrm_{year}/", "")
+        sources.append(source)
 
     vector_store = setup_vector_store(document_folder, glob=glob)
 
-    model, tokenizer = climategpt_7b_setup()
+    # model, tokenizer = climategpt_7b_setup()
+    model, tokenizer = qwen_setup()
     query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
     k_docs = query_df.k_docs.to_list()
-    all_results = []
-    for i, source in enumerate(sources):
-        company_answers = [source]
-        for j, query in enumerate(queries):
-            docs = vector_store.similarity_search(query, k=k_docs[j],filter=lambda doc: filter(doc, index=source))
-            full_chat = query_model(model, tokenizer, query, docs)
-            llm_response = full_chat[0]['generated_text'][3]['content']
-            company_answers.append(llm_response)
-            # print("QUESTION ", j)
-            # print("\n")
-            # print(llm_response)
-            # print("\n\n")
-        all_results.append(company_answers)
-        if i % 5 == 0:
-            print(i)
-            with open(f"ccrm_{year}_results.csv.temp", "a", newline='') as f:
+    company_answers = [source]
+    for j, query in enumerate(queries):
+        docs = vector_store.similarity_search(query, k=k_docs[j],filter=lambda doc: filter(doc, index=source))
+        docs = [add_token_count(doc, tokenizer) for doc in docs]
+
+        all_chunk_text = format_docs(docs)
+        print("all chunk text")
+        print(all_chunk_text)
+        full_chat = query_model(model, tokenizer, query, docs)
+        llm_response = full_chat[0]['generated_text'][3]['content']
+        print("\n\nllm response")
+        print(llm_response)
+        company_answers.append(llm_response)
+        break
+        # print("QUESTION ", j)
+        # print("\n")
+        # print(llm_response)
+        # print("\n\n")
+        if j % 5 == 0:
+            print(j)
+            with open(f"{company}_{year}_results.csv.temp", "a", newline='') as f:
                 writer = csv.writer(f)
                 writer.writerow(company_answers)
 
 
-    with open(f"ccrm_{year}_results.csv", "w", newline='') as f:
-        writer = csv.writer(f)
-        writer.writerows(all_results)
-
-
-
 if __name__ == "__main__":
-    document_folder = "/home/amy_pu/ml-climate/src/climate_reports/ccrm_2022_olmocr/results/"
-    glob = "*.jsonl"
-
-    sources = []
-    for filename in os.listdir(document_folder):
-        with open(document_folder+filename, "r") as f:
-            df = pd.read_json(f)
-            source = df.metadata["Source-File"].replace(".pdf", "").replace("climate_reports/ccrm_2022/", "")
-            sources.append(source)
-
-    vector_store = setup_vector_store(document_folder, glob=glob)
-
-    # retrieval_query = f"Retrieve all information regarding the company's tracking and disclosure of their greenhouse gas (GHG) emissions, footprints, trajectories. Also retrieve information regarding any climate targets or pledges, or any  commitments towards decarbonizing the value chain or reducing emissions."
-    # retrieval_query = f"Retrieve all information regarding the company's emission reduction targets, any target setting approaches or timelines, any 'net-zero' pledges, any plan for immediate action to reduce emissions along the entire value chain paired with a longer-term vision for deep decarbonisation, and coverage of all emission sources and greenhouse gasses. This information should include short, medium, and long-term targets for reducing emissions. Some companies do not commit to absolute GHG-related targets, but rather focus on emission intensity targets or targets associated with decarbonisation indicators, such as renewable energy target."
-    # docs = vector_store.similarity_search(retrieval_query, k=10)
-    # for i in range(len(docs)):
-    #     print(docs[i].page_content)
-    #     print("\n\n\n")
-    # print(len(docs))
-
-    model, tokenizer = climategpt_7b_setup()
-    query_df = load_jsonl("CCRM/questions.jsonl")
-    queries = query_df.question.to_list()
-    k_docs = query_df.k_docs.to_list()
-    # all_results = []
-    for i, source in enumerate(sources):
-        company_answers = {"source":source}
-        for j, query in enumerate(queries):
-            docs = vector_store.similarity_search(query, k=k_docs[j],filter=lambda doc: filter(doc, index=source))
-            full_chat = query_model(model, tokenizer, query, docs)
-            llm_response = full_chat[0]['generated_text'][3]['content']
-            company_answers[j] = llm_response
-            # print("QUESTION ", j)
-            # print("\n")
-            # print(llm_response)
-            # print("\n\n")
-        # all_results.append(company_answers)
-        with open("ccrm_2022_results.jsonl.temp", "a") as f:
-            json.dump(company_answers,f)
-            f.write("\n")
-        if i % 5 == 0:
-            print(i)
-            print(company_answers)
-
-    # with open("ccrm_2022_results.csv", "w") as f:
-    #     json.dump(company_answers,f)
-    #     f.write("\n")
-
-
-    # with open("ccrm_2022_results.csv", "w", newline='') as f:
-    #     writer = csv.writer(f)
-    #     writer.writerows(all_results)
-
-
-    # query = "Read the following sustainability report and answer the question: What is the company's revenue for the year? If this information is not found in the report, please output 'none.'\n\n────────────────────\n### Output\nReturn **only** this JSON object:\n\n```json\n{\n  \"revenue\": \"<amount>\",\n  \"reasoning\": \"<1-3 sentences citing concrete evidence (page/section refs if possible)>\"\n}\n```"
-
-    # docs = vector_store.similarity_search(query, k=4)
-    # full_chat = query_model(model, tokenizer, query, docs)
-    # # print(full_chat)
-    # llm_response = full_chat[0]['generated_text'][3]['content']
-    # print(llm_response)
+    run_company(company="walmart", year="2022")
