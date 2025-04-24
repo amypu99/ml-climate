@@ -7,7 +7,7 @@ def similarity(a, b):
 
 # 1) Load both CSVs
 final_df = pd.read_csv(
-    './Merged_SBTi_TP.csv',
+    './merged_sbti_tp.csv',
     parse_dates=['Assessment Date']
 )
 ccrm_df = pd.read_csv('./CCRM/extracted_CCRM_combined.csv')
