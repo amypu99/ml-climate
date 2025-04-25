@@ -1,11 +1,3 @@
-# for environment, 
-# pip install -U langchain sentence-transformers faiss-cpu openpyxl pacmap datasets ragatouille
-# pip install -U langchain-community
-# pip install jq
-# pip install chromadb
-# pip install -U langchain-core
-
-
 import os
 import pandas as pd
 import json
@@ -40,7 +32,7 @@ from langchain_community.document_loaders.json_loader import JSONLoader
 from langchain_community.document_loaders import DirectoryLoader
 
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 CHUNK_LEN = 2200
@@ -71,7 +63,6 @@ def setup_vector_store(document_folder, glob, tokenizer):
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=CHUNK_LEN,
         chunk_overlap=200,
-        # length_function=len,
         length_function=lambda text: length_function(text, tokenizer=tokenizer),
         is_separator_regex=False,
         strip_whitespace=True,
@@ -125,7 +116,7 @@ def apply_text(all_chunk_text):
     return full_text
 
 def query_model(model, tokenizer, query, docs):
-    pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,temperature=0.7, do_sample=True)
+    pipe = pipeline("text-generation", model=model, max_new_tokens=1, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,temperature=0.7, do_sample=True)
     # pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16,  device_map='auto',tokenizer=tokenizer,temperature=0.7, attn_implementation="flash_attention_2", do_sample=True)
     # pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16,  device_map='auto',tokenizer=tokenizer)
     # pipe.model = pipe.model.to('auto')
@@ -135,7 +126,7 @@ def query_model(model, tokenizer, query, docs):
     full_prompt = apply_prompt(all_chunk_text, query)
     messages = [{"role": "system", "content": "You are a meticulous emissions-disclosure analyst. Your job is to read a corporate sustainability report (provided) and judge the company's emissions tracking and reporting."},{"role": "user", "content": full_prompt},{"role": "user", "content": apply_text(all_chunk_text)}]
             
-    results = pipe(messages, max_new_tokens=256, temperature=0.7, do_sample=True)
+    results = pipe(messages, max_new_tokens=1, temperature=0.7, do_sample=True)
     # results = pipe(messages, max_new_tokens=256)
     return results
 
@@ -162,7 +153,7 @@ def run_year(model_params, year):
 
     vector_store = setup_vector_store(document_folder, glob, tokenizer)
 
-    query_df = load_jsonl("CCRM/questions.jsonl")
+    query_df = load_jsonl("raw_label_data/tp_questions.jsonl")
     queries = query_df.question.to_list()
     all_results = []
     for i, source in enumerate(sources):
@@ -181,14 +172,14 @@ def run_year(model_params, year):
             # print(llm_response)
             # print("\n\n")
         all_results.append(company_answers)
-        with open(f"results/ccrm_{year}_{model_name}_results.jsonl.temp", "a") as f:
+        with open(f"results/tp_{year}_{model_name}_results.jsonl.temp", "a") as f:
                 json.dump(company_answers,f)
                 f.write("\n")
         if i % 5 == 0:
             print(i)
 
         
-    with open(f"results/ccrm_{year}_{model_name}_results.jsonl", "w", newline='') as f:
+    with open(f"results/tp_{year}_{model_name}_results.jsonl", "w", newline='') as f:
          for d in all_results:
             json.dump(d, f)
             f.write('\n')
@@ -206,7 +197,7 @@ def run_company(model_params, company, year):
     source = f"{company}_{str(int(year)-2)}"
     vector_store = setup_vector_store(document_folder, glob, tokenizer)
 
-    query_df = load_jsonl("CCRM/questions.jsonl")
+    query_df = load_jsonl("raw_label_data/tp_questions.jsonl")
     queries = query_df.question.to_list()
     company_answers = {"source": company}
     for j, query in enumerate(queries):
@@ -218,7 +209,7 @@ def run_company(model_params, company, year):
         # print("\n\nlen docs", len(docs))
         # print([doc.metadata["tok_len"] for doc in docs])
 
-        all_chunk_text = format_docs(docs)
+        # all_chunk_text = format_docs(docs)
         # print("\n\nall chunk text")
         # print(all_chunk_text)
         full_chat = query_model(model, tokenizer, query, docs)
@@ -228,11 +219,11 @@ def run_company(model_params, company, year):
         print("\n")
         print(llm_response)
         print("\n\n")
-        with open(f"{company}_{year}_{model_name}_results.jsonl.temp", "a") as f:
-            json.dump(company_answers,f)
-            f.write("\n")
-        if j % 5 == 0:
-            print(j)
+        # with open(f"{company}_{year}_{model_name}_results.jsonl.temp", "a") as f:
+        #     json.dump(company_answers,f)
+        #     f.write("\n")
+        # if j % 5 == 0:
+        #     print(j)
 
 
 if __name__ == "__main__":
@@ -245,4 +236,4 @@ if __name__ == "__main__":
             run_year(model_params, year=year)
         gc.collect()
         torch.cuda.empty_cache()
-    # run_company(model_params_2, company="cvs_health", year="2022")
+    # run_company(model_params_1, company="cvs_health", year="2022")

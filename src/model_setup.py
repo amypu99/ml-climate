@@ -35,13 +35,14 @@ def qwen_setup():
         model_name,
         torch_dtype=torch.bfloat16,
         device_map="auto",
+        attn_implementation="flash_attention_2",
     )
-    max_seq_len = 2000
+    max_seq_len = 30000
     model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len, "name": "qwen"}
     return model_params
 
 def gemma_setup():
-    model_name = "google/gemma-7b-itM"
+    model_name = "google/gemma-7b-it"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
@@ -60,7 +61,7 @@ def ministral_8b_it_setup():
         torch_dtype=torch.bfloat16,
         device_map="auto",
     )
-    max_seq_len = 20000
+    max_seq_len = 30000
     model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len, "name": "ministral-8B"}
     return model_params
 
