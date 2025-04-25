@@ -164,8 +164,6 @@ def run_year(model_params, year):
 
     query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
-    # k_docs = query_df.k_docs.to_list()
-    # k_docs = max_seq_len // CHUNK_LEN
     all_results = []
     for i, source in enumerate(sources):
         company_answers = {"source": source}
@@ -190,7 +188,7 @@ def run_year(model_params, year):
             print(i)
 
         
-    with open(f"ccrm_{year}_{model_name}_results.jsonl", "w", newline='') as f:
+    with open(f"results/ccrm_{year}_{model_name}_results.jsonl", "w", newline='') as f:
          for d in all_results:
             json.dump(d, f)
             f.write('\n')
@@ -209,8 +207,6 @@ def run_company(model_params, company, year):
 
     query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
-    # k_docs = query_df.k_docs.to_list()
-    # k_docs = max_seq_len // CHUNK_LEN
     company_answers = {"source": company}
     for j, query in enumerate(queries):
         docs = vector_store.similarity_search(query, k=10,filter=lambda doc: filter(doc, index=source))
