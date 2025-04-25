@@ -11,8 +11,8 @@ def climategpt_7b_setup():
         torch_dtype=torch.bfloat16,
         device_map="auto",
     )
-    max_seq_len = 3000
-    model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len}
+    max_seq_len = 3800
+    model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len, "name": "climategpt-7b"}
     return model_params
 
 def climategpt_13b_setup():
@@ -25,7 +25,7 @@ def climategpt_13b_setup():
         device_map="auto",
     )
     max_seq_len = 3000
-    model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len}
+    model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len, "name": "climategpt-13b"}
     return model_params
 
 def qwen_setup():
@@ -36,8 +36,8 @@ def qwen_setup():
         torch_dtype=torch.bfloat16,
         device_map="auto",
     )
-    max_seq_len = 80000
-    model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len}
+    max_seq_len = 2000
+    model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len, "name": "qwen"}
     return model_params
 
 def gemma_setup():
@@ -60,8 +60,8 @@ def ministral_8b_it_setup():
         torch_dtype=torch.bfloat16,
         device_map="auto",
     )
-    max_seq_len = 30000
-    model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len}
+    max_seq_len = 20000
+    model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len, "name": "ministral-8B"}
     return model_params
 
 def mistral_7b_it_setup():
@@ -73,7 +73,7 @@ def mistral_7b_it_setup():
         device_map="auto",
     )
     max_seq_len = 7000
-    model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len}
+    model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len, "name": "mistral_7b"}
     return model_params
 
 def climatellmama_8b_setup():
@@ -84,7 +84,7 @@ def climatellmama_8b_setup():
         torch_dtype=torch.bfloat16,
         device_map="auto",
     )
-    max_seq_len = 3000
+    max_seq_len = 4000
     model_params = {"model": model, "tokenizer": tokenizer, "max_seq_len": max_seq_len}
     return model_params
 

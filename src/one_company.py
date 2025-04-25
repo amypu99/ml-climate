@@ -10,7 +10,6 @@ import os
 import pandas as pd
 import json
 import torch
-import gc
 import csv
 from itertools import accumulate
 from transformers import (
@@ -26,7 +25,7 @@ from model_setup import climategpt_7b_setup, climategpt_13b_setup, climatellmama
 from datasets import load_dataset
 from peft import LoraConfig, PeftModel
 
-from langchain.text_splitter import CharacterTextSplitter
+from langchain.text_splitter import CharacterTextSplitter,RecursiveCharacterTextSplitter
 
 
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -36,14 +35,14 @@ from langchain_core.vectorstores import InMemoryVectorStore
 
 from langchain.prompts import PromptTemplate
 from langchain.schema.runnable import RunnablePassthrough
-from langchain_text_splitters import CharacterTextSplitter,RecursiveCharacterTextSplitter
+from langchain_text_splitters import CharacterTextSplitter
 from langchain_core.output_parsers import StrOutputParser
 
 from langchain_community.document_loaders.json_loader import JSONLoader
 from langchain_community.document_loaders import DirectoryLoader
 
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "2"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 CHUNK_LEN = 2200
@@ -128,7 +127,7 @@ def apply_text(all_chunk_text):
     return full_text
 
 def query_model(model, tokenizer, query, docs):
-    pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,temperature=0.6, do_sample=True)
+    pipe = pipeline("text-generation", model=model, max_new_tokens=128, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,temperature=0.6, do_sample=True)
     pipe.model = pipe.model.to('cuda')
 
     all_chunk_text = format_docs(docs)
@@ -136,17 +135,13 @@ def query_model(model, tokenizer, query, docs):
     full_prompt = apply_prompt(all_chunk_text, query)
     messages = [{"role": "system", "content": "You are a meticulous emissions-disclosure analyst. Your job is to read a corporate sustainability report (provided) and judge the company's emissions tracking and reporting."},{"role": "user", "content": full_prompt},{"role": "user", "content": apply_text(all_chunk_text)}]
             
-    results = pipe(messages, max_new_tokens=256, temperature=0.7, do_sample=True)
+    results = pipe(messages, max_new_tokens=128, temperature=0.7, do_sample=True)
     return results
 
 
-def truncate_documents(documents, max_seq_len):
-    cut = next((i for i, total in enumerate(accumulate(d.metadata["tok_len"] for d in documents))
-                if total > max_seq_len), len(documents))
-    return documents[:cut]
-
 def get_query_len(query, tokenizer):
     return len(tokenizer(query)["input_ids"])
+
 
 def run_year(model_params, year):
     model, tokenizer, max_seq_len, model_name = model_params["model"], model_params["tokenizer"], model_params["max_seq_len"], model_params["name"]
@@ -165,16 +160,12 @@ def run_year(model_params, year):
     query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
     # k_docs = query_df.k_docs.to_list()
-    # k_docs = max_seq_len // CHUNK_LEN
+    k_docs = max_seq_len // CHUNK_LEN
     all_results = []
     for i, source in enumerate(sources):
         company_answers = {"source": source}
         for j, query in enumerate(queries):
-            docs = vector_store.similarity_search(query, k=10,filter=lambda doc: filter(doc, index=source))
-            docs = [add_token_count(doc, tokenizer) for doc in docs]
-            query_len = get_query_len(query, tokenizer)
-            max_docs_len = max_seq_len - query_len
-            docs = truncate_documents(docs, max_docs_len)
+            docs = vector_store.similarity_search(query, k=k_docs,filter=lambda doc: filter(doc, index=source))
             full_chat = query_model(model, tokenizer, query, docs)
             llm_response = full_chat[0]['generated_text'][3]['content']
             company_answers[j] = llm_response
@@ -200,6 +191,12 @@ def add_token_count(document, tokenizer):
     document.metadata["str_len"] = len(document.page_content)
     return document
 
+def truncate_documents(documents, max_seq_len):
+    cut = next((i for i, total in enumerate(accumulate(d.metadata["tok_len"] for d in documents))
+                if total > max_seq_len), len(documents))
+    return documents[:cut]
+
+
 def run_company(model_params, company, year):
     model, tokenizer, max_seq_len, model_name = model_params["model"], model_params["tokenizer"], model_params["max_seq_len"], model_params["name"]
     document_folder = f"climate_reports/ccrm_{year}_olmocr/results/"
@@ -210,18 +207,26 @@ def run_company(model_params, company, year):
     query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
     # k_docs = query_df.k_docs.to_list()
-    # k_docs = max_seq_len // CHUNK_LEN
+    k_docs = max_seq_len // CHUNK_LEN
     company_answers = {"source": company}
     for j, query in enumerate(queries):
         docs = vector_store.similarity_search(query, k=10,filter=lambda doc: filter(doc, index=source))
         docs = [add_token_count(doc, tokenizer) for doc in docs]
         query_len = get_query_len(query, tokenizer)
         max_docs_len = max_seq_len - query_len
+        print('max_docs_len', max_docs_len)
+        # print([doc.metadata["tok_len"] for doc in docs])
         docs = truncate_documents(docs, max_docs_len)
+        print([doc.metadata["tok_len"] for doc in docs])
 
         # all_chunk_text = format_docs(docs)
-        # print("all chunk text")
+        # print("\n\nall chunk text")
         # print(all_chunk_text)
+        # print("\n\nlen")
+        # chunk_text_len = len(tokenizer(all_chunk_text)["input_ids"])
+        # print(chunk_text_len)
+        # break
+
         full_chat = query_model(model, tokenizer, query, docs)
         llm_response = full_chat[0]['generated_text'][3]['content']
         company_answers[j] = llm_response
@@ -237,13 +242,10 @@ def run_company(model_params, company, year):
 
 
 if __name__ == "__main__":
-    # model_params_1 = climategpt_7b_setup()
-    model_params_2 = qwen_setup()
+    model_params_1 = climategpt_7b_setup()
+    # model_params_2 = qwen_setup()
     # model_params_3 = ministral_8b_it_setup()
     # for model_params in [model_params_1, model_params_2, model_params_3]:
-    for model_params in [model_params_2]:
-        for year in ["2023"]:
-            run_year(model_params, year=year)
-        gc.collect()
-        torch.cuda.empty_cache()
-    # run_company(model_params, company="walmart", year="2022")
+    #     for year in ["2022","2023","2024"]:
+    #         run_year(model_params, year=year)
+    run_company(model_params_1, company="cvs_health", year="2022")
