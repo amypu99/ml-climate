@@ -242,13 +242,13 @@ def run_company(model_params, company, year):
 
 
 if __name__ == "__main__":
-    model_params_1 = climategpt_7b_setup()
+    # model_params_1 = climategpt_7b_setup()
     # model_params_2 = qwen_setup()
     # model_params_3 = ministral_8b_it_setup()
     # model_params_4 = climategpt_13b_setup()
-    for model_params in [model_params_1]:
-        for year in ["2023", "2024"]:
-            run_year(model_params, year=year)
-        gc.collect()
-        torch.cuda.empty_cache()
-    # run_company(model_params_1, company="microsoft", year="2023")
+    # for model_params in [model_params_1]:
+    #     for year in ["2023", "2024"]:
+    #         run_year(model_params, year=year)
+    #     gc.collect()
+    #     torch.cuda.empty_cache()
+    # run_company(model_params_1, company="e_on", year="2022")
