@@ -40,7 +40,7 @@ from langchain_community.document_loaders.json_loader import JSONLoader
 from langchain_community.document_loaders import DirectoryLoader
 
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
-os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+os.environ["CUDA_VISIBLE_DEVICES"] = "6"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 CHUNK_LEN = 2200
@@ -242,11 +242,11 @@ def run_company(model_params, company, year):
 
 
 if __name__ == "__main__":
-    model_params_1 = climategpt_7b_setup()
-    # model_params_2 = qwen_setup()
+    # model_params_1 = climategpt_7b_setup()
+    model_params_2 = qwen_setup()
     # model_params_3 = ministral_8b_it_setup()
     # model_params_4 = climategpt_13b_setup()
-    for model_params in [model_params_1]:
+    for model_params in [model_params_2]:
         for year in ["2022","2023", "2024"]:
             run_year(model_params, year=year)
         gc.collect()
