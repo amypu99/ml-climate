@@ -40,7 +40,7 @@ from langchain_community.document_loaders.json_loader import JSONLoader
 from langchain_community.document_loaders import DirectoryLoader
 
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "4"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 CHUNK_LEN = 2200
@@ -58,7 +58,7 @@ def filter(document, index):
     return False
 
 def metadata_func(record: dict, metadata: dict) -> dict:
-    metadata["index"] = record.get("metadata")["Source-File"].replace(".pdf", "").replace("climate_reports/ccrm_2022/", "")
+    metadata["index"] = record.get("source")
     return metadata
 
 def length_function(text: str, tokenizer) -> int:
@@ -150,14 +150,16 @@ def get_query_len(query, tokenizer):
 
 def run_year(model_params, year):
     model, tokenizer, max_seq_len, model_name = model_params["model"], model_params["tokenizer"], model_params["max_seq_len"], model_params["name"]
-    document_folder = f"climate_reports/ccrm_{year}_olmocr/results/"
+    assert max_seq_len > CHUNK_LEN
+    document_folder = f"climate_reports/ccrm_{year}_olmocr/indexed/"
     glob = "*.jsonl"
 
     sources = []
     for filename in os.listdir(document_folder):
         with open(document_folder+filename, "r") as f:
-            df = pd.read_json(f)
-            source = df.metadata["Source-File"].replace(".pdf", "").replace(f"climate_reports/ccrm_{year}/", "")
+            df = pd.read_json(f, lines=True)
+            assert len(df.source.to_list()) == 1
+            source = df.source.to_list()[0]
             sources.append(source)
 
     vector_store = setup_vector_store(document_folder, glob, tokenizer)
@@ -173,6 +175,7 @@ def run_year(model_params, year):
             query_len = get_query_len(query, tokenizer)
             max_docs_len = max_seq_len - query_len
             docs = truncate_documents(docs, max_docs_len)
+            assert len(docs) > 0, len(docs)
             full_chat = query_model(model, tokenizer, query, docs)
             llm_response = full_chat[0]['generated_text'][3]['content']
             company_answers[j] = llm_response
@@ -201,7 +204,8 @@ def add_token_count(document, tokenizer):
 def run_company(model_params, company, year):
     model, tokenizer, max_seq_len, model_name = model_params["model"], model_params["tokenizer"], model_params["max_seq_len"], model_params["name"]
     print("max_seq_len", max_seq_len)
-    document_folder = f"climate_reports/ccrm_{year}_olmocr/results/"
+    assert max_seq_len > CHUNK_LEN
+    document_folder = f"climate_reports/ccrm_{year}_olmocr/indexed/"
     glob = f"{company}*.jsonl"
     source = f"{company}_{str(int(year)-2)}"
     vector_store = setup_vector_store(document_folder, glob, tokenizer)
@@ -209,12 +213,14 @@ def run_company(model_params, company, year):
     query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
     company_answers = {"source": company}
+    print("source", source)
     for j, query in enumerate(queries):
         docs = vector_store.similarity_search(query, k=30,filter=lambda doc: filter(doc, index=source))
         docs = [add_token_count(doc, tokenizer) for doc in docs]
         query_len = get_query_len(query, tokenizer)
         max_docs_len = max_seq_len - query_len
         docs = truncate_documents(docs, max_docs_len)
+        assert len(docs) > 0
         # print("\n\nlen docs", len(docs))
         # print([doc.metadata["tok_len"] for doc in docs])
 
@@ -236,13 +242,13 @@ def run_company(model_params, company, year):
 
 
 if __name__ == "__main__":
-    # model_params_1 = climategpt_7b_setup()
-    model_params_2 = qwen_setup()
+    model_params_1 = climategpt_7b_setup()
+    # model_params_2 = qwen_setup()
     # model_params_3 = ministral_8b_it_setup()
     # model_params_4 = climategpt_13b_setup()
-    for model_params in [model_params_2]:
-        for year in ["2022", "2023", "2024"]:
+    for model_params in [model_params_1]:
+        for year in ["2023", "2024"]:
             run_year(model_params, year=year)
         gc.collect()
         torch.cuda.empty_cache()
-    # run_company(model_params_2, company="cvs_health", year="2022")
+    # run_company(model_params_1, company="microsoft", year="2023")

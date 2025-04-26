@@ -12,4 +12,10 @@ src/climate_reports/ccrm_2022.zip
 src/climate_reports/ccrm_2022
 src/climate_reports/ccrm_2022/*
 
+src/climate_reports/additional_reports/*
+src/climate_reports/round_2_reports/*
+src/climate_reports/round_2_reports_olmocr/*
+src/climate_reports/round_3_reports/*
+src/climate_reports/round_3_reports_olmocr/*
+
 src/test.py
