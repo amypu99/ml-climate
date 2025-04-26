@@ -36,8 +36,9 @@ def convert_labels():
                 mapped_results[question_idx] = file_results[question_idx].map(extract_label).to_list()
             # print("mapped results")
             # print(pd.DataFrame.from_dict(mapped_results))
-            temp_df =temp_df.merge(pd.DataFrame.from_dict(mapped_results), how='outer')
+            temp_df = temp_df.merge(pd.DataFrame.from_dict(mapped_results), how='outer')
 
+    return temp_df
 
 if __name__ == "__main__":
     convert_labels()
