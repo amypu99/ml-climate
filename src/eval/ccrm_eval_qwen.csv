@@ -1,0 +1,63 @@
+Overall transparency score,accuracy,0.16346153846153846
+Overall integrity score,accuracy,0.028846153846153848
+1. Transparency and Integrity,accuracy,0.125
+2. Transparency,accuracy,0.07692307692307693
+2. Integrity,accuracy,0.057692307692307696
+3. Transparency,accuracy,0.14423076923076922
+3. Integrity,accuracy,0.038461538461538464
+4. Transparency,accuracy,0.057692307692307696
+4. Integrity,accuracy,0.0
+Overall transparency score,macro_precision,0.07212885154061624
+Overall integrity score,macro_precision,0.007936507936507936
+1. Transparency and Integrity,macro_precision,0.07292917166866746
+2. Transparency,macro_precision,0.13434343434343435
+2. Integrity,macro_precision,0.037698412698412696
+3. Transparency,macro_precision,0.11966338259441708
+3. Integrity,macro_precision,0.03297878591996239
+4. Transparency,macro_precision,0.07789115646258504
+4. Integrity,macro_precision,0.0
+Overall transparency score,micro_precision,0.16346153846153846
+Overall integrity score,micro_precision,0.028846153846153848
+1. Transparency and Integrity,micro_precision,0.125
+2. Transparency,micro_precision,0.07692307692307693
+2. Integrity,micro_precision,0.057692307692307696
+3. Transparency,micro_precision,0.14423076923076922
+3. Integrity,micro_precision,0.038461538461538464
+4. Transparency,micro_precision,0.057692307692307696
+4. Integrity,micro_precision,0.0
+Overall transparency score,macro_recall,0.08749055177626607
+Overall integrity score,macro_recall,0.08571428571428572
+1. Transparency and Integrity,macro_recall,0.0794172932330827
+2. Transparency,macro_recall,0.07744360902255638
+2. Integrity,macro_recall,0.05291005291005291
+3. Transparency,macro_recall,0.11587301587301588
+3. Integrity,macro_recall,0.1717687074829932
+4. Transparency,macro_recall,0.16318574213311057
+4. Integrity,macro_recall,0.0
+Overall transparency score,micro_recall,0.16346153846153846
+Overall integrity score,micro_recall,0.028846153846153848
+1. Transparency and Integrity,micro_recall,0.125
+2. Transparency,micro_recall,0.07692307692307693
+2. Integrity,micro_recall,0.057692307692307696
+3. Transparency,micro_recall,0.14423076923076922
+3. Integrity,micro_recall,0.038461538461538464
+4. Transparency,micro_recall,0.057692307692307696
+4. Integrity,micro_recall,0.0
+Overall transparency score,macro_f1,0.07359434795407713
+Overall integrity score,macro_f1,0.014527845036319612
+1. Transparency and Integrity,macro_f1,0.07360415864458991
+2. Transparency,macro_f1,0.0581361897993028
+2. Integrity,macro_f1,0.035421888053467
+3. Transparency,macro_f1,0.08979591836734693
+3. Integrity,macro_f1,0.04912828519385897
+4. Transparency,macro_f1,0.07112135176651306
+4. Integrity,macro_f1,0.0
+Overall transparency score,micro_f1,0.16346153846153846
+Overall integrity score,micro_f1,0.028846153846153848
+1. Transparency and Integrity,micro_f1,0.125
+2. Transparency,micro_f1,0.07692307692307693
+2. Integrity,micro_f1,0.057692307692307696
+3. Transparency,micro_f1,0.14423076923076922
+3. Integrity,micro_f1,0.038461538461538464
+4. Transparency,micro_f1,0.057692307692307696
+4. Integrity,micro_f1,0.0
