@@ -24,20 +24,18 @@ def extract_label(text):
 
 
 def convert_labels():
-    ccrm_files = glob.glob('../results/ccrm**', recursive=True)
+    ccrm_files = glob.glob('../results/ccrm*', recursive=True)
     mapped_results = {}
     temp_df = pd.DataFrame(columns=["source", "0", "1", "2", "3", "4", "5", "6","7", "8", "9"])
     for ccrm_file in ccrm_files:
+        print(ccrm_file)
         with open(ccrm_file, "r") as file:
             file_results = pd.read_json(file, lines=True)
             sources = file_results.source.to_list()
             mapped_results["source"] = sources
             for question_idx in ["0", "1", "2", "3", "4", "5", "6","7", "8", "9"]:
                 mapped_results[question_idx] = file_results[question_idx].map(extract_label).to_list()
-            # print("mapped results")
-            # print(pd.DataFrame.from_dict(mapped_results))
             temp_df = temp_df.merge(pd.DataFrame.from_dict(mapped_results), how='outer')
-
     return temp_df
 
 if __name__ == "__main__":

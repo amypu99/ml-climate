@@ -40,7 +40,7 @@ from langchain_community.document_loaders.json_loader import JSONLoader
 from langchain_community.document_loaders import DirectoryLoader
 
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
-os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+os.environ["CUDA_VISIBLE_DEVICES"] = "7"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 CHUNK_LEN = 2200
@@ -91,7 +91,7 @@ def apply_prompt(chunk_text, question):
     #     f"Context information is below.\n---------------------\n{chunk_text}\n---------------------\n\n\n\n\n\nGiven the context information and not prior knowledge, answer the query.\nQuery: {question}"
     # )
     # full_prompt = f"Instruction: Read the corporate climate report below and answer the query.\n---------------------\n{chunk_text}\n---------------------\n\n\n\n\n\nGiven the context information and not prior knowledge, answer the query.\nQuery: {question}"
-    full_prompt = f"{question}\n\n\n\n\n—— REPORT START ——\n{chunk_text}—— REPORT END ——"
+    full_prompt = f"{question}"
 
     return full_prompt
 
@@ -125,7 +125,7 @@ def apply_text(all_chunk_text):
     return full_text
 
 def query_model(model, tokenizer, query, docs):
-    pipe = pipeline("text-generation", model=model, max_new_tokens=1, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,temperature=0.7, do_sample=True)
+    pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,temperature=0.7, do_sample=True)
     # pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16,  device_map='auto',tokenizer=tokenizer,temperature=0.7, attn_implementation="flash_attention_2", do_sample=True)
     # pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16,  device_map='auto',tokenizer=tokenizer)
     # pipe.model = pipe.model.to('auto')
@@ -133,9 +133,9 @@ def query_model(model, tokenizer, query, docs):
     all_chunk_text = format_docs(docs)
 
     full_prompt = apply_prompt(all_chunk_text, query)
-    messages = [{"role": "system", "content": "You are a meticulous emissions-disclosure analyst. Your job is to read a corporate sustainability report (provided) and judge the company's emissions tracking and reporting."},{"role": "user", "content": full_prompt}]
-
-    results = pipe(messages, max_new_tokens=1, temperature=0.7, do_sample=True)
+    messages = [{"role": "system", "content": "You are a meticulous emissions-disclosure analyst. Your job is to read a corporate sustainability report (provided) and judge the company's emissions tracking and reporting."},{"role": "user", "content": full_prompt},{"role": "user", "content": apply_text(all_chunk_text)}]
+            
+    results = pipe(messages, max_new_tokens=256, temperature=0.7, do_sample=True)
     # results = pipe(messages, max_new_tokens=256)
     return results
 
@@ -164,7 +164,7 @@ def run_year(model_params, year):
 
     vector_store = setup_vector_store(document_folder, glob, tokenizer)
 
-    query_df = load_jsonl("raw_label_data/tp_questions.jsonl")
+    query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
     all_results = []
     for i, source in enumerate(sources):
@@ -177,21 +177,21 @@ def run_year(model_params, year):
             docs = truncate_documents(docs, max_docs_len)
             assert len(docs) > 0, len(docs)
             full_chat = query_model(model, tokenizer, query, docs)
-            llm_response = full_chat[0]['generated_text'][2]['content']
+            llm_response = full_chat[0]['generated_text'][3]['content']
             company_answers[j] = llm_response
             # print("QUESTION ", j)
             # print("\n")
             # print(llm_response)
             # print("\n\n")
         all_results.append(company_answers)
-        with open(f"results_round_3/tp_{year}_{model_name}_results.jsonl.temp", "a") as f:
+        with open(f"results_round_3/ccrm_{year}_{model_name}_results.jsonl.temp", "a") as f:
                 json.dump(company_answers,f)
                 f.write("\n")
         if i % 5 == 0:
             print(i)
 
         
-    with open(f"results_round_3/tp_{year}_{model_name}_results.jsonl", "w", newline='') as f:
+    with open(f"results_round_3/ccrm_{year}_{model_name}_results.jsonl", "w", newline='') as f:
          for d in all_results:
             json.dump(d, f)
             f.write('\n')
@@ -210,7 +210,7 @@ def run_company(model_params, company, year):
     source = f"{company}_{str(int(year)-2)}"
     vector_store = setup_vector_store(document_folder, glob, tokenizer)
 
-    query_df = load_jsonl("raw_label_data/tp_questions.jsonl")
+    query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
     company_answers = {"source": company}
     print("source", source)
@@ -225,15 +225,15 @@ def run_company(model_params, company, year):
         # print([doc.metadata["tok_len"] for doc in docs])
 
         all_chunk_text = format_docs(docs)
-        # print("\n\nall chunk text")
-        # print(all_chunk_text)
+        print("\n\nall chunk text")
+        print(all_chunk_text)
         full_chat = query_model(model, tokenizer, query, docs)
-        llm_response = full_chat[0]['generated_text'][2]['content']
+        llm_response = full_chat[0]['generated_text'][3]['content']
         company_answers[j] = llm_response
-        # print("QUESTION ", j)
-        # print("\n")
-        # print(llm_response)
-        # print("\n\n")
+        print("QUESTION ", j)
+        print("\n")
+        print(llm_response)
+        print("\n\n")
         with open(f"{company}_{year}_{model_name}_results.jsonl.temp", "a") as f:
             json.dump(company_answers,f)
             f.write("\n")
@@ -242,12 +242,12 @@ def run_company(model_params, company, year):
 
 
 if __name__ == "__main__":
-    # model_params_1 = climategpt_7b_setup()
-    # model_params_2 = qwen_setup()
-    model_params_3 = ministral_8b_it_setup()
+    model_params_1 = climategpt_7b_setup()
+    model_params_2 = qwen_setup()
+    # model_params_3 = ministral_8b_it_setup()
     # model_params_4 = climategpt_13b_setup()
-    for model_params in [model_params_3]:
+    for model_params in [model_params_1, model_params_2]:
         run_year(model_params, year="2022")
         gc.collect()
         torch.cuda.empty_cache()
-    # run_company(model_params_1, company="danone", year="2023")
+    # run_company(model_params_1, company="accenture", year="2023")

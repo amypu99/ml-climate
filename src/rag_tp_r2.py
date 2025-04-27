@@ -40,7 +40,7 @@ from langchain_community.document_loaders.json_loader import JSONLoader
 from langchain_community.document_loaders import DirectoryLoader
 
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
-os.environ["CUDA_VISIBLE_DEVICES"] = "7"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 CHUNK_LEN = 2200
@@ -151,7 +151,7 @@ def get_query_len(query, tokenizer):
 def run_year(model_params, year):
     model, tokenizer, max_seq_len, model_name = model_params["model"], model_params["tokenizer"], model_params["max_seq_len"], model_params["name"]
     assert max_seq_len > CHUNK_LEN
-    document_folder = f"climate_reports/round_2_reports_olmocr_indexed/{year}/"
+    document_folder = f"climate_reports/round_3_reports_olmocr_indexed/{year}/"
     glob = "*.jsonl"
 
     sources = []
@@ -184,14 +184,14 @@ def run_year(model_params, year):
             # print(llm_response)
             # print("\n\n")
         all_results.append(company_answers)
-        with open(f"results_round_2/tp_{year}_{model_name}_results.jsonl.temp", "a") as f:
+        with open(f"results_round_3/tp_{year}_{model_name}_results.jsonl.temp", "a") as f:
                 json.dump(company_answers,f)
                 f.write("\n")
         if i % 5 == 0:
             print(i)
 
         
-    with open(f"results_round_2/tp_{year}_{model_name}_results.jsonl", "w", newline='') as f:
+    with open(f"results_round_3/tp_{year}_{model_name}_results.jsonl", "w", newline='') as f:
          for d in all_results:
             json.dump(d, f)
             f.write('\n')
@@ -205,7 +205,7 @@ def run_company(model_params, company, year):
     model, tokenizer, max_seq_len, model_name = model_params["model"], model_params["tokenizer"], model_params["max_seq_len"], model_params["name"]
     print("max_seq_len", max_seq_len)
     assert max_seq_len > CHUNK_LEN
-    document_folder = f"climate_reports/round_2_reports_olmocr_indexed/{year}/"
+    document_folder = f"climate_reports/round_3_reports_olmocr_indexed/{year}/"
     glob = f"{company}*.jsonl"
     source = f"{company}_{str(int(year)-2)}"
     vector_store = setup_vector_store(document_folder, glob, tokenizer)
@@ -242,13 +242,12 @@ def run_company(model_params, company, year):
 
 
 if __name__ == "__main__":
-    # model_params_1 = climategpt_7b_setup()
+    model_params_1 = climategpt_7b_setup()
     model_params_2 = qwen_setup()
     # model_params_3 = ministral_8b_it_setup()
     # model_params_4 = climategpt_13b_setup()
-    for model_params in [model_params_2]:
-        for year in ["2023", "2024"]:
-            run_year(model_params, year=year)
+    for model_params in [model_params_1, model_params_2]:
+        run_year(model_params, year="2022")
         gc.collect()
         torch.cuda.empty_cache()
     # run_company(model_params_1, company="danone", year="2023")

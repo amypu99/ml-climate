@@ -125,7 +125,7 @@ def apply_text(all_chunk_text):
     return full_text
 
 def query_model(model, tokenizer, query, docs):
-    pipe = pipeline("text-generation", model=model, max_new_tokens=1, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,temperature=0.7, do_sample=True)
+    pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,temperature=0.7, do_sample=True)
     # pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16,  device_map='auto',tokenizer=tokenizer,temperature=0.7, attn_implementation="flash_attention_2", do_sample=True)
     # pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16,  device_map='auto',tokenizer=tokenizer)
     # pipe.model = pipe.model.to('auto')
@@ -134,8 +134,8 @@ def query_model(model, tokenizer, query, docs):
 
     full_prompt = apply_prompt(all_chunk_text, query)
     messages = [{"role": "system", "content": "You are a meticulous emissions-disclosure analyst. Your job is to read a corporate sustainability report (provided) and judge the company's emissions tracking and reporting."},{"role": "user", "content": full_prompt}]
-
-    results = pipe(messages, max_new_tokens=1, temperature=0.7, do_sample=True)
+            
+    results = pipe(messages, max_new_tokens=256, temperature=0.7, do_sample=True)
     # results = pipe(messages, max_new_tokens=256)
     return results
 
@@ -164,7 +164,7 @@ def run_year(model_params, year):
 
     vector_store = setup_vector_store(document_folder, glob, tokenizer)
 
-    query_df = load_jsonl("raw_label_data/tp_questions.jsonl")
+    query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
     all_results = []
     for i, source in enumerate(sources):
@@ -184,14 +184,14 @@ def run_year(model_params, year):
             # print(llm_response)
             # print("\n\n")
         all_results.append(company_answers)
-        with open(f"results_round_3/tp_{year}_{model_name}_results.jsonl.temp", "a") as f:
+        with open(f"results_round_3/ccrm_{year}_{model_name}_results.jsonl.temp", "a") as f:
                 json.dump(company_answers,f)
                 f.write("\n")
         if i % 5 == 0:
             print(i)
 
         
-    with open(f"results_round_3/tp_{year}_{model_name}_results.jsonl", "w", newline='') as f:
+    with open(f"results_round_3/ccrm_{year}_{model_name}_results.jsonl", "w", newline='') as f:
          for d in all_results:
             json.dump(d, f)
             f.write('\n')
@@ -210,7 +210,7 @@ def run_company(model_params, company, year):
     source = f"{company}_{str(int(year)-2)}"
     vector_store = setup_vector_store(document_folder, glob, tokenizer)
 
-    query_df = load_jsonl("raw_label_data/tp_questions.jsonl")
+    query_df = load_jsonl("CCRM/questions.jsonl")
     queries = query_df.question.to_list()
     company_answers = {"source": company}
     print("source", source)
@@ -225,15 +225,15 @@ def run_company(model_params, company, year):
         # print([doc.metadata["tok_len"] for doc in docs])
 
         all_chunk_text = format_docs(docs)
-        # print("\n\nall chunk text")
-        # print(all_chunk_text)
+        print("\n\nall chunk text")
+        print(all_chunk_text)
         full_chat = query_model(model, tokenizer, query, docs)
         llm_response = full_chat[0]['generated_text'][2]['content']
         company_answers[j] = llm_response
-        # print("QUESTION ", j)
-        # print("\n")
-        # print(llm_response)
-        # print("\n\n")
+        print("QUESTION ", j)
+        print("\n")
+        print(llm_response)
+        print("\n\n")
         with open(f"{company}_{year}_{model_name}_results.jsonl.temp", "a") as f:
             json.dump(company_answers,f)
             f.write("\n")
@@ -250,4 +250,4 @@ if __name__ == "__main__":
         run_year(model_params, year="2022")
         gc.collect()
         torch.cuda.empty_cache()
-    # run_company(model_params_1, company="danone", year="2023")
+    # run_company(model_params_1, company="accenture", year="2023")
