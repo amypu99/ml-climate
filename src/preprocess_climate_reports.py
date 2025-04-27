@@ -26,6 +26,19 @@ def create_indices_round_2_reports():
             with open(f"climate_reports/round_2_reports_olmocr_indexed/"+filename, "w") as outfile:
                 outfile.write(json.dumps(data))
 
+def create_indices_tp_reports():
+    document_folder = f"climate_reports/tp_reports_olmocr/results/"
+
+    for filename in os.listdir(document_folder):
+        with open(document_folder+filename, "r") as f:
+            # print("filename", filename)
+            data = json.load(f)
+            source = data["metadata"]["Source-File"].replace(".pdf", "").replace(f"climate_reports/tp_reports/", "")
+            data["source"] = source
+            # print(f"climate_reports/tp_reports_olmocr_indexed/"+source+".jsonl")
+            with open(f"climate_reports/tp_reports_olmocr_indexed/"+source+".jsonl", "w") as outfile:
+                outfile.write(json.dumps(data))
+
 def count_training_data():
     training_examples = set()
     for year in ["2022", "2023", "2024"]:
@@ -47,11 +60,22 @@ def count_training_data():
             writer.writerow([item])
     # print(len(training_examples))
 
+def count_duplicates():
+    training_examples = set()
+    for year in ["2022", "2023", "2024"]:
+        document_folder = f"climate_reports/ccrm_{year}_olmocr/indexed/"
+        for filename in os.listdir(document_folder):
+            training_examples.add(filename.replace(document_folder, "").replace(".jsonl", ""))
+        document_folder = f"climate_reports/round_2_reports_olmocr_indexed/{year}/"
+        for filename in os.listdir(document_folder):
+            training_examples.add(filename.replace(document_folder, "").replace(".jsonl", ""))
+    document_folder = f"climate_reports/tp_reports_olmocr_indexed/"
+    second_set = set()
+    for filename in os.listdir(document_folder):
+        second_set.add(filename.replace(".jsonl", ""))
+    print(training_examples.intersection(second_set))
+
 def update_labels():
-    # with open("merge_data/final.csv", "r") as f:
-    # def map_func(company, year)
-
-
     df = pd.read_csv("merge_data/final.csv")
     # x = df["Company"].str.lower()
     df['training_idx'] = df['Company'].str.lower() + '_' + (df['Year'] - 2).astype(str)
@@ -63,5 +87,7 @@ def update_labels():
 if __name__ == "__main__":
     # create_indices_ccrm()
     # create_indices_round_2_reports()
-    count_training_data()
+    # count_training_data()
     # update_labels()
+    # create_indices_tp_reports()
+    count_duplicates()
