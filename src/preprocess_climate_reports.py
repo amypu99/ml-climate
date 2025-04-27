@@ -41,7 +41,21 @@ def count_training_data():
     print(training_examples)
     print(len(training_examples))
 
+def update_labels():
+    # with open("merge_data/final.csv", "r") as f:
+    # def map_func(company, year)
+
+
+    df = pd.read_csv("merge_data/final.csv")
+    # x = df["Company"].str.lower()
+    df['training_idx'] = df['Company'].str.lower() + '_' + (df['Year'] - 2).astype(str)
+    df.to_csv("merge_data/final_w_training.csv", index=False)
+    # print(df['training_idx'])
+
+
+
 if __name__ == "__main__":
     # create_indices_ccrm()
     # create_indices_round_2_reports()
-    count_training_data()
+    # count_training_data()
+    update_labels()
