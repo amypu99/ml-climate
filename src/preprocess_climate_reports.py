@@ -39,7 +39,13 @@ def count_training_data():
     for filename in os.listdir(document_folder):
         training_examples.add(filename.replace(document_folder, "").replace(".pdf", ""))
     print(training_examples)
-    print(len(training_examples))
+    import csv
+
+    with open('training_idx.csv', 'w', newline='') as file:
+        writer = csv.writer(file)
+        for item in training_examples:
+            writer.writerow([item])
+    # print(len(training_examples))
 
 def update_labels():
     # with open("merge_data/final.csv", "r") as f:
@@ -57,5 +63,5 @@ def update_labels():
 if __name__ == "__main__":
     # create_indices_ccrm()
     # create_indices_round_2_reports()
-    # count_training_data()
-    update_labels()
+    count_training_data()
+    # update_labels()
