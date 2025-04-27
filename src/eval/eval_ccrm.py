@@ -12,7 +12,7 @@ label_mapping = {
     "moderate": 2,
     "reasonable": 3,
     "high": 4,
-    "unknown": np.nan  # or use -1 if you prefer
+    "unknown": -1
 }
 
 # Helper function to extract the first label found
