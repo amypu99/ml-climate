@@ -67,3 +67,23 @@ Additionally, we integrated Retrieval-Augmented Generation (RAG) into our LLM pi
 Interestingly, we observed that the model sometimes performed better without RAG when asked direct factual questions. For example, extracting emissions data or target years tended to be more accurate in the standard prompting setup. We plan to investigate whether a hybrid method might work best—using RAG to surface evidence and the base model to extract the final answer.
 
 Overall, we’ve made solid progress on the modeling front, and our next steps will include improving our chunk splitting algorithm, refining our PDF extraction pipeline using olmocr, and fine-tuning prompts to strike a better balance between specificity and interpretability.
+
+## Weeks of 04/14 and 04/21
+This week centered on improving the prompting strategy for climate-related question answering, resolving model-specific context issues, expanding the labeled dataset, and generating model outputs at scale.
+
+The initial focus was on testing the first five Transition Pathways (TP) questions using a retrieval-augmented prompting setup. The questions were run with k_docs = 5 and the instruction: "Answer with only one 'Yes', 'No', or 'Not Applicable'". Inference was executed using max_new_tokens = 1, which produced stable and concise answers compared to previous settings (max_new_tokens = 200/256) that caused verbose and inconsistent outputs. Across models like ClimateGPT, Qwen, and Mistral, the revised prompting format performed well, often aligning with expected labels. There were instances where the model output differed from the TP label (e.g., outputting “Yes” when the TP label was “No”), but upon manual inspection of the retrieved documents, the model’s response was justifiable based on textual evidence. This highlighted some ambiguity in the source labeling or the input documents used.
+
+To better align with each model’s capabilities, the number of documents retrieved (k_docs) was adjusted dynamically depending on model context window size. ClimateGPT, with a shorter effective context, performed better with fewer documents, while models like Qwen were more robust with longer inputs.
+
+A new jsonl file containing all TP questions was created to enable batch execution. Inference was then run across multiple model-question combinations, including:
+1. ClimateGPT on all CCRM companies for both CCRM and TP questions
+2. Qwen and Mistral on all CCRM companies for CCRM questions
+3. olmOCR-based conversion of CCRM company reports into chunked JSONL for input.
+
+To address the limited number of labeled examples (~100 companies), label interpolation was implemented for additional TP-only companies. This involved identifying companies present only in the TP dataset (excluding CCRM) and using feature-based similarity to interpolate CCRM-style labels (e.g., transparency/integrity scores). Encoding categorical fields and applying label transfer logic took ~2 hours of implementation. Fortune 500 tech companies from the TP dataset were prioritized for interpolation, followed by additional random TP companies to reach a target of 300 labeled rows.
+
+All interpolated companies had their sustainability reports located and processed via OCR, which took **several hours** to complete. These documents were then used to run ClimateGPT on both CCRM and TP question sets, yielding model outputs for all interpolated entries.
+
+Issues in CSV formatting caused by LLM answers containing commas were also resolved. Previously, the output files failed to parse correctly due to comma-based misalignment between columns. The formatting logic was updated to handle such cases.
+
+Model evaluation was then performed by comparing generated responses with interpolated and ground-truth labels. Model performance varied slightly across question types and document length. Prompt tuning (e.g., explicitly setting single-token constraints) and temperature adjustments were also explored to reduce gibberish outputs. All results were compiled into a final merged dataset, and a visual breakdown was prepared for presentation in class on Monday.
