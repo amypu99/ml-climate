@@ -35,7 +35,7 @@ os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 CHUNK_LEN = 2200
 TOKEN_GEN_LEN = {"ccrm": 256, "tp": 1}
-QUESTIONS_FILEPATH = {"ccrm": "CCRM_labels/questions_temp.jsonl", "tp": "raw_label_data/tp_questions.jsonl"}
+QUESTIONS_FILEPATH = {"ccrm": "questions/ccrm_questions.jsonl", "tp": "questions/tp_questions.jsonl"}
 
 def get_model_params(model):
     if model == "climategpt-7b":
