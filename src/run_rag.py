@@ -33,6 +33,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "4"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 CHUNK_LEN = 2200
+TOKEN_GEN_LEN = {"ccrm": 256, "tp": 1}
 
 def get_model_params(model):
     if model == "climategpt-7b":
@@ -91,17 +92,26 @@ def format_report(all_chunk_text):
     full_text = f"\n\n\n\n\n—— REPORT START ——\n{all_chunk_text}—— REPORT END ——"
     return full_text
 
-def query_model(model, tokenizer, query, docs):
-    pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,temperature=0.7, do_sample=True)
+def combine_question_and_docs(chunk_text, question):
+    full_prompt = f"{question}\n\n\n\n\n—— REPORT START ——\n{chunk_text}—— REPORT END ——"
+    return full_prompt
+
+
+def query_model(model, model_name, tokenizer, query, docs, max_new_tokens=256):
+    pipe = pipeline("text-generation", model=model, max_new_tokens=max_new_tokens, torch_dtype=torch.bfloat16, device_map='cuda', tokenizer=tokenizer,temperature=0.7, do_sample=True)
     # pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16,  device_map='auto',tokenizer=tokenizer,temperature=0.7, attn_implementation="flash_attention_2", do_sample=True)
     # pipe = pipeline("text-generation", model=model, max_new_tokens=256, torch_dtype=torch.bfloat16,  device_map='auto',tokenizer=tokenizer)
     # pipe.model = pipe.model.to('auto')
 
     all_chunk_text = format_docs(docs)
-
     messages = [{"role": "system", "content": "You are a meticulous emissions-disclosure analyst. Your job is to read a corporate sustainability report (provided) and judge the company's emissions tracking and reporting."},{"role": "user", "content": f"{query}"},{"role": "user", "content": format_report(all_chunk_text)}]
+
+    # Ministral requires that the messages switch from user to assistant, will not accept 2 user messages sequentially
+    if model_name == "ministral-8B":
+        full_prompt = combine_question_and_docs(all_chunk_text, query)
+        messages = [{"role": "system", "content": "You are a meticulous emissions-disclosure analyst. Your job is to read a corporate sustainability report (provided) and judge the company's emissions tracking and reporting."},{"role": "user", "content": full_prompt}]
             
-    results = pipe(messages, max_new_tokens=256, temperature=0.7, do_sample=True)
+    results = pipe(messages, max_new_tokens=max_new_tokens, temperature=0.7, do_sample=True)
     return results
 
 
@@ -146,8 +156,12 @@ def run_year(model_params, year, document_dir, assessment_source="ccrm"):
             max_docs_len = max_seq_len - query_len
             docs = truncate_documents(docs, max_docs_len)
             assert len(docs) > 0, len(docs)
-            full_chat = query_model(model, tokenizer, query, docs)
-            llm_response = full_chat[0]['generated_text'][3]['content']
+            max_new_tokens = TOKEN_GEN_LEN[assessment_source]
+            full_chat = query_model(model, model_name, tokenizer, query, docs, max_new_tokens)
+            if model_name == "ministral-8B":
+                llm_response = full_chat[0]['generated_text'][2]['content']
+            else: 
+                llm_response = full_chat[0]['generated_text'][3]['content']
             company_answers[j] = llm_response
 
         all_results.append(company_answers)
