@@ -30,11 +30,12 @@ from langchain_community.document_loaders.json_loader import JSONLoader
 from langchain_community.document_loaders import DirectoryLoader
 
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
-os.environ["CUDA_VISIBLE_DEVICES"] = "4"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 CHUNK_LEN = 2200
 TOKEN_GEN_LEN = {"ccrm": 256, "tp": 1}
+QUESTIONS_FILEPATH = {"ccrm": "CCRM_labels/questions_temp.jsonl", "tp": "raw_label_data/tp_questions.jsonl"}
 
 def get_model_params(model):
     if model == "climategpt-7b":
@@ -140,11 +141,7 @@ def run_year(model_params, year, document_dir, assessment_source="ccrm"):
 
     vector_store = setup_vector_store(document_dir, glob, tokenizer)
 
-    if assessment_source == "ccrm":
-        questions_jsonl = "CCRM/questions.jsonl"
-    elif assessment_source == "tp":
-        questions_jsonl = "raw_label_data/tp_questions.jsonl"
-    
+    questions_jsonl = QUESTIONS_FILEPATH[assessment_source]
     query_df = load_jsonl(questions_jsonl)
     queries = query_df.question.to_list()
     all_results = []
@@ -166,14 +163,14 @@ def run_year(model_params, year, document_dir, assessment_source="ccrm"):
             company_answers[j] = llm_response
 
         all_results.append(company_answers)
-        with open(f"results/{assessment_source}_{year}_{model_name}_results.jsonl.temp", "a") as f:
+        with open(f"temp_results/{assessment_source}_{year}_{model_name}_results.jsonl.temp", "a") as f:
                 json.dump(company_answers,f)
                 f.write("\n")
         if i % 5 == 0:
             print(i)
 
         
-    with open(f"results/{assessment_source}_{year}_{model_name}_results.jsonl", "w", newline='') as f:
+    with open(f"temp_results/{assessment_source}_{year}_{model_name}_results.jsonl", "w", newline='') as f:
          for d in all_results:
             json.dump(d, f)
             f.write('\n')
@@ -194,8 +191,8 @@ if __name__ == "__main__":
     parser.add_argument("--assessment_source", default="", help="Assement source, either ccrm or tp")
     args = parser.parse_args()
     
-
     if args.model and args.year and args.document_dir and args.assessment_source:
+        print("good args!")
         model_params = get_model_params(args.model)
         assert model_params, "Model params cannot be None"
         year = args.year
@@ -204,8 +201,10 @@ if __name__ == "__main__":
     else:
         model_params = climategpt_7b_setup()
         year = "2023"
-        document_dir = f"climate_reports/ccrm_{year}_olmocr/indexed/"
-        run_year(model_params=model_params, year=year, document_dir=document_dir, assessment_source="ccrm")
+        document_dir = f"climate_reports/ccrm_{year}_olmocr/"
+        assessment_source = "ccrm"
+    
+    run_year(model_params=model_params, year=year, document_dir=document_dir, assessment_source=assessment_source)
 
         # model_params_1 = climategpt_7b_setup()
         # model_params_2 = qwen_setup()
