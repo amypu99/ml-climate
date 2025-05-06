@@ -11,6 +11,7 @@ import os
 import pandas as pd
 import json
 import torch
+import gc
 from itertools import accumulate
 from transformers import (
     pipeline
@@ -183,12 +184,16 @@ def add_token_count(document, tokenizer):
     return document
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="For running RAG on a year")
+    gc.collect()
+    torch.cuda.empty_cache()
+
+    parser = argparse.ArgumentParser(description="Given a year for evaluation and a model, run RAG on all companies for that year")
     parser.add_argument("--model", default="", help="Model name")
     parser.add_argument("--year", default="", help="Year of company")
     parser.add_argument("--document_dir", default="", help="Directory of training/eval documents")
     parser.add_argument("--assessment_source", default="", help="Assement source, either ccrm or tp")
     args = parser.parse_args()
+    
 
     if args.model and args.year and args.document_dir and args.assessment_source:
         model_params = get_model_params(args.model)
@@ -196,17 +201,18 @@ if __name__ == "__main__":
         year = args.year
         document_dir = args.document_dir
         assessment_source = args.assessment_source
+    else:
+        model_params = climategpt_7b_setup()
+        year = "2023"
+        document_dir = f"climate_reports/ccrm_{year}_olmocr/indexed/"
+        run_year(model_params=model_params, year=year, document_dir=document_dir, assessment_source="ccrm")
 
-    document_dir = f"climate_reports/ccrm_{year}_olmocr/indexed/"
-    run_year(model_params=model_params, year=year, document_dir=document_dir, assessment_source="ccrm")
-
-    # model_params_1 = climategpt_7b_setup()
-    # model_params_2 = qwen_setup()
-    # model_params_3 = ministral_8b_it_setup()
-    # model_params_4 = climategpt_13b_setup()
-    # for model_params in [model_params_1]:
-    #     for year in ["2023", "2024"]:
-    #         run_year(model_params, year=year)
-    #     gc.collect()
-    #     torch.cuda.empty_cache()
-    # run_company(model_params_1, company="e_on", year="2022")
+        # model_params_1 = climategpt_7b_setup()
+        # model_params_2 = qwen_setup()
+        # model_params_3 = ministral_8b_it_setup()
+        # model_params_4 = climategpt_13b_setup()
+        # for model_params in [model_params_1]:
+        #     for year in ["2023", "2024"]:
+        #         run_year(model_params, year=year)
+        #     gc.collect()
+        #     torch.cuda.empty_cache()
