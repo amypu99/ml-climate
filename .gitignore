@@ -1,23 +1,25 @@
 # training data
 src/climate_reports/ccrm_2024.zip
-src/climate_reports/ccrm_2024
-src/climate_reports/ccrm_2024/*
-
 src/climate_reports/ccrm_2023.zip
-src/climate_reports/ccrm_2023
-src/climate_reports/ccrm_2023/*
-
-
 src/climate_reports/ccrm_2022.zip
-src/climate_reports/ccrm_2022
-src/climate_reports/ccrm_2022/*
+
+src/climate_reports/pdfs/
+src/climate_reports/pdfs/*
+src/climate_reports/pdfs/ccrm_2022/
+src/climate_reports/pdfs/ccrm_2022/*
+src/climate_reports/pdfs/ccrm_2023
+src/climate_reports/pdfs/ccrm_2023/*
+src/climate_reports/pdfs/ccrm_2024
+src/climate_reports/pdfs/ccrm_2024/*
 
 src/climate_reports/additional_reports/*
+src/climate_reports/round_2_reports
 src/climate_reports/round_2_reports/*
 src/climate_reports/round_2_reports_olmocr/*
 src/climate_reports/round_3_reports/*
 src/climate_reports/round_3_reports_olmocr/*
 
+src/climate_reports/tp_reports
 src/climate_reports/tp_reports/*
 
 src/test.py

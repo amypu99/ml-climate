@@ -169,8 +169,6 @@ def add_token_count(document, tokenizer):
     return document
 
 if __name__ == "__main__":
-    document_dir = f"climate_reports/ccrm_{year}_olmocr/indexed/"
-
     parser = argparse.ArgumentParser(description="For running RAG on a year")
     parser.add_argument("--model", default="", help="Model name")
     parser.add_argument("--year", default="", help="Year of company")
@@ -185,6 +183,7 @@ if __name__ == "__main__":
         document_dir = args.document_dir
         assessment_source = args.assessment_source
 
+    document_dir = f"climate_reports/ccrm_{year}_olmocr/indexed/"
     run_year(model_params=model_params, year=year, document_dir=document_dir, assessment_source="ccrm")
 
     # model_params_1 = climategpt_7b_setup()
