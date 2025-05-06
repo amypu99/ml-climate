@@ -6,6 +6,7 @@
 # pip install -U langchain-core
 
 
+import argparse
 import os
 import pandas as pd
 import json
@@ -32,6 +33,19 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "4"
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 CHUNK_LEN = 2200
+
+def get_model_params(model):
+    if model == "climategpt-7b":
+        return climategpt_7b_setup()
+    elif model == "climategpt-13b":
+        return climategpt_13b_setup()
+    elif model == "qwen":
+        return qwen_setup()
+    elif model == "Ministral-8B":
+        return ministral_8b_it_setup()
+    else:
+        return None
+
 
 def load_jsonl(filepath):
     data = []
@@ -99,23 +113,28 @@ def truncate_documents(documents, max_seq_len):
 def get_query_len(query, tokenizer):
     return len(tokenizer(query)["input_ids"])
 
-def run_year(model_params, year):
+def run_year(model_params, year, document_dir, assessment_source="ccrm"):
+    assert assessment_source == "ccrm" or assessment_source == "tp", "Assessment source must be ccrm or tp"
     model, tokenizer, max_seq_len, model_name = model_params["model"], model_params["tokenizer"], model_params["max_seq_len"], model_params["name"]
     assert max_seq_len > CHUNK_LEN
-    document_folder = f"climate_reports/ccrm_{year}_olmocr/indexed/"
     glob = "*.jsonl"
 
     sources = []
-    for filename in os.listdir(document_folder):
-        with open(document_folder+filename, "r") as f:
+    for filename in os.listdir(document_dir):
+        with open(document_dir+filename, "r") as f:
             df = pd.read_json(f, lines=True)
             assert len(df.source.to_list()) == 1
             source = df.source.to_list()[0]
             sources.append(source)
 
-    vector_store = setup_vector_store(document_folder, glob, tokenizer)
+    vector_store = setup_vector_store(document_dir, glob, tokenizer)
 
-    query_df = load_jsonl("CCRM/questions.jsonl")
+    if assessment_source == "ccrm":
+        questions_jsonl = "CCRM/questions.jsonl"
+    elif assessment_source == "tp":
+        questions_jsonl = "raw_label_data/tp_questions.jsonl"
+    
+    query_df = load_jsonl(questions_jsonl)
     queries = query_df.question.to_list()
     all_results = []
     for i, source in enumerate(sources):
@@ -132,14 +151,14 @@ def run_year(model_params, year):
             company_answers[j] = llm_response
 
         all_results.append(company_answers)
-        with open(f"results/ccrm_{year}_{model_name}_results.jsonl.temp", "a") as f:
+        with open(f"results/{assessment_source}_{year}_{model_name}_results.jsonl.temp", "a") as f:
                 json.dump(company_answers,f)
                 f.write("\n")
         if i % 5 == 0:
             print(i)
 
         
-    with open(f"results/ccrm_{year}_{model_name}_results.jsonl", "w", newline='') as f:
+    with open(f"results/{assessment_source}_{year}_{model_name}_results.jsonl", "w", newline='') as f:
          for d in all_results:
             json.dump(d, f)
             f.write('\n')
@@ -150,6 +169,24 @@ def add_token_count(document, tokenizer):
     return document
 
 if __name__ == "__main__":
+    document_dir = f"climate_reports/ccrm_{year}_olmocr/indexed/"
+
+    parser = argparse.ArgumentParser(description="For running RAG on a year")
+    parser.add_argument("--model", default="", help="Model name")
+    parser.add_argument("--year", default="", help="Year of company")
+    parser.add_argument("--document_dir", default="", help="Directory of training/eval documents")
+    parser.add_argument("--assessment_source", default="", help="Assement source, either ccrm or tp")
+    args = parser.parse_args()
+
+    if args.model and args.year and args.document_dir and args.assessment_source:
+        model_params = get_model_params(args.model)
+        assert model_params, "Model params cannot be None"
+        year = args.year
+        document_dir = args.document_dir
+        assessment_source = args.assessment_source
+
+    run_year(model_params=model_params, year=year, document_dir=document_dir, assessment_source="ccrm")
+
     # model_params_1 = climategpt_7b_setup()
     # model_params_2 = qwen_setup()
     # model_params_3 = ministral_8b_it_setup()
