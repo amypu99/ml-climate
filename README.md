@@ -28,5 +28,69 @@ The final dataset includes:
 All reports were manually retrieved and OCR'd using `olmOCR`, then parsed into LangChain documents for LLM ingestion.
 
 ---
+## 📊 Dataset Overview
 
+The final dataset includes:
+
+- **236 firm-year entries**  
+- **CCRM Labels (2022–2024)**: Transparency and integrity scores (6 levels)  
+- **TP Binary Answers**: 23 yes/no climate-readiness questions  
+- **Metadata**: Sector, country, year, and report provenance  
+
+All reports were manually retrieved and OCR'd using `olmOCR`, then parsed into LangChain documents for LLM ingestion.
+
+---
+
+## 🛠️ Pipeline Overview
+
+### 1. Text Extraction (olmOCR)
+
+```bash
+python src/preprocess_climate_reports.py
+```
+### 2. Recursive Chunking & Embedding
+
+Documents are chunked at ~2,200 tokens with overlap, embedded via MiniLM, and stored for retrieval.
+
+### 3. RAG Prompting & Inference
+
+```bash
+python run_rag.py
+```
+Prompts embed the full CCRM rubric to improve grounding and reduce hallucination.
+
+### 4. Evaluation
+```bash
+python eval/evaluate_model.py
+```
+Accuracy and numeric MAE are computed by comparing model outputs to expert labels.
+
+## 📌 Lessons & Limitations
+
+- ✅ **Embedding rubrics into prompts boosts label fidelity and reduces noise**
+- 🚫 Qwen and Mistral underperformed without domain tuning
+- ⚠️ OCR errors in tabular data can reduce numeric accuracy
+- 🧊 Chunked retrieval beats naive summarization or truncation
+
+---
+
+## 🧪 Future Directions
+
+- Fine-tuning LLMs on rubric-scored climate data  
+- Incorporating charts/tables via multimodal models  
+- Expanding to real-time monitoring with FAISS indexing  
+
+---
+
+## 📚 Citation
+
+If you use this repo or dataset, please cite:
+
+```bibtex
+@article{2025automatingcorporategreenwashing,
+  title={Automating Corporate Greenwashing Detection Using Natural Language Processing},
+  author={Lin, Nicole and Pu, Amy},
+  journal={Columbia University},
+  year={2025}
+}
 
