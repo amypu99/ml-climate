@@ -18,7 +18,7 @@ This project presents an end-to-end NLP pipeline to assess corporate climate cla
 
 ## 📊 Dataset Overview
 
-The [final dataset](./ml-climate/src/merge_data/updated_final_interpolated.csv) includes:
+The [final dataset](./src/merge_data/updated_final_interpolated.csv) includes:
 
 - **227 firm-year entries**  
 - **CCRM Labels (2022–2024)**: Transparency and integrity scores (6 levels)  
