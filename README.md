@@ -33,18 +33,18 @@ All reports were manually retrieved and OCR'd using `olmOCR`, then parsed into L
 
 ### 1. Text Extraction (olmOCR)
 
-Processed sustainability reports, converted via olmOCR, are available at `./src/climate_reports`.
+Processed sustainability reports, converted via olmOCR, are available at `./src/climate_reports/all`.
 
 ### 2. Recursive Chunking & Embedding
 
 Documents are chunked at ~2,200 tokens with overlap, embedded via MiniLM, and stored for retrieval.
 
 ### 3. RAG Prompting & Inference
-Prompts include the full CCRM scoring rubric to ensure grounding and reduce hallucinations. Prompt templates are located in `./src/questions`.
+Prompts include the full CCRM scoring rubric to ensure grounding and reduce hallucinations. Prompt templates are located in `./src/questions`. Model setup is located at `./src/model_setup.py` and rag pipeline is defined in `./src/run_rag.py`.
 
 ### 4. Evaluation
 
-Model outputs for both CCRM and TPI assessments are saved in `./src/all_results`. Evaluation scripts and analysis results are in `./src/eval`.
+Model outputs for both CCRM and TPI assessments are saved in `./src/all_results/combined`. Evaluation scripts and analysis results are in `./src/eval`.
 
 ## 📌 Lessons & Limitations
 
