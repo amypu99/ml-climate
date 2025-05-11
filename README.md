@@ -18,7 +18,7 @@ This project presents an end-to-end NLP pipeline to assess corporate climate cla
 
 ## 📊 Dataset Overview
 
-The final dataset includes:
+The [final dataset](./ml-climate/src/merge_data/updated_final_interpolated.csv) includes:
 
 - **227 firm-year entries**  
 - **CCRM Labels (2022–2024)**: Transparency and integrity scores (6 levels)  
@@ -33,16 +33,18 @@ All reports were manually retrieved and OCR'd using `olmOCR`, then parsed into L
 
 ### 1. Text Extraction (olmOCR)
 
+Processed sustainability reports, converted via olmOCR, are available at `./src/climate_reports`.
+
 ### 2. Recursive Chunking & Embedding
 
 Documents are chunked at ~2,200 tokens with overlap, embedded via MiniLM, and stored for retrieval.
 
 ### 3. RAG Prompting & Inference
-Prompts embed the full CCRM rubric to improve grounding and reduce hallucination.
+Prompts include the full CCRM scoring rubric to ensure grounding and reduce hallucinations. Prompt templates are located in `./src/questions`.
 
 ### 4. Evaluation
 
-Accuracy and numeric MAE are computed by comparing model outputs to expert labels.
+Model outputs for both CCRM and TPI assessments are saved in `./src/all_results`. Evaluation scripts and analysis results are in `./src/eval`.
 
 ## 📌 Lessons & Limitations
 
