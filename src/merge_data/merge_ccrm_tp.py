@@ -1,7 +1,7 @@
 import pandas as pd
 
 ccrm = pd.read_csv("./CCRM/extracted_CCRM_combined.csv") 
-mq   = pd.read_csv("MQ_Assessments_Methodology_5_26032025.csv")
+mq   = pd.read_csv("./raw_label_data/TPI sector data - All sectors - 26032025/MQ_Assessments_Methodology_5_26032025.csv")
 
 ccrm["Name_std"] = ccrm["Name"].str.strip().str.upper()
 mq["Company Name_std"] = mq["Company Name"].str.strip().str.upper()
