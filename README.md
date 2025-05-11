@@ -44,7 +44,7 @@ Prompts include the full CCRM scoring rubric to ensure grounding and reduce hall
 
 ### 4. Evaluation
 
-Model outputs for both CCRM and TPI assessments are saved in `./src/all_results/combined`. Evaluation scripts and analysis results are in `./src/eval`.
+Model outputs for both CCRM and TPI assessments are saved in `./src/all_results/combined`. Evaluation scripts and analysis results are in `./src/eval`. Labels for CCRM and TPI are located at `.src/labels/merge_data/updated_final_interpolated.csv`
 
 ## 📌 Lessons & Limitations
 
