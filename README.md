@@ -33,7 +33,7 @@ All reports were manually retrieved and OCR'd using `olmOCR`, then parsed into L
 
 ### 1. Text Extraction (olmOCR)
 
-Processed sustainability reports, converted via olmOCR, are available at `./src/climate_reports/all`.
+All 227 processed sustainability reports, converted via olmOCR, are available at `./src/climate_reports/all`.
 
 ### 2. Recursive Chunking & Embedding
 
