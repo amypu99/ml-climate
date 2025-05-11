@@ -11,7 +11,7 @@ This project presents an end-to-end NLP pipeline to assess corporate climate cla
 - 🔎 High-fidelity OCR + Recursive Chunking + RAG for handling 100+ page reports  
 - 🤖 Evaluated 3 domain-adapted LLMs: ClimateGPT, Mistral-8B, and Qwen-1M  
 - 📈 Achieved up to **26% question-level accuracy** using rubric-grounded prompting  
-- 🗃️ Released a labeled dataset of 236 firm-year climate evaluations  
+- 🗃️ Released a labeled dataset of 227 firm-year climate evaluations  
 - 📦 Open-source pipeline for automated CCRM-style assessments  
 
 ---
@@ -20,22 +20,10 @@ This project presents an end-to-end NLP pipeline to assess corporate climate cla
 
 The final dataset includes:
 
-- **236 firm-year entries**  
+- **227 firm-year entries**  
 - **CCRM Labels (2022–2024)**: Transparency and integrity scores (6 levels)  
 - **TP Binary Answers**: 23 yes/no climate-readiness questions  
-- **Metadata**: Sector, country, year, and report provenance  
-
-All reports were manually retrieved and OCR'd using `olmOCR`, then parsed into LangChain documents for LLM ingestion.
-
----
-## 📊 Dataset Overview
-
-The final dataset includes:
-
-- **236 firm-year entries**  
-- **CCRM Labels (2022–2024)**: Transparency and integrity scores (6 levels)  
-- **TP Binary Answers**: 23 yes/no climate-readiness questions  
-- **Metadata**: Sector, country, year, and report provenance  
+- **Metadata**: Sector, country, year, report provenance, etc. 
 
 All reports were manually retrieved and OCR'd using `olmOCR`, then parsed into LangChain documents for LLM ingestion.
 
@@ -45,24 +33,15 @@ All reports were manually retrieved and OCR'd using `olmOCR`, then parsed into L
 
 ### 1. Text Extraction (olmOCR)
 
-```bash
-python src/preprocess_climate_reports.py
-```
 ### 2. Recursive Chunking & Embedding
 
 Documents are chunked at ~2,200 tokens with overlap, embedded via MiniLM, and stored for retrieval.
 
 ### 3. RAG Prompting & Inference
-
-```bash
-python run_rag.py
-```
 Prompts embed the full CCRM rubric to improve grounding and reduce hallucination.
 
 ### 4. Evaluation
-```bash
-python eval/evaluate_model.py
-```
+
 Accuracy and numeric MAE are computed by comparing model outputs to expert labels.
 
 ## 📌 Lessons & Limitations
