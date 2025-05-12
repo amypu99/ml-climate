@@ -2,8 +2,6 @@
 
 This project presents an end-to-end NLP pipeline to assess corporate climate claims at scale using large language models (LLMs) and retrieval-augmented generation (RAG). Inspired by expert-led evaluations like the **Corporate Climate Responsibility Monitor (CCRM)** and **Transition Pathways (TP)**, we design a scalable system that extracts structured climate disclosures from unstructured PDF reports—automatically scoring firms across transparency and integrity dimensions.
 
-📝 [Read the full paper](./Climate_Final_Paper.pdf)
-
 ---
 
 ## ✨ Highlights
