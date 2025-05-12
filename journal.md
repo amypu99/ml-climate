@@ -80,7 +80,7 @@ A new jsonl file containing all TP questions was created to enable batch executi
 2. Qwen and Mistral on all CCRM companies for CCRM questions
 3. olmOCR-based conversion of CCRM company reports into chunked JSONL for input.
 
-### Week of 04/21
+## Week of 04/21
 To address the limited number of labeled examples (~100 companies), label interpolation was implemented for additional TP-only companies. This involved identifying companies present only in the TP dataset (excluding CCRM) and using feature-based similarity to interpolate CCRM-style labels (e.g., transparency/integrity scores). Encoding categorical fields and applying label transfer logic took ~2 hours of implementation. Fortune 500 tech companies from the TP dataset were prioritized for interpolation, followed by additional random TP companies to reach a target of 300 labeled rows.
 
 All interpolated companies had their sustainability reports located and processed via OCR, which took **several hours** to complete. These documents were then used to run ClimateGPT on both CCRM and TP question sets, yielding model outputs for all interpolated entries.
@@ -89,7 +89,7 @@ Issues in CSV formatting caused by LLM answers containing commas were also resol
 
 Model evaluation was then performed by comparing generated responses with interpolated and ground-truth labels. Model performance varied slightly across question types and document length. Prompt tuning (e.g., explicitly setting single-token constraints) and temperature adjustments were also explored to reduce gibberish outputs. All results were compiled into a final merged dataset, and a visual breakdown was prepared for presentation in class on Monday.
 
-### Weeks of 04/28 and 05/05
+## Weeks of 04/28 and 05/05
 
 Over the past two weeks, we focused on finalizing our evaluation pipeline, consolidating our codebase, and preparing our deliverables for submission.
 
